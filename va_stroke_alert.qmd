@@ -1,0 +1,44 @@
+---
+title: "VA Stroke Alert"
+---
+
+VA STROKE ALERTS with concern for large vessel occlusion
+Evaluate patient emergently and obtain noncontrast head CT as you would normally. Do not give contrast (i.e.
+CTA) at VA if concern for large vessel occlusion, as availability at the VA will introduce a time delay. You can
+give tPA at the VA after discussion with attending if indicated.
+If concern for large vessel stroke that may be amenable to endovascular intervention, bring this to the attention of
+VA attending immediately. If the VA attending agrees to transfer to UF, he/she must call the Shands transfer
+center (352-265-0559) to speak with the on-call stroke attending - do NOT bypass this step by calling the
+stroke attending directly. Once the patient has been accepted for transfer, follow the steps below.* If patient is
+within tPA window do not delay tPA administration, you can give bolus and start infusion while setting up the
+transfer.** Make sure nurse continues to monitor blood pressure with tPA infusion.
+To transfer to UF:
+Regular Hours (8-4:30p, M-F)
+1. Call VA transfer coordinator (Teresa Taylor @ 352-264-3848 or 352-339-9126 or Sharonda Taylor-
+Martin @ 386-487-1750 ext 1788) and inform them of need for emergent transfer
+2. Place a Non-VA Care (NVCC) Consult (CPRSConsults (order menu)Non VA Care
+3. Complete BENEFICIARY TRAVEL (BT) note template (Notes section of CPRS). After completing
+the template, an order menu will open, select “GNV Travel IP” option and complete the travel consult
+order.
+4. Obtain consent using iMed Consent.
+5. Enter discharge order (In the Discharge Order dialogue box, next to “Discharge Patient” type in
+“Hospital to Hospital Transfer to Shands pending bed availability.”
+6. Write a consult note/DC summary
+Afterhours/ weekends/holidays
+AOD will act as the VA Transfer Coordinator and may be reached at 78-6724 or 78-6004, but otherwise the
+process will be the same as during regular hours.
+*Make resident on service and/or vascular fellow at UF aware of transfer as well.
+**Stay with patient until ambulance arrives to transfer to UF.
+Lake City VA telephone requests
+Treatment recommendations can only be given for patients whom you have personally evaluated. If you receive a
+request for telephone consultation from the Lake City VA, the following are the only two available options:
+ If the description sounds like a potential acute stroke within a therapeutic treatment window, you
+should advise the physician to contact the VA National Tele-Stroke program from their location or
+immediately transfer the patient to the nearest Comprehensive Stroke Center of their choice.
+ If the physician calling you describes ANYTHING else, please state the following verbatim: “As a
+resident in training, I am not permitted by my Service Chief and Program Directors to provide
+consultation over the telephone. If your patient needs urgent Neurological Consultation, I will be
+happy to evaluate the patient if he or she is transferred to this hospital or ED. If your patient does not
+need urgent Neurological Consultation, please submit a Consult or E-Consult request to LKC or GNV
+Neurology.”
+

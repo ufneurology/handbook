@@ -1,0 +1,56 @@
+---
+title: "Stroke Admission Orders"
+---
+
+Possible complications of IV tPA: intracranial hemorrhage and angioedema
+Angioedema: Immediately assess for airway compromise, give 0.5 ml IM Epinephrine and 25 mg IV Benadryl
+Intracranial hemorrhage: If the patient’s clinical status deteriorates after administration of IV tPA, suspect
+an intracranial bleed. CALL THE ATTENDING OR FELLOW IMMEDIATELY.
+After administration of IV t-PA, monitor the patient for the following symptoms:
+ Worsening level of consciousness (by GCS) or new/worsening neurological symptoms
+ Nausea, vomiting, and/or sudden, severe headache
+ Elevated blood pressure and/or bradycardia (the Cushing response, signs of increased ICP)
+ Seizure
+If intracranial hemorrhage is suspected:
+ Obtain CT head stat
+ Do not leave the patient’s bedside until he/she is stable
+If CT head shows an intracranial hemorrhage - DISCUSS IMMEDIATELY WITH STROKE ATTENDING:
+ Obtain type & screen
+ Tighten BP control, goal SBP 100-140, consider nicardipine infusion
+ Check STAT fibrinogen and platelets
+ If fibrinogen is <200 mg/dl, give 0.1 u/kg cryoprecipitate
+ Consider urgent Neurosurgery consult
+ If bleeding is refractory and/or life-threatening, consider aminocaproic acid 1 g/10 kg IV
+Stroke Admission Orders and Workup: *exceptions to guidelines if tPA given
+ For routine stroke admissions, use order set “NEU STROKE PROGRAM ISCHEMIC STROKE
+ADMISSION” *Post-tPA or mechanical thrombectomy patients use order set “NEU STROKE
+PROGRAM ORDERS – POST ALTEPLASE (T-PA) ADMISSION ORDERS IP UF”
+ Bedside dysphagia screen performed by nursing, must be documented in chart. If the patient fails,
+he/she MUST have formal swallow evaluation.
+ Patient who fail dysphagia screen must be strict NPO (this includes oral medications!) until they
+are cleared by speech/swallow
+ Make sure any medication orders accurately reflect the patient’s po status (eg oral or DHT route)
+ ASA 325 mg PO if swallowing, 300 mg PR if not (*unless on anticoagulation or tPA in last 24 hours)
+ Statin
+ NS @ 100 cc/hr (careful with patients with CHF or on HD). Avoid hypotonic fluids.
+ acetaminophen 650 mg q4h prn temp >100.4
+ sliding scale insulin and fingersticks q6h
+ neurochecks q4h on floor (q2h in IMC, q1h in NICU)
+ UA/UDS
+ CXR
+ EKG in ED, telemetry/monitoring after admission
+ SCD (all) plus Heparin SQ 5,000 units q8h (*unless tPA in last 24 hours)
+ Permissive hypertension (SBP<220, DBP<110), hold home BP meds (except ½ dose β-blocker)
+o Exception: BP goal will be lower following IV tPA (<180/105) or mechanical
+thrombectomy (goal depends on procedure result, discuss with fellow/attending)
+ Labs: lipid panel, HgbA1c, RPR, liver function tests, troponin, TSH, folate/B12
+ If concerned for endocarditis, send serial blood cultures
+ Transthoracic echocardiogram (+/- bubble study if <60 years old)
+ MRI brain
+ MRA head and neck vs. carotid ultrasound/transcranial dopplers if patient has not had CTA head/neck
+**Certain patients (e.g., younger patients) may require TEE, hypercoagulable or vasculitis workup. Discuss
+with attending before ordering.
+Hypercoagulable panel: Antiphospholipid panel (anticardiolipin, DRVVT, beta-2 microglobulin, prothrombin gene
+mutation, Factor V Leiden mutation, Protein C activity, Protein S activity, antithrombin III activity, HIT antibody
+(in appropriate clinical setting).
+

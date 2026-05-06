@@ -1,0 +1,61 @@
+---
+title: "TBI"
+---
+
+Traumatic Brain Injury
+All patients with:
+1. Risk of intracranial hypertension (ICP = 22 mmHg) or
+2. GCS = 9 and abnormal CT scan or
+3. GCS = 9 with normal CT scan and 2 of the following
+a. Systolic blood pressure < 90 mmHg
+b. Age > 40
+c. Decorticate or Decerebrate posturing
+Must have the following on admission to the ICU:
+1. ICP monitor to be placed within 6 hours
+a. EVD or intraparenchymal
+2. Cerebral Oximetry Monitor to be placed within 6 hours
+a. Parenchymal
+3. Invasive arterial monitoring
+4. CO monitoring
+a. Bedside TTE/hTTE or Flotrack
+5. Central venous line and CVP monitoring
+6. Bladder temperature
+7. ETCO2 Monitor
+8. 24 hour EEG within 24 hours of admission
+9. Keppra IV infusion
+a. 500 mg bid x 1 week
+Goals of Management:
+1. Maintain CPP = 60 (CPP = MAP – ICP)
+2. Core Temperature = 37.5 degrees Celsius
+3. ICP = 22 mmHg
+4. PbtO2 (cerebral oxygen) = 20 mmHg
+5. Target PaCO2 of 35-40 mmHg
+6. Sodium goal of 145-150 mmol/L
+7. Maintain SpO2 > 90% and PaO2 > 80 mmHg
+8. Hemoglobin > 7 g/dL
+9. Blood sugar per ICU protocol 100-180mg/dL
+10. Ensure adequate sedation to maintain ICP
+goals
+11. Management of elevated ICP and decreased
+PbtO2 using UF severe TBI protocol
+Paroxysmal Sympathetic Hyperactivity (PSH)
+PSH is a disorder in the regulation of autonomic function
+with acute brain injury, most notably severe TBI
+ Recurrent episodes of excessive sympathetic
+activity that start rapidly, are often induced by
+stimulation, and resolve spontaneously after a
+variable period of time or after administration
+of an abortive medication
+ Core clinical features include tachycardia,
+hypertension, tachypnea, hyperthermia,
+sweating, and/or increased muscle tone with
+possible dystonic posturing
+ Associated conditions —brain trauma,
+nontraumatic forms of acute brain disease,
+including anoxic-ischemic coma after cardiac
+arrest, intracranial hemorrhage, autoimmune
+encephalitis, ischemic stroke, hydrocephalus,
+and cerebral fat embolism syndrome
+
+
+![](images/tbi_page23.png)

@@ -1,0 +1,28 @@
+---
+title: "Fluids"
+---
+
+Fluids
+Physiologic Properties of Resuscitation Fluids
+Na K Ca Mg Cl Acetate Lactate Gluconate Bicarb Osmolarity
+mEq/L mEq/L mEq/L mEq/L mEq/L mEq/L mEq/L mEq/L mEq/L mOsm/L
+mg/dL mg/dL
+mmol/L mmol/L
+Plasma 2.2-2.6 0.8-1.0
+135-
+3.5-5 4.4-5.2 1.0-1.2 94-111 - 1.2 - - 275-295
+1.1-1.3 0.4-0.5
+Na Cl
+154 - - - 154 - - - - 308
+LR 2.7
+130 4 5.4 - 109 - 28 - - 273
+1.4
+Plasma- 3.0
+Lyte 140 5 - 3.7 98 27 - 23 - 294
+1.5
+0.45%
+Na Cl +
+141 - - - 72 - - - 70 283
+Na
+Bicarb
+

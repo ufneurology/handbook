@@ -1,0 +1,92 @@
+---
+title: "Antiseizure Medications"
+---
+
+ANTIEPILEPTIC DRUGS
+INITIAL AED CHOICE
+Partial (with or without generalization) (cid:31) Carbamazepine, Phenytoin, most new agents
+Primary Generalized (cid:31) Valproate, Lamotrigine, Topiramate
+(Phenytoin and Carbamazepine can worsen)
+Absence (cid:31) Ethosuximide, Valproate, Lamotrigine, Topiramate
+AED DOSING
+COMMONLY Seizure Initial dose and escalation, Therapeutic Total daily dose Dose
+USED AEDS Type adults Level Ranges range, adults schedule
+(children)
+Carbamazepine Partial onset 100mg BID, 8-12 600-2400mg BID-QID
+(Tegretol, Tegretol ↑ 100mg BID (15-35mg/kg) (BID XR
+XR, Carbatrol) q3-5d &
+Carbatrol)
+Felbamate Broad spect 300mg TID, 60-180 2400-4800mg BID-TID
+(Felbatol) limited ↑ 300mg TID q7d (100-125mg/kg)
+Gabapentin Partial onset 300mg QD, 12-25 900-6000mg TID-QID
+(Neurontin) ↑ 300mg QD to 300mg TID, (20-60mg/kg)
+then 300mg TID q7d
+Lamotrigine Broad spect 25mg QD, 10-20 100-500mg BID
+(Lamictal) ↑ 25-50mg q2wks (1-5mg/kg)
+Lamotrigine + Broad spect 50mg QD, 300-800mg BID
+EI-AED ↑ 50mg q2wks (5-15mg/kg)
+Lamotrigine + Broad spect 25mg QOD, 100-300mg QD-BID
+VPA ↑ 25mg q2wks (0.5-2mg/kg)
+Levetiracetam Broad 250mg BID, 20-40 1000-4000mg BID
+(Keppra) spectrum ↑ 250-500mg BID qwk (30-100mg/kg)
+Oxcarbazepine Partial onset 150mg BID, 12-35 900-2400mg BID-TID
+(Trileptal) ↑ 150-300mg BID qwk (20-50mg/kg)
+Phenobarbital Partial onset 30-60mg QD, 20-40 60-240mg QD-BID
+(Luminal) ↑ 30-60mg q1-2wk (4-8mg/kg)
+Phenytoin Partial onset 200-300mg QD 10-20 total 200-500mg QD-BID
+(Dilantin) (Oral load (1.0-2.0 free) (4-8mg/kg)
+6-7mg/kg
+q8h x 3 doses)
+Pregabalin Partial onset 50-100mg BID 150-600mg BID-TID
+(Lyrica) ↑ 50-100mg BID qwk
+Tiagabine 4mg QD, 32-56mg BID-TID
+(Gabitril) ↑ 4-8mg (cid:31) BID-TID qwk (0.1-0.4mg/kg)
+Topiramate Broad spect 25-50mg QD, 8-25 100-600mg BID
+(Topamax) ↑ 25mg BID (5-15mg/kg)
+q1-2wk
+Valproate Broad spect 125-250mg BID, 60-120 1000-4000mg BID-TID
+(Depakote,) ↑ 125-250mg BID qwk (15-60mg/kg) (QD - ER)
+Rufinamide Broad spec 200 to 400 mg BID, ↑400 to 1600-3200mg BID
+(Banzel) (LGS) 800mg/day q2 days
+Lacosamide Partial 50mg BID, ↑by 100mg per 200-400mg BID
+(Vimpat) Onset day qweek
+Zonisamide Broad spect 100-200mg QD, 20-30 200-600mg QD-BID
+(Zonegran) ↑ 100-200mg QD (8-12mg/kg)
+Qwk
+Perampanel Partial 2-4mg QHS, 2mg-12mg QD
+(Fycompa) Onset ↑ 2mg QD
+Q 2wks
+
+
+Clobazam (Onfi) Broad Spect 5mg QD x 2 wks, then BID 5mg QD – 40mg BID
+(LGS, esp) ↑ 5mg QD
+Qwk
+Eslicarbazepine Partial onset 400mg daily x 1 week; may 400mg-1200mg QD
+(Aptiom) ↑ 400mg daily Qwk
+AED SIDE EFFECTS AND INTERACTIONS
+Medication Side Effects Interaction
+Carbamazepine Diplopia, blurred vision, lethargy, PHT, PB, VPA – decrease levels
+(CBZ) liver failure, SIADH, aplastic Diltiazem, verapamil, cephalosporins,
+anemia antifungals – increase levels
+Gabapentin Lethargy, ataxia, weight gain None
+(GPN)
+Levetiracetam Lethargy, dizziness, depression, None
+(LEV) psychosis
+Lamotrigine Insomnia, rash (severe) PHT, PB, OCPs – decrease levels
+(LMG or LTG) VPA – increase levels
+Oxcarbazepine Hyponatremia, nausea, rash CBZ, PB, PHT, VPA, verapamil – decrease
+(OXC) levels
+Phenobarbital Lethargy, sedation, depression VPA
+(PB)
+Phenytoin Nausea/vomiting, dizziness, CBZ, PB – decrease levels
+(PHT or DPH) sedation, ataxia, gingival VPA – increase levels
+hyperplasia, liver failure, Decrease OCP effectiveness
+osteoporosis
+Topiramate Cognitive impairment, dizziness, PHT, CBZ, VPA – decrease levels
+(TOP or TPM) metabolic acidosis, kidney stones, Decrease OCP effectiveness
+hypohidrosis
+Valproic Acid Weight gain, hepatotoxicity, PHT, PB, TOP, CBZ – decrease levels
+(VPA) hyperammonemia, tremor, rash Elavil – increase levels
+Zonisamide Sedation, rash, kidney stones, PHT, CBZ, PB – decrease levels
+(ZNS) hypohidrosis
+

@@ -1,0 +1,24 @@
+---
+title: "Dementia and Aphasia"
+---
+
+DDx of Dementia with myoclonus:
+- Hasmimoto’s encephalitis (young, ataxia, elevated antithyperoxidase and antithyroglobulin antibodies-rx =
+steroids)
+- Rapidly-progressive AD, DLB (parkinsonism, visual hallucinations), FTD
+- Paraneoplastic syndromes , vgkc (LGI1, CSPR2)
+- Bismuth, Lithium, Intoxication
+- Familial, Sporadic, Iatrogenic or New Variant CJD
+- OTHERS: postviral encephalitis, SSPE
+APHASIAS
+Fluency Comprehension Repetition Territory
+Global NO NO NO Large Dominant Hemisphere
+Broca’s NO Yes NO Inf. Frontal Gyrus
+Transcortical Motor NO Yes Yes Mesial Frontal, SMA, ACA
+Transcortical Mixed NO NO Yes Both transcortical Areas
+Wernicke’s Yes NO NO Posterior Sup. Temporal Gyrus
+Transcortical Sensory Yes NO Yes Temporal-parietal Junction
+Conduction Yes Yes NO Arcuate Fasciculus
+
+
+![](images/dementia_and_aphasia_page53.png)

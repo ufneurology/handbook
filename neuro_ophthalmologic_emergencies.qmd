@@ -1,0 +1,51 @@
+---
+title: "Neuro-ophthalmologic Emergencies"
+---
+
+NEURO-OPHTHALMOLOGIC EMERGENCIES
+Acute Third Nerve Palsy
+ Start with a HCT to rule out subarachnoid blood or herniation.
+ Complete or partial ophthalmoparesis with pupil involvement requires some type of angiography to evaluate
+for a compressive aneurysm – start with CTA or MRA but then may still need conventional angiogram. You
+may also want to get MRI instead of/ in addition to CT scan depending on luxuries of time and resource.
+ Complete opthalmoparesis with spared pupil in patients over 50 with vascular risk factors is likely ischemic
+palsy, consider getting an MRI scan and then observing. Usually improve within 2-3 months.
+ Partial opthalmoparesis with spared pupil could be caused by an aneurysm, angiography is needed.
+ If in doubt with an acute 3rd nerve palsy, image and obtain angiography.
+Pituitary Apoplexy
+Symptoms: Classic syndrome: HA, sudden visual loss (both visual field and acuity), and ophthalmoplegia). May be
+accompanied by meningeal signs, hypopituitarism, unstable BP, encephalopathy, facial pain/numbness.
+Differential: Pituitary tumor infarction or hemorrhage and post-partum hemorrhage/Sheehan syndome.
+Management: CT scan may miss so MRI (pituitary-protocol) is needed. LP may demonstrate subarachnoid blood
+and aseptic meningitis. If MRI isn’t conclusive and there is SAH, you may have to get angiographic study to rule
+out aneurysm. Immediate therapy includes. steroids/hydrocortisone to prevent shock from acute hypopituitarism.
+Electrolyte abnormalities may be prominent and need to be addressed acutely.
+Giant Cell Arteritis
+Symptoms : HA, tenderness of scalp, temple or face of affected side(s), jaw claudication and current or past history
+of polymyalgia rheumatic, acute vision loss - anterior ischemic optic neuropathy (AION), can also have central
+retinal artery occlusion, posterior circulation infarction. Usually female (ratio 3:1) and over 60-70 (almost unheard
+of <50 yrs), may have premonitory symptoms of transient monocular blindness, bright light amaurosis, transient
+binocular diplopia and formed visual hallucinations.
+Exam: Look for scalp tenderness, visual acuity loss, chalky white disc edema, and cotton wool spots. If evidence
+of both central retinal artery occlusion and AION, you have likely sealed the diagnosis. Can have motility defects
+from ischemia of the extra-ocular muscles, nerves or a brainstem infarct
+Management – Check ESR - most will be above 40 mm/hr in giant cell arteritis. Consult vascular/ophtho for
+biopsy. Immediately treat with steroids - IV Solumedrol 1 g daily x 3-5 days then 1mg/kg per day PO prednisone.
+***Do not wait for biopsy to start treatment!
+Ocular Cranial Nerve Palsies: General rules for localization:
+ Diplopia resolves upon covering one eye: if it doesn't the problem is likely ocular or refractive.
+ On cover- uncover testing, an eye that is deviated out (exotropic) will move in when uncovered to
+pick up the fixation target (usually a finger or your nose)  Think INO, IIIrd n. palsy or exotropia
+related to medication effect.
+If the eyes move out with uncover (esotropia)  think of a sixth nerve palsy or abduction deficit.
+ Mimics of extraocular nerve palsies: thyroid eye disease, myasthenia gravis, internuclear
+ophthalmoplegia, decompensated phoria, orbital wall fractures, Wernicke's syndrome, skew deviation,
+botulism, orbital tumors, Miller Fisher variant of Guillian-Barre Syndrome, mitochondrial d/o (CPEO:
+chronic progressive external ophthalmoplegia, Kearns-Sayre Syndrome), vitamin E deficiency
+Afferent visual complaints:
+1. History: monocular vs. binocular, pain, timing
+2. Exam: acuity (best corrected with glasses and pinhole), color (especially red), visual fields (including blind
+spot), fundus, pupils (is there an APD)
+3. Special tests: visual fields (Humphrey, Goldmann), OCT (quantifies retinal nerve fiber layer thickness), orbital
+ultrasound and the rest of the neurology favorites (MRI, LP etc.)
+

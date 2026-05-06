@@ -4,17 +4,111 @@ project:
 
 website:
   title: "UF Neurology Handbook"
+  search: true
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+
+      - text: General Neurology
+        menu:
+          - neurologic_examination.qmd
+          - mental_status_exam.qmd
+          - dementia_and_aphasia.qmd
+          - encephalopathy.qmd
+          - altered_mental_status_workup.qmd
+          - delirium_management.qmd
+          - dermatomes.qmd
+          - lower_extremity_strength_testing.qmd
+          - upper_extremity_strength_testing.qmd
+
+      - text: Vascular / Stroke
+        menu:
+          - vascular_neurology.qmd
+          - stroke_alert.qmd
+          - va_stroke_alert.qmd
+          - stroke_admission_orders.qmd
+          - intracerebral_hemorrhage.qmd
+          - subarachnoid_hemorrhage.qmd
+          - anticoagulation_reversal.qmd
+          - tia_risk_stratification_and_stroke_mechanisms.qmd
+          - modified_rankin_scale.qmd
+          - nihss_and_tools.qmd
+
+      - text: Emergencies
+        menu:
+          - seizure_consult.qmd
+          - convulsive_status_epilepticus.qmd
+          - nonconvulsive_status_epilepticus.qmd
+          - lumbar_puncture.qmd
+          - cardiac_arrest.qmd
+          - brain_death.qmd
+          - tbi.qmd
+          - cervical_spine_clearance.qmd
+          - movement_disorder_emergencies.qmd
+          - neuro_ophthalmologic_emergencies.qmd
+          - neuro_oncology_complications_and_emergencies.qmd
+
+      - text: Neurocritical Care
+        menu:
+          - neurocritical_care.qmd
+          - icp_and_herniation_management.qmd
+          - mechanical_ventilation.qmd
+          - sodium_management.qmd
+          - fluids.qmd
+          - blood_pressure_pharmacology.qmd
+          - common_critical_care_pharmacology.qmd
+          - drug_pharmacokinetics_affecting_neuro_exam.qmd
+          - management_of_psh.qmd
+
+      - text: Epilepsy
+        menu:
+          - epilepsy.qmd
+          - antiseizure_medications.qmd
+
+      - text: Headache
+        menu:
+          - headache.qmd
+          - acute_headache_management.qmd
+          - dhe_protocol.qmd
+          - headache_in_pregnancy.qmd
+          - idiopathic_intracranial_hypertension.qmd
+
+      - text: Neuromuscular
+        menu:
+          - neuromuscular.qmd
+          - myasthenia_gravis.qmd
+          - guillain_barre_syndrome_aidp.qmd
+
+      - text: Neuroimmunology
+        menu:
+          - neuroimmunology.qmd
+          - multiple_sclerosis.qmd
+          - optic_neuritis_and_transverse_myelitis.qmd
+
+      - text: Neurotology
+        menu:
+          - neurotology.qmd
+          - dizziness_evaluation.qmd
+          - etiologies_of_dizziness.qmd
+
+      - text: Movement
+        menu:
+          - acute_manifestations_of_parkinson_disease.qmd
+          - neuroleptic_malignant_syndrome,_serotonin_syndrome,_and_acute_dystonia.qmd
+
+      - text: Infectious / Other
+        menu:
+          - neuroinfectious_disease.qmd
+
+      - href: about.qmd
+        text: About
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-editor: visual
-
+    toc-depth: 3
+    page-layout: full

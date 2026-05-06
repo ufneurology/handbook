@@ -1,0 +1,53 @@
+---
+title: "Intracerebral Hemorrhage"
+---
+
+INTRACRANIAL HEMORRHAGE
+Intraparenchymal hemorrhage
+ Hypertension most common etiology – subcortical/brainstem
+ Cerebral amyloid angiopathy (cortical)
+ Arteriovenous malformation
+ Neoplasm (primary central nervous system, metastatic, leukemia)
+ Hematologic (sickle-cell disease, neoplasm, thrombocytopenia)
+Moyamoya disease
+ Drug use (warfarin, DOACs, amphetamines, cocaine, phenypropanolamine)
+ Iatrogenic (peri-procedural)
+Subarachnoid hemorrhage
+ Basilar cisterns: cerebral aneurysm until proven otherwise, differential includes trauma, other vascular
+malformations
+ Isolated high convexity: trauma, cerebral amyloid angiopathy, RCVS
+ICH Volume estimation = (A x B x C)/2
+A = Diameter, B = Diameter perpendicular to A
+C = Number of slices on CT multiplied by slice thickness in cm
+ICH scores and 30-day mortality
+0 points: 0%
+1 point: 13%
+2 points: 26%
+3 points: 72%
+4 points: 97%
+5 points: 100%
+6 points: 100%
+Control BP: Goal SBP 100-140
+ Use labetalol 10-20 mg IVP q1h PRN or nicardipine drip (start a 5 mg/h and titrate up as needed). If
+a nicardipine drip is started, ask ED resident/attending to place arterial line. A PIV can only be used
+for 24h.
+ The emergency room is busy. Do not rely on the nurse or ED resident to monitor the blood
+pressure. The neurology resident must alert the staff if SBP>140.
+Additional guidelines and workup:
+ ABCs, intubation if GCS<8
+ HOB > 30°
+ Reverse anticoagulation, if applicable (reversal protocol chart). Hold antithrombotics.
+ Discuss admission disposition with attending/fellow.
+o Neurology generally admits intraparenchymal hemorrhage unless neurosurgery is
+planned.
+o Subarachnoid hemorrhages go to neurosurgery unless clearly non-aneurysmal.
+ Admit to NICU using “STROKE PROGRAM: ICH ADMISSION ORDERS IP UF” order set
+ On admission, place SCD for DVT prophylaxis. Re-start heparin/LMWH after 24h or stable repeat
+imaging.
+ MRI brain (+/- contrast) unless obvious hypertensive etiology
+ CTA head vs. MRA head vs. conventional angiogram (unless hypertensive) – discuss with
+attending/fellow
+ Consider UDS, also blood cultures/TEE if concern for endocarditis
+
+
+![](images/intracerebral_hemorrhage_page11.png)

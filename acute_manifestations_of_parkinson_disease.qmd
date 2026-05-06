@@ -1,0 +1,37 @@
+---
+title: "Acute Manifestations of Parkinson Disease"
+---
+
+MOVEMENT DISORDER EMERGENCIES
+ACUTE PSYCHOSIS IN PARKINSON’S DISEASE
+Diagnosis
+1. Exclude secondary causes including infection (UTI, PNA,etc), metabolic derangements, medications.
+Treatment
+1. Treat secondary cause if one exists.
+2. Gradually reduce exacerbating PD medications (amantadine > dopamine agonists > COMT/MAOI > levodopa)
+3. Cautious symptomatic treatment of psychosis with the least D2 blocking agents [quetiapine > clozapine].
+PARKINSONISM-HYPERPYREXIA SYNDROME
+Signs and symptoms
+1. Indistinguishable from Neuroleptic Malignant Syndrome and often due to abrupt w/d of dopaminergic agents.
+Diagnosis
+1. Exclude other etiologies: infection, metabolic derangements, medications (esp. dopamine blockers).
+Treatment
+1. Restart dopaminergic agents.
+2. If no PO access, establish PO access with temporary gastric tube (Nasogastric, Duotube).
+a. OK to crush Sinemet IR. May need to temporarily replace Sinemet CR with IR.
+(dose of IR is approx. ½ of CR dose)
+3. If unable to use gut, may temporarily use apomorphine SC if available and only if necessary.
+a. Starting dose 2mg SC, max 5 doses per day. pretreatment with trimethobenzamide to avoid nausea.
+INPATIENT OR PERIOPERATIVE TREATMENT OF PARKINSONS DISEASE
+Treatment
+1. Restart dopaminergic agents.
+2. If no PO access, establish PO access with temporary gastric tube (Nasogastric, Duotube).
+a. OK to crush Sinemet IR. May need to temporarily replace Sinemet CR with IR.
+(dose of IR is approx. ½ of CR dose)
+3. If unable to use gut, may temporarily use apomorphine SC if available and only if necessary.
+a. Starting dose 2mg SC, max 5 doses per day. pretreatment with trimethobenzamide to avoid nausea.
+GENERAL RECOMMENDATIONS FOR TREATMENT OF MOVEMENTS DISORDERS
+Robottom et al. Arch Neurol. June 2011.
+
+
+![](images/acute_manifestations_of_parkinson_disease_page59.png)
