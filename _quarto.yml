@@ -5,8 +5,8 @@ project:
 website:
   title: "UF Neurology Handbook"
   search: true
-  repo-url: https://ufneurology.github.io/handbook/
-  repo-actions: [edit, issue]
+  repo-url: https://github.com/ufneurology/handbook
+  repo-actions: [edit, source, issue]
 
   navbar:
     left:
@@ -116,3 +116,5 @@ format:
     number-sections: true
     repo-url: https://github.com/ufneurology/handbook
     repo-actions: [edit, source, issue]
+    
+editor: visual
