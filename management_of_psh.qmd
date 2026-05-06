@@ -1,5 +1,4 @@
----
-title: "Management of PSH"
----
+# Management of PSH
 
-![](images/management_of_psh_page24.png)
+![](images/management_of_psh_24_img10.jpeg)
+

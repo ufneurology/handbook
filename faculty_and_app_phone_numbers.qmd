@@ -1,34 +1,110 @@
----
-title: "Faculty and APP Phone Numbers"
----
+# Faculty and APP Phone Numbers
 
 Faculty
-Ameli 407-489-7679 Orlova 732-979-1757
-Armstrong 443-613-2469 Patel 317-869-5656
-Bonnell 801-815-5000 Patterson 937-467-9119
-Bruzzone 708-790-5822 Peng 617-599-5602
-Buchowicz 475-227-9832 Pizzi 850-559-4402
-Burks 352-562-2450 Ramirez-Zamora 312-972-3475
-Burns 847-644-3561 Rawls 352-422-6361
-Busl 617-820-9858 Rempe 929-284-8052
-Carneiro 857-930-9914 Roach 352-222-7730
-Cibula 352-642-2645 Robinson 304-646-4613
-Da Silva 312-722-7582 Roth 847-322-2557
-Eisenschenk 352-262-9114 Ruffing 941-809-0658
-Fanty 281-460-5679 Shuhaiber 312-286-1059
-FitzGerald 352-283-2000 Shukla 501-213-6201
-Ford 239-877-6252 Singh 301-538-5096
-Hess 718-986-3297 Solomon 910-315-9595
-Jaffee 210-316-6753 Subramony 601-750-1605
-Kalamangalam 713-805-7148 Tholanikunnel 843-834-0751
-Khanna 732-742-5666 Triggs 352-262-8690
-Maciel 917-355-2504 Wang 203-843-8250
-Malaty 352-682-3718 Weisbrod 585-301-5236
-McFarland, N 352-327-1359 Wilson 215-820-5120
-Montalvo 401-316-0906 Wong 424-237-5446
-Nadeau 352-514-5611 Wymer 518-928-2065
-Okun 352-262-6314 Yehya 614-804-8054
+
+Ameli 407-489-7679
+
+Armstrong 443-613-2469
+
+Bonnell 801-815-5000
+
+Bruzzone 708-790-5822
+
+Buchowicz 475-227-9832
+
+Burks 352-562-2450
+
+Burns 847-644-3561
+
+Busl 617-820-9858
+
+Carneiro 857-930-9914
+
+Cibula 352-642-2645
+
+Da Silva 312-722-7582
+
+Eisenschenk 352-262-9114
+
+Fanty 281-460-5679
+
+FitzGerald 352-283-2000
+
+Ford 239-877-6252
+
+Hess 718-986-3297
+
+Jaffee 210-316-6753
+
+Kalamangalam 713-805-7148
+
+Khanna 732-742-5666
+
+Maciel 917-355-2504
+
+Malaty 352-682-3718
+
+McFarland, N 352-327-1359
+
+Montalvo 401-316-0906
+
+Nadeau 352-514-5611
+
+Okun 352-262-6314
+
+Orlova 732-979-1757
+
+Patel 317-869-5656
+
+Patterson 937-467-9119
+
+Peng 617-599-5602
+
+Pizzi 850-559-4402
+
+Ramirez-Zamora 312-972-3475
+
+Rawls 352-422-6361
+
+Rempe 929-284-8052
+
+Roach 352-222-7730
+
+Robinson 304-646-4613
+
+Roth 847-322-2557
+
+Ruffing 941-809-0658
+
+Shuhaiber 312-286-1059
+
+Shukla 501-213-6201
+
+Singh 301-538-5096
+
+Solomon 910-315-9595
+
+Subramony 601-750-1605
+
+Tholanikunnel 843-834-0751
+
+Triggs 352-262-8690
+
+Wang 203-843-8250
+
+Weisbrod 585-301-5236
+
+Wilson 215-820-5120
+
+Wong 424-237-5446
+
+Wymer 518-928-2065
+
+Yehya 614-804-8054
+
 Inpatient APPs
+
 Holder (Stroke) 352-494-6924 Ng (Stroke) 813-334-4190
+
 Kenworthy (Stroke) 352-682-9365 Purtlebaugh (Stroke) 352-339-1741
 

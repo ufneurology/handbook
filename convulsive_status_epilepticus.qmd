@@ -1,42 +1,40 @@
----
-title: "Convulsive Status Epilepticus"
----
+# Convulsive Status Epilepticus
 
-UF CONVULSIVE STATUS EPILEPTICUS PROTOCOL (ADULT)
+PROTOCOL (ADULT)
+
 Immediately
-• STAT 4mg IV Lorazepam IVP over 2 min., repeat dose if still seizing (total 0.1 mg/kg)
-• Monitor for hypotension and respiratory depression
-• Order STAT EEG
-• Call SWAT
+- STAT 4mg IV Lorazepam IVP over 2 min., repeat dose if still seizing (total 0.1 mg/kg)
+- Monitor for hypotension and respiratory depression
+- Order STAT EEG
+- Call SWAT
+
 5-30 min
-• FOS 20 mg PE/kg at rate of 150 mg PE/min (slow rate if hypotension occurs). Maximum dose = 2000
-mg
-• Free PHT level 2 hours after load (goal free level of 2-3)
-• If at goal, start maintenance fosphenytoin 6 PE mg/kg in three divided doses
-• If not at goal, redose using calculation: 0.8 x (weight in kg) x (desired - actual level) x10
-= mini-load in mg; can round to nearest 250 mg
-• Monitor for hypotension and cardiac arrythmias
-• Call NeuroCCM fellow phone (352 745 1912) for NICU bed
-• Convert STAT EEG to long term video EEG monitoring
-• Load with IV Keppra (60 mg/kg, max dose 4500 mg)
-• Call Epilepsy attending and Neurocritical Care attending for further management recommendations
-• If convulsive seizures continue, intubate and bolus with MDZ 0.2 mg/kg IVP
-• If still seizing, can repeat boluses of MDZ 0.2 mg/kg every 5 minutes (up to max dose of
-2 mg/kg).
-• Start continuous MDZ infusion at 0.1 mg/kg/hr and increase rate by 5-10 mg total every
-15 minutes as needed until convulsions stop (typical range 0.2-0.6 mg/kg/hr). Max dose
-is 2.9 mg/kg/hr. Titrate MDZ drip to electrographic seizure cessation on EEG.
-• Notify Epilepsy attending
-• After titrating MDZ drip, if still having convulsive seizures, load with depakote, phenobarbital (may
-also use other agents). Must be coordinated with Neurocritical Care, with further management to be
-determined on a case by case basis based on etiology, comorbidities and other potential risk of
-complications.
-*This protocol is ONLY for convulsive status epilepticus and does not include non-convulsive status or epilepsia
-partialis continua.
+
+- FOS 20 mg PE/kg at rate of 150 mg PE/min (slow rate if hypotension occurs). Maximum dose = 2000 mg
+- Free PHT level 2 hours after load (goal free level of 2-3)
+- If at goal, start maintenance fosphenytoin 6 PE mg/kg in three divided doses
+- If not at goal, redose using calculation: 0.8 x (weight in kg) x (desired
+- actual level) x10 = mini-load in mg; can round to nearest 250 mg
+
+- Monitor for hypotension and cardiac arrythmias
+- Call NeuroCCM fellow phone (352 745
+1912) for NICU bed
+- Convert STAT EEG to long term video EEG monitoring
+- Load with IV Keppra (60 mg/kg, max dose 4500 mg)
+- Call Epilepsy attending and Neurocritical Care attending for further management recommendations
+- If convulsive seizures continue, intubate and bolus with MDZ 0.2 mg/kg IVP
+- If still seizing, can repeat boluses of MDZ 0.2 mg/kg every 5 minutes (up to max dose of 2 mg/kg).
+- Start continuous MDZ infusion at 0.1 mg/kg/hr and increase rate by 5-10 mg total every 15 minutes as needed until convulsions stop (typical range 0.2-0.6 mg/kg/hr).  Max dose is 2.9 mg/kg/hr. Titrate MDZ drip to electrographic seizure cessation on EEG.
+- Notify Epilepsy attending
+- After titrating MDZ drip, if still having convulsive seizures, load with depakote, phenobarbital (may also use other agents). Must be coordinated with Neurocritical Care, with further management to be determined on a case by case basis based on etiology, comorbidities and other potential risk of complications.
+
+*This protocol is ONLY for convulsive status epilepticus and does not include non-convulsive status or epilepsia partialis continua.
+
 Important practice points:
- LZP = lorazepam
- MDZ = midazolam
- FOS = fosphenytoin
- This protocol is contingent on weight-based dosing, make sure ED weights patient upon arrival.
- Make sure that timing of doses, infusion rate, and actual doses are accurate prior to order.
+
+- LZP = lorazepam
+- MDZ = midazolam
+- FOS = fosphenytoin
+- This protocol is contingent on weight-based dosing, make sure ED weights patient upon arrival.
+- Make sure that timing of doses, infusion rate, and actual doses are accurate prior to order.
 

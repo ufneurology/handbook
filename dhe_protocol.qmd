@@ -1,53 +1,25 @@
----
-title: "DHE Protocol"
----
+# DHE Protocol
 
-Treatment of acute inpatient migraine
-1. Migraine cocktail
- IV fluids: 2-3 L NSS or 80-100 cc/hr while hospitalized
- NSAIDS: 30-60 mg IV toradol (caution with GI sx)
- DA antagonist: 10 mg metoclopramide or prochlorperazine ± 12.5 mg diphenhydramine to prevent akathisia
-2 If pain persists (this is generally when ED calls), consider
- Magnesium sulfate: 500 mg – 2g IV
- Sodium valproate: 500 mg – 1g IV (caution in patients on topiramate, can cause hyperammonemia)
- Methylprednisolone 200 mg – 1g IV (caution regarding avascular necrosis, diabetes, active infection)
- DHE: See below. MUST discuss with attending beforehand.
-IV DHE Protocol
-Dihydroergotamine (DHE) is a serotonin agonist with neurologic effects. It is also a venoconstrictor; those with
-difficult IV access may require PICC line. DHE can be used to treat refractory migraine or cluster headache.
-- Counsel patient that when DHE protocol is complete that unfortunately there are no other inpatient therapies
-and discharge will occur even if headache hasn’t improved.
-Contraindications: peripheral vascular disease, CAD, stroke, severe or poorly controlled HTN, liver or renal
-impairment, pregnancy
-Orders: Admit to Neurology/telemetry floor bed, baseline EKG, weight, BMP, CBC, Mag, Phos, Coags, LFTs, UA,
-Urine tox, serum tox, serum alcohol panel, pregnancy test
-Protocol:
-Cumulative Dose = 3mg daily x 5 days
-Adult: age >16 and weight >50kg
-Pediatric: (adult dose) x (patient weight in kg) x (0.014) mg
-8mg ondansetron, or 10mg metoclopramide, or 10mg prochlorperazine IV 30minutes prior to each DHE infusion
-Day 1: First Dose: 0.5mg in 1000mL normal saline over one hour
-Second Dose:
-- If well tolerated (including no nausea), 1 hour later give another 0.5mg in 250mL normal saline
-over one hour
+Dihydroergotamine (DHE) is a serotonin agonist with neurologic effects. It is also a venoconstrictor; those with difficult IV access may require PICC line. DHE can be used to treat refractory migraine or cluster headache.
+- Counsel patient that when DHE protocol is complete that unfortunately there are no other inpatient therapies and discharge will occur even if headache hasn’t improved. Contraindications: peripheral vascular disease, CAD, stroke, severe or poorly controlled HTN, liver or renal impairment, pregnancy Orders: Admit to Neurology/telemetry floor bed, baseline EKG, weight, BMP, CBC, Mag, Phos, Coags, LFTs, UA, Urine tox, serum tox, serum alcohol panel, pregnancy test Protocol: Cumulative Dose = 3mg daily x 5 days Adult: age >16 and weight >50kg Pediatric: (adult dose) x (patient weight in kg) x (0.014) mg 8mg ondansetron, or 10mg metoclopramide, or 10mg prochlorperazine IV 30minutes prior to each DHE infusion
+
+Day 1: First Dose: 0.5mg in 1000mL normal saline over one hour Second Dose:
+- If well tolerated (including no nausea), 1 hour later give another 0.5mg in 250mL normal saline over one hour
 - If nauseated reduce dose to 0.25mg and give 8 hours later (with combination antiemetic therapy)
 - If headache completely resolved continue with 0.5mg 8 hours later
 - If severe nausea, chest pain, or hypotension occur discontinue DHE therapy
-Day 2-5: Third and subsequent doses if initial 2 doses were well tolerated: 1mg in 250mL normal saline over 1
-hour every 8 hours for 10 doses
-- If headache has completely resolve treat for an additional 3 doses and then consider early
-discontinuation
-- If 0.25mg dose is required due to nausea, treat with combination antiemetic therapy 30 minutes
-prior to doses and test higher doses at 0.25mg increments
-Side effects: nausea, vomiting, leg cramps, limb pain/cramps, cool limbs, abdominal cramps, diarrhea, vasospasm,
-tachycardia or bradycardia, hypertension
+
+Day 2-5: Third and subsequent doses if initial 2 doses were well tolerated: 1mg in 250mL normal saline over 1 hour every 8 hours for 10 doses
+- If headache has completely resolve treat for an additional 3 doses and then consider early discontinuation
+- If 0.25mg dose is required due to nausea, treat with combination antiemetic therapy 30 minutes prior to doses and test higher doses at 0.25mg increments
+
+Side effects: nausea, vomiting, leg cramps, limb pain/cramps, cool limbs, abdominal cramps, diarrhea, vasospasm, tachycardia or bradycardia, hypertension
+
 Side effect management:
- slow rate of IV DHE infusion
- reduce DHE dose to highest tolerable
- increase dose of antiemetic, use combination antiemetic therapy
- naproxen or benzo for muscle cramps
-Silberstein SD, Schulman EA, Hopkins MM. Repetitive intravenous DHE in the treatment of refractory headaches.
-Headache 1990; 6:334-9
-Treatment of cluster headache: 100% O2 by face mask for 10 min, DHE protocol. Can also try lidocaine +
-steroid nerve block or Triptans. If prophylaxis is indicated, especially consider verapamil, lithium, and valproate.
+- slow rate of IV DHE infusion
+- reduce DHE dose to highest tolerable
+- increase dose of antiemetic, use combination antiemetic therapy
+- naproxen or benzo for muscle cramps Silberstein SD, Schulman EA, Hopkins MM. Repetitive intravenous DHE in the treatment of refractory headaches. Headache 1990; 6:334-9
+
+Treatment of cluster headache: 100% O2 by face mask for 10 min, DHE protocol.  Can also try lidocaine + steroid nerve block or Triptans.  If prophylaxis is indicated, especially consider verapamil, lithium, and valproate.
 

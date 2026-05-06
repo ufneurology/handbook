@@ -1,37 +1,28 @@
----
-title: "Mental Status Exam"
----
+# Mental Status Exam
 
-MENTAL STATUS EXAM
 1. General Observations
+
 Arousal Affect Communication
-2. Attention
-Count backwards:20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
-Digit span: 539 / 9703 / 59128 / 7681302 / 52081643
-Vigilance: GFALTRNAJRPOANAGKILOPAWERZMALAKWOPTHAKFLA
+2. Attention Count backwards:20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 Digit span: 539 / 9703 / 59128 / 7681302 / 52081643 Vigilance:    GFALTRNAJRPOANAGKILOPAWERZMALAKWOPTHAKFLA
 3. Orientation Time Place
 4. Speech/Language
-Speech: dysarthric/hypophonic/spastic/scanning
-Fluency: fluent/nonfluent//paraphasias//circumlocutions
-Repetition: “No ifs ands or buts” “Methodist Episcopal”
-Comprehension: one-step two-step grammatical
-Naming: high frequency low frequency
-Reading/Writing: irregular words non-words
+
+Speech: dysarthric/hypophonic/spastic/scanning Fluency: fluent/nonfluent//paraphasias//circumlocutions Repetition: “No ifs ands or buts”           “Methodist Episcopal” Comprehension: one-step             two-step               grammatical
+
+Naming: high frequency                 low frequency Reading/Writing: irregular words non-words
 5. Memory
-Short term: Ball/flag/tree repeat: remember:
-Long term: Presidents, historic events, current events
-6. Praxis orobuccal limb tool use
+
+Short term: Ball/flag/tree       repeat: remember: Long term: Presidents, historic events, current events
+6. Praxis          orobuccal               limb tool use
 7. Visualspatial/Perceptual
+
 Line bisection
-Extinction: visual auditory tactile
+
+Extinction:   visual auditory tactile
+
 Object recognition: Visually guided reaching
-8. Emotion
-Prosody: expression comprehension
-9. Executive/frontal function
-Verbal fluency: Category (animals): Letter (F):
-Oral trails:Al B2 C3 D4 E5 F6 G7 H8 19 JIO KII LI2 Ml3 NI4 015
-Go/no-go or contrasting programs
-Crossed motor inhibition
+8. Emotion Prosody: expression comprehension
+9. Executive/frontal function Verbal fluency:      Category (animals):                     Letter (F): Oral trails:Al B2 C3 D4 E5 F6 G7 H8 19 JIO KII LI2 Ml3 NI4 015 Go/no-go or contrasting programs Crossed motor inhibition
 
+![](images/mental_status_exam_5_img1.png)
 
-![](images/mental_status_exam_page5.png)

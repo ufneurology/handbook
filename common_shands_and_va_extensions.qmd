@@ -1,46 +1,137 @@
----
-title: "Common Shands and VA Extensions"
----
+# Common Shands and VA Extensions
 
 SHANDS
-Main 265-0111 MBI Office 273-5550
-Bed control 5-0233 MBI Fax 273-5575
-Case Manager, Dee 260-7022 MBI - Jennifer 273-5549
-Case Manager Wendy 792-5109
-SW 47 Olivette 494-5275 VA
-On call SW 413-5241 Main 376-1611
-NCC fellow 745-1912 VA wrkroom 5153,5154
-CCM charge RN 494-4023 Bed Control 6733
-NSG 413-4736 Bed Tower 548-6000
-EEG/EMG Lab 5th
-floor 5-0334 Clinic 4C 4412
-Coumadin
-EMU 5-0061 Clinic 7346
-ER 3-0815 CT 6404, 6585
-Unit 56 (Neuro) 3-0550 Cytology 6439
-Unit 57 (Nsurg) 3-0551 Echo 4011
-MICU 5-5114 ER 6744, 6745
-ADTU 5-0930 EEG Lab 6552
-Unit 46 3-0540 Fee Basis 352-244-5741
-Unit 47 (NICU) 3-0541 GEM 6839
-Neuro Rad 3-0509 Lab 6417, 6419
-Neuro Rad afterhours 4-4052 Lab Send Outs 6437
-Angio (OR) 3-0522 MDSU 5136
-Medicine AOD 2-8908 Speech Path 5607
-Core Lab 5-0412 Telemetry 5035
-Send Out 40481/82 Neuro Case pg VA 1424
-Neuro PT 413-2389 manager
+
+Main 265-0111
+
+MBI Office 273-5550
+
+Bed control 5-0233
+
+MBI Fax 273-5575 Case Manager, Dee 260-7022
+
+MBI
+- Jennifer 273-5549 Case Manager  Wendy 792-5109
+
+SW 47 Olivette 494-5275
+
+VA
+
+On call SW 413-5241
+
+Main 376-1611
+
+NCC fellow 745-1912
+
+VA wrkroom 5153,5154
+
+CCM charge RN 494-4023
+
+Bed Control 6733
+
+NSG 413-4736
+
+Bed Tower 548-6000 EEG/EMG Lab 5th floor 5-0334
+
+Clinic 4C 4412
+
+EMU 5-0061
+
+Coumadin Clinic 7346
+
+ER 3-0815
+
+CT 6404, 6585
+
+Unit 56 (Neuro) 3-0550
+
+Cytology 6439
+
+Unit 57 (Nsurg) 3-0551
+
+Echo 4011
+
+MICU 5-5114
+
+ER 6744, 6745
+
+ADTU 5-0930
+
+EEG Lab 6552
+
+Unit 46 3-0540
+
+Fee Basis 352-244-5741
+
+Unit 47 (NICU) 3-0541
+
+GEM 6839
+
+Neuro Rad 3-0509
+
+Lab 6417, 6419
+
+Neuro Rad afterhours 4-4052
+
+Lab Send Outs 6437
+
+Angio (OR) 3-0522
+
+MDSU 5136
+
+Medicine AOD 2-8908
+
+Speech Path          5607
+
+Core Lab 5-0412
+
+Telemetry 5035
+
+Send Out 40481/82
+
+Neuro Case pg VA 1424
+
+Neuro PT 413-2389
+
+manager
+
 ECHO 5-0047 OT 5607
+
 Transfer center 5-0559 MICU 6254
-Clinic Access Center 4-5000 MRI 6870, 6941
-Clinic (Dr. Line) 5-7040 Pharmacy 6591
-Clinic Fax 627-4175 PT 4127
-Resident 548-6293, 548-
-MRI East Tower 30507 Room 6294
-MRI South Tower 30857/58 Ward 2D 6183
-MRI North Tower 45424/50106 Ward 3C 5142
-CT East Tower 30508 Ward 4A 5159
-CT South Tower 30895 Ward 4B 5160
-VA Neuro 374-6058, 374-
-CT North Tower 46068 Office 6082
+
+Clinic Access Center 4-5000
+
+MRI 6870, 6941
+
+Clinic (Dr. Line) 5-7040
+
+Pharmacy 6591
+
+Clinic Fax 627-4175
+
+PT 4127
+
+MRI East Tower 30507
+
+Resident Room 548-6293, 548- 6294
+
+MRI South Tower 30857/58
+
+Ward 2D 6183
+
+MRI North Tower 45424/50106
+
+Ward 3C 5142
+
+CT East Tower 30508
+
+Ward 4A 5159
+
+CT South Tower 30895
+
+Ward 4B 5160
+
+CT North Tower 46068
+
+VA Neuro Office 374-6058, 374- 6082
 

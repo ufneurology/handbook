@@ -1,5 +1,6 @@
----
-title: "Modified Rankin Scale"
----
+# Modified Rankin Scale
 
-![](images/modified_rankin_scale_page17.png)
+![](images/modified_rankin_scale_17_img6.png)
+
+![](images/modified_rankin_scale_17_img7.png)
+

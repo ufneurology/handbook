@@ -1,45 +1,26 @@
----
-title: "Cardiac Arrest"
----
+# Cardiac Arrest
 
-CARDIAC ARREST
-TTM (Targeted Temperature Management) ALERT: Activated when a patient has suffered cardiac arrest and
-therapeutic hypothermia may be indicated to decrease the degree of neurologic injury. Neurology consult (staffed
-by Neuro-ICU Consult/Blue attending) should respond immediately.
-Protocol:
-o Determine if the patient is a candidate for therapeutic hypothermia (comatose, VT/VF/PEA/asystole).
-o A patient may not be a good candidate if
-o following commands or moving appropriately to noxious stimulation (if any uncertainty, would
-err on the side of cooling)
-o Refractory hemodynamic instability
-o Severe coagulopathy or uncontrolled bleeding (e.g. DIC, severe thrombocytopenia/liver failure,
-vaso-occlusive disease [e.g. Hgb-SS]);
-o Other, more likely, causes for coma
-o Significant pre-existing neurologic impairment (e.g. baseline MRS>= 4)
-o End-stage terminal illness (e.g. pre-arrest life expectancy < 6 months)
- Obtain noncontrast CT head to rule out intracranial hemorrhage, which is a contraindication for
-hypothermia. N.B. in patients with a clear cardiac/pulmonary cause of arrest, the head CT should not delay
-the start of therapeutic hypothermia.
- Arrange for stat long-term EEG as indicated.
+TTM (Targeted Temperature Management) ALERT:  Activated when a patient has suffered cardiac arrest and therapeutic hypothermia may be indicated to decrease the degree of neurologic injury. Neurology consult (staffed by Neuro-ICU Consult/Blue attending) should respond immediately.
+
+Protocol: o Determine if the patient is a candidate for therapeutic hypothermia (comatose, VT/VF/PEA/asystole). o A patient may not be a good candidate if o following commands or moving appropriately to noxious stimulation (if any uncertainty, would err on the side of cooling) o Refractory hemodynamic instability o Severe coagulopathy or uncontrolled bleeding (e.g. DIC, severe thrombocytopenia/liver failure, vaso-occlusive disease [e.g. Hgb-SS]); o Other, more likely, causes for coma o Significant pre-existing neurologic impairment (e.g. baseline MRS>=
+4) o End-stage terminal illness (e.g. pre-arrest life expectancy < 6 months)
+- Obtain noncontrast CT head to rule out intracranial hemorrhage, which is a contraindication for hypothermia. N.B. in patients with a clear cardiac/pulmonary cause of arrest, the head CT should not delay the start of therapeutic hypothermia.
+- Arrange for stat long-term EEG as indicated.
+
 Document the following things in your note:
- date/time of initial arrest (if known)
- time passed until CPR was performed
- date/time of restoration of spontaneous circulation (ROSC)
- date/time of arrival in the hospital
- date/time of your neurologic exam, if sedating or neuromuscular blocking agents were administered, and
-if the patient is intubated
- coma exam
- In your assessment and plan, please include the Arctic Sun EEG Protocol.
- Document FOUR SCORE in all your notes (use the template). Also GCS (Glascow Coma Score)
-Neurology will arrange for critical care EEG for 3 days: initiation of cooling (day 1), rewarming (day 2) and
-rewarmed (day 3). If convulsive or non-convulsive status epilepticus is suspected based on physical exam,
-please call the neurology consult service.
-Algorithmic Approach to Post-cardiac Arrest Patients:
-0-24 hours: Clinical examination (esp pupils/corneals); CT, MRI if CT uninformative
-24-48 hours: Clinical examination, continuous EEG, consider neuron-specific enolase (NSE)
-48-72 hours (post-arrest or post-rewarming): Clinical examination, continuous EEG, consider NSE
-72 hours (post-arrest or post-rewarming): Clinical examination, SSEP, CT, consider NSE, consider MRI if CT
-unrevealing
+- date/time of initial arrest (if known)
+- time passed until CPR was performed
+- date/time of restoration of spontaneous circulation (ROSC)
+- date/time of arrival in the hospital
+- date/time of your neurologic exam, if sedating or neuromuscular blocking agents were administered, and if the patient is intubated
+- coma exam
+- In your assessment and plan, please include the Arctic Sun EEG Protocol.
+- Document FOUR SCORE in all your notes (use the template). Also GCS (Glascow Coma Score)
 
+Neurology will arrange for critical care EEG for 3 days: initiation of cooling (day 1), rewarming (day
+2) and rewarmed (day 3).  If convulsive or non-convulsive status epilepticus is suspected based on physical exam, please call the neurology consult service.
 
-![](images/cardiac_arrest_page28.png)
+Algorithmic Approach to Post-cardiac Arrest Patients: 0-24 hours: Clinical examination (esp pupils/corneals); CT, MRI if CT uninformative 24-48 hours: Clinical examination, continuous EEG, consider neuron-specific enolase (NSE) 48-72 hours (post-arrest or post-rewarming): Clinical examination, continuous EEG, consider NSE 72 hours (post-arrest or post-rewarming): Clinical examination, SSEP, CT, consider NSE, consider MRI if CT unrevealing
+
+![](images/cardiac_arrest_28_img11.png)
+

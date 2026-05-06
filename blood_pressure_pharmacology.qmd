@@ -1,6 +1,4 @@
----
-title: "Blood Pressure Pharmacology"
----
+# Blood Pressure Pharmacology
 
 Blood Pressure and Pharmacy Tips
 

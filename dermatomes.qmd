@@ -1,8 +1,6 @@
----
-title: "Dermatomes"
----
+# Dermatomes
 
-The dermatomes (there is substantial variability)
+(there is substantial variability)
 
+![](images/dermatomes_43_img17.png)
 
-![](images/dermatomes_page43.png)

@@ -1,131 +1,160 @@
----
-title: "Sodium Management"
----
+# Sodium Management
 
-Sodium Management
-Sodium Repletion
-• Na check q4h (ICU) or q4-6h (floor • Calculate sodium deficit = 0.6x body weight x (desired [Na] –current [Na])
-• Target repletion rate: 6 mEq/L/day • Use 0.5for women/elderly men or 0.45for elderly women
-Estimate of 1L of any saline infusion on serum sodium DI SIADH CSW
-Change in serum sodium = [infusion sodium concentration (mmol/L) –serum Urine output Increased Decreased Increased
-sodium concentration (mmol/L)] / (total body water + 1) Serum Na High Low Low
-Infusion Sodium concentration (mmol/L) Urine Na Low High High
-5% NaClin water 855
-3% NaClin water 513 Serum Osm High Low Normal/Low
-0.9% NaClin water 154 Urine Osm Low High Normal/Low
-Lactate Ringer 130 CVP Normal/Low High Low
-0.45% NaClin water 77 ADH Low High Normal
-0.2% NaClin D5W 34
-D5W 0
 Practical Approach to Hyponatremia (uptodate)
-Practical Low serum sodium (<135 mEq/L)
-A H p y p p r o o n a a c t h re t m o ia Hyperglycemia present? * m A g d / d d L 2 o m f E s q er / u L m t o g l t u h c e o s s e e r a u b m o v so e d th iu e m n o fo rm r e a v l e v r a y l u 1 e 00
-(uptodate) No Calculate co Y r e r s ected sodium* Normal H ind yp u e c r e g d l y h c y e p m o i n a a tremia
-Low
-Could extra solutes be present in serum:
-- Is ptpostop after prostate or uterine surgery?
-- Has the ptreceived IV mannitol or IVIG
-Reason to s N us o pect pseudohyponatremia (due to Yes I - so T o U sm RP ol a an r d o r h y h s y t p er e o r s o c s o m py o l c a a r n h b y e p a o s n s a o t c r i e at m ed ia :
-h - yp I e s r s li e p r i u d m em li i p a e o m r i h c y ? perproteinemia): YesM ser e u a m su re N or o h r i m gh al w (g i l t y h c i a n b e s , o s r o p r t b io it n o l) of irrigation solutions
-- Is ptjaundiced? osmolality - If suspected pseudohyponatremia, have
-- Is there history of plasma cell dyscrasi N a? o L (< o 2 w 80 mosmol/kg) s If o d n i o u r m m m al, e a m su ea re su d r b e y t o d t i a r l e c p t r o p t o e t i e n n a ti n o d m li e p tr id y. s .
-Hypotonic hyponatremia
-Use of thiazide diuretic? NoGFR substantially impaired?YesRenal failure
+
+CSW SIADH DI Increased Decreased Increased Urine output Low Low High Serum Na
+
+High High Low Urine Na Normal/Low Low High Serum Osm
+
+Normal/Low High Low Urine Osm Low High Normal/Low CVP Normal High Low ADH
+
+Estimate of 1L of any saline infusion on serum sodium Change in serum sodium = [infusion sodium concentration (mmol/L) – serum sodium concentration (mmol/L)] / (total body water +
+1) Sodium concentration (mmol/L) Infusion 855 5% NaCl in water 513 3% NaCl in water 154 0.9% NaCl in water 130 Lactate Ringer 77 0.45% NaCl in water 34 0.2% NaCl in D5W 0 D5W
+
+Sodium Repletion
+- Calculate sodium deficit = 0.6 x body weight x (desired [Na] – current [Na])
+
+- Use 0.5 for women/elderly men or 0.45 for elderly women
+- Na check q4h (ICU) or q4-6h (floor
+- Target repletion rate: 6 mEq/L/day
+
+Low serum sodium (<135 mEq/L)
+
+Hyperglycemia present?
+
+Calculate corrected sodium*
+
 Yes
+
+Could extra solutes be present in serum:
+- Is pt postop after prostate or uterine surgery?
+- Has the pt received IV mannitol or IVIG
+
+Hyperglycemia induced hyponatremia Low
+
+Normal No
+
+Reason to suspect pseudohyponatremia (due to hyperlipidemia or hyperproteinemia):
+- Is serum lipemic?
+- Is pt jaundiced?
+- Is there history of plasma cell dyscrasia?
+
+No
+
+Measure serum osmolality
+
+Yes
+
+No
+
+Yes
+
+Hypotonic hyponatremia
+
+Normal or high
+
+Isoosmolar or hyperosmolar hyponatremia:
+- TURP and hysteroscopy can be associated with absorption of irrigation solutions (glycine, sorbitol)
+- If suspected pseudohyponatremia, have sodium measured by direct potentiometry. If normal, measure total protein and lipids. Low (<280 mosmol/kg)
+
+GFR substantially impaired?
+
+Yes Renal failure No Use of thiazide diuretic?
+
+Yes
+
 Stop thiazide
+
+Hyponatremia resolved? Yes Thiazide induced hyponatremia
+
 No
-Hyponatremia resolved?YesThiazide induced hyponatremia
+
+No Edema? (peripheral or pulmonary edema, or ascites)
+
+Yes Low effective arterial blood volume (heart failure, cirrhosis)
+
+Signs of hypovolemia (low BP, orthostatic)?
+
+Yes No Yes Measure urine sodium Measure urine sodium and urine osmolality
+
+Low (<25 mEq/L)
+
+High (>40 mEq/L)
+
+(25-40 mEq/L)
+
+Hypovolemic hyponatremia Extrarenal losses (GI, third space, diuretics)
+
+Infuse isotonic saline (ex. 1L over 1hr) Remeasure serum sodium
+
+Hypovolemic hyponatremia Renal losses
+
+Review hx and meds AM cortisol and ACTH stim test
+
+Low cortisol Positive ACTH stim test
+
+Using diuretics
+
+Head injury Cranial surgery
+
+Primary adrenal insufficiency (glucocorticoid and mineralocorticoid deficiency)
+
+Diuretic induced
+
+Cerebral salt wasting
+
+Urine osmolality <100?
+
 No
-Edema? (peripheral or pulmonary edema, or ascites)YesLow effective arterial blood volume (heart failure, cirrhosis)
-M an e d a s u u ri r n e e u o ri s n m e o s l o a d li i t u y m NoSigns of hypovolem Y ia es (low BP, orthostatic)? YesMeasure urine sodium L (< o 2 w 5 m Eq/L) H Ex y t p ra o r v e o n l a e l m lo i s c s e h s y ( p G o I n , a th tr i e rd m s i p a ace, diuretics)
-Urine osmolality <100?YesU AF ri T ne E o R s m th o e l r a a l p it y y i m ni e ti a a s t u e r d e ? d YesR - ec M ov il e d r y h f y r p o o m v o o l n e e m o i f a f ( o gi l v lo e w n ing: (25-40 mEq/L) I R n e f m us e e a s is u o re to s n e i r c u s m al i s n o e d ( i e u x m . 1L over 1hr)
-No Urine N s o odium >40? Rapid wat N er o consumption? - i H g s l o u y t c p o o o n c p i o c i r t f t u l i u c i o i t d a id s r ) i s s ) m(given H (> i 4 g 0 h m Eq/L) H Re y n p a o l v l o o l s e s m es ic hyponatremia
-E
-m
-n
-E
-s
-q
-ur
-o
-e
-v
-s
-e
-o
-r
-d
-n
-i
-e
-u
-x
-m
-t 2
-in
-t a
-h
-k
-r
-e
-s (
->
-ex
-.
-L
-NoH
-pr
-i
-o
-g
-t
-h
-ei
-f
-n
-l u
-d
-i
-i
-d
-e
-,
-t :
-low
-Review hx and meds
-isotonic saline over 1 or more hrs) - “Beer potomania” AM cortisol and ACTH stim test
-Yes - “Tea and toast diet”
-Remeasure urine osmolality Low cortisol Using Head injury
-and sodium YesS
-in
-e
-t
-l
-o
-f
-x
-i
-i
-n
-c
-d
-a
-u
-ti
-c
-o
-e
-n
-d
-:
-water Positive ACTH stim test diuretics Cranial surgery
-U ur r i i n n e e o N sm a < < 4 1 0 0 0 or U ur r in in e e o N sm a > > 4 1 0 0 o 0 r - - P E s n y d c u h r o a s n is ce event P in r s im uf a fi r c y i e a n d c r y e nal D in i d u u r c e e ti d c C sa e l r t ebral
-H hy y p p o o n v a o t l r e e m m i i c a E de v f a ic lu ie a n te c y f o a r n g d l u h c y o p c o o th rt y ic ro o i i d d i sm - Ecstasy use ( m gl i u n c e o ra c l o o r c t o ic r o ti i c d o a id n d wasting
-deficiency)
-AM cortisol and ACTH stim test abnormal?YesGlucocorticoid
-deficiency
+
+Urine sodium >40?
+
+Yes Urine osmolality measured AFTER therapy initiated?
+
+Yes Recovery from one of following:
+- Mild hypovolemia (given isotonic fluids)
+- Hypopituitarism (given glucocorticoids)
+
 No
-TSH very elevated? YesSevere hypothyroidism
+
+Rapid water consumption?
+
+Yes
+
+No High fluid, low protein diet:
+- “Beer potomania”
+- “Tea and toast diet”
+
+Self  induced water intoxication:
+- Psychosis
+- Endurance event
+- Ecstasy use
+
+Ensure sodium intake >150 mEq over next 24 hrs (ex. 1L isotonic saline over 1 or more hrs)
+
+Remeasure urine osmolality and sodium
+
 No
-SIADH or nephrogenic SIADHevaluate underlying etiology
+
+Urine Na <40 or urine osm <100 Urine Na >40 or urine osm >100 Hypovolemic hyponatremia
+
+Evaluate for glucocorticoid deficiency and hypothyroidism
+
+Yes
+
+AM cortisol and ACTH stim test abnormal?
+
+Yes Glucocorticoid deficiency No
+
+TSH very elevated?
+
+Yes Severe hypothyroidism
+
+No
+
+SIADH or nephrogenic SIADH evaluate underlying etiology
+
+Practical Approach to Hyponatremia (uptodate)
+
+*Add 2 mEq/L to the serum sodium for every 100 mg/dL of serum glucose above the normal value
 

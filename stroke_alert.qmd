@@ -1,71 +1,52 @@
----
-title: "Stroke Alert"
----
+# Stroke Alert
 
-STROKE ALERT
 ALL ALERTS MUST BE DISCUSSED WITH STROKE ATTENDING/FELLOW IN REAL TIME
+
 Joint Commission goals:
- Door to neuro eval: <15 min
- Door to CT completion: <20 min
- CT complete to interpretation: <20 min (*use the time stamp in Visage if you interpreted in real time)
- Door to IV tPA: <30 min
- Door to groin puncture (thrombectomy): <60 min
-Time guidelines:
-Intravenous tPA: < 4.5 hours of symptom onset
-Mechanical thrombectomy: < 6h in most cases, potentially up to 24h depending on perfusion scan
+- Door to neuro eval: <15 min
+- Door to CT completion: <20 min
+- CT complete to interpretation: <20 min (*use the time stamp in Visage if you interpreted in real time)
+- Door to IV tPA: <30 min
+- Door to groin puncture (thrombectomy): <60 min
+
+Time guidelines: Intravenous tPA: < 4.5 hours of symptom onset Mechanical thrombectomy: < 6h in most cases, potentially up to 24h depending on perfusion scan
+
 Initial steps:
-1. When was the patient last known normal? Don’t trust anybody - FIND OUT YOURSELF. Obtain family phone
-contact information from EMS in case needed for timeline confirmation and eventual consent.
-2. BRIEF medical history (similar sx in past, acuity of onset, fluctuation/progression of sx, known stroke causes
-[Afib, carotid disease], associated sx (headache/neck pain, altered consciousness, abnormal movements), current
-antithrombotics
+1. When was the patient last known normal? Don’t trust anybody
+- FIND OUT YOURSELF. Obtain family phone contact information from EMS in case needed for timeline confirmation and eventual consent.
+2. BRIEF medical history (similar sx in past, acuity of onset, fluctuation/progression of sx, known stroke causes [Afib, carotid disease], associated sx (headache/neck pain, altered consciousness, abnormal movements), current antithrombotics
 3. Check blood pressure
-4. Fingerstick glucose. Correct if <50 or >400. If patient is still symptomatic, proceed with acute vascular workup
+4. Fingerstick glucose.  Correct if <50 or >400. If patient is still symptomatic, proceed with acute vascular workup
 5. Rapid neuro exam/NIHSS – do NOT delay CT/IV/blood draw. Learn to work around ED providers.
 6. Take patient to CT scan as soon as possible.
- UF stroke alert protocol is non-contrast HCT, CTA head/neck, and CT perfusion
- Non-contrast HCT alone is sufficient for tPA decision. If the perfusion scanner is down, do NOT
-waste time taking the patient to a different tower.
- Stay with the patient and immediately review the scan yourself. Do NOT wait for CTA to begin to
-mobilize for IV tPA. CTA/CTP requires post-processing and is NOT necessary for IV tPA.
+- UF stroke alert protocol is non-contrast HCT, CTA head/neck, and CT perfusion
+- Non-contrast HCT alone is sufficient for tPA decision. If the perfusion scanner is down, do NOT waste time taking the patient to a different tower.
+- Stay with the patient and immediately review the scan yourself. Do NOT wait for CTA to begin to mobilize for IV tPA. CTA/CTP requires post-processing and is NOT necessary for IV tPA.
 7. Review tPA inclusion/exclusion criteria to confirm patient is eligible
 8. Call stroke attending/fellow as soon as possible to discuss treatment plan.
-9. Review risks/benefits with patient and/or family. Obtain verbal consent if possible. See below for suggested
-language.* If patient cannot provide consent and family is not immediately available by phone, two
-attendings (stroke and ED) can provide emergency consent. Do not waste time making more than 1-2 attempts
-to contact family.
+9. Review risks/benefits with patient and/or family. Obtain verbal consent if possible. See below for suggested language.* If patient cannot provide consent and family is not immediately available by phone, two attendings (stroke and ED) can provide emergency consent. Do not waste time making more than 1-2 attempts to contact family.
 10. If IV tPA is planned:
- Tenectaplase for all patients
- Inform nurse/pharmacist/ED team of plan
- Get weight in kilograms (if not obtained on arrival)
- Order tPA in Epic. TNK (single bolus): 0.25 mg/kg; max dose 25 mg
- Ensure patient has 2 well-functioning IVs, preferably 20-gauge or larger
- Make sure BP is <185/110 before pushing tPA bolus**
- Remain with the patient at bedside until tPA is administered to ensure there is no delay.
+- Tenectaplase for all patients
+- Inform nurse/pharmacist/ED team of plan
+- Get weight in kilograms (if not obtained on arrival)
+- Order tPA in Epic. TNK (single bolus): 0.25 mg/kg; max dose 25 mg
+- Ensure patient has 2 well-functioning IVs, preferably 20-gauge or larger
+- Make sure BP is <185/110 before pushing tPA bolus**
+- Remain with the patient at bedside until tPA is administered to ensure there is no delay.
 11. Consider patient for mechanical thrombectomy (see below) and/or acute stroke clinical trial.
-*Suggested language for consent: “You are having an acute stroke, caused by a blood clot blocking one of the
-arteries in your brain. The symptoms you’re currently having may become permanent if we don’t act quickly. You
-are eligible for a medication called tPA, which will help dissolve the blood clot. Studies in thousands of patients
-with strokes like yours have shown that with this medication, patients have a much better chance of recovering to
-normal and living at home after a stroke. Because this medication temporarily thins your blood, there is a possible
-risk of bleeding, including bleeding in the brain. However, the potential benefit from the treatment is 6–10 times
-greater than the risks of harm, and I believe this medication is the best chance we have of reversing your
-symptoms. The faster we start the treatment, the better your chances of recovery. Do we have your permission to
-proceed?”
-**If BP elevated: 1) Labetalol 10-20mg IV over 1-2 minutes, may repeat x 1 OR 2) Start Nicardipine gtt at
-5mg/hr IV, titrate up by 2.5mg/hr at 5-15 minute intervals, max dose: 15mg/hr. Can consider clevidipine gtt.
+
+*Suggested language for consent: “You are having an acute stroke, caused by a blood clot blocking one of the arteries in your brain. The symptoms you’re currently having may become permanent if we don’t act quickly. You are eligible for a medication called tPA, which will help dissolve the blood clot. Studies in thousands of patients with strokes like yours have shown that with this medication, patients have a much better chance of recovering to normal and living at home after a stroke. Because this medication temporarily thins your blood, there is a possible risk of bleeding, including bleeding in the brain. However, the potential benefit from the treatment is 6–10 times greater than the risks of harm, and I believe this medication is the best chance we have of reversing your symptoms. The faster we start the treatment, the better your chances of recovery. Do we have your permission to proceed?” **If BP elevated:
+1) Labetalol 10-20mg IV over 1-2 minutes, may repeat x 1 OR
+2) Start Nicardipine gtt at 5mg/hr IV, titrate up by 2.5mg/hr at 5-15 minute intervals, max dose: 15mg/hr.  Can consider clevidipine gtt.
 - If BP does not improve despite these interventions, then discuss eligibility further with attending/fellow.
 
-
 IV tPA Inclusion Criteria:
- Clinical diagnosis of stroke with neurological deficit that would be considered disabling
- Established time of symptom onset/last seen normal within past 4.5 hours
-Potential tPA exclusions to consider: (Note: many of these rules are flexible in the correct clinical scenario,
-therefore each case MUST be discussed expeditiously with stroke attending/fellow)
- Significant head trauma or prior stroke in previous 3 months
- Symptoms suggestive of subarachnoid hemorrhage
- Arterial puncture at noncompressible site in previous 7 days
- History of previous intracranial hemorrhage
+- Clinical diagnosis of stroke with neurological deficit that would be considered disabling
+- Established time of symptom onset/last seen normal within past 4.5 hours Potential tPA exclusions to consider: (Note: many of these rules are flexible in the correct clinical scenario, therefore each case MUST be discussed expeditiously with stroke attending/fellow)
+- Significant head trauma or prior stroke in previous 3 months
+- Symptoms suggestive of subarachnoid hemorrhage
+- Arterial puncture at noncompressible site in previous 7 days
+- History of previous intracranial hemorrhage
 1. Intracranial neoplasm, aneurysm, or arteriovenous malformation
 2. Recent intracranial or intraspinal surgery
 3. SBP > 185, DBP > 110 at time of treatment despite appropriate therapy
@@ -81,39 +62,19 @@ therefore each case MUST be discussed expeditiously with stroke attending/fellow
 13. Seizure at onset with postictal residual neurological impairments
 14. Major surgery or serious trauma within previous 14 days
 15. Recent GI or GU tract hemorrhage within previous 21 days
-16. Acute MI within previous 3 months
-* In patients without history of thrombocytopenia, IV tPA can be initiated before availability of
-platelet count, but should be discontinued if plt < 100k ** In patients without recent use of oral
-anticoagulants or heparin, treatment with tPA can be initiated before availability of coagulation test
-results but should be discontinued if INR > 1. 7. *** Caution if recent hemodialysis with
-administration of heparin bolus
-Mechanical thrombectomy
-Consideration for mechanical thrombectomy should begin immediately after tPA decision is made.
-Eligibility varies depending on time from symptom onset/last known well
-1) Symptom onset <6h: requires large-vessel occlusion on CTA (or suspected based on clinical exam),
-NIHSS ≥ 6, ASPECTS (determined from non-contrast HCT) ≥ 6. Do NOT wait for CTP results per
-AHA guidelines.
-2) Symptom onset 6-24 hours: large-vessel occlusion on CTA, CTP suggestive of large penumbra/small
-core meeting criteria from DAWN/DEFUSE-3 trials. Hyperacute-MRI protocol can be considered in
-select patients who are unable to tolerate contrast (discuss with attending).
-Review expeditiously with the stroke fellow/attending. If the patient is appropriate for intervention, the stroke
-attending will call the endovascular neurosurgery attending directly.
-- Call ShandsCair (#50300 on house phone) or #69 (inpatient stroke alerts) to request a STROKE
-ENDOVASCULAR THERAPY ALERT. Dispatch will page out the following stroke alert: “[Patient room
-number/MRN] confirmed for endovascular therapy”
-- Page neurosurgery consult resident (413-4736 or 413-2125) to inform that patient has been accepted for
-intervention by endovascular. Also call the IR tech to notify of an incoming case (352-256-5402).
--Accompany the patient to the OR to provide in-person signout to the anesthesia team.
--Place admission orders ASAP (see below) so that the patient can leave the OR expeditiously
--Accompany the patient to the NICU for signout and to perform/document a post-procedure NIHSS.
-Orders after IV tPA treatment and/or mechanical thrombectomy (use order set “NEU STROKE PROGRAM
-ORDERS - POST ALTEPLASE (T-PA) ADMISSION ORDERS IP UF”):
- Admit to NICU (call CCM fellow to notify)
- Monitor BP (maintain <180/105 post tPA, discuss goal BP with attending for mechanical
-thrombectomy): vitals q15 min x 2 h after start, then q30 min x 6 h, then q1 h x 16 h
- No heparin, warfarin, aspirin, other antiplatelets/anticoagulation for 24 hours if pt received tPA
- Avoid invasive procedures (eg, no NG tubes, no Foley) and arterial access at non-compressible sites
-for 24 h if patient received tPA
- Repeat CT scan 24 hours post tPA to exclude hemorrhage – if negative can give ASA 325 mg, start
-DVT prophylaxis
+16. Acute MI within previous 3 months * In patients without history of thrombocytopenia, IV tPA can be initiated before availability of platelet count, but should be discontinued if plt < 100k ** In patients without recent use of oral anticoagulants or heparin, treatment with tPA can be initiated before availability of coagulation test results but should be discontinued if INR >
+1. 7. *** Caution if recent hemodialysis with administration of heparin bolus
+
+Mechanical thrombectomy Consideration for mechanical thrombectomy should begin immediately after tPA decision is made. Eligibility varies depending on time from symptom onset/last known well
+1) Symptom onset <6h: requires large-vessel occlusion on CTA (or suspected based on clinical exam), NIHSS ≥ 6, ASPECTS (determined from non-contrast HCT) ≥
+6. Do NOT wait for CTP results per AHA guidelines.
+2) Symptom onset 6-24 hours: large-vessel occlusion on CTA, CTP suggestive of large penumbra/small core meeting criteria from DAWN/DEFUSE-3 trials. Hyperacute-MRI protocol can be considered in select patients who are unable to tolerate contrast (discuss with attending). Review expeditiously with the stroke fellow/attending. If the patient is appropriate for intervention, the stroke attending will call the endovascular neurosurgery attending directly.
+- Call ShandsCair (#50300 on house phone) or #69 (inpatient stroke alerts) to request a STROKE ENDOVASCULAR THERAPY ALERT. Dispatch will page out the following stroke alert: “[Patient room number/MRN] confirmed for endovascular therapy”
+- Page neurosurgery consult resident (413-4736 or 413-2125) to inform that patient has been accepted for intervention by endovascular. Also call the IR tech to notify of an incoming case (352-256-5402). -Accompany the patient to the OR to provide in-person signout to the anesthesia team. -Place admission orders ASAP (see below) so that the patient can leave the OR expeditiously -Accompany the patient to the NICU for signout and to perform/document a post-procedure NIHSS. Orders after IV tPA treatment and/or mechanical thrombectomy (use order set “NEU STROKE PROGRAM ORDERS
+- POST ALTEPLASE (T-PA) ADMISSION ORDERS IP UF”):
+- Admit to NICU (call CCM fellow to notify)
+- Monitor BP (maintain <180/105 post tPA, discuss goal BP with attending for mechanical thrombectomy): vitals q15 min x 2 h after start, then q30 min x 6 h, then q1 h x 16 h
+- No heparin, warfarin, aspirin, other antiplatelets/anticoagulation for 24 hours if pt received tPA
+- Avoid invasive procedures (eg, no NG tubes, no Foley) and arterial access at non-compressible sites for 24 h if patient received tPA
+- Repeat CT scan 24 hours post tPA to exclude hemorrhage – if negative can give ASA 325 mg, start DVT prophylaxis
 

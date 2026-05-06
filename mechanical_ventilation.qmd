@@ -1,7 +1,8 @@
----
-title: "Mechanical Ventilation"
----
+# Mechanical Ventilation
 
-![](images/mechanical_ventilation_page30.png)
+![](images/mechanical_ventilation_30_img12.jpeg)
 
-![](images/mechanical_ventilation_page31.png)
+![](images/mechanical_ventilation_30_img13.jpeg)
+
+![](images/mechanical_ventilation_31_img14.jpeg)
+

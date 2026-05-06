@@ -1,29 +1,16 @@
----
-title: "Myasthenia Gravis"
----
+# Myasthenia Gravis
 
-MYASTHENIA GRAVIS EXACERBATION
-Epi: 2:3 M:F, bimodal peaks – female 20s, males 50s, 20% bulbar only, 2/100,000 annual
-Presentation: facial diparesis, ptosis, neck extensor weak, nasal voice, hypotonic/weak
-* may be precipitated by med non-compliance, excessive activity, infection, or drugs1
-* diff from “cholinergic crisis” – weakness, fasciculations, inc sweating/salivation, and miosis
+EXACERBATION
+
+Epi:  2:3 M:F, bimodal peaks – female 20s, males 50s, 20% bulbar only, 2/100,000 annual Presentation:  facial diparesis, ptosis, neck extensor weak, nasal voice, hypotonic/weak * may be precipitated by med non-compliance, excessive activity, infection, or drugs1 * diff from “cholinergic crisis” – weakness, fasciculations, inc sweating/salivation, and miosis
+
 Workup + Admission (similar respiratory concerns as acute GBS)
-1) Assess respiratory status with vital capacity (VC) and negative inspiratory force (NIF), follow q2 hours if
-worrisome, intubate if VC < 15cc/kg & trending downward. Pulse ox and ABG changes will lag
-hypoventilation!
-2) Consider use of Bipap/non-invasive ventilation before intubation in myasthenia crisis, as it can prevent
-intubation unless patient is hypercarbic
-Consider intubation:
--20/30/40 rule: VC <20ml.kg (or 1 liter); MIP<30, MEP <40.
-Reduction in VC, MIP, MEP >30%,
-PO2 <70 mmHg on room air,
-PCO2 >50 mmHg w.acidosis
-Estimated VC = counting aloud in one breath x 100 cc (ex. counts to 25 = 2.5 liters). If facial weakness, VC
-may be lower due to poor seal on apparatus. If patient vented for >7 days, consider trach and PEG
- Intubation: Etomidate 0.2-0.3mg/kg, non-depolarizing paralytics if necessary (vecuronium)
- Extubation: A Rapid Shallow Breathing Index (RSBI) of 100 predicts a 95% chance of failure of
-extubation. This is calculated by dividing tidal volume by respiratory rate. Also FVC >15 mL/kg, NIF >30
-cmH2O, and PEF >40 cm H2O
+1) Assess respiratory status with vital capacity (VC) and negative inspiratory force (NIF), follow q2 hours if worrisome, intubate if VC < 15cc/kg & trending downward.  Pulse ox and ABG changes will lag hypoventilation!
+2) Consider use of Bipap/non-invasive ventilation before intubation in myasthenia crisis, as it can prevent intubation unless patient is hypercarbic Consider intubation: -20/30/40 rule: VC <20ml.kg (or 1 liter); MIP<30, MEP <40. Reduction in VC, MIP, MEP >30%, PO2 <70 mmHg on room air, PCO2 >50 mmHg w.acidosis Estimated VC = counting aloud in one breath x 100 cc (ex. counts to 25 = 2.5 liters).  If facial weakness, VC may be lower due to poor seal on apparatus.  If patient vented for >7 days, consider trach and PEG
+- Intubation: Etomidate 0.2-0.3mg/kg, non-depolarizing paralytics if necessary (vecuronium)
+- Extubation: A Rapid Shallow Breathing Index (RSBI) of 100 predicts a 95% chance of failure of
+
+extubation. This is calculated by dividing tidal volume by respiratory rate. Also FVC >15 mL/kg, NIF >30 cmH2O, and PEF >40 cm H2O
 3) Check CXR and cultures
 4) Admit to NICU
 5) Eliminate any medications that can exacerbate myasthenic symptoms (see list below)
@@ -33,74 +20,40 @@ cmH2O, and PEF >40 cm H2O
 - consider tensilon test
 - check thyroid function tests
 - CXR +/- chest CT to rule out thymoma
-7) Acute treatment with IVIg and/or plasma exchange, plus initiation of acetylcholinesterase inhibitors (below).
-Start steroids, however steroids may acutely worsen symptoms.
+7) Acute treatment with IVIg and/or plasma exchange, plus initiation of acetylcholinesterase inhibitors (below). Start steroids, however steroids may acutely worsen symptoms.
 8) GI and DVT prophylaxis
 9) Order PT/OT/Rehab consults – may need Rehab or SNF
+
 Acute and Chronic Treatment:
-1) IVIg or plasma exchange – see GBS section for orders.
-2) Start Mestinon 30 PO TID, increase to 60-120 mg q4-6 hrs (maintenance), can increase to 120 mg q3 hrs
-(maximum). Long acting Mestinon (timespan) can be given at night for pts with nocturnal or early morning
-weakness. IV Mestinon dose is 1/30th of oral Mestinon.
-Use Robinul for excessive GI cholinergic effects, but watch for ileus/megacolon.
-*Hold if patient is ventilated (secretions)
-3) Long-term Rx: Prednisone, to consider Imuran, other immune suppressants, thymectomy (RCT proven
-benefit in all patients with generalized myasthenia, AchR binding Ab positive).
-* existing anticholinesterase medications should be stopped while patient’s on vent, due to increased secretions
-affecting weaning. Restart at ½ dose 1 day prior to extubation.
-Acute Tx
-Treatment Dosing Time to Onset Adverse Effects
-Plasma Exchange 1-1.5x plasma volume 2-3 treatments Coagulopathy, line infection,
-for 5 treatments qd or arrhythmia, shock
-qod
-IVIg 2grams/kg divided in about 5 days Aseptic meningitis, fluid
-4-5 days overload
+1) IVIg or plasma exchange –  see GBS section for orders.
+2) Start Mestinon 30 PO TID, increase to 60-120 mg q4-6 hrs (maintenance), can increase to 120 mg q3 hrs (maximum).  Long acting Mestinon (timespan) can be given at night for pts with nocturnal or early morning weakness.  IV Mestinon dose is 1/30th of oral Mestinon. Use Robinul for excessive GI cholinergic effects, but watch for ileus/megacolon. *Hold if patient is ventilated (secretions)
+3) Long-term Rx: Prednisone, to consider Imuran, other immune suppressants, thymectomy (RCT proven benefit in all patients with generalized myasthenia, AchR binding Ab positive). * existing anticholinesterase medications should be stopped while patient’s on vent, due to increased secretions affecting weaning.  Restart at ½ dose 1 day prior to extubation.
 
+Acute Tx Treatment Dosing Time to Onset Adverse Effects Plasma Exchange 1-1.5x plasma volume for 5 treatments qd or qod
 
-Chronic Tx
-Treatment Dosing Time to Adverse Effects
-Onset
-Mestinon 30-120mg q3-6 hrs Immediate GI disturbance, cramps, pulm edema
-(pyridostigmine)
-Prednisone 60-80mg/day with taper 2-4 weeks Osteroporosis, weight gain,
-20 mg/day with titration hyperglycemia
-5 mgQ3days
-Imuran (azathioprine) 1-3 mg/kg/day 3-9 months Leukopenia, hepatotoxicity
-Cellcept 1000mg BID Few months Anemia, leukopenia, diarrhea
-(mycophenolate mofetil)
+2-3 treatments Coagulopathy, line infection, arrhythmia, shock
+
+IVIg 2grams/kg divided in 4-5 days about 5 days Aseptic meningitis, fluid overload
+
+Chronic Tx Treatment Dosing Time to Onset Adverse Effects
+
+Mestinon (pyridostigmine) 30-120mg q3-6 hrs Immediate GI disturbance, cramps, pulm edema
+
+Prednisone 60-80mg/day with taper 20 mg/day with titration 5 mgQ3days
+
+2-4 weeks Osteroporosis, weight gain, hyperglycemia
+
+Imuran (azathioprine) 1-3 mg/kg/day 3-9 months Leukopenia, hepatotoxicity Cellcept (mycophenolate mofetil) 1000mg BID Few months Anemia, leukopenia, diarrhea
+
 Drugs to avoid in myasthenia gravis: Bold indicates more significant effect
-Drug Class Specific Drugs
-Neuromuscular depolarizing agents Succinylcholine
-Calcium channel blockers Amlodipine, felodipine, nifedipine, verapamil
-Beta blockers Atenolol, nadolol, propranolol, sotalol, timolol
-Anti-arrhythmic agents Etafenone, peruvoside, procainamide, propafenone
-Quinolone Derivatives Chloroquine, quinidine, quinine
-Penicillamine
-Corticosteroids Hydrocortisone, methylprednisone, prednisolone, prednisone
-H2 receptor antagonists Cimetidine, ranitidine, roxatidine
-Antibiotics Aminoglycosides (amikacin, clindamycin, gentamycin,
-neomycin, streptomycin, tobramycin)
-Macrolides (azithromycin, erythromycin)
-Fluoroquinolones (ciprofloxacin, levofloxacin, moxifloxacin,
-norfloxacin, oxfloxacin)
-Penicillins/ampicillin
-Polymixins
-Tetracyclines
-Imipenem
-Vancomycin
-Botulinum Toxin
+
+Drug Class Specific Drugs Neuromuscular depolarizing agents Succinylcholine Calcium channel blockers Amlodipine, felodipine, nifedipine, verapamil Beta blockers Atenolol, nadolol, propranolol, sotalol, timolol Anti-arrhythmic agents Etafenone, peruvoside, procainamide, propafenone Quinolone Derivatives Chloroquine, quinidine, quinine Penicillamine
+
+Corticosteroids Hydrocortisone, methylprednisone, prednisolone, prednisone H2 receptor antagonists Cimetidine, ranitidine, roxatidine Antibiotics Aminoglycosides (amikacin, clindamycin, gentamycin, neomycin, streptomycin, tobramycin) Macrolides (azithromycin, erythromycin) Fluoroquinolones (ciprofloxacin, levofloxacin, moxifloxacin, norfloxacin, oxfloxacin) Penicillins/ampicillin Polymixins Tetracyclines Imipenem Vancomycin Botulinum Toxin
+
 Magnesium sulfate
-Antiepileptics Carbamazepine
-Gabapentin
-Phenytoin
-Trimethadione
-Chemotherapeutic agents Cisplatin
-Doxorubicin
-Etoposide
-Interferons (alpha and beta)
-Psychotrophic medications Chlorpromazine
-Haloperidol
-Lithium
-Tricyclic antidepressants
-Antihelminthics Pyrantel pamoate
+
+Antiepileptics Carbamazepine Gabapentin Phenytoin Trimethadione Chemotherapeutic agents Cisplatin Doxorubicin Etoposide Interferons (alpha and beta)
+
+Psychotrophic medications Chlorpromazine Haloperidol Lithium Tricyclic antidepressants Antihelminthics Pyrantel pamoate
 

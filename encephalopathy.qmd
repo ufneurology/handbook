@@ -1,42 +1,23 @@
----
-title: "Encephalopathy"
----
+# Encephalopathy
 
 MANAGEMENT OF THE AGITATED PATIENT
-Agitation happens for a variety of reasons in the inpatient setting including psychosis, toxidromes, delirium,
-substance withdrawal, or rational people deciding they no longer want to conform to hospital restrictions. With
-agitation, it is always advisable to back off patients if you feel unsafe, involve other staff, and call security if the
-situation escalates. Restraints, both chemical and physical, are often necessary both for preventing patient and staff
-harm.
-General strategies: 1) Avoid/remove aggravating factors, 2) identify/treat cause, 3) supportive care, 4) control
-dangerous/disruptive behavior.
-Prevention: orientation protocol, structured activities, reassurance, sitter (ideally family). Visual/hearing aids.
-Nonpharmacological sleep aids, maintain day/night cycle (quiet time at night), pain management, early
-mobilization.
-Avoid: frequent change of environment (eg, room changes), restraints, constipation, anticholingerics, catheters
+
+Agitation happens for a variety of reasons in the inpatient setting including psychosis, toxidromes, delirium, substance withdrawal, or rational people deciding they no longer want to conform to hospital restrictions.  With agitation, it is always advisable to back off patients if you feel unsafe, involve other staff, and call security if the situation escalates.  Restraints, both chemical and physical, are often necessary both for preventing patient and staff harm.
+
+General strategies:
+1) Avoid/remove aggravating factors,
+2) identify/treat cause,
+3) supportive care,
+4) control dangerous/disruptive behavior.
+
+Prevention: orientation protocol, structured activities, reassurance, sitter (ideally family). Visual/hearing aids. Nonpharmacological sleep aids, maintain day/night cycle (quiet time at night), pain management, early mobilization. Avoid: frequent change of environment (eg, room changes), restraints, constipation, anticholingerics, catheters
+
 Pharmacologic interventions have varying efficacy based on etiology, in general the following apply:
-1) Delirious patients: (decreased sensorium, poor attention), benzodiazepines and anticholinergic medications
-should be avoided. In these individuals, antipsychotics should be first line. Often low dose haldol (0.5 to 2 mg)
-IM, PO, or IV can be helpful. A crude guideline is to monitor response to the first dose and treat accordingly. If
-improvement is seen you may think about halving the dose, if no change is seen you may repeat the dose after
-some interval (1 - 2 hrs), or if the situation worsens you may think about doubling the dose. The generally
-accepted max effective dose per 24 hr interval is around 15 mg. Watch for QT prolongation by monitoring with
-EKG once the patient is compliant. Common management strategies are to use standing haldol in delirium, with
-0.5 - 1 mg Q12 being used frequently and evidence based, albeit weakly.
-2) Withdrawal: For individuals thought to be in sedative withdrawal or with acute toxidromes, including cocaine
-intoxication, benzodiazepines are first line for agitation. Features suggestive of withdrawal include tremor,
-diaphoresis, self-reported craving, dysautonomia, history of daily RTC alcohol or benzodiazepine use, history of
-withdrawal. In these individuals, ativan is a good choice for agitation because it is available IM, IV and
-PO. Generally, treating in 1-2 mg doses with monitoring at fixed intervals is a safe strategy.
-3) For individuals without delirium or withdrawal: an effective and safe strategy would be a combination of low
-dose haldol, ativan and bendaryl. Often a combination of haldol 2 mg, ativan 2mg, and benadryl 25 or 50 mg will
-sedate people quickly and safely. They can be draw together and given in one syringe if necessary. This
-combination can be given in stages if people are not responding after the first dose. Notably, the onset of action is
-similar for oral and IM preparations so patient cooperation is the deciding factor in choosing route of
-administration.
-4) Extreme agitation: where the potential for mortal self harm is possible, benzodiazepines at high doses may be
-necessary, to the point of requiring intubation.
-5) Drug induced extrapydramidal symptoms: Quetiapine (Seroquel) has a lower affinity for the D2 receptor and
-results in fewer parkinsonian symptoms than haloperidol. There is some evidence for its use in the treatment of
-delirium, but its use in acute agitation is limited by unavailability in parenteral forms.
+1) Delirious patients: (decreased sensorium, poor attention), benzodiazepines and anticholinergic medications should be avoided.  In these individuals, antipsychotics should be first line.  Often low dose haldol (0.5 to 2 mg) IM, PO, or IV can be helpful.  A crude guideline is to monitor response to the first dose and treat accordingly.  If improvement is seen you may think about halving the dose, if no change is seen you may repeat the dose after some interval (1
+- 2 hrs), or if the situation worsens you may think about doubling the dose.  The generally accepted max effective dose per 24 hr interval is around 15 mg.  Watch for QT prolongation by monitoring with EKG once the patient is compliant.  Common management strategies are to use standing haldol in delirium, with 0.5
+- 1 mg Q12 being used frequently and evidence based, albeit weakly.
+2) Withdrawal:  For individuals thought to be in sedative withdrawal or with acute toxidromes, including cocaine intoxication, benzodiazepines are first line for agitation.  Features suggestive of withdrawal include tremor, diaphoresis, self-reported craving, dysautonomia, history of daily RTC alcohol or benzodiazepine use, history of withdrawal.  In these individuals, ativan is a good choice for agitation because it is available IM, IV and PO.  Generally, treating in 1-2 mg doses with monitoring at fixed intervals is a safe strategy.
+3) For individuals without delirium or withdrawal: an effective and safe strategy would be a combination of low dose haldol, ativan and bendaryl.  Often a combination of haldol 2 mg, ativan 2mg, and benadryl 25 or 50 mg will sedate people quickly and safely.  They can be draw together and given in one syringe if necessary.  This combination can be given in stages if people are not responding after the first dose.  Notably, the onset of action is similar for oral and IM preparations so patient cooperation is the deciding factor in choosing route of administration.
+4) Extreme agitation: where the potential for mortal self harm is possible, benzodiazepines at high doses may be necessary, to the point of requiring intubation.
+5) Drug induced extrapydramidal symptoms:  Quetiapine (Seroquel) has a lower affinity for the D2 receptor and results in fewer parkinsonian symptoms than haloperidol.  There is some evidence for its use in the treatment of delirium, but its use in acute agitation is limited by unavailability in parenteral forms.
 

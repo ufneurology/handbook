@@ -1,58 +1,41 @@
----
-title: "Headache"
----
+# Headache
 
-ACUTE HEADACHE
 HISTORY:
- New headache or history of headaches
- Location, quality, severity
- Onset (sudden or gradual)
- Aura
- Transient visual obscurations
- Associated features (nausea/vomiting/photophobia/phonophobia/ diplopia/tinnitus)
- What medications and how much have they taken for the headache
- Worsening factors (e.g. lying down, standing up, straining)
- Diurnal pattern (e.g. worse in the morning)
- OCP or Vitamin A/retinoid use
-Chronic headache syndrome: ask about family history of headaches and screen for lifestyle factors: caffeine use,
-sleep, hydration status, frequency of analgesic use, relation to menses, stress, relation to weather
-New headache syndrome: screen for red flags such as recent head or neck trauma, chiropractor visits, fevers or
-chills, recent travel or sick contacts, altered mental state, neck stiffness, focal neurologic or visual deficits
-New headache in the elderly: screen for GCA symptoms such as fever, weight loss, jaw claudication, scalp
-tenderness, proximal limb myalgias, constitutional symptoms
-EXAM: Vital signs with particular attention to blood pressure and temperature, neurologic exam including a
-fundoscopic and visual fields exam, evaluate for nuchal rigidity, scalp tenderness and Horner’s syndrome
-WORKUP: ESR if patient >60 (corrected ESR = (age + 10 if female)/2)
+- New headache or history of headaches
+- Location, quality, severity
+- Onset (sudden or gradual)
+- Aura
+- Transient visual obscurations
+- Associated features (nausea/vomiting/photophobia/phonophobia/ diplopia/tinnitus)
+- What medications and how much have they taken for the headache
+- Worsening factors (e.g. lying down, standing up, straining)
+- Diurnal pattern (e.g. worse in the morning)
+- OCP or Vitamin A/retinoid use
+
+Chronic headache syndrome: ask about family history of headaches and screen for lifestyle factors: caffeine use, sleep, hydration status, frequency of analgesic use, relation to menses, stress, relation to weather New headache syndrome: screen for red flags such as recent head or neck trauma, chiropractor visits, fevers or chills, recent travel or sick contacts, altered mental state, neck stiffness, focal neurologic or visual deficits New headache in the elderly: screen for GCA symptoms such as fever, weight loss, jaw claudication, scalp tenderness, proximal limb myalgias, constitutional symptoms
+
+EXAM:  Vital signs with particular attention to blood pressure and temperature, neurologic exam including a fundoscopic and visual fields exam, evaluate for nuchal rigidity, scalp tenderness and Horner’s syndrome
+
+WORKUP:  ESR if patient >60 (corrected ESR = (age + 10 if female)/2)
+
 PLAN: Dictated by patient’s history and physical
+
 Differential:
-1) Meningitis: diffuse, photo/phono, meningismus, N/V, fever, malaise, irritability
-2) Encephalitis: like meningitis, plus altered mental status, seizures, focal features
-3) Subarachnoid hemorrhage: sudden-onset, WHOL, 10/10, meningismus
-4) Pseudotumor cerebri (BIH): diffuse, photo, tinnitus, vision loss, VI palsy + wt gain/Vit A/meds
-5) Carotid dissection, periorbital/auricular throbbing (carotidynia), Horner’s, TMB, focal features, double lumen
-on CTA; crescent sign on MRA with fat sats
-6) Temporal arteritis: achy, jaw claudication, myalgias, ESR > age/2 + 10, wt loss
-7) Hypertensive encephalopathy: frontal/occipital, throbbing, +/- confusion
-8) Venous sinus thrombosis: diffuse or focal, seizure, meningismus
-9) Optic neuritis/myositis: painful eye movements +/- vision loss, F>M
-10) Migraine: moderate unilateral, F>M, pulsatile, photo/phono, n/v, transient visual obscurations, scintillating
-scotomas, fortification spectra, + family history, + menstrual, + triggers. Subtypes: common (no aura, 50%),
-classic (aura, 50%), complicated (focal features, <5%), retinal (monocular vision loss), vertiginous, acephalgic
-(aura without headache)
-11) Cluster: severe unilateral, M>F, daily x wks-mths, photo/phono, autonomic features (Horner’s, tearing,
-rhinorrhea)
-12) Tension-type: bilateral, pressure, “hatband”, shoulder/neck tightness
-13) Occipital Neuralgia: unilateral over occipital region, to eye, lasts seconds
-14) Paroxysmal Hemicrania: like clusters in women, indomethacin-reponsive
-15) SUNCT syndrome: “short-lasting, unilateral, neuralgiform, conjunctival injection and tearing”
-Workup:
-R/O meningitis/encephalitis: HCT  LP (determine aseptic/viral/bacteria/fungal, etc.), broad tx
-R/O SAH: HCT  LP (HCT less likely to see blood after 48-72 hours)
-R/O Pseudotumor: HCT  LP (check OP > 20, decubitus position, legs extended after tap better)
-R/O dissection: MRI/A neck c/s gad with T1 fat sats, add MRI brain to r/o accomp infarction
-R/O temporal arteritis: TA bruit/tenderness/pulselessness, if ESR hi  steroids, bx next day
-R/O hypertensive encephalopathy: watch BP, if focal or AMS  MRI to see RPLS
-R/O VST: HCT with contrast (“empty delta sign”) vs MRV
-R/O optic neuritis/myopathy: HCT  MRI brain/orbits c/s gad, CK, admit for IV steroids for ON
-R/O acute migraine – tension-type continuum: consider HCT if new HA syndrome
+1)  Meningitis: diffuse, photo/phono, meningismus, N/V, fever, malaise, irritability
+2)  Encephalitis: like meningitis, plus altered mental status, seizures, focal features
+3)  Subarachnoid hemorrhage: sudden-onset, WHOL, 10/10, meningismus
+4)  Pseudotumor cerebri (BIH): diffuse, photo, tinnitus, vision loss, VI palsy + wt gain/Vit A/meds
+5)  Carotid dissection, periorbital/auricular throbbing (carotidynia), Horner’s, TMB, focal features, double lumen on CTA; crescent sign on MRA with fat sats
+6)  Temporal arteritis: achy, jaw claudication, myalgias, ESR > age/2 + 10, wt loss
+7)  Hypertensive encephalopathy: frontal/occipital, throbbing, +/- confusion
+8)  Venous sinus thrombosis: diffuse or focal, seizure, meningismus
+9)  Optic neuritis/myositis: painful eye movements +/- vision loss, F>M
+10)  Migraine: moderate unilateral, F>M, pulsatile, photo/phono, n/v, transient visual obscurations, scintillating scotomas, fortification spectra, + family history, + menstrual, + triggers.  Subtypes: common (no aura, 50%), classic (aura, 50%), complicated (focal features, <5%), retinal (monocular vision loss), vertiginous, acephalgic (aura without headache)
+11)  Cluster: severe unilateral, M>F, daily x wks-mths, photo/phono, autonomic features (Horner’s, tearing, rhinorrhea)
+12)  Tension-type: bilateral, pressure, “hatband”, shoulder/neck tightness
+13)  Occipital Neuralgia: unilateral over occipital region, to eye, lasts seconds
+14)  Paroxysmal Hemicrania: like clusters in women, indomethacin-reponsive
+15)  SUNCT syndrome: “short-lasting, unilateral, neuralgiform, conjunctival injection and tearing”
+
+Workup: R/O meningitis/encephalitis:  HCT  LP (determine aseptic/viral/bacteria/fungal, etc.), broad tx R/O SAH: HCT  LP  (HCT less likely to see blood after 48-72 hours) R/O Pseudotumor:  HCT  LP (check OP > 20, decubitus position, legs extended after tap better) R/O dissection:  MRI/A neck c/s gad with T1 fat sats, add MRI brain to r/o accomp infarction R/O temporal arteritis: TA bruit/tenderness/pulselessness, if ESR hi   steroids, bx next day R/O hypertensive encephalopathy: watch BP, if focal or AMS  MRI to see RPLS R/O VST: HCT with contrast (“empty delta sign”) vs MRV R/O optic neuritis/myopathy: HCT  MRI brain/orbits c/s gad, CK, admit for IV steroids for ON R/O acute migraine – tension-type continuum:  consider HCT if new HA syndrome
 

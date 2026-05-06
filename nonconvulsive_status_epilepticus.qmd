@@ -1,50 +1,41 @@
----
-title: "Nonconvulsive Status Epilepticus"
----
+# Nonconvulsive Status Epilepticus
 
 UF NON-CONVULSIVE STATUS EPILEPTICUS PROTOCOL (ADULT)
+
 Immediately:
-• Order lorazepam STAT
-• First 5 min give 2mg lorazepam IVP over 2 min
-• If still seizing, then repeat dose of 1-2 mg to total of 0.1mg/kg
-• Watch for hypotension and respiratory depression
-• Order STAT EEG
+
+- Order lorazepam STAT
+- First 5 min give 2mg lorazepam IVP over 2 min
+- If still seizing, then repeat dose of 1-2 mg to total of 0.1mg/kg
+- Watch for hypotension and respiratory depression
+- Order STAT EEG
+
 5-30 min
-• Order STAT fosphenytoin 20 mg PE/kg at rate of 150 mg PE/min (slow rate if hypotension occurs)
-Maximum dose = 2000 mg
-• Order Free phenytoin level 2 hours after load. Goal free PHT level of 2-3
-• If level at goal , start maintenance fosphenytoin 5 mg PE/kg in 3 divided doses per day
-• If level not at goal, redose using calculation: 0.8 x (weight in kg) x (desired - actual level)
-x10 = mini-load in mg
-• can round to nearest 250 mg
-• Monitor for hypotension and cardiac arrhythmias
+
+- Order STAT fosphenytoin 20 mg PE/kg at rate of 150 mg PE/min (slow rate if hypotension occurs) Maximum dose = 2000 mg
+- Order Free phenytoin level 2 hours after load.   Goal free PHT level of 2-3
+- If level at goal , start maintenance fosphenytoin 5 mg PE/kg in 3 divided doses per day
+- If level not at goal, redose using calculation: 0.8 x (weight in kg) x (desired
+- actual level) x10 = mini-load in mg
+- can round to nearest 250 mg
+
+- Monitor for hypotension and cardiac arrhythmias
+
 By 30 min
-• Call NeuroCCM fellow phone (352-745-1912) for NICU bed
-• Convert STAT EEG to Long term video EEG monitoring
-• Call Epilepsy attending and Neurocritical Care team for further management recommendations and
-discussion
-• Options:
-• Valproic acid: Load IV 40mg/kg; Maintenance: 30 mg/kg/day divided every 8 hours
-(max dose 60 mg/kg/day) *Avoid use with liver failure
-• Lacosamide 400mg bolus ; Maintenance dose: 200 mg IV q 12 hours (max dose 600 mg
-daily) *Monitor for PR prolongation
-• Levetiracetam 60 mg/kg loading dose; Maintenance dose: 1000 mg IV every 12 hours
-(max dose 12,000 mg daily)
-• Phenobarbital total loading dose of 20 mg/kg, divided into smaller 5 mg/kg loading doses
-at a rate of 10 mg per minute, repeated every two hours until total load given (can be
-given in non-intubated patient but not preferred, reduced risk of hypotension/ respiratory
-suppression, typical rate for convulsive status in intubated patient is 60 mg per minute)
-*Monitor for respiratory depression, hypotension
-• If nonconvulsive seizures continue, intubate and load with midazolam 0.2 mg/kg IV bolus, may repeat
-bolus dose after 5 minutes if seizures not controlled. Start maintenance dose at 0.1 mg/kg/hr, may
-increase by 0.1 mg/kg/hr every 20-30 minutes until seizures controlled (usual dose 0.2-0.4 mg/kg/hr;
-max dose 2.9 mg/kg/hr) *monitor for hypotension (patient must be intubated)
-• If still having nonconvulsive seizures: consider pentobarbital coma (MUST be ordered by CCM) in
-consultation with Epilepsy attending and General Neurology attending with further management to be
-determined on a case by case basis
+- Call NeuroCCM fellow phone (352-745-1912) for NICU bed
+- Convert STAT EEG to Long term video EEG monitoring
+- Call Epilepsy attending and Neurocritical Care team for further management recommendations and discussion
+- Options:
+- Valproic acid: Load IV 40mg/kg; Maintenance: 30 mg/kg/day divided every 8 hours (max dose 60 mg/kg/day) *Avoid  use with liver failure
+- Lacosamide 400mg bolus ; Maintenance dose: 200 mg IV q 12 hours (max dose 600 mg daily)   *Monitor for PR prolongation
+- Levetiracetam 60 mg/kg loading dose; Maintenance dose: 1000 mg IV every 12 hours (max dose 12,000 mg daily)
+- Phenobarbital total loading dose of 20 mg/kg, divided into smaller 5 mg/kg loading doses at a rate of 10 mg per minute, repeated every two hours until total load given (can be given in non-intubated patient but not preferred, reduced risk of hypotension/ respiratory suppression, typical rate for convulsive status in intubated patient is 60 mg per minute) *Monitor for respiratory depression, hypotension
+- If nonconvulsive seizures continue, intubate and load with midazolam 0.2 mg/kg IV bolus, may repeat bolus dose after 5 minutes if seizures not controlled.  Start maintenance dose at 0.1 mg/kg/hr, may increase by 0.1 mg/kg/hr every 20-30 minutes until seizures controlled (usual dose 0.2-0.4 mg/kg/hr; max dose 2.9 mg/kg/hr) *monitor for hypotension  (patient must be intubated)
+- If  still having nonconvulsive seizures: consider pentobarbital coma (MUST be ordered by CCM) in consultation with Epilepsy attending and General Neurology attending with further management to be determined on a case by case basis
+
 Important Practice Points
- Make sure ED weighs patient on arrival; this protocol is contingent on WEIGHT BASED DOSING.
- Make sure that timing of doses, infusion rate and actual doses are accurate prior to order (see EPIC
-status epilepticus order set once available)
- If fosphenytoin is not available, can use equivalent dose of phenytoin
+
+- Make sure ED weighs patient on arrival; this protocol is contingent on WEIGHT BASED DOSING.
+- Make sure that timing of doses, infusion rate and actual doses are accurate prior to order (see EPIC status epilepticus order set once available)
+- If fosphenytoin is not available, can use equivalent dose of phenytoin
 
