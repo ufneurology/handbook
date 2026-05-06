@@ -5,6 +5,8 @@ project:
 website:
   title: "UF Neurology Handbook"
   search: true
+  repo-url: https://ufneurology.github.io/handbook/
+  repo-actions: [edit, issue]
 
   navbar:
     left:
@@ -110,5 +112,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-    toc-depth: 3
-    page-layout: full
+    smooth-scroll: true
+    number-sections: true
+    repo-url: https://github.com/ufneurology/handbook
+    repo-actions: [edit, source, issue]
