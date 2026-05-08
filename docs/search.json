@@ -401,9 +401,58 @@
   {
     "objectID": "neurologic_examination.html",
     "href": "neurologic_examination.html",
-    "title": "1 Neurologic Examination",
+    "title": "Neurologic Examination",
     "section": "",
-    "text": "1 Neurologic Examination\nTHE NEUROLOGICAL EXAMINATION\nMental Status\nArousal state: Alert, Sleepy, Lethargic, Stuporous, Coma. Best to describe (e.g. opens eyes spontaneously vs tovoice vs sternal rub vs deep pain) Attention: spell WORLD backwards, months backwards, serial 7’s, count from 20 to 1 Language: Fluency, repetition, naming, reading, writing, comprehension (1-step midline vs appendicular commands vs 2-step vs 2-step reversed grammar (touch your nose after pointing to the ceiling) Fund of Knowledge- current events, quality of medical Hx Praxis: Show me how you use a hammer Memory: 3-5 objects at 1 minute, digit span (avg 7), story retelling. Distant memory. Visuospatial: Organization of space (clock drawing, complex figure copy) Neglect- extinction, line bisection, target elimination Executive: Organization of knowledge, inhibition, sequencing, perseveration Verbal fluency: name animals in 1 minute (&gt;20 is nml) Oral trails (A1, B2, 3C….), Luria 3-step (fist, edge, palm) registration and repeat 3 times. Go/no go (e.g. raise your hand every time I say a letter, except when I say ‘D’) Cranial Nerves Fundus—disc/vasculature/venous pulsations/retina Visual acuity (pinhole to correct refraction), color vision (especially red desaturation) Visual fields (cut/neglect) Pupils- size, reactivity, ptosis Extraocular mm- saccades and smooth pursuit (ductions-both eyes, versions-one eye, alignment) Face sensation—LT/PP/temp, v1-v3 dist, corneal reflex Face strength— central vs peripheral, hyperacusis, dysgusia, corneal dehydration Hearing— hi/lo pitch, Weber, Rinne. Finger rub is usually enough. Vestibular- VOR, past pointing, Fukuda march test, Dix-Hallpike, nystagmus Palate elevation—Aaaah, gag, uvula position, myoclonus (CTT lesion) SCM strength/bulk—innervates ipsi SCM, contra trap Tongue—position, bulk, fasciculations, strength (tongue against cheek) Motor Bulk (atrophy, fasciculations) Tone (flaccid, spastic/clasp knife, rigid/lead pipe), abnl mvmt (freq, amp, rest, action, tremor) Strength: Drift, satelliting, isolated muscles (3=antigravity), functional tests- heel/toe walking, rise from chair with arms crossed, squat, deep knee bend Sensory Extremities/trunk/back/perineum. Look for a sensory level; Romberg Anterolateral system (temp/pp/some ft) Dorsal Columns (lt/vib/discrimination/proprioception/some ft) Cortical sensory signs- graphasthesia, extinction, stereoagnosia Coordination Midline/vermis: trunk/hemispheres: appendicular coordination FTN, HTS, titubation, optic ataxia, nystagmus, rhythm testing (RAM) Reflexes DTRs: 0 to 4+: 3= spread of reflex, not amplitude of response, Jaw jerk (to distinguish cord/brain) Frontal release (glabellar, rooting, snouting, palmomental, grasp) Hoffman/Babinski, clonus Gait Base of stance, Stability of stance (provocation), posture, Initiation of gait, Stepping, Base of gait, Arm swing, Turning strength and balance–tandem walk"
+    "text": "The neurological examination provides a systematic framework for assessing mental status, cranial nerve function, motor and sensory systems, coordination, reflexes and gait. Each domain has specific elements that must be evaluated to localize pathology and quantify deficits. The following structured approach preserves the content of the original handbook while organizing it in a digital-friendly format."
+  },
+  {
+    "objectID": "neurologic_examination.html#mental-status",
+    "href": "neurologic_examination.html#mental-status",
+    "title": "Neurologic Examination",
+    "section": "1 Mental Status",
+    "text": "1 Mental Status\n\nArousal state: Alert, sleepy, lethargic, stuporous, coma. Describe the stimulus required to elicit a response (e.g., opens eyes spontaneously vs to voice vs sternal rub vs deep pain).\nAttention: Spell WORLD backwards, recite the months backwards, perform serial 7’s, or count from 20 to 1.\nLanguage: Evaluate fluency, repetition, naming, reading, writing and comprehension. Test one‑step commands (midline vs appendicular), two‑step commands, and reversed grammar commands (e.g., “touch your nose after pointing to the ceiling”).\nFund of knowledge: Assess current events and quality of medical history.\nPraxis: Ask the patient to show how to use a hammer.\nMemory: Recall 3–5 objects at 1 minute, assess digit span (average 7) and story retelling; probe distant memory.\nVisuospatial function: Assess organization of space with tasks such as clock drawing or copying a complex figure.\nNeglect: Check for extinction, perform line bisection and target elimination tests.\nExecutive function: Examine organization of knowledge, inhibition, sequencing and perseveration.\nVerbal fluency: Ask the patient to name animals in 1 minute (&gt; 20 is normal).\nOral trails: Sequence letters and numbers (e.g., A1, B2, 3C…) and perform the Luria 3‑step (fist, edge, palm) registration and repetition three times.\nGo/no go: For example, instruct the patient to raise their hand every time a letter is stated except when you say “D”."
+  },
+  {
+    "objectID": "neurologic_examination.html#cranial-nerves",
+    "href": "neurologic_examination.html#cranial-nerves",
+    "title": "Neurologic Examination",
+    "section": "2 Cranial Nerves",
+    "text": "2 Cranial Nerves\n\nFundus: Inspect the disc, vasculature, venous pulsations and retina.\nVisual acuity: Check using a pinhole to correct for refraction; assess color vision, particularly red desaturation.\nVisual fields: Assess for field cuts or neglect.\nPupils: Evaluate size, reactivity and presence of ptosis.\nExtra‑ocular muscles: Assess saccades and smooth pursuit; test ductions (both eyes), versions (one eye) and alignment.\nFace sensation: Test light touch, pinprick and temperature in the V1–V3 distribution; assess the corneal reflex.\nFace strength: Distinguish central vs peripheral weakness; evaluate for hyperacusis, dysgeusia and corneal dehydration.\nHearing: Test high and low pitch, perform Weber and Rinne tests (a finger rub is often sufficient).\nVestibular function: Examine the vestibulo‑ocular reflex (VOR), past pointing, Fukuda march test, Dix–Hallpike maneuver and look for nystagmus.\nPalate elevation: Observe palate elevation (“aaaah”), gag reflex, uvula position and look for myoclonus (suggesting central tegmental tract lesions).\nSternocleidomastoid (SCM) strength and bulk: Remember that the SCM is innervated ipsilaterally, whereas the trapezius receives contralateral innervation.\nTongue: Assess position, bulk, fasciculations and strength (e.g., tongue against cheek)."
+  },
+  {
+    "objectID": "neurologic_examination.html#motor-system",
+    "href": "neurologic_examination.html#motor-system",
+    "title": "Neurologic Examination",
+    "section": "3 Motor System",
+    "text": "3 Motor System\n\nBulk: Look for atrophy and fasciculations.\nTone: Describe whether it is flaccid, spastic/clasp‑knife or rigid/lead‑pipe; note abnormal movements (frequency, amplitude, rest and action tremors).\nStrength: Assess for drift, satelliting and isolated muscle strength (3 = antigravity strength).\nFunctional tests: Have the patient walk on their heels and toes, rise from a chair with arms crossed, squat and perform a deep knee bend."
+  },
+  {
+    "objectID": "neurologic_examination.html#sensory-system",
+    "href": "neurologic_examination.html#sensory-system",
+    "title": "Neurologic Examination",
+    "section": "4 Sensory System",
+    "text": "4 Sensory System\n\nRegions: Examine extremities, trunk, back and perineum, and look for a sensory level. Perform the Romberg test.\nAnterolateral system: Test temperature, pinprick and some fine touch modalities.\nDorsal columns: Evaluate light touch, vibration, discrimination, proprioception and some fine touch.\nCortical sensory signs: Assess graphesthesia, extinction and stereognosis."
+  },
+  {
+    "objectID": "neurologic_examination.html#coordination",
+    "href": "neurologic_examination.html#coordination",
+    "title": "Neurologic Examination",
+    "section": "5 Coordination",
+    "text": "5 Coordination\n\nMidline/vermis function: Assess axial or truncal coordination.\nHemispheric function: Evaluate appendicular coordination.\nTests: Perform finger‑to‑nose (FTN) and heel‑to‑shin (HTS) testing, look for titubation and optic ataxia, observe for nystagmus and evaluate rapid alternating movements (RAM)."
+  },
+  {
+    "objectID": "neurologic_examination.html#reflexes",
+    "href": "neurologic_examination.html#reflexes",
+    "title": "Neurologic Examination",
+    "section": "6 Reflexes",
+    "text": "6 Reflexes\n\nDeep tendon reflexes (DTRs): Grade 0 to 4+. A grade of 3+ represents spread of the reflex, not increased amplitude. A jaw jerk can help distinguish between cord and brain lesions.\nFrontal release signs: Look for glabellar, rooting, snouting, palmomental and grasp reflexes.\nPathological signs: Evaluate for Hoffman and Babinski signs and clonus."
+  },
+  {
+    "objectID": "neurologic_examination.html#gait",
+    "href": "neurologic_examination.html#gait",
+    "title": "Neurologic Examination",
+    "section": "7 Gait",
+    "text": "7 Gait\nDuring gait assessment observe the base of stance, stability under provocation, posture, initiation of gait, stepping pattern, base of gait and arm swing. Evaluate turning strength and balance by tandem walking."
   },
   {
     "objectID": "neuromuscular.html",

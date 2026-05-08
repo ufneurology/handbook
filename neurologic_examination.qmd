@@ -1,8 +1,67 @@
-# Neurologic Examination
+---
+title: "Neurologic Examination"
+toc: true
+page-layout: article
+---
 
-THE NEUROLOGICAL EXAMINATION
+The neurological examination provides a systematic framework for assessing mental status, cranial nerve function, motor and sensory systems, coordination, reflexes and gait.  Each domain has specific elements that must be evaluated to localize pathology and quantify deficits.  The following structured approach preserves the content of the original handbook while organizing it in a digital-friendly format.
 
-Mental Status
+## Mental Status
 
-Arousal state: Alert, Sleepy, Lethargic, Stuporous, Coma. Best to describe (e.g. opens eyes spontaneously vs tovoice vs sternal rub vs deep pain) Attention: spell WORLD backwards, months backwards, serial 7’s, count from 20 to 1 Language: Fluency, repetition, naming, reading, writing, comprehension (1-step midline vs appendicular commands vs 2-step vs 2-step reversed grammar (touch your nose after pointing to the ceiling) Fund of Knowledge- current events, quality of medical Hx Praxis: Show me how you use a hammer Memory: 3-5 objects at 1 minute, digit span (avg 7), story retelling. Distant memory. Visuospatial: Organization of space (clock drawing, complex figure copy) Neglect- extinction, line bisection, target elimination Executive: Organization of knowledge, inhibition, sequencing, perseveration Verbal fluency: name animals in 1 minute (>20 is nml) Oral trails (A1, B2, 3C....), Luria 3-step (fist, edge, palm) registration and repeat 3 times. Go/no go (e.g. raise your hand every time I say a letter, except when I say ‘D’) Cranial Nerves Fundus—disc/vasculature/venous pulsations/retina Visual acuity (pinhole to correct refraction), color vision (especially red desaturation) Visual fields (cut/neglect) Pupils- size, reactivity, ptosis Extraocular mm- saccades and smooth pursuit (ductions-both eyes, versions-one eye, alignment) Face sensation—LT/PP/temp, v1-v3 dist, corneal reflex Face strength— central vs peripheral, hyperacusis, dysgusia, corneal dehydration Hearing— hi/lo pitch, Weber, Rinne. Finger rub is usually enough. Vestibular- VOR, past pointing, Fukuda march test, Dix-Hallpike, nystagmus Palate elevation—Aaaah, gag, uvula position, myoclonus (CTT lesion) SCM strength/bulk—innervates ipsi SCM, contra trap Tongue—position, bulk, fasciculations, strength (tongue against cheek) Motor Bulk (atrophy, fasciculations) Tone (flaccid, spastic/clasp knife, rigid/lead pipe), abnl mvmt (freq, amp, rest, action, tremor) Strength: Drift, satelliting, isolated muscles (3=antigravity), functional tests- heel/toe walking, rise from chair with arms crossed, squat, deep knee bend Sensory Extremities/trunk/back/perineum. Look for a sensory level; Romberg Anterolateral system (temp/pp/some ft) Dorsal Columns (lt/vib/discrimination/proprioception/some ft) Cortical sensory signs- graphasthesia, extinction, stereoagnosia Coordination Midline/vermis: trunk/hemispheres: appendicular coordination FTN, HTS, titubation, optic ataxia, nystagmus, rhythm testing (RAM) Reflexes DTRs: 0 to 4+:  3= spread of reflex, not amplitude of response, Jaw jerk (to distinguish cord/brain) Frontal release (glabellar, rooting, snouting, palmomental, grasp) Hoffman/Babinski, clonus Gait Base of stance, Stability of stance (provocation), posture, Initiation of gait, Stepping, Base of gait, Arm swing, Turning strength and balance–tandem walk
+* **Arousal state:** Alert, sleepy, lethargic, stuporous, coma.  Describe the stimulus required to elicit a response (e.g., opens eyes spontaneously vs to voice vs sternal rub vs deep pain).
+* **Attention:** Spell **WORLD** backwards, recite the months backwards, perform serial 7’s, or count from 20 to 1.
+* **Language:** Evaluate fluency, repetition, naming, reading, writing and comprehension.  Test one‑step commands (midline vs appendicular), two‑step commands, and reversed grammar commands (e.g., “touch your nose after pointing to the ceiling”).
+* **Fund of knowledge:** Assess current events and quality of medical history.
+* **Praxis:** Ask the patient to show how to use a hammer.
+* **Memory:** Recall 3–5 objects at 1 minute, assess digit span (average 7) and story retelling; probe distant memory.
+* **Visuospatial function:** Assess organization of space with tasks such as clock drawing or copying a complex figure.
+* **Neglect:** Check for extinction, perform line bisection and target elimination tests.
+* **Executive function:** Examine organization of knowledge, inhibition, sequencing and perseveration.
+* **Verbal fluency:** Ask the patient to name animals in 1 minute (> 20 is normal).
+* **Oral trails:** Sequence letters and numbers (e.g., A1, B2, 3C…) and perform the Luria 3‑step (fist, edge, palm) registration and repetition three times.
+* **Go/no go:** For example, instruct the patient to raise their hand every time a letter is stated except when you say “D”.
 
+## Cranial Nerves
+
+* **Fundus:** Inspect the disc, vasculature, venous pulsations and retina.
+* **Visual acuity:** Check using a pinhole to correct for refraction; assess color vision, particularly red desaturation.
+* **Visual fields:** Assess for field cuts or neglect.
+* **Pupils:** Evaluate size, reactivity and presence of ptosis.
+* **Extra‑ocular muscles:** Assess saccades and smooth pursuit; test ductions (both eyes), versions (one eye) and alignment.
+* **Face sensation:** Test light touch, pinprick and temperature in the V1–V3 distribution; assess the corneal reflex.
+* **Face strength:** Distinguish central vs peripheral weakness; evaluate for hyperacusis, dysgeusia and corneal dehydration.
+* **Hearing:** Test high and low pitch, perform Weber and Rinne tests (a finger rub is often sufficient).
+* **Vestibular function:** Examine the vestibulo‑ocular reflex (VOR), past pointing, Fukuda march test, Dix–Hallpike maneuver and look for nystagmus.
+* **Palate elevation:** Observe palate elevation (“aaaah”), gag reflex, uvula position and look for myoclonus (suggesting central tegmental tract lesions).
+* **Sternocleidomastoid (SCM) strength and bulk:** Remember that the SCM is innervated ipsilaterally, whereas the trapezius receives contralateral innervation.
+* **Tongue:** Assess position, bulk, fasciculations and strength (e.g., tongue against cheek).
+
+## Motor System
+
+* **Bulk:** Look for atrophy and fasciculations.
+* **Tone:** Describe whether it is flaccid, spastic/clasp‑knife or rigid/lead‑pipe; note abnormal movements (frequency, amplitude, rest and action tremors).
+* **Strength:** Assess for drift, satelliting and isolated muscle strength (3 = antigravity strength).
+* **Functional tests:** Have the patient walk on their heels and toes, rise from a chair with arms crossed, squat and perform a deep knee bend.
+
+## Sensory System
+
+* **Regions:** Examine extremities, trunk, back and perineum, and look for a sensory level.  Perform the Romberg test.
+* **Anterolateral system:** Test temperature, pinprick and some fine touch modalities.
+* **Dorsal columns:** Evaluate light touch, vibration, discrimination, proprioception and some fine touch.
+* **Cortical sensory signs:** Assess graphesthesia, extinction and stereognosis.
+
+## Coordination
+
+* **Midline/vermis function:** Assess axial or truncal coordination.
+* **Hemispheric function:** Evaluate appendicular coordination.
+* **Tests:** Perform finger‑to‑nose (FTN) and heel‑to‑shin (HTS) testing, look for titubation and optic ataxia, observe for nystagmus and evaluate rapid alternating movements (RAM).
+
+## Reflexes
+
+* **Deep tendon reflexes (DTRs):** Grade 0 to 4+.  A grade of 3+ represents spread of the reflex, not increased amplitude.  A jaw jerk can help distinguish between cord and brain lesions.
+* **Frontal release signs:** Look for glabellar, rooting, snouting, palmomental and grasp reflexes.
+* **Pathological signs:** Evaluate for Hoffman and Babinski signs and clonus.
+
+## Gait
+
+During gait assessment observe the base of stance, stability under provocation, posture, initiation of gait, stepping pattern, base of gait and arm swing.  Evaluate turning strength and balance by tandem walking.
