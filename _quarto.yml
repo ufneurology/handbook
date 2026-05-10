@@ -22,8 +22,8 @@ website:
           - altered_mental_status_workup.qmd
           - delirium_management.qmd
           - dermatomes.qmd
-          - lower_extremity_strength_testing.qmd
-          - upper_extremity_strength_testing.qmd
+          - lower_extremity_strength.qmd
+          - upper_extremity_strength.qmd
 
       - text: Vascular / Stroke
         menu:
@@ -54,7 +54,7 @@ website:
 
       - text: Neurocritical Care
         menu:
-          - neurocritical_care.qmd
+          - intracranial_vascular_malformation.qmd
           - icp_and_herniation_management.qmd
           - mechanical_ventilation.qmd
           - sodium_management.qmd

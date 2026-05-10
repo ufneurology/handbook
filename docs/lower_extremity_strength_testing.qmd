@@ -1,0 +1,38 @@
+# Lower Extremity Strength Testing
+
+Action Muscles Nerves Nerve Roots
+
+Hip flexion Iliopsoas Femoral nerve, and L1- L3 nerve roots L1, L2, L3, L4
+
+Knee extension Quadriceps Femoral nerve L2, L3, L4
+
+Knee flexion Hamstrings (semitendinosus, semimembranosus, biceps femoris) Sciatic nerve L5, S1, S2
+
+Leg abduction Gluteus medius, Gluteus minimus, Tensor fasciae latae Superior gluteal nerve L4, L5, S1
+
+Leg adduction Obturator externus, Adductor longus, magnus, and brevis, Gracilis Obturator nerve L2, L3, L4
+
+Toe dorsiflexion Extensor hallucis longus, Extensor digitorum longus Deep peroneal nerve L5, S1
+
+Foot dorsiflexion Tibialis anterior Deep peroneal nerve L4, L5
+
+Foot plantar flexion Triceps surae (gastrocnemius, soleus) Tibial nerve S1, S2
+
+Foot eversion Peroneus longus, Peroneus brevis Superficial peroneal nerve L5, S1
+
+Foot inversion Tibalis posterior Tibal nerve L4, L5
+
+Segmental Reflex Innervation:
+
+Muscle Primary Nerve Root
+
+Biceps C6
+
+Triceps C7
+
+Brachioradialis    C6
+
+Knee L4
+
+Ankle S1
+

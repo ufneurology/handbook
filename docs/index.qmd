@@ -1,0 +1,156 @@
+---
+title: "UF Neurology Living Handbook"
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+# UF Neurology Living Handbook
+
+A practical index for neurology residents, fellows, and faculty.
+
+Use the search bar or browse by topic below.
+:::
+
+## General Neurology
+
+<div class="index-list">
+
+- [Neurologic Examination](neurologic_examination.qmd)
+- [Mental Status Exam](mental_status_exam.qmd)
+- [Dementia and Aphasia](dementia_and_aphasia.qmd)
+- [Encephalopathy](encephalopathy.qmd)
+- [Altered Mental Status Workup](altered_mental_status_workup.qmd)
+- [Delirium Management](delirium_management.qmd)
+- [Dermatomes](dermatomes.qmd)
+- [Upper Extremity Strength Testing](upper_extremity_strength_testing.qmd)
+- [Lower Extremity Strength Testing](lower_extremity_strength_testing.qmd)
+
+</div>
+
+## Vascular / Stroke
+
+<div class="index-list">
+
+- [Vascular Neurology](vascular_neurology.qmd)
+- [Stroke Alert](stroke_alert.qmd)
+- [VA Stroke Alert](va_stroke_alert.qmd)
+- [Stroke Admission Orders](stroke_admission_orders.qmd)
+- [Intracerebral Hemorrhage](intracerebral_hemorrhage.qmd)
+- [Subarachnoid Hemorrhage](subarachnoid_hemorrhage.qmd)
+- [Anticoagulation Reversal](anticoagulation_reversal.qmd)
+- [TIA Risk Stratification and Stroke Mechanisms](tia_risk_stratification_and_stroke_mechanisms.qmd)
+- [Modified Rankin Scale](modified_rankin_scale.qmd)
+- [NIHSS and Tools](nihss_and_tools.qmd)
+
+</div>
+
+## Emergencies
+
+<div class="index-list">
+
+- [Seizure Consult](seizure_consult.qmd)
+- [Convulsive Status Epilepticus](convulsive_status_epilepticus.qmd)
+- [Nonconvulsive Status Epilepticus](nonconvulsive_status_epilepticus.qmd)
+- [Lumbar Puncture](lumbar_puncture.qmd)
+- [Cardiac Arrest](cardiac_arrest.qmd)
+- [Brain Death](brain_death.qmd)
+- [TBI](tbi.qmd)
+- [Cervical Spine Clearance](cervical_spine_clearance.qmd)
+- [Movement Disorder Emergencies](movement_disorder_emergencies.qmd)
+- [Neuro-Ophthalmologic Emergencies](neuro_ophthalmologic_emergencies.qmd)
+- [Neuro-Oncology Complications and Emergencies](neuro_oncology_complications_and_emergencies.qmd)
+
+</div>
+
+## Neurocritical Care
+
+<div class="index-list">
+
+- [Neurocritical Care](neurocritical_care.qmd)
+- [ICP and Herniation Management](icp_and_herniation_management.qmd)
+- [Mechanical Ventilation](mechanical_ventilation.qmd)
+- [Sodium Management](sodium_management.qmd)
+- [Fluids](fluids.qmd)
+- [Blood Pressure Pharmacology](blood_pressure_pharmacology.qmd)
+- [Common Critical Care Pharmacology](common_critical_care_pharmacology.qmd)
+- [Drug Pharmacokinetics Affecting Neuro Exam](drug_pharmacokinetics_affecting_neuro_exam.qmd)
+- [Management of PSH](management_of_psh.qmd)
+
+</div>
+
+## Epilepsy
+
+<div class="index-list">
+
+- [Epilepsy](epilepsy.qmd)
+- [Antiseizure Medications](antiseizure_medications.qmd)
+
+</div>
+
+## Headache
+
+<div class="index-list">
+
+- [Headache](headache.qmd)
+- [Acute Headache Management](acute_headache_management.qmd)
+- [DHE Protocol](dhe_protocol.qmd)
+- [Headache in Pregnancy](headache_in_pregnancy.qmd)
+- [Idiopathic Intracranial Hypertension](idiopathic_intracranial_hypertension.qmd)
+
+</div>
+
+## Neuromuscular
+
+<div class="index-list">
+
+- [Neuromuscular](neuromuscular.qmd)
+- [Myasthenia Gravis](myasthenia_gravis.qmd)
+- [Guillain-Barré Syndrome / AIDP](guillain_barre_syndrome_aidp.qmd)
+
+</div>
+
+## Neuroimmunology
+
+<div class="index-list">
+
+- [Neuroimmunology](neuroimmunology.qmd)
+- [Multiple Sclerosis](multiple_sclerosis.qmd)
+- [Optic Neuritis and Transverse Myelitis](optic_neuritis_and_transverse_myelitis.qmd)
+
+</div>
+
+## Neurotology
+
+<div class="index-list">
+
+- [Neurotology](neurotology.qmd)
+- [Dizziness Evaluation](dizziness_evaluation.qmd)
+- [Etiologies of Dizziness](etiologies_of_dizziness.qmd)
+
+</div>
+
+## Movement Disorders
+
+<div class="index-list">
+
+- [Acute Manifestations of Parkinson Disease](acute_manifestations_of_parkinson_disease.qmd)
+- [Neuroleptic Malignant Syndrome, Serotonin Syndrome, and Acute Dystonia](neuroleptic_malignant_syndrome,_serotonin_syndrome,_and_acute_dystonia.qmd)
+
+</div>
+
+## Infectious / Other
+
+<div class="index-list">
+
+- [Neuroinfectious Disease](neuroinfectious_disease.qmd)
+
+</div>
+
+## About
+
+<div class="index-list">
+
+- [About This Handbook](about.qmd)
+
+</div>

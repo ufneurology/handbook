@@ -1,0 +1,44 @@
+# Headache in Pregnancy
+
+Primary Headaches
+1)  Migraine headache:  in general, retrospective studies have suggested that migraine frequency and severity decrease during pregnancy, particularly during the 2nd and 3rd trimesters.  A prospective study of 49 patients showed 79% had complete remission of headaches by the third trimester. By one month postpartum, 50% had recurrence of migraine.
+2)  Tension Headaches:  no change in frequency during pregnancy, but few data exist
+
+Secondary Headaches
+- Pseudotumor cerebri:  see other section
+- Pre-eclampsia: new hypertension >140/90,  proteinuria>300mg/dL; headache may precede development of serious neurologic sequelae (i.e. eclampsia with seizures)
+- Subarachnoid hemorrhage: incidence may be higher in pregnancy (between 0.9-5/10,000) and during the six weeks postpartum, risk of SAH increases 28-fold
+- Cerebral Venous Thrombosis: occurs in 1/2500-10,000 deliveries; especially likely if associated hypercoagulable states (protein C/S or antithrombin III deficiency, antiphospholipid antibody syndrome). Can occur up to 2-8 weeks postpartum, too!
+- Postdural Puncture/Nonpostdural puncture: can occur with epidural & spinal anesthesia (CSF leak, pneumocephalus; other complications-subdural hematoma, aseptic/septic meningitis)
+
+Workup:
+1)  Worrisome features: new-onset headache, change in pattern, visual changes, speech abnormalities, focal neuro signs/sxs, meningeal signs, trauma, seizure, history of malignancy
+2)  Detailed headache history & neurologic ROS; medications, diet
+3)  Vitals, neuro exam (including funduscopic exam)
+4)  Labs (urinalysis, pre-eclampsia labs)
+5)  Imaging: if you suspect SAH  non-contrast head CT (sensitivity ~90% in first 24 h of onset); it takes 50-100 head CTs to reach a concerning level of radiation exposure (5 rads!)
+
+if you suspect venous sinus thrombosis   MRI/MRV (although, if necessary, a CT venogram can be done).  The National Radiological Protection Board advises against MRI in the first trimester, but there is no evidence to support the advisory.
+6)  LP: if imaging reveals no hemorrhage and the suspicion remains high, lumbar puncture is the only way to exclude SAH.  Also indicated if suspicious of meningitis.
+
+Treatment  in Pregnant Patients: What's Safe?  Usually decided by our OB/GYN colleagues…
+
+Category B – no human studies, but animal studies show no risk
+
+Category C
+- no human/ animal studies or animal studies show adverse effect
+
+Category D
+- evidence of risk to humans based on animal or human studies
+
+Category X 
+- evidence of risk to fetuses outweighs any benefit, contraindicated acetaminophen, caffeine, ibuprofen*, naproxen*, indomethacin, butorphanol, meperidine, oxycodone, hydromorphone, morphine, dichloralphenazone, Reglan (metoclopramide), fluoxetine
+
+aspirin*, codeine, hydrocodone, propoxyphene, butalbital, sumitriptan, prochlorperazine promethazine, clonazepam
+
+lorazepam, diazepam, amitriptyline, imipramine, nortriptyline
+
+* avoided in third trimester
+
+ergotamine, dihydroergotamine
+

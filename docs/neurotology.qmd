@@ -1,0 +1,43 @@
+# Neurotology
+
+THE DIZZY PATIENT
+
+Patients use the term dizziness to describe a wide variety of symptoms: vertigo, presyncope, disequilibrium, nausea, diplopia, etc. Take the best history you can, but be at peace with the fact that most patients just can’t reliably tell you what they’re feeling (“I don’t know, doc, I just felt off”). Try to sort the rest out with a good neuro exam and the special maneuvers below. If all else fails, all dizzy people over the age of 60, especially with vascular risk factors, should be fully evaluated for an acute neurovascular event.
+
+Your task in the ED is to categorize the patient into one of three groups:
+1) Benign Peripheral Positional Vertigo: History: lasts for less than 2 minutes, brought on by head movement
+
+Exam: Dix-Hallpike may produce classic mixed upbeating and torsional nystagmus towards the affected ear that starts
+
+after a delay (10-40 seconds
+- this takes patience during the exam!), then goes away after 30 seconds (“fatigues”), then the patient may feel spinning in the opposite direction upon sitting up; one side is usually much worse than the other. The response is less severe if you Dix-Hallpike them again (“fatigues”).
+
+Plan: Teach them the Epley, have them follow up with ENT if it doesn’t improve. If it really seems like BPPV without
+
+vertigo/nystagmus on Dix-Hallpike, teach them Epleys anyways; the otolith could also be in the horizontal canal, in which case the test and treatment are different
+2) Vestibular system dysfunction (vestibular neuronitis, labyrinthitis): History: lasts for hours to days; labyrinthitis has hearing loss or tinnitus, vestibular neuronitis does not
+
+Exam: Nystagmus is mixed horizontal-torsional away from the affected side. Head thrust (see vestibulocular reflex
+
+below) – vestibular system dysfunction pt breaks fixation
+
+Plan: Fluids, meclizine, steroid taper. May need admission (to medicine preferably) because they will likely continue
+
+to vomit for several more days
+3) Central vertigo: History: lasts hours to days, usually has associated symptoms (eg- dysarthria, diplopia, ataxia, weakness, etc)
+
+Exam: Central Nystagmus: Direction changing (eg. to right in right gaze, left in left-gaze), horizontal/rotatory,
+
+pendular, or vertical. There may be other brainstem or cerebellar findings on exam, but the absence of other symptoms cannot exclude a central cause. Use HINTS to INFARCT (sens 100%, spec 96%; Stroke 2009;40:3504) Tests (mnemonic: HINTS) (note, patient must be currently symptomatic for tests to be reliable)
+1. Head Impulse – ask the patient to fixate on your nose and move his/her head rapidly 30o off midline and back to center. Look for corrective saccades. Test is normal in central vertigo, abnormal with peripheral vertigo (vestibular nerve dysfunction).
+2. Nystagmus 
+- evaluate in primary gaze and horizontal/vertical gaze in all directions. Benign etiologies have unidirectional nystagmus throughout, although the intensity may be different. Central lesions have horizontal direction change (eg left-beating in left gaze, right-beating in right gaze). Vertical nystagmus is always central.
+3. Test of Skew – ask the patient to fixate on your nose and then cover/uncover each eye. If positive, you will see vertical corrective saccade/refixation when moving from one eye to the other (horizontal movement doesn’t count) Test interpretation (mnemonic: INFARCT). Concern for stroke if one or more of the following is true:
+- Impulse Normal
+- Fast-phase nystagmus Alternating
+- Refixation on Cover Test
+
+Plan: Admit as a presumed posterior circulation stroke. PICA infarctions can be subtle and can evolve over time. Be
+
+careful with use of MRI to identify these patients (especially in the ED) – hyperacute MRI may appear falsely negative in posterior fossa infarction
+

@@ -1,0 +1,90 @@
+---
+title: "Optic Neuritis and Transverse Myelitis"
+category: "Neuroimmunology"
+section_id: "optic-neuritis-transverse-myelitis"
+last_updated: "2026-07-01"
+source: "UF Neurology Resident Handbook 2026-2027"
+---
+
+# Optic Neuritis and Transverse Myelitis
+
+OPTIC NEURITIS
+
+Epi:  usually 20s-40s, 2:1 F:M
+
+Presentation:  monocular vison loss/scotoma, red desat, painful eye movements (90%), Uhtoff’s
+
+Exam: swollen disks in 1/3 only, central vision loss, poor color plates/red hatpin, +APD
+
+Workup + Admission + Treatment:
+
+- Order MRI brain and ORBITS.
+
+- Consider MRI of the spine but if no signs and symptoms, it can be done outpatient.
+
+- Consider ophthalmology consultation.
+
+- Send ON infectious work up (syphilis, bartonella, lyme), order CDS1 (CNS demyelinating panel) in serum  (AQP4 and MOG). If it is more atypical with meningitis and TM, can order MAS1 (myelopathy panel) or ENS2 in serum which includes AQP, MOG . GFAP and CRMP5.
+
+- Admit for IV Solumedrol 1g/d x 3-5 days can also do oral
+
+- If bilateral, and visual acuity worse than 20/200, long segment, consider MOG- AQP4 and can consider concomitant PLEX
+
+**ACUTE TRANSVERSE MYELITIS**
+
+**History is of outmost importance.**
+
+If hyperacute within a few hours, after lifting a heavy object, think vascular.
+
+If worsening over hours to days think autoimmune/infectious
+
+If progressive over weeks think Dural AV Fistula, compressive myelopathy, neoplasia
+
+**Approach:**
+1. MRI GAD à R/o Compression (if compression, call a surgeon). Consider MRI brain to look for MS lesions in brain.
+2. If > 3 segments that is considered a longitudinally extensive transverse myelitis LETM which changes the differential diagnosis (MS is usually short lesion) and includes, infection, NMO/AQP4, MOGAD, sarcoidosis, Dural AV fistula (dAVF).
+
+* If so, consider sending MAS1/MAC1 (it contains all the antibodies that cause myelopathies **including AQP4 and MOG**) or at least the CDS1 panel (AQP4 /MOG), obtain CSF with basic chemistries and OCB/KFLC/MBP
+* If pleocytosis, check infectious PCR, cytology, AND flow cytometry on top the Mayo panels (MAS1/MAC1 or at least CDS1) and cytokine panel (serum and CSF)- in Sarcoidosis IL-2 R is usually high and IL-6 as well ( this is a better test than *serum* -and CSF- ACE)
+* Serologic testing should include:  ANA, SSA/B, ANCA, HTLV-1, HIV-1, RPR, B12, folate, Copper, serum cytokine 13 panel, MAS1 (or at least CDS1)
+* More ancillary testing:  Chest CT (sarcoid), Lip Biopsy (Sjogren’s), Brain/Meningeal Biopsy
+
+ALWAYS LOOK AT THE SAGITAL AND AXIAL. MANY TIMES, YOU CAN TELL WHAT TYPE OF DISEASE IT IS BECAUSE OF CERTAIN CHARACTERISTICS AS FOLLOWS:
+
+AQP4: LETM, swollen the whole cord, contrast with a ring appearance.
+
+MOGAD: LETM, at times with the H sign (gray matter), similar to acute flaccid paralysis seen with arbovirus (Japanese encephalitis virus, EEE, WNV) and enterovirus. Lesions disappear with MOGAD
+
+Sarcoidosis: LETM, usually posterior enhancement, sometimes trident sign, sometimes only leptomeningeal enhancement
+
+Paraneoplastic: LETM but a tractopathy
+
+Spinal cord stroke: Owls eyes (anterior cord syndrome). Hyperacute and first MRI may be negative
+
+Dural AV fistula: LETM in the THORACIC spine, progressive course and presence of flow voids ( but sometimes there is no flow voids) if suspicion, needs to get an angiogram.
+
+**NMO: AQP4 +****. Brain MRI not consistent with MS**
+
+Dx Criteria: Core Clinical Characteristics: 1. Optic neuritis, 2. LETM, 3. Area postrema syndrome (intractable vomiting) >>  4. Acute Brainstem syndrome, 5. acute diencephalic syndrome, and/or 6. acute cerebral syndrome
+
+Additional MRI requirements: for ON: Optic Nerve MRI inflammation >1/2 optic nerve, chiasmatic lesion. For myelitis: cord lesion > 3 segments, MRI brain not c/w MS, AQ4 IgG positive (CDS1 panel)
+
+**NMOSD with AQP4-IgG:** At least 1 core clinical and a Positive AQP4-IgG. Remember Specificity is near 100% so if the patient ahs AQP4 positive, they have the disease. Sensitivity can be 75% since initially it may be false positive. Only 15% of patients have +OCB
+
+**Seronegative ****NMOSD:** At least 2 core clinical events (at least 1 has to be ON or LETM); Dissemination in space; MRI requirements as applicable
+
+Treatment:  IVMP > PLEX 5-7d > IVIg if refractory concomitantly. While in the hospital after pheresis can consider Rituximab (1000 mg once) vs Inebilizumab (IL-19, now in formulary, needs to fill a form). Also sartralizumab (IL-6), Ravalizumab (C5), and Eculizumab (C5).
+
+**MOGAD: Banwell criteria: Brain MRI not consistent with MS**
+
+- High titer 1:100-1:1000 + 1 core event: Core event (optic neuritis, myelitis, ADEM, cerebral monofocal or polyfocal deficits, brainstem or cerebellar deficits, cerebral cortical encephalitis)
+
+- Low positive titer (1:20 or 1:40), negative AQP4, + supporting MRI/clinical features including
+
+bilateral ON, longitudinal nerve involvement, perineuritis, optic disc edema (given anterior predisposition), LETM, H-sign , **conus lesion**, ADEM, deep grey involvement, ill-defined brainstem, cerebellum, cerebellar peduncle lesion, cortical cerebral encephalitis that can have leptomeningeal enhancement.
+
+Only 15% of patients have +OCB
+
+Treatment:  IVMP +/PLEX/IVIG (acute). MOGAD will need **prolonged steroid taper**.
+
+If recurrent, may warrant starting DMT such as IVIg, CellCept/prednisone, Rituximab, or Tocilizumab.

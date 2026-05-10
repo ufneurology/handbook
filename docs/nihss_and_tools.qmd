@@ -1,0 +1,49 @@
+# NIHSS and Tools
+
+rTPA Cryoprecipitate 0.1 units/kg iv if fibrinogen <200 mg/dL
+
+If bleeding is refractory or life threatening consider Aminocaproic acid 4-6 gm IV bolus, followed by continuous infusion 1g/hr for 8 h Enteric- Coated Aspirin
+
+Best supportive care (based on PATCH trial) or 1 unit single donor platelet if a surgical procedure is scheduled or bleeding is refractory (*d/w stroke attg)
+
+Can consider repeat 1 single donor unit if PFA- 100 (orderable in EPIC) is not normalized. Consider DDAVP iv or rVIIa** iv if refractory bleeding Clopidogrel (Plavix®)
+
+Best supportive care (based on PATCH trial) or 2 units of single donor platelets if a surgical procedure is scheduled or bleeding is refractory (*d/w stroke attg)
+
+Consider repeating 2 units Q12 hours until the PFA-100 and Verify Now (Plavix inhibition <20% or PRU over
+240) assays are normal. Both tests are orderable in EPIC. Consider DDAVP iv or rVIIa** iv if refractory bleeding **Per P&T committee guidelines adult hematology consult required for approval
+
+NIH Stroke Scale 1a. Level of Consciousness 0= Alert; keenly responsive 1= Not alert, but arousable by minor stimulation 2 =  Not alert, requires repeated stimulation 3 =  Responds only with reflex movements or less 1b. LOC Questions Month & age 0 =  Answers both questions correctly 1 =  Answers one question correctly 2 =  Answers neither question correctly 1c. LOC Commands Open/close eyes Open/close grip
+
+0 =  Performs both tasks correctly 1 =  Performs one task correctly 2 =  Performs neither task correctly
+2. Best Gaze 0 = Normal 1 = Partial gaze palsy 2 =  Forced deviation, or total gaze paresis
+3. Visual 0 = No visual loss 1 =  Partial hemianopia 2 = Complete hemianopia 3 =  Bilateral hemianopia (blind incl. cortical blindness)
+4. Facial Palsy 0 = Normal symmetrical movement 1 = Minor paralysis (asymmetry) 2 =  Partial paralysis (lower face) 3 = Complete paralysis (upper and lower face)
+5. &
+6. Motor Arm & Leg 0 = No drift, limb holds posture for full 10s 1 = Drift, limb holds posture, no drift to  bed 2 = Some antigravity effort, cannot maintain  posture, drifts down to bed 3 = No effort against gravity, limb falls 4 = No movement
+7. Limb Ataxia 0 =  Absent 1 =  Present in one limb 2 =  Present in two limbs
+8. Sensory 0 = Normal; no sensory loss 1 = Mild to moderate sensory loss 2 = Severe to total sensory loss
+9. Best Language 0 = No aphasia, normal 1 =  Mild to moderate aphasia 2 =  Severe aphasia 3 = Mute, global aphasia
+10. Dysarthria 0 = Normal 1 = Mild to moderate 2 =  Severe, unintelligible or mute/anarthric
+11. Extinction/Neglect 0 = No abnormality 1 = Extinction to bilateral simultaneous stimulation 2 = Profound neglect
+
+NIHSS Tools From http://www.ninds.nih.gov/doctors/NIH_Stroke_Scale.pdf
+
+You know how.
+
+Down to earth.
+
+I got home from work.
+
+Near the table in the dining room.
+
+They heard him speak on the radio last night.
+
+MAMA TIP-TOP FIFTY-FIFTY THANKS HUCKLEBERRY BASEBALL PLAYER
+
+![](images/nihss_and_tools_15_img3.png)
+
+![](images/nihss_and_tools_15_img4.jpeg)
+
+![](images/nihss_and_tools_16_img5.jpeg)
+

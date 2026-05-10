@@ -1,0 +1,35 @@
+---
+title: "Dementia and Aphasia"
+category: "Encephalopathy"
+section_id: "dementia-aphasia"
+last_updated: "2026-07-01"
+source: "UF Neurology Resident Handbook 2026-2027"
+---
+
+# Dementia and Aphasia
+
+**Rapidly Progressive Dementia Workup:**
+
+*These can be some of the most complicated cases you will see in the hospital and you will often exhaust every test imaginable searching for an etiology, but here is a basic “starter kit” to work off of:1.  Serologic studies: CBC, Comprehensive metabolic panel (including Ca, Mg, and PO4), liver panel, ammonia, RPR, ESR, CRP, ANA, TSH, Free T4, vitamin B12, Lyme antibody, and HIV.2.  Urinalysis3.  CSF analysis: cell count and differential, protein, glucose, VDRL, immunoglobulin G (IgG) index, and oligoclonal bands4.  MRI brain w+w/o Gad5.  EEG
+
+	**DDx of Dementia with myoclonus:  **
+**- **Hasmimoto’s encephalitis (young, ataxia, elevated antithyperoxidase and antithyroglobulin antibodies-rx = steroids)
+- Rapidly-progressive AD, DLB (parkinsonism, visual hallucinations), FTD
+- Paraneoplastic syndromes
+- Bismuth, Lithium, Intoxication
+- Familial, Sporadic, Iatrogenic or New Variant CJD
+- OTHERS: postviral encephalitis, SSPE
+
+
+
+	**APHASIAS**
+
+|  | **Fluency** | **Comprehension** | **Repetition** | **Territory** |
+| --- | --- | --- | --- | --- |
+| **Global** | **NO** | **NO** | **NO** | Large Dominant Hemisphere |
+| **Broca’s** | **NO** | Yes | **NO** | Inf. Frontal Gyrus |
+| **Transcortical Motor** | **NO** | Yes | Yes | Mesial Frontal, SMA, ACA |
+| **Transcortical Mixed** | **NO** | **NO** | Yes | Both transcortical Areas |
+| **Wernicke’s** | Yes | **NO** | **NO** | Posterior Sup. Temporal Gyrus |
+| **Transcortical Sensory** | Yes | **NO** | Yes | Temporal-parietal Junction |
+| **Conduction** | Yes | Yes | **NO** | Arcuate Fasciculus |

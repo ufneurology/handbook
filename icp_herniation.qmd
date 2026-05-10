@@ -1,0 +1,74 @@
+---
+title: "ICP and Herniation Management"
+category: "Neurocritical Care"
+section_id: "icp-herniation"
+last_updated: "2026-07-01"
+source: "UF Neurology Resident Handbook 2026-2027"
+---
+
+# ICP and Herniation Management
+
+| Sodium and electrolyte abnormalities |  |  |
+
+
+
+	**Acute elevations in ICP and management of elevated ICP:**
+
+
+
+	Sx of elevated ICP include:
+
+	Non-focal: nausea, vomiting, hiccups, increased yawning, agitation, headache, diminished level of consciousness, Cushing’s response (elevated BP, bradycardia, respiratory depression),
+
+
+
+	**If any concern for worsening or impending herniation: Clinical suspicion**** ****or sustained (****>****5 min) elevation of ICP ****>**** 22 mmHg**
+
+	- Neurocritical care fellow: 352-745-1912
+
+	- Ensure appropriate vascular access, consider need for additional PIV and/or stat central line, transfer to ICU if on floor/IMC
+
+
+
+
+
+
+
+
+
+
+
+	Herniation syndromes
+
+
+
+| Subfalcine | Infarct in distal ACA territory à ipsilateral cingulate gyrus migrates under anterior falx à ipsilateral leg weakness |
+| --- | --- |
+| Central | Ascending: compression of PCA and SCA against tentorium  Descending: progression of abnormal flexor posturing to extensor posturing à impending death due to damaged respiratory and cardiac centers in medulla by herniated cerebellar tonsils through foramen magnum |
+| Cerebellar tonsillar | PICA, vertebral artery, anterior spinal artery infracts à infarct to brainstem, tonsils, and lower cerebellum, upper cervical cord à respiratory arrest, downbeat nystagmus |
+| Uncal | Compression of 3rd nerve against tentorial edge à constriction followed by ipsilateral pupillary dilation   Compression of calcarine branch of PCA à infarct in temporal or occipital lobe  Compression of sylvian aqueduct à obstructive hydrocephalus  Midbrain displacement can cause compression on contralateral cerebral peduncle / contralateral corticospinal tract à ipsilateral hemiparesis to compression (Kernohan’s notch phenomenon) |
+| Transalar (trans-sphenoidal) | Descending / posterior variant: infarct in MCA territory from compression within sphenoid ridge  Ascending / anterior variant: infarct in anterior and middle cerebral arteries from compression of supra-clinoid segment of ICA against anterior clinoid process |
+| Transcalvarial | Often after decompressive hemicraniectomy à compression of cortical vessels along bony margin predisposing to hemorrhagic infarct |
+
+
+
+| **Tier 0 **(Standard) | Assess ABCs Minimize noxious stimuli (treat subclinical seizures, glucose control, treat shivering) Analgesia / sedation (control pain and agitation at the lowest effective doses (fentanyl, lorazepam, propofol) Target normothermia Head of bed ≥ 30º (unless unstable MAP or brain sag) Neck midline (optimize jugular venous drainage) Iso or hyperosmotic fluids (NO D5W, ½ NS, etc) Avoid and correct hyponatremia Steroids in select conditions (brain tumor, abscess, non-infectious neuroinflammatory conditions) |
+| --- | --- |
+| **⇩** |  |
+| **Tier 1** | Hyperosmolar therapy Temporary hyperventilation to a PaCO2 of 30-35 mmHg, consider 10 cc 1% lidocaine into ETT prior to suctioning CSF drainage Consider surgical decompression |
+| **⇩** |  |
+| **Tier 2** | Hyperosmolar therapy for higher Na goals Optimize sedation and analgesia Rescue decompressive surgery should be considered as a life-saving intervention |
+| **⇩** |  |
+| **Tier 3** | Sedation titrated to ICP goal or burst suppression of cEEG (pentobarbital coma) Hyperventilation to achieve mild to moderate hypocapnia (PaCO2 25-34 mmHg), short lived, <24 hours, works by ↑ vasoconstriction and ↓ cerebral blood volume. Effects at the expense of ↓ CBF therefore used only as bridge to urgent surgical therapy. Not recommended for routine management. Can be bridge to OR in actively herniating patients Moderate hypothermia (target core temperature 32-34ºC) |
+
+	Management of herniation
+
+
+
+
+
+	Hyperosmolar therapy
+
+|  | **Dosing** | **Adverse Reactions** | **Pearls** |
+| --- | --- | --- | --- |
+| **Mannitol** (0.5-1 g/kg over 5-15 mins) | Give 20% 1g/kg bolus; max 150g Can be re-dosed every 4-6 hrs, consider re-dose if: Posm <320 and ICP still >20 Posm >320, calculate osmolar gap (measured  Posm – [2 x plasma Na  +  Glc/18  +  BUN/2.8]); if < 20 AND Na <160, give addition 1 g/kg Repeat until ICP <20 or definitive therapy | Rebound ICP elevation with abrupt discontinuation / repeat dosing   Acute kidney injury   Hypovolemia   Hypotension   Electrolyte imbalances | Relative contraindications: renal failure/insufficiency   May be given via peripheral   Duration of effect 90 min – 6 hrs   Monitor trough osmolar gap (goal < 20 mOsm/kg)   Maintain euvolemia – replete urine output cc for cc with normal saline |

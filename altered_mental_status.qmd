@@ -1,0 +1,89 @@
+---
+title: "Altered Mental Status Workup"
+category: "Encephalopathy"
+section_id: "altered-mental-status"
+last_updated: "2026-07-01"
+source: "UF Neurology Resident Handbook 2026-2027"
+---
+
+# Altered Mental Status Workup
+
+**ALTERED MENTAL STATUS**
+
+**History:**
+
+- Onset
+
+- Precipitating factor
+
+- Baseline level of functioning (history of dementia?)
+
+- Recent infectious symptoms (dysuria, nausea, diarrhea, vomiting, cough)
+
+- Symptoms of CNS infection (neck stiffness, headache, nausea)
+
+- Access to toxic ingestion or illicit substances including alcohol
+
+- Associated focal deficits or abnormal movements
+
+**Exam:** full general exam with attention to signs of intoxication, dehydration and infection, neurologic exam including MMSE and with close attention to level of consciousness, attentiveness, and focal deficits.  Check and document meningeal signs, asterixis and subtle signs of seizure.
+
+**Differential:**
+
+- **D**rugs (most common, illicit or prescribed)
+
+- **E**ndocrine, Electrolytes, Ethanol, Emotional, Eyes/Ears
+
+- **L**ow O2, Lack of drugs, Liver
+
+- **I**nfection (second most common, esp in elderly)
+
+- **R**etention
+
+- **I**ntracranial (stroke/hemorrhage/mass)
+
+- **U**remia, Under-nutrition, Under-hydration
+
+- **M**etabolic
+
+- Often two hits: 1) Baseline brain disease (stroke/PD/dementia), advanced age, sensory impairment (absence of hearing aid/glasses), psychiatric illness, pain, absence of orienting devices (eg, clock) PLUS 2) systemic/neurological issues noted above (toxin, infection, metabolic derangement, etc).
+
+**Workup****:** determined by above but typically includes
+
+- Routine labs, consider TSH, vitamin B12, VDRL, ammonia, thiamine
+
+- Hyper/hypoglycemia, hyper/hypoNa+, hyperCa++, uremia, hepatic enceph, hypercarbia, hypothyroidism
+
+- Urine toxicology screen and alcohol level, review medication list for precipitants
+
+- Benzos, opiates, antihistamines, anticholinergics, neuroleptics, DA agonists, AEDs, lithium, TCAs, theophylline, digoxin, steroids, amantadine, H2 blockers, anti-emetics, INH, salicylates, FK506, quinilones, etc…
+
+- Urinalysis, culture, and chest x-ray
+
+- Non-contrast CT head +/- CTA, MRI for focal deficits
+
+- Consider diffuse cortical hypoperfusion or infarcts, R parietal infarcts, B thalamic infarcts (top-of-the basilar syndrome), brainstem infarct; edema/mass effect 2nd to stroke/tumor, carcinomatous meningitis, SDH
+
+- +/- LP if fever, leukocytosis, meningeal signs/symptoms, or any concern for HSV encephalitis
+
+- EEG to rule-out seizures or non-convulsive status and assess degree of encephalopathy
+
+**Plan****:**
+
+- Determine and treat underlying cause, which is often multifactorial
+
+- Treat with IV thiamine empirically if malnourished or alcohol history (**500 mg q8h x 3 days**** **(does not pop up in EPIC) and then 100 mg daily)
+
+- Recommend supportive measures: reorientation, encourage sleep-wake cycles, use visual and hearing aids
+
+**Rapidly Progressive Dementia Workup:**
+
+*These can be some of the most complicated cases you will see in the hospital and you will often exhaust every test imaginable searching for an etiology, but here is a basic “starter kit” to work off of:1.  Serologic studies: CBC, Comprehensive metabolic panel (including Ca, Mg, and PO4), liver panel, ammonia, RPR, ESR, CRP, ANA, TSH, Free T4, vitamin B12, Lyme antibody, and HIV.2.  Urinalysis3.  CSF analysis: cell count and differential, protein, glucose, VDRL, immunoglobulin G (IgG) index, and oligoclonal bands4.  MRI brain w+w/o Gad5.  EEG
+
+	**DDx of Dementia with myoclonus:  **
+**- **Hasmimoto’s encephalitis (young, ataxia, elevated antithyperoxidase and antithyroglobulin antibodies-rx = steroids)
+- Rapidly-progressive AD, DLB (parkinsonism, visual hallucinations), FTD
+- Paraneoplastic syndromes
+- Bismuth, Lithium, Intoxication
+- Familial, Sporadic, Iatrogenic or New Variant CJD
+- OTHERS: postviral encephalitis, SSPE

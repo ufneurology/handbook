@@ -1,0 +1,75 @@
+---
+title: "Autoimmune Encephalopathy"
+category: "Neuroimmunology"
+section_id: "autoimmune-encephalopathy"
+last_updated: "2026-07-01"
+source: "UF Neurology Resident Handbook 2026-2027"
+---
+
+# Autoimmune Encephalopathy
+
+**AUTOIMMUNE ENCEPHALITIS **
+
+Order MRI brain with contrast. CSF with basic studies, OCB, cytokine panel, flow cytometry, cytology, infectious PCR. If suspicious for HSV, send two tests and treat empirically until tests are negative
+
+Does it meet Graus criteria for autoimmune encephalitis?
+
+1. Subacute onset (<3 months) of memory deficits, altered mental status, or psychiatric symptoms;
+
+2. one or more of: a. new focal CNS deficits, b. unexplained seizures, c. CSF pleocytosis, or d. MRI findings suggestive of encephalitis
+
+3. reasonable exclusion of alternative disorders.
+
+Serum or CSF? Short answer: both
+
+Which panel to choose?
+
+When in doubt choose the MDC2 and MDS2 as it is the most complete of panels. It has the same antibodies as the ENS2/ENC2 + Kelch 11. Kelch 11 although many times presents as a brainstem syndrome, it can present with limbic encephalitis, so it is best to send all antibodies.
+
+Is that enough? NO
+
+**Ma2** can also present with **limbic encephalitis,** and it is NOT on ANY panel, it has to be ordered separately, it can be ordered via Mayo, Quest or Athena
+
+MOGAD can also present as ADEM, CCE or undifferentiated meningoencephalitis and IT IS NOT in the MDC2/MDS2 or the ENC2/ENS2 so in addition to that, you should ALSO order CDS1 (to test for MOG-IgG).
+
+**If you have a diencephalic****, brainstem, or cerebellar**** syndrome:**
+
+Order MDC2/MDS2 + CDS1 + Ma2 ( has to be ordered separately)
+
+**ENC2/ENS2 is not enough for above syndromes. You HAVE to order MDS2/MDC2 since if you do not, you would be missing many antibodies not tested in the encephalopathy panel.
+
+*See **Mayo** anatomical map **in team rooms **to guide you on which antibodies cause different syndromes: *
+
+Things to know about antibodies:
+
+GAD 65, very commonly false positive. It must be >20 nmol/L to be clinically significant. 0.03 to <20 nmol/L is false positive. If the titer is in UI then the number is 10000
+
+Low titer MOGAD 1:20 -1:40 not meeting Banwell criteria is a false positive. ( If it looks like MS, then it is MS)
+
+NMDA + in serum but negative on CSF. Rethink to see if they truly have the syndrome
+
+Which antbodies are better in serum? AQP4, MOG, CASPR2, LGI-1 myasthenia antibodies
+
+Which antibodies are better in CSF? NMDA, GFAP
+
+Treatment of autoimmune encephalitis:
+
+If high suspicion (meeting criteria), treat with IVMP+PLEX, give rituximab 1g once after PLEX.
+
+CT CAP and testicular/ovarian US
+
+Remember
+
+NMDA and AMPA: psychiatric symptoms and limbic encephalitis
+
+PCA-1 or Anti-yo: Cerebellar degeneration and ovarian cancer
+
+LGI-1: Faciobrachiodystonic seizures/ hyponatremias
+
+LGI-1/CASPR2/GABAb: seizures, usually temporal lobe, rapidly progressive dementia
+
+GAD 65: refractory epilepsy, cerebellar ataxia, autoimmune encephalitis, SPS
+
+ANNA-1/Anti-Hu: Can cause **everything** including a neuronopathy with complete sensory loss
+
+**FOR NEUROSARCOIDOSIS: **It can present as parenchymal, leptomeningitis, pachymeningitis, “meningiomas”  diencephalic presentation, pituitary and sellar involvement, myelitis  (trident sign, pial enhancement). Get CT CAP, obtain something to biopsy if possible. After biopsy treat empirically with steroids IVMP 1g x3-5 days (can be oral) plus prolonged steroid taper. If has diagnosis inpatient can consider starting infliximab inpatient.

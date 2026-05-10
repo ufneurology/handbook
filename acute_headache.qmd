@@ -1,0 +1,133 @@
+---
+title: "Acute Headache Management"
+category: "Headache"
+section_id: "acute-headache"
+last_updated: "2026-07-01"
+source: "UF Neurology Resident Handbook 2026-2027"
+---
+
+# Acute Headache Management
+
+ACUTE HEADACHE
+
+**HISTORY:**
+
+New headache or history of headaches
+
+Location, quality, severity
+
+Onset (sudden or gradual)
+
+Aura
+
+Transient visual obscurations
+
+Associated features (nausea/vomiting/photophobia/phonophobia/kinesophobia/diplopia/tinnitus) AND autonomic features (tearing, sinus pressure/fullness, eye redness, sweating)
+
+What medications and how much have they taken for the headache
+
+Worsening factors (e.g. lying down, standing up, straining)
+
+Diurnal pattern (e.g. worse in the morning)
+
+OCP or Vitamin A/retinoid use
+
+**Chronic headache syndrome**: ask about family history of headaches and screen for lifestyle factors: caffeine use, sleep, hydration status, frequency of analgesic use, relation to menses, stress, relation to weather
+
+**New headache syndrome**: screen for red flags such as recent head or neck trauma, chiropractor visits, fevers or chills, recent travel or sick contacts, altered mental state, neck stiffness, focal neurologic or visual deficits
+
+**New headache in the elderly:** screen for GCA symptoms such as fever, weight loss, jaw claudication, scalp tenderness, proximal limb myalgias, constitutional symptoms
+
+**EXAM:  **Vital signs with particular attention to blood pressure and temperature, neurologic exam including a fundoscopic and visual fields exam, evaluate for nuchal rigidity, scalp tenderness and Horner’s syndrome
+
+**WORKUP:**  ESR if patient >60 (corrected ESR = (age + 10 if female)/2)
+
+**PLAN: **Dictated by patient’s history and physical
+
+Differential:
+
+Secondary (meningeal stretch, irritation, or ischemia)
+
+1)  Pseudotumor cerebri (IIH): diffuse, photo, tinnitus, vision loss, VI palsy + wt gain/Vit A/meds
+
+2)  Subarachnoid hemorrhage: sudden-onset, WHOL, 10/10, meningismus
+
+3)  Optic neuritis/myositis: painful eye movements +/- vision loss, F>M
+
+4)  Encephalitis: like meningitis, plus altered mental status, seizures, focal features
+
+5)  Meningitis: diffuse, photo/phono, meningismus, N/V, fever, malaise, irritability
+
+6)  Carotid dissection, periorbital/auricular throbbing (carotidynia), Horner’s, TMB, focal features, double lumen on CTA; crescent sign on MRA with fat sats
+
+7)  Temporal arteritis: achy, jaw claudication, myalgias, ESR > age/2 + 10, wt loss
+
+8)  Hypertensive encephalopathy: frontal/occipital, throbbing, +/- confusion
+
+9)  Venous sinus thrombosis: diffuse or focal, seizure, meningismus
+
+Primary (hypersensitization of receptors in meninges)
+
+10)  **Migraine**: moderate unilateral, F>M, pulsatile, photo/phono, n/v, transient visual obscurations, scintillating scotomas, fortification spectra, + family history, + menstrual, + triggers.  Subtypes: common (no aura, 50%), classic (aura, 50%), complicated (focal features, <5%), retinal (monocular vision loss), vertiginous, acephalgic (aura without headache)
+
+11) **Tension**-type: bilateral, pressure, “hatband”, shoulder/neck tightness
+
+12) **Trigeminal autonomic cephalalgias** (Indomethicin responsive aside from cluster)
+
+12a)  Cluster (15-180min): severe unilateral, M>F, daily x wks-mths, photo/phono, autonomic features (Horner’s, tearing, rhinorrhea)
+
+12b)  Paroxysmal Hemicrania (2-30min): like clusters in women -or- hemicrania continua (constant)
+
+12c)  SUNCT/SUNA (0-10min): “short-lasting, unilateral, neuralgiform, conjunctival injection and tearing or autonomic symptoms (1 of those only)”
+
+13) **Occipital Neuralgia**: unilateral over occipital region, to eye, lasts seconds
+
+14) Primary stabbing: migrating pain, “ice-pick feeling” episodic
+
+15) Hypnic headache: occurs in sleep, improves with caffeine
+
+16) New daily persistent headache (they can remember when it started to the date)
+
+Workup:
+
+R/O meningitis/encephalitis:  HCT → LP (determine aseptic/viral/bacteria/fungal, etc.), broad tx
+
+R/O SAH: HCT → LP  (HCT less likely to see blood after 48-72 hours)
+
+R/O Pseudotumor:  HCT → LP (check OP > 20, decubitus position, legs extended after tap better)
+
+R/O dissection:  MRI/A neck c/s gad with T1 fat sats, add MRI brain to r/o accomp infarction
+
+R/O temporal arteritis: TA bruit/tenderness/pulselessness, if ESR hi  → steroids, bx next day
+
+R/O hypertensive encephalopathy: watch BP, if focal or AMS → MRI to see RPLS
+
+R/O CVST: HCT with contrast (“empty delta sign”) vs MRV
+
+R/O optic neuritis/myopathy: HCT → MRI brain/orbits c/s gad, CK, admit for IV steroids for ON
+
+R/O acute migraine – tension-type continuum: consider HCT if new HA syndrome
+
+Treatment of acute inpatient migraine
+
+1. Migraine cocktail (can repeat q8h up to 3 times)
+
+- **IV fluids**: 1-2 L NSS or 80-100 cc/hr while hospitalized
+
+- **NSAID****s**: 15-30 mg IV toradol (caution with GI sx)
+
+- **DA antagonist**: 10 mg metoclopramide or prochlorperazine ± 12.5 mg diphenhydramine to prevent EPS
+
+- **Magnesium sulfate**: 2g IV
+
+If fails, can try
+
+- **Sodium valproate**: 500 mg – 1g IV (caution in patients on topiramate, can cause hyperammonemia); can use this as bridge as well for 3-5 doses q8-12h
+
+- **Methylprednisolone** 200 mg – 1g IV (caution regarding avascular necrosis, diabetes, active infection)
+
+- **Zyprexa bridge** – 5-7.5mg PO for 7 days (will take days for effect)
+
+- **Droperidol**** – **2.7.5-8.25 mg** **IM once; MUST have cardiac monitoring afterward (Level C evidence)*
+
+- **DHE**: See below. MUST discuss with attending beforehand.

@@ -1,0 +1,32 @@
+# Epilepsy
+
+?
+
+If known epilepsy: goal is to determine AED regimen and compliance, seizure type/frequency and last seizure, epilepsy physician, any recent triggers (see below).  Check AED levels and if low or they are non-compliant, re- load; if not, consider increasing AED dose. Ask about prior AEDs tried.
+
+If new onset seizures, obtain comprehensive first seizure history:
+- RISK FACTORS: history of febrile seizures, family history of seizures, prenatal and perinatal complications, developmental delay, history of head trauma, history of CNS infection, history of CNS mass/malformation, metabolic disorder, stroke (hemorrhagic>ischemic), drug/alcohol use, consanguinity
+- TRIGGERS LOWERING SEIZURE THRESHOLD: Medications, AED noncompliance, infection, metabolic abnormalities, toxic ingestion, menses, stress, sleep deprivation, EtOH/benzo withdrawal, fever, use of stimulants, hypoglycemia, electrolyte disturbance, hypoxia, acute medical/neuro illness
+- CHARACTERISTICS: aura (visual, auditory, olfactory, epigastric rising sensation, psychic (déjà vu, derealization, depersonalization, fear, anxiety), type of seizure (especially how its starts), eyes open or closed, lateral eye or head deviation, length of seizure, associated tongue bite or other injury, incontinence, post-ictal confusion, post-ictal weakness.
+- SUBTLE SEIZURE SIGNS: history of staring, automatisms, waking up incontinent or injured (tongue bite), myoclonic jerks.
+
+EXAM: Focus on mental status, post-ictal paralysis or other focal deficits, subtle signs of ongoing seizures such as abnormal movements, head or eye deviation, eyelid twitching, pupillary abnormalities or hippus; tongue bite/other injury, and meningeal signs
+
+ED WORKUP: AED levels (only carbamazepine, phenytoin, valproate and phenobarb levels are available acutely, but others can be helpful to establish compliance), non-contrast head CT (new seizures only!), can consider MRI with/without contrast (seizure protocol).  Basic labs including electrolytes and CBC, infectious workup (UA, CXR), toxicology screen, LP if concern for meningitis
+
+PLAN:
+- AED: load and then start maintenance dose (do not start AEDs for an uncomplicated first seizure)
+- EEG:  highest yield within 24-48 h. If the patient is not “back to baseline,” consider stat EEG.
+- MRI with and without contrast, seizure protocol if warranted
+- Ativan IV PRN seizure activity
+- Evaluate medication list for medications that lower the seizure threshold
+- Can be discharged from the ED if they only had 1-2 seizure, have returned to baseline, and have nothing in the above workup requiring admission.
+- Information patient that he/she cannot drive for ≥ 6 months per Florida state law
+- Refer to the Urgent Clinic follow-up or your continuity clinic via Epic.
+
+Not Returning to Baseline after a Seizure The two most common reasons patients don’t wake up are prolonged post-ictal periods and overly eager benzo administration … But don’t miss anything important:
+- Make sure the patient isn’t still seizing. Look for subtle abnormal limb or eye movement, fluctuating arousal or complete lack of improvement.  40% of patients with status epilepticus continue having subclinical seizures after convulsive seizures are controlled. Consider a stat EEG.
+- Get a head CT if you don’t have one yet
+- Consider LP if you have any concern for meningitis/encephalitis or SAH not seen on HCT
+- You may need to admit a patient overnight for prolonged postical period or benzo intoxication. If there is no medical reason they had a seizure (e.g. EtOH w/d, infection) they will likely need to be admitted to neurology.
+

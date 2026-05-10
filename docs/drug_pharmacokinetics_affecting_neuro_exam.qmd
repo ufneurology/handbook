@@ -1,0 +1,58 @@
+# Drug Pharmacokinetics Affecting Neuro Exam
+
+Common Agents Affecting Neurologic Exam
+
+Barbiturates Suggested time to brain death exam Distribution Half Life (t½) Drug
+
+Pentobarbital level ≤ 10 mcg/ml ~35-45% bound to plasma proteins ~4-50 hrs Pentobarbital
+
+Phenobarbital level ≤ 10 mcg/ml ~20-45% bound to plasma proteins ~2-6 days Phenobarbital
+
+Benzodiazepines Suggested time to brain death exam Distribution Half Life (t½) Drug
+
+Variable, if expect toxicity, wait 1.5-2 times the half life
+
+Widely in most body tissues 10-20 hrs Lorazepam Widely, 95% protein bound 1-12.5 hrs Midazolam
+
+Widely, 94-99% protein bound 20-50 hrs, active metabolite 40-100 hrs Diazepam
+
+Widely 10-48 hrs, active metabolite 14-95 hrs Chlordiazepoxide
+
+Neuromuscular blocking agents Suggested time to brain death exam Distribution Half Life (t½) Drug
+
+Train of four via peripheral nerve stimulation should result in four thumb twitches
+
+Low body distribution Biphasic t½ (2-3.4 min and 20 min respectively) Atracurium
+
+87% protein bound Triphasic t½, terminal t½ ~2hr Pancuronium Rocuronium
+
+Widely Metabolized rapidly, with effect lasting ~10 min Succinylcholine
+
+Not fully characterized Biphasic t½ (3-9 min and 30-80 min respectively) Vecuronium
+
+Narcotics Suggested time to brain death exam Distribution Half Life (t½) Drug
+
+Variable, if expect toxicity, wait 1.5-2 times the half life
+
+Widely, 30-35% protein bound 1.5-4.5 hrs Morphine
+
+Widely, 80-86% protein bound 3-7 hrs, duration 30-60 mins Fentanyl
+
+Two distributive t½, 1.27 and 14.7 hrs respectively 2.5 hrs, duration 4-5 hrs Hydromorphone
+
+Widely, 65-80% protein bound 3.2-3.7 hrs, active metabolite 24- 48 hrs Meperidine
+
+N/A N/A N/A Oxycodone
+
+Miscellaneous Drugs Suggested time to brain death exam Distribution Half Life (t½) Drug
+
+Brain death exam after 2-3 times half life.  Neuro exam ok after drip off for 5-10 mins
+
+Moderately Biphasic: alpha t½ = 1-8 mins, beta t½ = 1.5-12.4 hrs Propofol
+
+Extremely high doses can fix/dilate pupils ~2 minutes, duration ~10 minutes Dopamine
+
+Pupil effects after IV are transient Duration of cardiac effects ~5 mins Atropine
+
+Recovery time 2-3 hrs 50% protein bound 2-3 hrs Ketamine
+

@@ -1,0 +1,11 @@
+---
+title: "Drug Pharmacokinetics Affecting Neuro Exam"
+category: "Neurocritical Care"
+section_id: "drug-pharmacokinetics"
+last_updated: "2026-07-01"
+source: "UF Neurology Resident Handbook 2026-2027"
+---
+
+# Drug Pharmacokinetics Affecting Neuro Exam
+
+**Common Agents Affecting Neurologic Exam**

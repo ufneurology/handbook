@@ -1,0 +1,38 @@
+# Upper Extremity Strength Testing
+
+Action Muscles Nerves Nerve Roots
+
+Finger extension Extensor digitorum, Extensor indicis, Extensor digiti minimi
+
+Radial nerve (posterior interosseous nerve) C7, C8
+
+Thumb abduction in plane of palm Abductor pollicis longus Radial nerve (posterior interosseous nerve) C7, C8
+
+Finger abduction Dorsal interossei, Abductor digiti minimi Ulnar nerve C8, T1
+
+Finger and thumb adduction in plane of palm Adductor pollicis, Palmar interossei Ulnar nerve C8, T1
+
+Thumb opposition Opponens pollicis Median nerve C8, T1
+
+Thumb abduction perpendicular to plane of palm Abductor pollicis brevis Median nerve C8, T1
+
+Flexion at distal interphalangeal joints digits 2, 3
+
+Flexor digitorum profundus to digits 2, 3 Median nerve C7, C8
+
+Flexion at distal interphalangeal joints digits 4, 5
+
+Flexor digitorum profundus to digits 4, 5 Ulnar nerve C7, C8
+
+Wrist flexion and hand abduction Flexor carpi radialis Median nerve C6, C7
+
+Wrist flexion and hand adduction Flexor carpi ulnaris Ulnar nerve C7, C8, T1
+
+Wrist extension and hand abduction Extensor carpi radialis Radial nerve C5, C6
+
+Elbow flexion (with forearm supinated) Biceps, Brachialis Musculocutaneous nerve C5, C6
+
+Elbow extension Triceps Radial nerve C6, C7, C8
+
+Arm abduction at shoulder Deltoid Axillary nerve C5, C6
+

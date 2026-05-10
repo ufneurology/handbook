@@ -1,0 +1,37 @@
+# Optic Neuritis and Transverse Myelitis
+
+OPTIC NEURITIS
+
+Epi:  usually 20s-40s, 2:1 F:M Presentation:  monocular vison loss/scotoma, red desat, painful eye movements (90%), Uhtoff’s Exam: swollen disks in 1/3 only, central vision loss, poor color plates/red hatpin, +APD
+
+Workup + Admission + Treatment:
+1) Blood tests, CXR, and LP are not helpful (unless atypical ON); order MRI for prediction of MS
+2) Consider formal VF testing (Goldmann or Humphrey).  Consider NMO testing since treatment of this condition is different from routine optic neuritis.
+3) Admit for IV Solumedrol 1g/d x 3-5 days, expect recovery in 2-3 weeks
+4) Plan to start immunomodulatory therapy if MRI with >2 lesions (>3mm diam, perivent or ovoid) to reduce risk of MS: Interferon beta-1a (Avonex) group had 44% less risk of CDMS at 3 years (CHAMPS trial, Jacobs et al, 2000); interferon beta-1a (Rebif) group had 34% probability of conversion to MS at 2 years (compared to 45% of placebo; ETOMs trial, Comi et al, 2001); interferon beta-1b group had 28% probability of conversion to MS at 2 years (compared to 45% of placebo; BENEFIT trial, Kappos et al,
+2006)
+
+Evidence for treatment in acute optic neuritis (Optic Neuritis Treatment Trial, 1992,1993,1997)
+- IV steroids
+- speed vision recovery, no change in acuity vs. placebo at 5 yrs
+- IV steroids
+- 50% less develop CDMS at 2 yrs (8% vs 17%), but no difference at 5 years
+- Oral steroids
+- increased recurrent ON vs IV/placebo (41% vs 25%) over 5 yrs (don’t treat acute ON with oral steroids)
+
+ACUTE TRANSVERSE MYELITIS
+1. Demyelinating: NMOSD: Dx Criteria: Core Clinical Characteristics: Optic neuritis, acute myelitis, Area postrema syndrome, Acute Brainstem syndrome, Acute diencephalic syndrome Additional MRI requirements: for ON: Optic Nerve MRI inflammation >1/2 optic nerve. For myelitis: cord lesion > 3 segments, MRI brain not c/w MS, NMO-IgG positive (sen 58-76%, sp 85-99%) NMOSD with AQP4-IgG: At least 1 core clinical; Positive AQP4-IgG NMOSD with negative AQP-IgG: At least 2 core clinical (at least 1 has to be ON or TM); Dissemination in space; MRI requirements as applicable
+
+* Distinguish from MS:  long cord lesions, usually nl MRI brain (atypical when they occur), CSF can have cells (PMN), neg CSF OCBs, NMO Abs rare in MS Treatment:  Pheresis (acute); Rituximab (prophylaxis) at 375mg/m2  weekly x 4 weeks (Wingerchuk, et al Neurology 2015:85:1-13)
+2. Infectious: Dx Testing should include HSV-1,2; EBV, VZV, lyme, HTLV-1, HHV-6, CMV, WNV
+3. Misc inflammatory:  SLE, Sjogren’s, MCTD, Bechet’s, Sarcoidosis
+4. Nutritional:  B12, folate, copper, vitamin E
+
+Approach:
+1. MRI GAD  R/o Compression (if compression, call a surgeon)
+2. If > 3 segments, consider NMO, SLE, Cu def, sarcoid, infarcts, infection * If pleocytosis (> 20-50 cells), check HSV, VZV, Lyme, EBV, HHV-6, HTLV-1, Enterovirus, WNV * Serologic testing should include:  ANA, SSA/B, Lyme, Anti-cardiolipin Ab & Anti-phopholipid Abs, HTLV-1, HIV-1, RPR, B12, folate, Copper * More ancillary testing:  Chest CT (sarcoid), Lip Biopsy (Sjogrens), Brain/Meningeal Biopsy
+
+CSF inflammation and its mimics = inflammogram
+- CSF: oligoclonal bands, myelin basic protein, VDRL, JC virus PCR (if immunosuppressed)
+- Serum: SPEP, ANA, ANCA, SSA/B, ACE, RPR, Lyme ab, HIV, B12, ESR, TSH
+

@@ -1,0 +1,99 @@
+---
+title: "Idiopathic Intracranial Hypertension"
+category: "Headache"
+section_id: "iih"
+last_updated: "2026-07-01"
+source: "UF Neurology Resident Handbook 2026-2027"
+---
+
+# Idiopathic Intracranial Hypertension
+
+**Idiopathic Intracranial Hypertension**
+
+
+
+	Headache disorder in which signs and symptoms suggest elevated intracranial pressure (headache, papilledema, vision loss). These patients will have normal CSF profile and no other cause of intracranial hypertension evident on neuroimaging. It typically affects women of childbearing age who are overweight (but this is not always the case!). This is a common consult in the ED and your task is to differentiate IIH from other headache disorders and determine if the patient needs admission.
+
+
+
+	**History**
+
+	•	New headache or history of headaches
+
+	•	Location, quality, severity
+
+	•	Worse when lying down, sitting up , or straining?
+
+	•	Onset (sudden or gradual?)
+
+	•	Vision loss/blurriness/diplopia/transient visual obscurations—is this precipitated by position changes?
+
+	•	Aura
+
+	•	Associated with nausea/vomiting/pulsatile tinnitus/photophobia/phonophobia
+
+	•	What medications and how much have been taken for headaches
+
+	•	OCP or vitamin A/ retinoid use
+
+	•	Diurnal pattern (worse in morning or at night?)
+
+	•	Retrobulbar pain or back pain?
+
+	•	Questions targeted towards CNS infection: fevers, chills, altered mental status, seizures, sick contacts, recent travel, current systemic illness, concurrent use of immunosuppressing agents
+
+
+
+	**Differential **
+
+	-Migraine
+
+	-Cerebral venous sinus thrombosis
+
+	-Impaired CSF absorption via arachnoid granulations that can be due adhesions due to bacterial, viral, or fungal meningitis or SAH
+
+	-Malignant hypertension
+
+	-CNS mass lesion such as tumor or abscess
+
+	-Obstructive hydrocephalus
+
+
+
+	**Exam **
+
+	Vitals signs with attention to blood pressure. Full medical and neurological exam with attention to meningeal signs, fundoscopy, visual field testing, cranial nerves (can see abducens nerve palsy in IIH).
+
+
+
+	**Imaging Findings:**
+
+	MRI/CT findings that suggest IIH but are not diagnostic for this condition : empty sella, flattening of the posterior aspect of the globe, distension of perioptic subarachnoid space (with or without tortuous optic nerves), transverse venous sinus stenosis
+
+
+
+	**Workup **
+
+	-MRI/ MRV w/wo contrast is best for evaluation, however oftentimes in ED CTA/CTV are obtained
+
+	-Ophthalmology consult in ED for dilated fundoscopy exam to confirm papilledema
+
+	-LP. Opening pressure >250mm H2O with patient lying on their side with legs extended confirms elevated intracranial pressure
+
+	- Please use IIH algorithm in room
+
+
+
+	**Treatment **
+
+	-Weight loss
+
+	-First line: Acetazolamide (Diamox) start at 500mg BID. Discuss risks/benefits in patients with sulfa allergies
+
+	-Topiramate (Topamax) start at 25mg and uptitrate in 25mg increments weekly until max dose 100mg daily
+
+	-Furosemide 20-40mg QD for adults
+
+	-Surgical procedures: optic nerve sheath fenestration, ventriculoperitoneal shunting, venous sinus stenting
+
+	-Patient will need to follow up with Neuro-ophthalmology following discharge from hospital or ED
