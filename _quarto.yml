@@ -54,9 +54,10 @@ website:
 
       - text: Neurocritical Care
         menu:
-          - intracranial_vascular_malformation.qmd
+          - subarachnoid_hemorrhage.qmd
           - icp_and_herniation_management.qmd
           - mechanical_ventilation.qmd
+          - intracranial_vascular_malformation.qmd
           - sodium_management.qmd
           - fluids.qmd
           - blood_pressure_pharmacology.qmd

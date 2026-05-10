@@ -1,34 +1,237 @@
-# Subarachnoid Hemorrhage
+---
+title: "Subarachnoid hemorrhage"
+category: "Neurocritical Care"
+date-modified: today
+author: Luis Silva
+source: "UF Neurology Resident Handbook 2026-2027"
+---
 
-Thunderclap headache ddx SAH, pituitary apoplexy, arterial dissection, venous sinus thrombosis, hypertensive urgency, RCVS, intracranial hypotension, primary thunderclap headache Sulcal subarachnoid hemorrhage ddx RCVS, venous sinus thrombosis, vasculitis, mycotic aneurysm, trauma, amyloid angiopathy, meningeal neoplasm, dural AV fistula, meningitis
+# Differential diagnosis
 
-Immediate Management in the ED To conform the diagnosis:
-- Non-contrast CT
-- LP if CT findings are normal (xanthochromia might be falsely negative if <6h from symptom onset)
+| Imaging pattern                | Differential                                                                                                                             |
+|------------------------------------|------------------------------------|
+| Thunderclap headache           | SAH, pituitary apoplexy, arterial dissection, DVST, hypertensive emergency, RCVS, intracranial hypotension, primary thunderclap headache |
+| Sulcal subarachnoid hemorrhage | RCVS, DVST, vasculitis, mycotic aneurysm, trauma, amyloid angiopathy, meningeal neoplasm, dural AV fistula, meningitis                   |
 
-Follow up Management after confirmed SAH
+# Immediate management in the ED
 
-- Obtain CBC, electrolytes, Ca, Mg, PT/PTT, glucose
-- ECG and CXR to rule out neurogenic pulmonary edema or cardiac stunning
-- Keep SBP <160 mm Hg until aneurysm secured. Use labetalol 10 mg IV if HR >60, hydralazine 10 mg IV for HR <60
-- Neurosurgery consultation for angiography and/or EVD
-- EVD if patient has depressed LOC and hydrocephalus
-- Tranexamic acid 1 g IV if onset within past 72 hours; caution in patients with severe coronary artery
-- disease or who have a delayed presentation and may already be in vasospasm
-- Monitor for complications: rebleeding, hydrocephalus, vasospasm and hyponatremia due to cerebral salt wasting or SIADH
-- Call NICU consultant, admit to ICU
-- Bedside dysphagia evaluation to be performed by admitting resident. NPO if fails o Consider formal SLP assessment if facial weakness/significant dysarthria o No oral meds prior to bedside dysphagia screen
+## Confirm the diagnosis
 
-Admission Orders
-1. Include WFNS, Modified Fisher, Hunt and Hess scores in initial note (See tables below)
-2. Admit to NICU unit 47 under neurosurgery service
-3. Neuro checks per unit routine
-4. Order STAT head CT if neurologic deterioration.
-5. Blood pressure management: Labetalol 10 mg, every 15 minutes if HR >60, alternatively use hydralazine 10 mg for HR <60. For refractory HTN, initiate nicardipine infusion and titrate to effect. a. Unsecured aneurysm, keep SBP <160 mm Hg b. Consider inserting arterial line for dynamic monitoring
-6. Continue TXA 1g q6h until aneurysm is secured (no more than 72h); caution in pts with severe cardiac disease
-7. Nimodipine 60 mg every 4 hours by mouth or NG tube for 21 days for delayed cerebral ischemia prophylaxis. Transition to 30 mg q2h if patient develops hypotension with typical dosing.
-8. Monitor for elevated intracranial pressure
-9. Discuss management with NCCM fellow and neurosurgery
+-   Non-contrast CT head
+-   LP if CT findings are normal and suspicion remains high
+    -   *Xanthochromia may be falsely negative if symptom onset was less than 6 hours ago*
+
+## Management after confirmed SAH
+
+-   Obtain CBC, electrolytes, Ca, Mg, PT/PTT, glucose
+-   ECG and CXR to rule out neurogenic pulmonary edema or cardiac stunning
+-   Keep SBP \<160\* mm Hg until aneurysm secured. Use labetalol 10 mg IV if HR \>60, hydralazine 10 mg IV for HR \<60. \*(no exact goal beside \<180 in AHA 2023 guidelines)
+-   Neurosurgery consultation for DSA and/or EVD
+-   EVD if patient has depressed LOC and hydrocephalus
+-   Tranexamic acid 1 g IV if onset within past 72 hours; caution in patients with severe coronary artery disease or who have a delayed presentation and may already be in vasospasm
+-   Monitor for complications: rebleeding, hydrocephalus, vasospasm and hyponatremia due to cerebral salt wasting or SIADH
+-   Call NICU consultant, admit to ICU under Neurosurgery
+-   Bedside dysphagia evaluation to be performed by nursing. NPO/SLP if fails
+    -   No oral meds prior to bedside dysphagia screen
+
+# Admission Orders
+
+1.  Include WFNS, Modified Fisher, Hunt and Hess scores in initial note (See tables below)
+
+2.  Admit to NICU unit 47 under neurosurgery service
+
+3.  Neuro checks per unit routine
+
+4.  Order STAT head CT if neurologic deterioration.
+
+5.  Blood pressure management:
+
+    -   Labetalol 10 mg, every 15 minutes if HR \>60, alternatively use hydralazine 10 mg for HR \<60. For refractory HTN, initiate nicardipine infusion and titrate to effect.
+    -   Unsecured aneurysm, keep SBP \<160 mm Hg\*
+    -   Consider inserting arterial line for dynamic monitoring
+
+6.  Continue TXA 1g q6h until aneurysm is secured (no more than 72h); caution in pts with severe cardiac disease
+
+7.  Nimodipine 60 mg every 4 hours by mouth or NG tube for 21 days for delayed cerebral ischemia prophylaxis. Transition to 30 mg q2h if patient develops hypotension with typical dosing.
+
+8.  Monitor for elevated intracranial pressure
+
+9.  Discuss management with NCCM fellow and neurosurgery
+
 10. Strict bedrest and strict I/Os, insert urinary catheter
+
 11. Daily electrolytes to monitor for hyponatremia
 
+12. IV fluids: 0.9% normal saline to maintain euvolemia
+
+13. NPO for angiogram OR bedside swallow study and diet, formal swallow study if needed
+
+14. Continue necessary home medications; hold all antithrombotic medications
+
+15. Pain management: scheduled Tylenol/acetaminophen 1g q6h if no liver disease. Codeine 30-60 mg q 6 hours PRN OR Ultram (tramadol) 25-50 mg q 6 hours PRN IF patient does not have seizures
+
+16. In case of seizures: Keppra (levetiracetam). (try to avoid fosphenytoin - poorer outcomes)
+
+17. DVT prophylaxis: SCDs, no SC heparin
+
+18. GI prophylaxis: PPI (e.g., pantoprazole, omeprazole or lansoprazole \[if gtube\])
+
+19. Consult PMR/therapy services as indicated
+
+20. Code status
+
+# Grading scales
+
+## Modified Fisher Scale for vasospasm prediction
+
+| Score | Description                                            |
+|-------|--------------------------------------------------------|
+| 0     | no subarachnoid blood                                  |
+| 1     | thin focal or diffuse SAH; no intraventricular blood   |
+| 2     | thin focal or diffuse SAH; intraventricular extension  |
+| 3     | thick focal or diffuse SAH; no intraventricular blood  |
+| 4     | thick focal or diffuse SAH; intraventricular extension |
+
+## World Federation of Neurological Surgeons
+
+| Grade | Description                               |
+|-------|-------------------------------------------|
+| I     | GCS 15, no motor deficit                  |
+| II    | GCS 13-14, no motor deficit               |
+| III   | GCS 13-14, motor deficit Present          |
+| IV    | GCS 7-12, motor deficit present or absent |
+| V     | GCS 3-6, motor deficit present or absent  |
+
+## Hunt and Hess
+
+| Grade | Description                                           |
+|-------|-------------------------------------------------------|
+| 0     | unruptured aneurysm                                   |
+| 1     | asymptomatic or mild HA and nuchal rigidity           |
+| 1a    | no meningeal signs but have fixed neurologic deficit  |
+| 2     | CN palsy, mod/severe HA, nuchal rigidity              |
+| 3     | mild focal deficit, confusion or drowsiness           |
+| 4     | stupor, mod/severe hemiparesis                        |
+| 5     | deep coma, decerebrate posturing, moribund appearance |
+
+::: callout-note
+For Hunt and Hess, consider adding one grade for severe vasospasm on angiogram or serious systemic disease.
+:::
+
+# Events and complications after aneurysmal SAH
+
+| Early                                                    | Late                                            | Chronic                                                         |
+|------------------------|------------------------|------------------------|
+| Rebleeding                                               | Cerebral vasospasm                              | Chronic hydrocephalus that may require placement of a shunt     |
+| Acute hydrocephalus                                      | Delayed cerebral ischemia                       | Behavior, personality, memory changes                           |
+| Seizures                                                 | Pituitary dysfunction                           | Need for further retreatment for recurrent or residual aneurysm |
+| Cardiopulmonary issues and stress induced cardiomyopathy | Infection related to surgery or ventriculostomy |                                                                 |
+| Sodium and electrolyte abnormalities                     |                                                 |                                                                 |
+
+# SAH Consult Note - Assessment and Plan
+```         
+# Subarachnoid Hemorrhage
+Onset of headache:
+Hunt&Hess:       | Modified Fisher:
+- Tranexamic acid 1 g IV if onset within past 72 hours
+- SBP < 160mmHg (prior to securing)
+	- PRN labetalol 10 mg IV if HR >60, hydralazine 10 mg IV for HR <60
+	- For refractory HTN, initiate nicardipine infusion and titrate to effect
+	- Consider Arterial line for close blood pressure monitoring
+- Nimodipine 60 mg every 4 hours by mouth or NG tube for 21 days for delayed cerebral ischemia prophylaxis 
+	- Transition to 30 mg q2h if the patient develops hypotension with typical dosing
+- Bedside dysphagia evaluation to be performed by nursing
+	- No oral meds prior to bedside dysphagia screen
+- Neurosurgery consultation for DSA and/or EVD
+	- EVD if patient has depressed LOC and hydrocephalus
+- NC q1h
+Avoid Valsalva maneuver: use antiemetics, antitussives and stool softeners
+Daily electrolytes to monitor for hyponatremia
+Bedrest
+Strict I/O, maintain euvolemia
+Hold all home antithrombotic medications
+DVT prophylaxis: SCDs, no SC heparin
+- STAT CT Head if neurologic deterioration
+```
+
+# SAH Primary Service - Assessment and Plan
+```         
+Neurological A/P: 
+Principal Problem(s): ***
+Onset of headache:
+Hunt&Hess:       | Modified Fisher:
+Pain/sedation: Acetaminophen 1g q6h if no liver disease | Codeine 30-60 mg q 6 hours PRN
+
+- Nimodipine 60 mg every 4 hours by mouth or NG tube for 21 days for delayed cerebral ischemia prophylaxis
+	- Transition to 30 mg q2h if the patient develops hypotension with typical dosing
+- Tranexamic acid 1 g IV if onset within past 72 hours
+- Neurosurgery consultation for DSA and/or EVD
+	- EVD if patient has depressed LOC and hydrocephalus
+- NC q1h
+- STAT CT Head if neurologic deterioration
+- Avoid Valsalva maneuver: use antiemetics, antitussives and stool softeners as bellow
+- Daily electrolytes to monitor for hyponatremia
+- Bedrest
+- PT/OT: {YES/NO:20566}
+
+Respiratory A/P: 
+Airway: ***
+Vent settings:  @VENTSETTINGS@
+Pulmonary toilet: ***
+
+Cardiovascular A/P: 
+MAP/SBP goal: SBP < 160, MAP > 65
+- SBP < 160mmHg (prior to securing)
+	- PRN labetalol 10 mg IV if HR >60, hydralazine 10 mg IV for HR <60
+	- For refractory HTN, initiate nicardipine infusion and titrate to effect
+	- Consider Arterial line for close blood pressure monitoring
+Drips: ***
+TTE: ***
+ECG: ***
+
+
+Infectious A/P: 
+ABX: ***
+Cultures: ***
+C. auris screening (if inmate or medical facility resident): ***
+
+Renal A/P: 
+- Strict I/O, maintain euvolemia
+- Daily electrolytes to monitor for hyponatremia
+Volume status: 
+@INTAKEOUTPUTBRIEF@
+Fluid/drips: *** 
+Foley: {YES/NO:20566}, {should be inserted}
+Electrolyte protocol: {YES/NO:20566}
+		
+GI /Nutrition A/P: 
+- Bedside dysphagia evaluation to be performed by nursing
+	- No oral meds prior to bedside dysphagia screen
+Avoid Valsalva
+- Anti-emetics:
+    	- Ondansetron 4 mg IV/PO q6h PRN, avoid if QTC > 420mcsec
+    	- Prochlorperazine 10 mg IV q6h PRN
+    - Anti-tussives:
+    	- Dextromethorphan 15-30 mg PO q6h PRN
+    - Stool softeners:
+      - Polyethylene glycol 17 g PO daily
+      - Senna 8.6 mg PO nightly 
+    	- Docusate 100 mg PO BID PRN
+Diet: Pending Swallow eval
+Nutrition Route:  Pending swallow eval
+Stress ulcer PPx: 
+	
+Endocrine A/P: 
+Insulin: ***
+
+Hematologic A/P: 
+PPx: SCDs, no SC heparin
+Antiplatelets/Anticoagulants: Hold all
+CVL: {YES/NO:20566}; date placed: ***
+
+Wound A/P:
+Skin intact: {YES/NO:20566}
+Interventions: ***
+
+ICU consents obtained: {YES/NO:20566}
+```

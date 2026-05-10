@@ -58,9 +58,10 @@ Use the search bar or browse by topic below.
 ## Neurocritical Care
 
 ::: index-list
--   [Intracranial Vascular Malformations](intracranial_vascular_malformation.qmd)
+-   [Subarachnoid Hemorrhage](subarachnoid_hemorrhage.qmd)
 -   [ICP and Herniation Management](icp_and_herniation_management.qmd)
 -   [Mechanical Ventilation](mechanical_ventilation.qmd)
+-   [Intracranial Vascular Malformations](intracranial_vascular_malformation.qmd)
 -   [Sodium Management](sodium_management.qmd)
 -   [Fluids](fluids.qmd)
 -   [Blood Pressure Pharmacology](blood_pressure_pharmacology.qmd)

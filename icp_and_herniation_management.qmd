@@ -1,161 +1,56 @@
-# ICP and Herniation Management
+---
+title: "ICP and Herniation Management" 
+category: "Neurocritical Care"
+date-modified: today
+author: Luis Silva 
+source: "UF Neurology Resident Handbook 2026-2027"
+---
 
-12. IV fluids: 0.9% normal saline to maintain euvolemia
-13. NPO for angiogram OR bedside swallow study and diet, formal swallow study if needed
-14. Continue necessary home medications; hold all antithrombotic medications
-15. Avoid Valsalva maneuver: use antiemetics, antitussives and stool softeners
-16. Pain management: scheduled Tylenol/acetaminophen 1g q6h if no liver disease. Codeine 30-60 mg q 6 hours PRN OR Ultram (tramadol) 25-50 mg q 6 hours PRN IF patient does not have seizures
-17. In case of seizures: Keppra (levetiracetam). (try to avoid fosphenytoin
-- poorer outcomes)
-18. DVT prophylaxis: SCDs, no heparin
-19. GI prophylaxis: PPI (e.g., pantoprazole, omeprazole or lansoprazole [if gtube])
-20. Consult PMR/Speech therapy as indicated
-21. Code status
 
-Modified Fisher Scale for vasospasm prediction World Federation of Neurological Surgeons Hunt and Hess
 
-0=no subarachnoid blood I=GCS 15, no motor deficit 0=unruptured aneurysm 1=thin focal or diffuse SAH; no intraventricular blood II=GCS 13-14, no motor deficit 1=asymptomatic or mild HA and nuchal rigidity 2=thin focal or diffuse SAH; intraventricular extension III=GCS 13-14, motor deficit Present 1a=no meningeal signs but have fixed neurologic deficit 3=thick focal or diffuse SAH; no intraventricular blood IV=GCS 7-12, motor deficit present or absent 2= CN palsy, mod/severe HA, nuchal rigidity 4=thick focal or diffuse SAH; intraventricular extension V=GCS 3-6, motor deficit present or absent 3=mild focal deficit, confusion or drowsiness
+# Acute elevations in ICP and management of elevated ICP:
 
-4=stupor, mod/severe hemiparesis
+## Sx of elevated ICP include:
 
-5=deep coma, decerebrate posturing, moribund appearance **For Hunt and Hess
-- add one grade for severe vasospasm on angiogram or presence of serious systemic disease (HTN, DM, COPD, severe atherosclerosis)
+### Non-focal:
 
-Events/complications after aneurysmal SAH
+-   Agitation
+-   Headache
+-   Diminished level of consciousness
+-   N/V
+-   hiccups
+-   increased yawning
+-   Cushing's response (elevated BP, bradycardia, respiratory depression)
 
-Early Late Chronic Rebleeding Cerebral vasospasm Chronic hydrocephalus that may require placement of a shunt Acute hydrocephalus Delayed cerebral ischemia Behavior, personality, memory changes Seizures Pituitary dysfunction Need for further retreatment for recurrent or residual anerusym Cardiopulmonary issues and stress induced cardiomyopathy Infection related to surgery or ventriculostomy
+## If any concern for worsening or impending herniation:
 
-Sodium and electrolyte abnormalities
+Clinical suspicion of sustained (\>5 min) or elevation of ICP \> 22 mmHg - Neurocritical care fellow: 352-745-1912 - Ensure appropriate vascular access, consider need for additional PIV and/or stat central line, transfer to ICU if on floor/IMC
 
-Acute elevations in ICP and management of elevated ICP:
+# Herniation syndromes
 
-Sx of elevated ICP include: Non-focal: nausea, vomiting, hiccups, increased yawning, agitation,
+[![](images/neurocritical_care/herniation_syndromes.png){width="683"}](https://mdsearchlight.com/neurology/brain-herniation/)
 
-headache, diminished level of consciousness, Cushing’s response (elevated BP, bradycardia, respiratory depression),
+| Syndrome                     | Findings                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|------------------------------------|------------------------------------|
+| Subfalcine                   | \- Infarct in distal ACA territory → ipsilateral cingulate gyrus migrates under anterior falx<br>- → ipsilateral leg weakness                                                                                                                                                                                                                                                                                                                                    |
+| Central                      | \- Ascending: compression of PCA and SCA against tentorium<br>- Descending: progression of abnormal flexor posturing to extensor posturing → impending death due to damaged respiratory and cardiac centers in medulla by herniated cerebellar tonsils through foramen magnum                                                                                                                                                                                    |
+| Cerebellar tonsillar         | \- PICA, vertebral artery, anterior spinal artery infarcts → infarct to brainstem, tonsils, and lower cerebellum, upper cervical cord → respiratory arrest, downbeat nystagmus                                                                                                                                                                                                                                                                                   |
+| Uncal                        | \- Compression of 3rd nerve against tentorial edge → constriction followed by ipsilateral pupillary dilation<br>- Compression of calcarine branch of PCA → infarct in temporal or occipital lobe<br>- Compression of sylvian aqueduct → obstructive hydrocephalus<br>- Midbrain displacement can cause compression on contralateral cerebral peduncle / contralateral corticospinal tract → ipsilateral hemiparesis to compression (Kernohan's notch phenomenon) |
+| Transalar (trans-sphenoidal) | \- Descending / posterior variant: infarct in MCA territory from compression within sphenoid ridge<br>- Ascending / anterior variant: infarct in anterior and middle cerebral arteries from compression of supra-clinoid segment of ICA against anterior clinoid process                                                                                                                                                                                         |
+| Transcalvarial               | \- Often after decompressive hemicraniectomy → compression of cortical vessels along bony margin predisposing to hemorrhagic infarct                                                                                                                                                                                                                                                                                                                             |
 
-If any concern for worsening or impending herniation: Clinical suspicion or sustained (>5 min) elevation of ICP > 22 mmHg
-- Neurocritical care fellow: 352-745-1912
-- Ensure appropriate vascular access, consider need for additional PIV and/or stat central line, transfer to ICU if on floor/IMC
+# Management of herniation
 
-Herniation syndromes
+| Tier              | Management                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|------------------------------------|------------------------------------|
+| Tier 0 (Standard) | \- Assess ABCs<br>- Minimize noxious stimuli (treat subclinical seizures, glucose control, treat shivering)<br>- Analgesia / sedation (control pain and agitation at the lowest effective doses (fentanyl, lorazepam, propofol)<br>- Target normothermia<br>- Head of bed ≥ 30° (unless unstable MAP or brain sag)<br>- Neck midline (optimize jugular venous drainage)<br>- Iso or hyperosmotic fluids (NO D5W, ½ NS, etc)<br>- Avoid and correct hyponatremia<br>- Steroids in select conditions (brain tumor, abscess, non-infectious neuroinflammatory conditions) |
+| Tier 1            | \- Hyperosmolar therapy<br>- Temporary hyperventilation to a PaCO2 of 30-35 mmHg, consider 10 cc 1% lidocaine into ETT prior to suctioning<br>- CSF drainage<br>- Consider surgical decompression                                                                                                                                                                                                                                                                                                                                                                      |
+| Tier 2            | \- Hyperosmolar therapy for higher Na goals<br>- Optimize sedation and analgesia<br>- Rescue decompressive surgery should be considered as a life-saving intervention                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Tier 3            | \- Sedation titrated to ICP goal or burst suppression of cEEG (pentobarbital coma)<br>- Hyperventilation to achieve mild to moderate hypocapnia (PaCO2 25-34 mmHg), short lived, \<24 hours, works by ↑ vasoconstriction and ↓ cerebral blood volume. Effects at the expense of ↓ CBF therefore used only as bridge to urgent surgical therapy. Not recommended for routine management. Can be bridge to OR in actively herniating patients<br>- Moderate hypothermia (target core temperature 32-34°C)                                                                |
 
-Subfalcine
-- Infarct in distal ACA territory  ipsilateral cingulate gyrus migrates under anterior falx  ipsilateral leg weakness Central
-- Ascending: compression of PCA and SCA against tentorium
-- Descending: progression of abnormal flexor posturing to extensor posturing  impending death due to damaged respiratory and cardiac centers in medulla by herniated cerebellar tonsils through foramen magnum Cerebellar tonsillar
-- PICA, vertebral artery, anterior spinal artery infracts  infarct to brainstem, tonsils, and lower cerebellum, upper cervical cord  respiratory arrest, downbeat nystagmus Uncal
-- Compression of 3rd nerve against tentorial edge  constriction followed by ipsilateral pupillary dilation
-- Compression of calcarine branch of PCA  infarct in temporal or occipital lobe
-- Compression of sylvian aqueduct  obstructive hydrocephalus
-- Midbrain displacement can cause compression on contralateral cerebral peduncle / contralateral corticospinal tract  ipsilateral hemiparesis to compression (Kernohan’s notch phenomenon) Transalar (trans- sphenoidal)
-- Descending / posterior variant: infarct in MCA territory from compression within sphenoid ridge
-- Ascending / anterior variant: infarct in anterior and middle cerebral arteries from compression of supra-clinoid segment of ICA against anterior clinoid process Transcalvarial
-- Often after decompressive hemicraniectomy  compression of cortical vessels along bony margin predisposing to hemorrhagic infarct
+# Hyperosmolar therapy
 
-Management of herniation
-
-Tier 0 (Standard)
-
-- Assess ABCs
-- Minimize noxious stimuli (treat subclinical seizures, glucose control, treat shivering)
-- Analgesia / sedation (control pain and agitation at the lowest effective doses (fentanyl, lorazepam, propofol)
-- Target normothermia
-- Head of bed ≥ 30º (unless unstable MAP or brain sag)
-- Neck midline (optimize jugular venous drainage)
-- Iso or hyperosmotic fluids (NO D5W, ½ NS, etc)
-- Avoid and correct hyponatremia
-- Steroids in select conditions (brain tumor, abscess, non-infectious neuroinflammatory conditions) ⇩
-
-Tier 1
-
-- Hyperosmolar therapy
-- Temporary hyperventilation to a PaCO2 of 30-35 mmHg, consider 10 cc 1% lidocaine into ETT prior to suctioning
-- CSF drainage
-- Consider surgical decompression
-
-⇩
-
-Tier 2
-- Hyperosmolar therapy for higher Na goals
-- Optimize sedation and analgesia
-- Rescue decompressive surgery should be considered as a life saving intervention ⇩
-
-Tier 3
-
-- Sedation titrated to ICP goal or burst suppression of cEEG (pentobarbital coma)
-- Hyperventilation to achieve mild to moderate hypocapnia (PaCO2 25-34 mmHg), short lived, <24 hours, works by ↑ vasoconstriction and ↓ cerebral blood volume. Effects at the expense of ↓ CBF therefore used only as bridge to urgent surgical therapy. Not recommended for routine management. Can be bridge to OR in actively herniating patients
-- Moderate hypothermia (target core temperature 32-34ºC)
-
-Hyperosmolar therapy
-
-Dosing Adverse Reactions Pearls
-
-Mannitol (0.5-1 g/kg over 5-15 mins)
-
-- Give 20% 1g/kg bolus; max 150g
-- Can be re-dosed every 4-6 hrs, consider re-dose if:
-- Posm <320 and ICP still >20
-- Posm >320, calculate osmolar gap (measured  Posm – [2 x plasma Na +  Glc/18  +  BUN/2.8]); if < 20 AND Na <160, give addition 1 g/kg
-- Repeat until ICP <20 or definitive therapy
-
-- Rebound ICP elevation with abrupt discontinuation / repeat dosing
-- Acute kidney injury
-- Hypovolemia
-- Hypotension
-- Electrolyte imbalances
-
-- Relative contraindications: renal failure/insufficiency
-- May be given via peripheral
-- Duration of effect 90 min – 6 hrs
-- Monitor trough osmolar gap (goal < 20 mOsm/kg)
-- Maintain euvolemia – replete urine output cc for cc with normal saline
-
-Hypertonic Saline (goal 145-155)
-
-Target Na (q2-4h): 145-155 mmol/L
-
-Target osmolality (q4-12h): 300-320 mOsmol/L or higher as indicated
-
-Bolus dosing
-
-- 2% or 3%: 250 ml over 30 min
-- 23.4%: 30 ml over 30 min q6h Continuous infusions
-
-- 2% or 3% to maintain Na<155 or Posm<320
-- Na should not rise >8-10 pts in 24 hrs Normal saline (154 mmol/L)
-
-- Baseline hyponatremia (Na<131 mmol/L) 2% gtt (342 mmol/L): monitor Na q2-4h
-
-- Mild-moderate edema or baseline sodium close to target (~140 and above; patient should NOT be hyponatremic (<130))
-- Peripheral or central line
-- Initiation: 0.5-1 ml/kg/hr
-- Infusion rate not exceed 125 ml/hr 3% gtt (513 mmol/L): monitor Na q2-4h
-
-- Severe edema or baseline sodium far from target (131-140)
-- Central line
-- Initiation: 0.5 ml/kg/hr
-- Peripheral up to 48 hours at rate <50 cc/hr – discuss with NCC first
-- Rebound edema can occur on d/c, observe in ICU ~24 hours Discontinuation: Decrease rate by 50% every 4-6 hours, once rate is 20
-
-ml/hr, it can be stopped
-
-- Pulmonary edema
-- Heart failure
-- Acute kidney injury
-- Coagulopathy
-- Hypernatremia
-- Metabolic acidosis
-- Thrombophlebitis
-- Osmotic demyelination syndrome with rapid correction
-
-- Central access needed for >2% gtt or 23.4% bolus
-- Duration of effect 90 min–4 h
-- Avoid prolonged hypernatremia > 160
-- Decrease chloride and increase acetate content if patients develop metabolic acidosis
-- Can be prepared as a 1:1 NaCl:NaAcetate solution if hyperchloremic metabolic acidosis
-- If persistent hypotension with bradycardia after bolus  norepi gtt
-- Have nurse repeat all Na samples with dramatic changes as they frequently are inaccurate
-- If too quick drop during discontinuation, restart previous solution at prior rate with/without a 25 – 50% decrease
-
-![](images/icp_and_herniation_management_19_img8.jpeg)
-
+| Therapy | Dosing | Adverse Reactions | Pearls |
+|---|---|---|---|
+| Mannitol (0.5-1 g/kg over 5-15 mins) | - Give 20% 1g/kg bolus; max 150g<br>- Can be re-dosed every 4-6 hrs, consider re-dose if:<br>&nbsp;&nbsp;&nbsp;&nbsp;- Posm <320 and ICP still >20<br>&nbsp;&nbsp;&nbsp;&nbsp;- Posm >320, calculate osmolar gap (measured Posm − [2 x plasma Na + Glc/18 + BUN/2.8]); if < 20 AND Na <160, give addition 1 g/kg<br>- Repeat until ICP <20 or definitive therapy | - Rebound ICP elevation with abrupt discontinuation / repeat dosing<br>- Acute kidney injury<br>- Hypovolemia<br>- Hypotension<br>- Electrolyte imbalances | - Relative contraindications: renal failure/insufficiency<br>- May be given via peripheral<br>- Duration of effect 90 min – 6 hrs<br>- Monitor trough osmolar gap (goal <20 mOsm/kg)<br>- Maintain euvolemia – replete urine output cc for cc with normal saline |
+| Hypertonic Saline | **Goals**<br>- Target Na (q2-4h): 145-155 mmol/L<br>- Target osmolarity (q4-12h): 300-320 mOsmol/L or higher as indicated<br><br>**Bolus dosing**<br>- 2% or 3%: 250 ml over 30 min<br>- 23.4%: 30 ml over 30 min q6h<br><br>**2% or 3% to maintain Na<155 or Posm<320**<br>- Na should not rise >8-10 pts in 24 hrs<br>- Normal saline (154 mmol/L)<br>&nbsp;&nbsp;&nbsp;&nbsp;- Baseline hyponatremia (Na<131 mmol/L)<br>- 2% gtt (342 mmol/L): monitor Na q2-4h<br>&nbsp;&nbsp;&nbsp;&nbsp;- Mild-moderate edema or baseline sodium close to target (~140 and above; patient should NOT be hyponatremic (<130))<br>&nbsp;&nbsp;&nbsp;&nbsp;- Peripheral or central line<br>&nbsp;&nbsp;&nbsp;&nbsp;- Initiation: 0.5-1 ml/kg/hr<br>&nbsp;&nbsp;&nbsp;&nbsp;- Infusion rate not exceed 125 ml/hr<br><br>**3% gtt (513 mmol/L): monitor Na q2-4h**<br>- Severe edema or baseline sodium far from target (131-140)<br>- Central line<br>- Initiation: 0.5 ml/kg/hr<br>- Peripheral up to 48 hours at rate <50 cc/hr – discuss with NCC first<br>- Rebound edema can occur on d/c, observe in ICU ~24 hours<br>- Discontinuation: Decrease rate by 50% every 4-6 hours, once rate is 20 ml/hr, it can be stopped | - Pulmonary edema<br>- Heart failure<br>- Acute kidney injury<br>- Coagulopathy<br>- Hypernatremia<br>- Metabolic acidosis<br>- Thrombophlebitis<br>- Osmotic demyelination syndrome with rapid correction | - Central access needed for >2% gtt or 23.4% bolus<br>- Duration of effect 90 min–4 h<br>- Avoid prolonged hypernatremia > 160<br>- Decrease chloride and increase acetate content if patients develop metabolic acidosis<br>- Can be prepared as a 1:1 NaCl:NaAcetate solution if hyperchloremic metabolic acidosis<br>- If persistent hypotension with bradycardia after bolus → norepi gtt<br>- Have nurse repeat all Na samples with dramatic changes as they frequently are inaccurate<br>- If too quick drop during discontinuation, restart previous solution at prior rate with/without a 25 – 50% decrease |
