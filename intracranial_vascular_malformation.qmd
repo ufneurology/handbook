@@ -11,9 +11,9 @@ source: "UF Neurology Resident Handbook 2026-2027"
 +============================+========================+============================+==============================================+
 | AVM                        | -   1.3% unruptured;   | -   Size (\>3 cm),         | -   Surgical,                                |
 |                            |                        |                            |                                              |
-|                            | -   4.8% if ruptured   | -   deep venous drainage,  | -   gamma knife embolization                 |
+|                            | -   4.8% if ruptured   | -   deep venous drainage  | -   gamma knife embolization                 |
 |                            |                        |                            |                                              |
-|                            |                        | -   aneurysmal component,  | -   SRS                                      |
+|                            |                        | -   aneurysmal component  | -   SRS                                      |
 +----------------------------+------------------------+----------------------------+----------------------------------------------+
 | Cavernous malformation     | -    2.3% brainstem    | -   Prior ICH              | -   Surgical                                 |
 |                            |                        |                            |                                              |
