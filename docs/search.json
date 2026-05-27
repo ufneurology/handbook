@@ -107,9 +107,9 @@
   {
     "objectID": "convulsive_status_epilepticus.html",
     "href": "convulsive_status_epilepticus.html",
-    "title": "1 Convulsive Status Epilepticus",
+    "title": "Convulsive Status Epilepticus Protocol",
     "section": "",
-    "text": "1 Convulsive Status Epilepticus\nPROTOCOL (ADULT)\nImmediately - STAT 4mg IV Lorazepam IVP over 2 min., repeat dose if still seizing (total 0.1 mg/kg) - Monitor for hypotension and respiratory depression - Order STAT EEG - Call SWAT\n5-30 min\n\nFOS 20 mg PE/kg at rate of 150 mg PE/min (slow rate if hypotension occurs). Maximum dose = 2000 mg\nFree PHT level 2 hours after load (goal free level of 2-3)\nIf at goal, start maintenance fosphenytoin 6 PE mg/kg in three divided doses\nIf not at goal, redose using calculation: 0.8 x (weight in kg) x (desired\nactual level) x10 = mini-load in mg; can round to nearest 250 mg\nMonitor for hypotension and cardiac arrythmias\nCall NeuroCCM fellow phone (352 745\n\n\nfor NICU bed\n\n\nConvert STAT EEG to long term video EEG monitoring\nLoad with IV Keppra (60 mg/kg, max dose 4500 mg)\nCall Epilepsy attending and Neurocritical Care attending for further management recommendations\nIf convulsive seizures continue, intubate and bolus with MDZ 0.2 mg/kg IVP\nIf still seizing, can repeat boluses of MDZ 0.2 mg/kg every 5 minutes (up to max dose of 2 mg/kg).\nStart continuous MDZ infusion at 0.1 mg/kg/hr and increase rate by 5-10 mg total every 15 minutes as needed until convulsions stop (typical range 0.2-0.6 mg/kg/hr). Max dose is 2.9 mg/kg/hr. Titrate MDZ drip to electrographic seizure cessation on EEG.\nNotify Epilepsy attending\nAfter titrating MDZ drip, if still having convulsive seizures, load with depakote, phenobarbital (may also use other agents). Must be coordinated with Neurocritical Care, with further management to be determined on a case by case basis based on etiology, comorbidities and other potential risk of complications.\n\n*This protocol is ONLY for convulsive status epilepticus and does not include non-convulsive status or epilepsia partialis continua.\nImportant practice points:\n\nLZP = lorazepam\nMDZ = midazolam\nFOS = fosphenytoin\nThis protocol is contingent on weight-based dosing, make sure ED weights patient upon arrival.\nMake sure that timing of doses, infusion rate, and actual doses are accurate prior to order."
+    "text": "Benzodiazepine first line:\n\n\nIV lorazepam 0.1 mg/kg (max 4 mg) or\nIV diazepam 0.15 mg/kg (max 10 mg) or\nIM midazolam 0.2 mg/kg (max 10 mg)\n\nRepeat once if seizures persist after 5 min (total ≈ 0.2 mg/kg lorazepam equivalent).\n\nMonitor airway, breathing, hypotension, and respiratory depression\nObtain STAT EEG (call 50061) and activate neurocritical care/epilepsy teams immediately"
   },
   {
     "objectID": "critical_care_pharmacology.html",
@@ -226,9 +226,9 @@
   {
     "objectID": "guillain_barre_syndrome_aidp.html",
     "href": "guillain_barre_syndrome_aidp.html",
-    "title": "1 Guillain Barre Syndrome (AIDP)",
+    "title": "Guillian-Barre Syndrome (Acute inflamattory Demyelinating Poliradiculoneuropathy; AIDP)",
     "section": "",
-    "text": "1 Guillain Barre Syndrome (AIDP)\nGUILLAIN-BARRÉ SYNDROME (AIDP)\n\nHistory and exam o Recent infections – Post-vaccination, C. jejuni, flu, CMV, EBV, mycoplasma o Symptoms develop over days, can be asymmetric o Look for weakness (most often without sensory loss) in distal&gt;proximal, loss of reflexes (though can be normal early) o Back pain is common, and can be sign of demyelinating radiculitis o Incidence of GBS will increase with age, age&gt;50 are at higher risk for GBS\nAdmission orders o Depending on respiratory status, consider IMC versus ICU admission. o Address code status in the ED as the patient may need intubation. o Check NIF and FVC q2h x 12 h then q4h. Consider intubation if NIF &lt; 20 or FVC &lt; 15cc/kg (or 1 liter) or a rapid downward trend is observed. o Consider intubation: -20/30/40 rule: VC &lt;20ml.kg (or 1 liter); MIP&lt;30, MEP &lt;40. Reduction in VC, MIP, MEP &gt;30%, PO2 &lt;70 mmHg on room air, PCO2 &gt;50 mmHg w.acidosis o Order telemetry – high risk of tachyarrhythmias from autonomic instability. o Aggressive bowel regimen, close monitoring for toxic megacolon or aspiration (autonomic involvement) o Avoid beta-blockers because there is a risk of complete heart block. o Perform a bedside swallow to evaluate for aspiration risk o Order DVT prophylaxis including SCDs\nWork-up o Perform a lumbar puncture. There should be albumino-cytological dissociation (protein much higher than cells). Can be normal if caught early o Check HIV, CMV, hepatitis panel, and Campylobacter in stool o Order an EMG/NCS\nlook for absence or prolonged ‘F’ waves or H-reflexes, conduction block, and temporal dispersion (but not always early in the disease!)\nTreatment o IVIg 2 grams/kg divided in 4-5 days. o Check IgA level prior to administration of IVIg as it may cause anaphylaxis in patients with IgA deficiency. Give Acetaminophen and Benadryl prior to each IVIg.\n\nPeripheral neuropathies: EMG/NCS may help guide you - Sensory-Motor polyneuropathy: HbA1c, TSH, BUN/Cr, RPR, B12, ANA, ANCAs, Lyme, LFTs, SPEP, UPEP, SSA/B, RF, ESR, HIV, consider heavy metal screen (needs special navy blue top tube) - Sensory neuropathy: SSA/B, anti-Hu - Mononeuritis multiplex: HbA1c, Lyme ab, SPEP/UPEP, ANA, ANCA, ESR, RPR, HIV, hepatitis serologies, consider cryoglobulins\nPolyneuropathy and mononeuritis multiplex: not sure how to start your differential?\nAcute AIDP (GBS), AMAN (very fast, axonal motor-only GBS), vasculitis, porphyria, toxins (organophosphates, arsenic, thalidomide), tick, drugs, acute thiamine deficiency, critical care neuropathy Stepwise (mononeuritis) Vasculitis: PAN, Sjogren, Churg-Strauss, Wegener’s, hypersensitivity cryoglobulinemia, SLE, RA, isolated PNS vasculitis. DM. CIDP. Infectious: Lyme, HIV, HepC/ cryos, leprosy. Infiltration: (sarcoid (esp. b/l facial nerve), granuloma, leukemia/lymphoma) Predom motor lead, porphyria, hereditary, AIDP/CIDP, multifocal motor neuropathy (MMN), dysproteinemia Pure sensory paraneoplastic (anti-Hu), Sjogren, toxic (cisplatin, B6), HIV, anti-sulfatide Ab, Friedreich’s, idiopathic, hereditary (HSN) Predom autonomic AIDP, DM, amyloid * toxins concentrated in urine can affect the bladder worst (e.g. cisplatin) Small-fiber DM, amyloid, toxic (EtOH), hereditary, Tangier, Fabry, AIDS, idiopathic\nDemyelinating Acute: AIDP; Sub-acute: CIDP, lead, POEMs; Chronic: CIDP, CMT1, HNPP"
+    "text": "Recent infections – Post-vaccination, C. jejuni, flu, CMV, EBV, mycoplasma\nSymptoms develop over days, can be asymmetric\nLook for weakness (most often without sensory loss), loss of reflexes (though can be normal early)\nBack pain is common and can be a sign of demyelinating radiculitis\nIncidence of GBS increases with age; age &gt;50 are at higher risk"
   },
   {
     "objectID": "headache.html",
@@ -277,7 +277,7 @@
     "href": "icp_herniation.html",
     "title": "ICP and Herniation Management",
     "section": "",
-    "text": "1 ICP and Herniation Management\nSodium and electrolyte abnormalities | | |\n**Acute elevations in ICP and management of elevated ICP:**\n\n\n\nSx of elevated ICP include:\n\nNon-focal: nausea, vomiting, hiccups, increased yawning, agitation, headache, diminished level of consciousness, Cushing’s response (elevated BP, bradycardia, respiratory depression),\n\n\n\n**If any concern for worsening or impending herniation: Clinical suspicion**** ****or sustained (****&gt;****5 min) elevation of ICP ****&gt;**** 22 mmHg**\n\n- Neurocritical care fellow: 352-745-1912\n\n- Ensure appropriate vascular access, consider need for additional PIV and/or stat central line, transfer to ICU if on floor/IMC\n\n\n\n\n\n\n\n\n\n\n\nHerniation syndromes\n\n\n\n\n\n\n\nSubfalcine\nInfarct in distal ACA territory à ipsilateral cingulate gyrus migrates under anterior falx à ipsilateral leg weakness\n\n\n\n\nCentral\nAscending: compression of PCA and SCA against tentorium Descending: progression of abnormal flexor posturing to extensor posturing à impending death due to damaged respiratory and cardiac centers in medulla by herniated cerebellar tonsils through foramen magnum\n\n\nCerebellar tonsillar\nPICA, vertebral artery, anterior spinal artery infracts à infarct to brainstem, tonsils, and lower cerebellum, upper cervical cord à respiratory arrest, downbeat nystagmus\n\n\nUncal\nCompression of 3rd nerve against tentorial edge à constriction followed by ipsilateral pupillary dilation Compression of calcarine branch of PCA à infarct in temporal or occipital lobe Compression of sylvian aqueduct à obstructive hydrocephalus Midbrain displacement can cause compression on contralateral cerebral peduncle / contralateral corticospinal tract à ipsilateral hemiparesis to compression (Kernohan’s notch phenomenon)\n\n\nTransalar (trans-sphenoidal)\nDescending / posterior variant: infarct in MCA territory from compression within sphenoid ridge Ascending / anterior variant: infarct in anterior and middle cerebral arteries from compression of supra-clinoid segment of ICA against anterior clinoid process\n\n\nTranscalvarial\nOften after decompressive hemicraniectomy à compression of cortical vessels along bony margin predisposing to hemorrhagic infarct\n\n\n\n\n\n\n\n\n\n\nTier 0 (Standard)\nAssess ABCs Minimize noxious stimuli (treat subclinical seizures, glucose control, treat shivering) Analgesia / sedation (control pain and agitation at the lowest effective doses (fentanyl, lorazepam, propofol) Target normothermia Head of bed ≥ 30º (unless unstable MAP or brain sag) Neck midline (optimize jugular venous drainage) Iso or hyperosmotic fluids (NO D5W, ½ NS, etc) Avoid and correct hyponatremia Steroids in select conditions (brain tumor, abscess, non-infectious neuroinflammatory conditions)\n\n\n\n\n⇩\n\n\n\nTier 1\nHyperosmolar therapy Temporary hyperventilation to a PaCO2 of 30-35 mmHg, consider 10 cc 1% lidocaine into ETT prior to suctioning CSF drainage Consider surgical decompression\n\n\n⇩\n\n\n\nTier 2\nHyperosmolar therapy for higher Na goals Optimize sedation and analgesia Rescue decompressive surgery should be considered as a life-saving intervention\n\n\n⇩\n\n\n\nTier 3\nSedation titrated to ICP goal or burst suppression of cEEG (pentobarbital coma) Hyperventilation to achieve mild to moderate hypocapnia (PaCO2 25-34 mmHg), short lived, &lt;24 hours, works by ↑ vasoconstriction and ↓ cerebral blood volume. Effects at the expense of ↓ CBF therefore used only as bridge to urgent surgical therapy. Not recommended for routine management. Can be bridge to OR in actively herniating patients Moderate hypothermia (target core temperature 32-34ºC)\n\n\n\nManagement of herniation\n\n\n\n\n\nHyperosmolar therapy\n\n\n\n\n\n\n\n\n\n\nDosing\nAdverse Reactions\nPearls\n\n\n\n\nMannitol (0.5-1 g/kg over 5-15 mins)\nGive 20% 1g/kg bolus; max 150g Can be re-dosed every 4-6 hrs, consider re-dose if: Posm &lt;320 and ICP still &gt;20 Posm &gt;320, calculate osmolar gap (measured Posm – [2 x plasma Na + Glc/18 + BUN/2.8]); if &lt; 20 AND Na &lt;160, give addition 1 g/kg Repeat until ICP &lt;20 or definitive therapy\nRebound ICP elevation with abrupt discontinuation / repeat dosing Acute kidney injury Hypovolemia Hypotension Electrolyte imbalances\nRelative contraindications: renal failure/insufficiency May be given via peripheral Duration of effect 90 min – 6 hrs Monitor trough osmolar gap (goal &lt; 20 mOsm/kg) Maintain euvolemia – replete urine output cc for cc with normal saline"
+    "text": "Agitation\nHeadache\nDiminished level of consciousness\nN/V\nhiccups\nincreased yawning\nCushing’s response (elevated BP, bradycardia, respiratory depression)\n\n\n\n\n\nClinical suspicion of sustained (&gt;5 min) or elevation of ICP &gt; 22 mmHg - Neurocritical care fellow: 352-745-1912 - Ensure appropriate vascular access, consider need for additional PIV and/or stat central line, transfer to ICU if on floor/IMC"
   },
   {
     "objectID": "idiopathic_intracranial_hypertension.html",
@@ -318,50 +318,50 @@
     "objectID": "index.html#emergencies",
     "href": "index.html#emergencies",
     "title": "UF Neurology Living Handbook",
-    "section": "3 Emergencies",
-    "text": "3 Emergencies\n\n\nSeizure Consult\nConvulsive Status Epilepticus\nNonconvulsive Status Epilepticus\nLumbar Puncture\nCardiac Arrest\nBrain Death\nTBI\nCervical Spine Clearance\nMovement Disorder Emergencies\nNeuro-Ophthalmologic Emergencies\nNeuro-Oncology Complications and Emergencies"
+    "section": "9 Emergencies",
+    "text": "9 Emergencies\n\n\nNeuro-Ophthalmologic Emergencies\nParkinson Disease Emergencies\nOther Movement Disorder Emergencies\nNeuro-Oncology Emergencies"
   },
   {
     "objectID": "index.html#neurocritical-care",
     "href": "index.html#neurocritical-care",
     "title": "UF Neurology Living Handbook",
-    "section": "4 Neurocritical Care",
-    "text": "4 Neurocritical Care\n\n\nSubarachnoid Hemorrhage\nICP and Herniation Management\nMechanical Ventilation\nIntracranial Vascular Malformations\nSodium Management\nFluids\nBlood Pressure Pharmacology\nCommon Critical Care Pharmacology\nDrug Pharmacokinetics Affecting Neuro Exam\nManagement of PSH"
+    "section": "3 Neurocritical Care",
+    "text": "3 Neurocritical Care\n\n\nSubarachnoid Hemorrhage\nICP and Herniation Management\nSodium Management\nTraumatic Brain Injury\nManagement of PSH\nCommon Critical Care Pharmacology\nFluids\nIntracranial Vascular Malformation\nDrug Pharmacokinetics Affecting Neuro Exam\nCardiac Arrest\nStatus Myoclonus\nBrain Death\nMechanical Ventilation\nCervical Spine Clearance"
   },
   {
     "objectID": "index.html#epilepsy",
     "href": "index.html#epilepsy",
     "title": "UF Neurology Living Handbook",
-    "section": "5 Epilepsy",
-    "text": "5 Epilepsy\n\n\nEpilepsy\nAntiseizure Medications"
+    "section": "4 Epilepsy",
+    "text": "4 Epilepsy\n\n\nSeizure Consult\nStatus Epilepticus\nAntiseizure Medications"
   },
   {
     "objectID": "index.html#headache",
     "href": "index.html#headache",
     "title": "UF Neurology Living Handbook",
-    "section": "6 Headache",
-    "text": "6 Headache\n\n\nHeadache\nAcute Headache Management\nDHE Protocol\nHeadache in Pregnancy\nIdiopathic Intracranial Hypertension"
+    "section": "8 Headache",
+    "text": "8 Headache\n\n\nHeadache\nAcute Headache Management\nDHE Protocol\nHeadache in Pregnancy\nIdiopathic Intracranial Hypertension"
   },
   {
     "objectID": "index.html#neuromuscular",
     "href": "index.html#neuromuscular",
     "title": "UF Neurology Living Handbook",
-    "section": "7 Neuromuscular",
-    "text": "7 Neuromuscular\n\n\nNeuromuscular\nMyasthenia Gravis\nGuillain-Barré Syndrome / AIDP"
+    "section": "5 Neuromuscular",
+    "text": "5 Neuromuscular\n\n\nMyasthenia Gravis Exacerbation\nGuillain-Barré Syndrome / AIDP"
   },
   {
     "objectID": "index.html#neuroimmunology",
     "href": "index.html#neuroimmunology",
     "title": "UF Neurology Living Handbook",
-    "section": "8 Neuroimmunology",
-    "text": "8 Neuroimmunology\n\n\nNeuroimmunology\nMultiple Sclerosis\nOptic Neuritis and Transverse Myelitis"
+    "section": "6 Neuroimmunology",
+    "text": "6 Neuroimmunology\n\n\nMultiple Sclerosis\nOptic Neuritis and Transverse Myelitis\nAutoimmune Encephalopathy\nNeuroinfectious Disease"
   },
   {
     "objectID": "index.html#neurotology",
     "href": "index.html#neurotology",
     "title": "UF Neurology Living Handbook",
-    "section": "9 Neurotology",
-    "text": "9 Neurotology\n\n\nNeurotology\nDizziness Evaluation\nEtiologies of Dizziness"
+    "section": "7 Neurotology",
+    "text": "7 Neurotology\n\n\nDizziness Evaluation"
   },
   {
     "objectID": "index.html#movement-disorders",
@@ -381,8 +381,8 @@
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "UF Neurology Living Handbook",
-    "section": "12 About",
-    "text": "12 About\n\n\nAbout This Handbook"
+    "section": "11 About",
+    "text": "11 About\n\n\nAbout This Handbook"
   },
   {
     "objectID": "intracerebral_hemorrhage.html",
@@ -443,9 +443,9 @@
   {
     "objectID": "mental_status_exam.html",
     "href": "mental_status_exam.html",
-    "title": "1 Mental Status Exam",
+    "title": "UF Neurology Handbook",
     "section": "",
-    "text": "1 Mental Status Exam\n\nGeneral Observations\n\nArousal Affect Communication 2. Attention Count backwards:20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 Digit span: 539 / 9703 / 59128 / 7681302 / 52081643 Vigilance: GFALTRNAJRPOANAGKILOPAWERZMALAKWOPTHAKFLA 3. Orientation Time Place 4. Speech/Language\nSpeech: dysarthric/hypophonic/spastic/scanning Fluency: fluent/nonfluent//paraphasias//circumlocutions Repetition: “No ifs ands or buts” “Methodist Episcopal” Comprehension: one-step two-step grammatical\nNaming: high frequency low frequency Reading/Writing: irregular words non-words 5. Memory\nShort term: Ball/flag/tree repeat: remember: Long term: Presidents, historic events, current events 6. Praxis orobuccal limb tool use 7. Visualspatial/Perceptual\nLine bisection\nExtinction: visual auditory tactile\nObject recognition: Visually guided reaching 8. Emotion Prosody: expression comprehension 9. Executive/frontal function Verbal fluency: Category (animals): Letter (F): Oral trails:Al B2 C3 D4 E5 F6 G7 H8 19 JIO KII LI2 Ml3 NI4 015 Go/no-go or contrasting programs Crossed motor inhibition"
+    "text": "Arousal state:\nAlert, Confused, Somnolent/Lethargic (rouses to tactile stim), Stuporous (rouses to painful stim), Coma (no arousal to pain)\nGlasgow Coma Scale"
   },
   {
     "objectID": "modified_rankin_scale.html",
@@ -515,14 +515,14 @@
     "href": "neurologic_examination.html",
     "title": "Neurologic Examination",
     "section": "",
-    "text": "The neurological examination provides a systematic framework for assessing mental status, cranial nerve function, motor and sensory systems, coordination, reflexes and gait. Each domain has specific elements that must be evaluated to localize pathology and quantify deficits. The following structured approach preserves the content of the original handbook while organizing it in a digital-friendly format."
+    "text": "Arousal state:\nAlert, Confused, Somnolent/Lethargic (rouses to tactile stim), Stuporous (rouses to painful stim), Coma (no arousal to pain)\nGlasgow Coma Scale\n\n\n\nAttention: Spell WORLD backwards, recite the months backwards, perform serial 7’s, or count from 20 to 1.\nLanguage: Evaluate fluency, repetition, naming, reading, writing and comprehension. Test one‑step commands (midline vs appendicular), two‑step commands, and reversed grammar commands (e.g., “touch your nose after pointing to the ceiling”).\nFund of knowledge: Assess current events and quality of medical history.\nPraxis: Ask the patient to show how to use a hammer.\nMemory: Recall 3–5 objects at 1 minute, assess digit span (average 7) and story retelling; probe distant memory.\nVisuospatial function: Assess organization of space with tasks such as clock drawing or copying a complex figure.\nNeglect: Check for extinction, perform line bisection and target elimination tests.\nExecutive function: Examine organization of knowledge, inhibition, sequencing and perseveration.\nVerbal fluency: Ask the patient to name animals in 1 minute (&gt; 20 is normal).\nOral trails: Sequence letters and numbers (e.g., A1, B2, 3C…) and perform the Luria 3‑step (fist, edge, palm) registration and repetition three times.\nGo/no go: For example, instruct the patient to raise their hand every time a letter is stated except when you say “D”."
   },
   {
     "objectID": "neurologic_examination.html#mental-status",
     "href": "neurologic_examination.html#mental-status",
     "title": "Neurologic Examination",
-    "section": "1 Mental Status",
-    "text": "1 Mental Status\n\nArousal state: Alert, sleepy, lethargic, stuporous, coma. Describe the stimulus required to elicit a response (e.g., opens eyes spontaneously vs to voice vs sternal rub vs deep pain).\nAttention: Spell WORLD backwards, recite the months backwards, perform serial 7’s, or count from 20 to 1.\nLanguage: Evaluate fluency, repetition, naming, reading, writing and comprehension. Test one‑step commands (midline vs appendicular), two‑step commands, and reversed grammar commands (e.g., “touch your nose after pointing to the ceiling”).\nFund of knowledge: Assess current events and quality of medical history.\nPraxis: Ask the patient to show how to use a hammer.\nMemory: Recall 3–5 objects at 1 minute, assess digit span (average 7) and story retelling; probe distant memory.\nVisuospatial function: Assess organization of space with tasks such as clock drawing or copying a complex figure.\nNeglect: Check for extinction, perform line bisection and target elimination tests.\nExecutive function: Examine organization of knowledge, inhibition, sequencing and perseveration.\nVerbal fluency: Ask the patient to name animals in 1 minute (&gt; 20 is normal).\nOral trails: Sequence letters and numbers (e.g., A1, B2, 3C…) and perform the Luria 3‑step (fist, edge, palm) registration and repetition three times.\nGo/no go: For example, instruct the patient to raise their hand every time a letter is stated except when you say “D”."
+    "section": "",
+    "text": "Arousal state:\nAlert, Confused, Somnolent/Lethargic (rouses to tactile stim), Stuporous (rouses to painful stim), Coma (no arousal to pain)\nGlasgow Coma Scale\n\n\n\nAttention: Spell WORLD backwards, recite the months backwards, perform serial 7’s, or count from 20 to 1.\nLanguage: Evaluate fluency, repetition, naming, reading, writing and comprehension. Test one‑step commands (midline vs appendicular), two‑step commands, and reversed grammar commands (e.g., “touch your nose after pointing to the ceiling”).\nFund of knowledge: Assess current events and quality of medical history.\nPraxis: Ask the patient to show how to use a hammer.\nMemory: Recall 3–5 objects at 1 minute, assess digit span (average 7) and story retelling; probe distant memory.\nVisuospatial function: Assess organization of space with tasks such as clock drawing or copying a complex figure.\nNeglect: Check for extinction, perform line bisection and target elimination tests.\nExecutive function: Examine organization of knowledge, inhibition, sequencing and perseveration.\nVerbal fluency: Ask the patient to name animals in 1 minute (&gt; 20 is normal).\nOral trails: Sequence letters and numbers (e.g., A1, B2, 3C…) and perform the Luria 3‑step (fist, edge, palm) registration and repetition three times.\nGo/no go: For example, instruct the patient to raise their hand every time a letter is stated except when you say “D”."
   },
   {
     "objectID": "neurologic_examination.html#cranial-nerves",
@@ -674,9 +674,9 @@
   {
     "objectID": "seizure_consult.html",
     "href": "seizure_consult.html",
-    "title": "1 Seizure Consult",
+    "title": "Seizure Consult",
     "section": "",
-    "text": "1 Seizure Consult\nHISTORY: New onset seizure or known epilepsy?\nIf known epilepsy: goal is to determine AED regimen and compliance, seizure type/frequency and last seizure, epilepsy physician, any recent triggers (see below). Check AED levels and if low or they are non-compliant, re- load; if not, consider increasing AED dose. Ask about prior AEDs tried.\nIf new onset seizures, obtain comprehensive first seizure history: - RISK FACTORS: history of febrile seizures, family history of seizures, prenatal and perinatal complications, developmental delay, history of head trauma, history of CNS infection, history of CNS mass/malformation, metabolic disorder, stroke (hemorrhagic&gt;ischemic), drug/alcohol use, consanguinity - TRIGGERS LOWERING SEIZURE THRESHOLD: Medications, AED noncompliance, infection, metabolic abnormalities, toxic ingestion, menses, stress, sleep deprivation, EtOH/benzo withdrawal, fever, use of stimulants, hypoglycemia, electrolyte disturbance, hypoxia, acute medical/neuro illness - CHARACTERISTICS: aura (visual, auditory, olfactory, epigastric rising sensation, psychic (déjà vu, derealization, depersonalization, fear, anxiety), type of seizure (especially how its starts), eyes open or closed, lateral eye or head deviation, length of seizure, associated tongue bite or other injury, incontinence, post-ictal confusion, post-ictal weakness. - SUBTLE SEIZURE SIGNS: history of staring, automatisms, waking up incontinent or injured (tongue bite), myoclonic jerks.\nEXAM: Focus on mental status, post-ictal paralysis or other focal deficits, subtle signs of ongoing seizures such as abnormal movements, head or eye deviation, eyelid twitching, pupillary abnormalities or hippus; tongue bite/other injury, and meningeal signs\nED WORKUP: AED levels (only carbamazepine, phenytoin, valproate and phenobarb levels are available acutely, but others can be helpful to establish compliance), non-contrast head CT (new seizures only!), can consider MRI with/without contrast (seizure protocol). Basic labs including electrolytes and CBC, infectious workup (UA, CXR), toxicology screen, LP if concern for meningitis\nPLAN: - AED: load and then start maintenance dose (do not start AEDs for an uncomplicated first seizure) - EEG: highest yield within 24-48 h. If the patient is not “back to baseline,” consider stat EEG. - MRI with and without contrast, seizure protocol if warranted - Ativan IV PRN seizure activity - Evaluate medication list for medications that lower the seizure threshold - Can be discharged from the ED if they only had 1-2 seizure, have returned to baseline, and have nothing in the above workup requiring admission. - Information patient that he/she cannot drive for ≥ 6 months per Florida state law - Refer to the Urgent Clinic follow-up or your continuity clinic via Epic.\nNot Returning to Baseline after a Seizure The two most common reasons patients don’t wake up are prolonged post-ictal periods and overly eager benzo administration … But don’t miss anything important: - Make sure the patient isn’t still seizing. Look for subtle abnormal limb or eye movement, fluctuating arousal or complete lack of improvement. 40% of patients with status epilepticus continue having subclinical seizures after convulsive seizures are controlled. Consider a stat EEG. - Get a head CT if you don’t have one yet - Consider LP if you have any concern for meningitis/encephalitis or SAH not seen on HCT - You may need to admit a patient overnight for prolonged postical period or benzo intoxication. If there is no medical reason they had a seizure (e.g. EtOH w/d, infection) they will likely need to be admitted to neurology."
+    "text": "If known epilepsy: goal is to determine ASM regimen and compliance, seizure type/frequency and last seizure, epilepsy physician, any recent triggers (see below). Check ASM levels and if low or they are non-compliant, re-load; if not, consider increasing ASM dose. Ask about prior ASMs tried.\nIf new onset seizures, obtain comprehensive first seizure history:\n• RISK FACTORS: history of febrile seizures, family history of seizures, prenatal and perinatal complications, developmental delay, history of head trauma, history of CNS infection, history of CNS mass/malformation, metabolic disorder, stroke (hemorrhagic&gt;ischemic), drug/alcohol use, consanguinity.\n• TRIGGERS LOWERING SEIZURE THRESHOLD: Medications, ASM noncompliance, infection, metabolic abnormalities, toxic ingestion, menses, stress, sleep deprivation, EtOH/benzo withdrawal, fever, use of stimulants, hypoglycemia, electrolyte disturbance, hypoxia, acute medical/neuro illness.\n• CHARACTERISTICS: aura (visual, auditory, olfactory, epigastric rising sensation, psychic (déjà vu, derealization, depersonalization, fear, anxiety), type of seizure (especially how its starts), eyes open or closed, lateral eye or head deviation, length of seizure, associated tongue bite or other injury, incontinence, post-ictal confusion, post-ictal weakness. Start by asking if they can tell when they will have a seizure.\n• SUBTLE SEIZURE SIGNS: history of staring, automatisms, waking up incontinent or injured (tongue bite), myoclonic jerks. May or may not discriminate between epileptic vs. other events. History of injury during events.\n\n\n\nFocus on mental status, post-ictal paralysis or other focal deficits, subtle signs of ongoing seizures such as abnormal movements, head or eye deviation/version, eyelid twitching, pupillary abnormalities or hippus; tongue bite/other injury, and meningeal signs\n\n\n\nASM levels (only carbamazepine, phenytoin, valproate and phenobarb levels are available acutely, but others can be helpful to establish compliance), non-contrast head CT (new seizures only!), can consider MRI with/without contrast (seizure protocol). Basic labs including electrolytes and CBC, infectious workup (UA, CXR), toxicology screen, LP if concern for meningitis.\nSEE ALOGIRTHMS IN DRIVE OR PRINTED IN TEAM ROOM.\n\n\n\n\n\n\nWarning\n\n\n\nNot Returning to Baseline after a Seizure?\nThe two most common reasons patients don’t wake up are prolonged post-ictal periods and overly eager benzo administration … But don’t miss anything important:\n·    Make sure the patient isn’t still seizing. Look for subtle abnormal limb or eye movement, fluctuating awareness, or complete lack of improvement. Even though convulsive seizures may be controlled, up to 40% of patients in status may continue having subclinical seizures. Consider a stat EEG.\n·    Get a head CT if you don’t have one yet.\n·    Consider LP if you have any concern for meningitis/encephalitis or SAH not seen on head CT.\n·    You may need to admit a patient overnight for prolonged postictal period or benzo intoxication or if there is no clear medical reason for seizure (e.g., EtOH w/d, infection)."
   },
   {
     "objectID": "select_access.html",
@@ -810,5 +810,642 @@
     "title": "1 VA Stroke Alert",
     "section": "",
     "text": "1 VA Stroke Alert\nS with concern for large vessel occlusion\nEvaluate patient emergently and obtain noncontrast head CT as you would normally. Do not give contrast (i.e. CTA) at VA if concern for large vessel occlusion, as availability at the VA will introduce a time delay. You can give tPA at the VA after discussion with attending if indicated.\nIf concern for large vessel stroke that may be amenable to endovascular intervention, bring this to the attention of VA attending immediately. If the VA attending agrees to transfer to UF, he/she must call the Shands transfer center (352-265-0559) to speak with the on-call stroke attending - do NOT bypass this step by calling the stroke attending directly. Once the patient has been accepted for transfer, follow the steps below.* If patient is within tPA window do not delay tPA administration, you can give bolus and start infusion while setting up the transfer.** Make sure nurse continues to monitor blood pressure with tPA infusion.\nTo transfer to UF: Regular Hours (8-4:30p, M-F) 1. Call VA transfer coordinator (Teresa Taylor @ 352-264-3848 or 352-339-9126 or Sharonda Taylor- Martin @ 386-487-1750 ext 1788) and inform them of need for emergent transfer 2. Place a Non-VA Care (NVCC) Consult (CPRSConsults (order menu)Non VA Care 3. Complete BENEFICIARY TRAVEL (BT) note template (Notes section of CPRS). After completing the template, an order menu will open, select “GNV Travel IP” option and complete the travel consult order. 4. Obtain consent using iMed Consent. 5. Enter discharge order (In the Discharge Order dialogue box, next to “Discharge Patient” type in “Hospital to Hospital Transfer to Shands pending bed availability.” 6. Write a consult note/DC summary\nAfterhours/ weekends/holidays AOD will act as the VA Transfer Coordinator and may be reached at 78-6724 or 78-6004, but otherwise the process will be the same as during regular hours.\n*Make resident on service and/or vascular fellow at UF aware of transfer as well. **Stay with patient until ambulance arrives to transfer to UF.\nLake City VA telephone requests Treatment recommendations can only be given for patients whom you have personally evaluated. If you receive a request for telephone consultation from the Lake City VA, the following are the only two available options: - If the description sounds like a potential acute stroke within a therapeutic treatment window, you should advise the physician to contact the VA National Tele-Stroke program from their location or immediately transfer the patient to the nearest Comprehensive Stroke Center of their choice. - If the physician calling you describes ANYTHING else, please state the following verbatim: “As a resident in training, I am not permitted by my Service Chief and Program Directors to provide consultation over the telephone. If your patient needs urgent Neurological Consultation, I will be happy to evaluate the patient if he or she is transferred to this hospital or ED. If your patient does not need urgent Neurological Consultation, please submit a Consult or E-Consult request to LKC or GNV Neurology.”"
+  },
+  {
+    "objectID": "antiseizue_medications.html",
+    "href": "antiseizue_medications.html",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "",
+    "text": "All antiseizure medications (ASMs) confer an elevated risk of:\n\nSuicidal ideation and behavior\nTeratogenesis"
+  },
+  {
+    "objectID": "antiseizue_medications.html#general-precautions",
+    "href": "antiseizue_medications.html#general-precautions",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "",
+    "text": "All antiseizure medications (ASMs) confer an elevated risk of:\n\nSuicidal ideation and behavior\nTeratogenesis"
+  },
+  {
+    "objectID": "antiseizue_medications.html#pregnancy-considerations",
+    "href": "antiseizue_medications.html#pregnancy-considerations",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "2 Pregnancy Considerations",
+    "text": "2 Pregnancy Considerations\n\nWomen becoming pregnant while taking ASMs should enroll in the North American Antiepileptic Drug Pregnancy Registry.\nRegistry phone: 1-888-233-2334\nRegistry website: https://www.aedpregnancyregistry.org/\n\n\n2.1 Folic Acid Recommendations\nWomen of childbearing potential should take:\n\nFolic acid 1–2 mg daily preconceptually\nOR 1 mg daily plus prenatal vitamin"
+  },
+  {
+    "objectID": "antiseizue_medications.html#adverse-event-reporting",
+    "href": "antiseizue_medications.html#adverse-event-reporting",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "3 Adverse Event Reporting",
+    "text": "3 Adverse Event Reporting\nReport ASM adverse events to the FDA MedWatch program:\nhttps://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program\n\n3.1 Special Prescribing Considerations\nMedications requiring REMS or special documentation\n(therefore do not issue outpatient prescriptions without discussion with the epilepsy attending):\n\nFelbamate\nVigabatrin\nFenfluramine\nEpidiolex (not scheduled but must be dispensed from a specialty pharmacy)"
+  },
+  {
+    "objectID": "antiseizue_medications.html#antiseizure-medications-enzymatic-considerations",
+    "href": "antiseizue_medications.html#antiseizure-medications-enzymatic-considerations",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "4 Antiseizure Medications Enzymatic Considerations",
+    "text": "4 Antiseizure Medications Enzymatic Considerations\n\n\n\n\n\n\n\n\n\nEnzyme\nSubstrates\nEnzyme Inhibitors\nEnzyme Inducers\n\n\n\n\nCYP3A4\ncannabidiol, carbamazepine, clobazam, clonazepam, diazepam, ethosuximide, everolimus, felbamate, lacosamide, midazolam, oxcarbazepine, perampanel, stiripentol, tiagabine, zonisamide\n—\ncarbamazepine, eslicarbazepine, felbamate, oxcarbazepine, perampanel, phenobarbital, phenytoin, primidone, rufinamide, stiripentol, topiramate, cenobamate\n\n\nCYP2C19\nbrivaracetam, cannabidiol, clobazam, diazepam, lacosamide, phenobarbital, phenytoin, primidone, stiripentol, valproate, zonisamide\ncannabidiol, eslicarbazepine, felbamate, topiramate, valproate, cenobamate\ncarbamazepine, phenobarbital, phenytoin, primidone, stiripentol\n\n\nCYP2C9\ncarbamazepine, lacosamide, phenobarbital, primidone, valproate\nperampanel, stiripentol, valproate, cannabidiol\ncarbamazepine, phenobarbital, primidone\n\n\nCYP2B6\nclobazam, perampanel, valproate\n—\ncarbamazepine, perampanel\n\n\nCYP1A2\nstiripentol\ncannabidiol, stiripentol\n—\n\n\nUGT\ncannabidiol, diazepam, lamotrigine, oxcarbazepine\nvalproate\nlamotrigine, phenobarbital, primidone\n\n\nEpoxide hydrolase\ncarbamazepine 10,11 epoxide\nvalproate, brivaracetam\n—"
+  },
+  {
+    "objectID": "antiseizue_medications.html#references",
+    "href": "antiseizue_medications.html#references",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "5 References",
+    "text": "5 References\n\nAmerican Epilepsy Society. A Summary of Antiseizure Medications Available in the United States: 4th Edition, Revised April 1, 2024.\nAES website: https://www.aesnet.org/\nThe Pharmacology and Clinical Efficacy of Antiseizure Medications: From Bromide Salts to Cenobamate and Beyond by Wolfgang Löscher & Pavel Klein"
+  },
+  {
+    "objectID": "convulsive_status_epilepticus.html#min-immediate-therapy",
+    "href": "convulsive_status_epilepticus.html#min-immediate-therapy",
+    "title": "Convulsive Status Epilepticus Protocol",
+    "section": "",
+    "text": "Benzodiazepine first line:\n\n\nIV lorazepam 0.1 mg/kg (max 4 mg) or\nIV diazepam 0.15 mg/kg (max 10 mg) or\nIM midazolam 0.2 mg/kg (max 10 mg)\n\nRepeat once if seizures persist after 5 min (total ≈ 0.2 mg/kg lorazepam equivalent).\n\nMonitor airway, breathing, hypotension, and respiratory depression\nObtain STAT EEG (call 50061) and activate neurocritical care/epilepsy teams immediately"
+  },
+  {
+    "objectID": "convulsive_status_epilepticus.html#min-early-second-line-asm",
+    "href": "convulsive_status_epilepticus.html#min-early-second-line-asm",
+    "title": "Convulsive Status Epilepticus Protocol",
+    "section": "2 2. 5–30 min (Early Second Line ASM)",
+    "text": "2 2. 5–30 min (Early Second Line ASM)\nNo drug has proven superiority in benzodiazepine refractory CSE\nIf seizures continue, choose one IV ASM:\n\nValproate 40 mg/kg over 10 min (max 3000 mg)\nLevetiracetam 60 mg/kg over 5–10 min (max 4500 mg)\nLacosamide 400 mg IV bolus; then 200 mg IV q12 h (max 600 mg/d)\nFosphenytoin 20 mg PE/kg at ≤ 150 mg PE/min (max 1500 mg PE), check free phenytoin level 2 h post load (target 2–3 µg/mL); if below goal, re dose: 0.8 × W kg × (desired – actual) × 10 mg (round to 250 mg)\nPhenobarbital load 20 mg/kg in 5 mg/kg increments at ~1 mg/kg/min 1,2\n\nStart continuous video EEG monitoring."
+  },
+  {
+    "objectID": "convulsive_status_epilepticus.html#min-refractory-cse",
+    "href": "convulsive_status_epilepticus.html#min-refractory-cse",
+    "title": "Convulsive Status Epilepticus Protocol",
+    "section": "3 3. 30 min (Refractory CSE)",
+    "text": "3 3. 30 min (Refractory CSE)\nIf seizures persist after adequate benzo + second line ASM, you may either:\nRepeat a bolus of second-line ASM (levetiracetam, phenytoin/fosphenytoin, valproate, lacosamide, or phenobarbital). OR\nInitiate continuous anesthetic infusion:\n\nMidazolam bolus 0.2 mg/kg IV (repeat up to 0.4 mg/kg), then infusion 0.1–0.6 mg/kg/h (titrate to EEG burst suppression; max ~2.9 mg/kg/h)\npropofol infusion (1–5 mg/kg/h)\npentobarbital infusion (1–5 mg/kg/h)\nConsider Ketamine infusion (1–5 mg/kg/h) in super refractory cases.\n\n\nhttps://doi.org/10.1016/S1474-4422(24)00430-7"
+  },
+  {
+    "objectID": "seizure_consult.html#history",
+    "href": "seizure_consult.html#history",
+    "title": "Seizure Consult",
+    "section": "",
+    "text": "If known epilepsy: goal is to determine ASM regimen and compliance, seizure type/frequency and last seizure, epilepsy physician, any recent triggers (see below). Check ASM levels and if low or they are non-compliant, re-load; if not, consider increasing ASM dose. Ask about prior ASMs tried.\nIf new onset seizures, obtain comprehensive first seizure history:\n• RISK FACTORS: history of febrile seizures, family history of seizures, prenatal and perinatal complications, developmental delay, history of head trauma, history of CNS infection, history of CNS mass/malformation, metabolic disorder, stroke (hemorrhagic&gt;ischemic), drug/alcohol use, consanguinity.\n• TRIGGERS LOWERING SEIZURE THRESHOLD: Medications, ASM noncompliance, infection, metabolic abnormalities, toxic ingestion, menses, stress, sleep deprivation, EtOH/benzo withdrawal, fever, use of stimulants, hypoglycemia, electrolyte disturbance, hypoxia, acute medical/neuro illness.\n• CHARACTERISTICS: aura (visual, auditory, olfactory, epigastric rising sensation, psychic (déjà vu, derealization, depersonalization, fear, anxiety), type of seizure (especially how its starts), eyes open or closed, lateral eye or head deviation, length of seizure, associated tongue bite or other injury, incontinence, post-ictal confusion, post-ictal weakness. Start by asking if they can tell when they will have a seizure.\n• SUBTLE SEIZURE SIGNS: history of staring, automatisms, waking up incontinent or injured (tongue bite), myoclonic jerks. May or may not discriminate between epileptic vs. other events. History of injury during events."
+  },
+  {
+    "objectID": "seizure_consult.html#plan",
+    "href": "seizure_consult.html#plan",
+    "title": "Seizure Consult",
+    "section": "2 PLAN:",
+    "text": "2 PLAN:\n• ASM: load and then start maintenance dose (do not start ASMs for an uncomplicated first seizure)\n• Prescription assistance forms available at NeedyMeds.org; pricing at GoodRx.\n• EEG: highest yield within 24-48 h. If the patient is not “back to baseline,” consider stat EEG.\n• MRI with and without contrast seizure protocol, if warranted\n• Ativan IV PRN seizure activity\n• Evaluate medication list for medications that lower the seizure threshold.\n• Can discharge from the ED if they only had 1-2 seizures, have returned to baseline, and have nothing in the above workup requiring admission.\n• Inform patient that he/she cannot drive for ≥ 6 months per Florida state law. Document!\n• Refer to the Urgent Clinic follow-up or your continuity clinic via Epic. Do not refer to Epilepsy Clinic without reviewing with Epilepsy attending first.\nNot Returning to Baseline after a Seizure: The two most common reasons patients don’t wake up are prolonged post-ictal periods and overly eager benzo administration … But don’t miss anything important:\n· Make sure the patient isn’t still seizing. Look for subtle abnormal limb or eye movement, fluctuating awareness, or complete lack of improvement. Even though convulsive seizures may be controlled, up to 40% of patients in status may continue having subclinical seizures. Consider a stat EEG.\n· Get a head CT if you don’t have one yet.\n· Consider LP if you have any concern for meningitis/encephalitis or SAH not seen on head CT.\n· You may need to admit a patient overnight for prolonged postictal period or benzo intoxication or if there is no clear medical reason for seizure (e.g., EtOH w/d, infection)."
+  },
+  {
+    "objectID": "seizure_consult.html#exam-focus-on-mental-status-post-ictal-paralysis-or-other-focal-deficits-subtle-signs-of-ongoing-seizures-such-as-abnormal-movements-head-or-eye-deviationversion-eyelid-twitching-pupillary-abnormalities-or-hippus-tongue-biteother-injury-and-meningeal-signs",
+    "href": "seizure_consult.html#exam-focus-on-mental-status-post-ictal-paralysis-or-other-focal-deficits-subtle-signs-of-ongoing-seizures-such-as-abnormal-movements-head-or-eye-deviationversion-eyelid-twitching-pupillary-abnormalities-or-hippus-tongue-biteother-injury-and-meningeal-signs",
+    "title": "Seizure Consult",
+    "section": "0.2 EXAM: Focus on mental status, post-ictal paralysis or other focal deficits, subtle signs of ongoing seizures such as abnormal movements, head or eye deviation/version, eyelid twitching, pupillary abnormalities or hippus; tongue bite/other injury, and meningeal signs",
+    "text": "0.2 EXAM: Focus on mental status, post-ictal paralysis or other focal deficits, subtle signs of ongoing seizures such as abnormal movements, head or eye deviation/version, eyelid twitching, pupillary abnormalities or hippus; tongue bite/other injury, and meningeal signs"
+  },
+  {
+    "objectID": "seizure_consult.html#ed-workup-asm-levels-only-carbamazepine-phenytoin-valproate-and-phenobarb-levels-are-available-acutely-but-others-can-be-helpful-to-establish-compliance-non-contrast-head-ct-new-seizures-only-can-consider-mri-withwithout-contrast-seizure-protocol.-basic-labs-including-electrolytes-and-cbc-infectious-workup-ua-cxr-toxicology-screen-lp-if-concern-for-meningitis.-see-alogirthms-in-drive-or-printed-in-team-room.",
+    "href": "seizure_consult.html#ed-workup-asm-levels-only-carbamazepine-phenytoin-valproate-and-phenobarb-levels-are-available-acutely-but-others-can-be-helpful-to-establish-compliance-non-contrast-head-ct-new-seizures-only-can-consider-mri-withwithout-contrast-seizure-protocol.-basic-labs-including-electrolytes-and-cbc-infectious-workup-ua-cxr-toxicology-screen-lp-if-concern-for-meningitis.-see-alogirthms-in-drive-or-printed-in-team-room.",
+    "title": "Seizure Consult",
+    "section": "0.3 ED WORKUP: ASM levels (only carbamazepine, phenytoin, valproate and phenobarb levels are available acutely, but others can be helpful to establish compliance), non-contrast head CT (new seizures only!), can consider MRI with/without contrast (seizure protocol). Basic labs including electrolytes and CBC, infectious workup (UA, CXR), toxicology screen, LP if concern for meningitis. SEE ALOGIRTHMS IN DRIVE OR PRINTED IN TEAM ROOM.",
+    "text": "0.3 ED WORKUP: ASM levels (only carbamazepine, phenytoin, valproate and phenobarb levels are available acutely, but others can be helpful to establish compliance), non-contrast head CT (new seizures only!), can consider MRI with/without contrast (seizure protocol). Basic labs including electrolytes and CBC, infectious workup (UA, CXR), toxicology screen, LP if concern for meningitis. SEE ALOGIRTHMS IN DRIVE OR PRINTED IN TEAM ROOM."
+  },
+  {
+    "objectID": "seizure_consult.html#new-onset-seizure-or-known-epilepsy",
+    "href": "seizure_consult.html#new-onset-seizure-or-known-epilepsy",
+    "title": "Seizure Consult",
+    "section": "",
+    "text": "If known epilepsy: goal is to determine ASM regimen and compliance, seizure type/frequency and last seizure, epilepsy physician, any recent triggers (see below). Check ASM levels and if low or they are non-compliant, re-load; if not, consider increasing ASM dose. Ask about prior ASMs tried.\nIf new onset seizures, obtain comprehensive first seizure history:\n• RISK FACTORS: history of febrile seizures, family history of seizures, prenatal and perinatal complications, developmental delay, history of head trauma, history of CNS infection, history of CNS mass/malformation, metabolic disorder, stroke (hemorrhagic&gt;ischemic), drug/alcohol use, consanguinity.\n• TRIGGERS LOWERING SEIZURE THRESHOLD: Medications, ASM noncompliance, infection, metabolic abnormalities, toxic ingestion, menses, stress, sleep deprivation, EtOH/benzo withdrawal, fever, use of stimulants, hypoglycemia, electrolyte disturbance, hypoxia, acute medical/neuro illness.\n• CHARACTERISTICS: aura (visual, auditory, olfactory, epigastric rising sensation, psychic (déjà vu, derealization, depersonalization, fear, anxiety), type of seizure (especially how its starts), eyes open or closed, lateral eye or head deviation, length of seizure, associated tongue bite or other injury, incontinence, post-ictal confusion, post-ictal weakness. Start by asking if they can tell when they will have a seizure.\n• SUBTLE SEIZURE SIGNS: history of staring, automatisms, waking up incontinent or injured (tongue bite), myoclonic jerks. May or may not discriminate between epileptic vs. other events. History of injury during events."
+  },
+  {
+    "objectID": "seizure_consult.html#exam",
+    "href": "seizure_consult.html#exam",
+    "title": "Seizure Consult",
+    "section": "",
+    "text": "Focus on mental status, post-ictal paralysis or other focal deficits, subtle signs of ongoing seizures such as abnormal movements, head or eye deviation/version, eyelid twitching, pupillary abnormalities or hippus; tongue bite/other injury, and meningeal signs"
+  },
+  {
+    "objectID": "seizure_consult.html#ed-workup",
+    "href": "seizure_consult.html#ed-workup",
+    "title": "Seizure Consult",
+    "section": "",
+    "text": "ASM levels (only carbamazepine, phenytoin, valproate and phenobarb levels are available acutely, but others can be helpful to establish compliance), non-contrast head CT (new seizures only!), can consider MRI with/without contrast (seizure protocol). Basic labs including electrolytes and CBC, infectious workup (UA, CXR), toxicology screen, LP if concern for meningitis.\nSEE ALOGIRTHMS IN DRIVE OR PRINTED IN TEAM ROOM.\n\n\n\n\n\n\nWarning\n\n\n\nNot Returning to Baseline after a Seizure?\nThe two most common reasons patients don’t wake up are prolonged post-ictal periods and overly eager benzo administration … But don’t miss anything important:\n·    Make sure the patient isn’t still seizing. Look for subtle abnormal limb or eye movement, fluctuating awareness, or complete lack of improvement. Even though convulsive seizures may be controlled, up to 40% of patients in status may continue having subclinical seizures. Consider a stat EEG.\n·    Get a head CT if you don’t have one yet.\n·    Consider LP if you have any concern for meningitis/encephalitis or SAH not seen on head CT.\n·    You may need to admit a patient overnight for prolonged postictal period or benzo intoxication or if there is no clear medical reason for seizure (e.g., EtOH w/d, infection)."
+  },
+  {
+    "objectID": "icp_herniation.html#sx-of-elevated-icp-include",
+    "href": "icp_herniation.html#sx-of-elevated-icp-include",
+    "title": "ICP and Herniation Management",
+    "section": "",
+    "text": "Agitation\nHeadache\nDiminished level of consciousness\nN/V\nhiccups\nincreased yawning\nCushing’s response (elevated BP, bradycardia, respiratory depression)"
+  },
+  {
+    "objectID": "icp_herniation.html#if-any-concern-for-worsening-or-impending-herniation",
+    "href": "icp_herniation.html#if-any-concern-for-worsening-or-impending-herniation",
+    "title": "ICP and Herniation Management",
+    "section": "",
+    "text": "Clinical suspicion of sustained (&gt;5 min) or elevation of ICP &gt; 22 mmHg - Neurocritical care fellow: 352-745-1912 - Ensure appropriate vascular access, consider need for additional PIV and/or stat central line, transfer to ICU if on floor/IMC"
+  },
+  {
+    "objectID": "index.html#neurologic-examination",
+    "href": "index.html#neurologic-examination",
+    "title": "UF Neurology Living Handbook",
+    "section": "1 Neurologic Examination",
+    "text": "1 Neurologic Examination\n\n\nNeurologic Examination\nMental Status Exam\nUpper Extremity Strength Testing\nLower Extremity Strength Testing\nDermatomes"
+  },
+  {
+    "objectID": "index.html#vascular-neurology",
+    "href": "index.html#vascular-neurology",
+    "title": "UF Neurology Living Handbook",
+    "section": "2 Vascular Neurology",
+    "text": "2 Vascular Neurology\n\n\nStroke Alert\nStroke Admission Orders\nTIA Risk Stratification\nStroke Mechanisms\nVA Stroke Alert\nIntracerebral Hemorrhage\nBlood Pressure Pharmacology\nAnticoagulation Reversal\nNIHSS and Tools\nModified Rankin Scale"
+  },
+  {
+    "objectID": "index.html#procedures",
+    "href": "index.html#procedures",
+    "title": "UF Neurology Living Handbook",
+    "section": "10 Procedures",
+    "text": "10 Procedures\n\n\nLumbar Puncture"
+  },
+  {
+    "objectID": "neurologic_examination.html#eye-opening-e",
+    "href": "neurologic_examination.html#eye-opening-e",
+    "title": "Neurologic Examination",
+    "section": "2 Eye Opening (E)",
+    "text": "2 Eye Opening (E)\n\n\n\nResponse\nScore\n\n\n\n\nSpontaneous\n4\n\n\nTo speech\n3\n\n\nTo pain\n2\n\n\nNone\n1"
+  },
+  {
+    "objectID": "neurologic_examination.html#verbal-response-v",
+    "href": "neurologic_examination.html#verbal-response-v",
+    "title": "Neurologic Examination",
+    "section": "3 Verbal Response (V)",
+    "text": "3 Verbal Response (V)\n\n\n\nResponse\nScore\n\n\n\n\nOriented\n5\n\n\nConfused conversation\n4\n\n\nInappropriate words\n3\n\n\nIncomprehensible sounds\n2\n\n\nNone\n1"
+  },
+  {
+    "objectID": "neurologic_examination.html#motor-response-m",
+    "href": "neurologic_examination.html#motor-response-m",
+    "title": "Neurologic Examination",
+    "section": "4 Motor Response (M)",
+    "text": "4 Motor Response (M)\n\n\n\nResponse\nScore\n\n\n\n\nObeys commands\n6\n\n\nLocalizes pain\n5\n\n\nWithdraws from pain\n4\n\n\nAbnormal flexion (decorticate)\n3\n\n\nExtension (decerebrate)\n2\n\n\nNone\n1\n\n\n\n\n4.1 Severity Classification\n\n\n\nTotal Score\nSeverity\n\n\n\n\n13–15\nMild\n\n\n9–12\nModerate\n\n\n3–8\nSevere"
+  },
+  {
+    "objectID": "neurologic_examination.html#severity-classification",
+    "href": "neurologic_examination.html#severity-classification",
+    "title": "Neurologic Examination",
+    "section": "5 Severity Classification",
+    "text": "5 Severity Classification\n\n\n\nTotal Score\nSeverity\n\n\n\n\n13–15\nMild\n\n\n9–12\nModerate\n\n\n3–8\nSevere"
+  },
+  {
+    "objectID": "neurologic_examination.html#documentation-example",
+    "href": "neurologic_examination.html#documentation-example",
+    "title": "Neurologic Examination",
+    "section": "5 Documentation Example",
+    "text": "5 Documentation Example\n```text GCS = E3 V4 M6 = 13\n\nAttention: Spell WORLD backwards, recite the months backwards, perform serial 7’s, or count from 20 to 1.\nLanguage: Evaluate fluency, repetition, naming, reading, writing and comprehension. Test one‑step commands (midline vs appendicular), two‑step commands, and reversed grammar commands (e.g., “touch your nose after pointing to the ceiling”).\nFund of knowledge: Assess current events and quality of medical history.\nPraxis: Ask the patient to show how to use a hammer.\nMemory: Recall 3–5 objects at 1 minute, assess digit span (average 7) and story retelling; probe distant memory.\nVisuospatial function: Assess organization of space with tasks such as clock drawing or copying a complex figure.\nNeglect: Check for extinction, perform line bisection and target elimination tests.\nExecutive function: Examine organization of knowledge, inhibition, sequencing and perseveration.\nVerbal fluency: Ask the patient to name animals in 1 minute (&gt; 20 is normal).\nOral trails: Sequence letters and numbers (e.g., A1, B2, 3C…) and perform the Luria 3‑step (fist, edge, palm) registration and repetition three times.\nGo/no go: For example, instruct the patient to raise their hand every time a letter is stated except when you say “D”."
+  },
+  {
+    "objectID": "neurologic_examination.html#glasgow-coma-scale",
+    "href": "neurologic_examination.html#glasgow-coma-scale",
+    "title": "Neurologic Examination",
+    "section": "2 Glasgow Coma Scale",
+    "text": "2 Glasgow Coma Scale\n\n\nAttention: Spell WORLD backwards, recite the months backwards, perform serial 7’s, or count from 20 to 1.\nLanguage: Evaluate fluency, repetition, naming, reading, writing and comprehension. Test one‑step commands (midline vs appendicular), two‑step commands, and reversed grammar commands (e.g., “touch your nose after pointing to the ceiling”).\nFund of knowledge: Assess current events and quality of medical history.\nPraxis: Ask the patient to show how to use a hammer.\nMemory: Recall 3–5 objects at 1 minute, assess digit span (average 7) and story retelling; probe distant memory.\nVisuospatial function: Assess organization of space with tasks such as clock drawing or copying a complex figure.\nNeglect: Check for extinction, perform line bisection and target elimination tests.\nExecutive function: Examine organization of knowledge, inhibition, sequencing and perseveration.\nVerbal fluency: Ask the patient to name animals in 1 minute (&gt; 20 is normal).\nOral trails: Sequence letters and numbers (e.g., A1, B2, 3C…) and perform the Luria 3‑step (fist, edge, palm) registration and repetition three times.\nGo/no go: For example, instruct the patient to raise their hand every time a letter is stated except when you say “D”."
+  },
+  {
+    "objectID": "mental_status_exam.html#mental-status",
+    "href": "mental_status_exam.html#mental-status",
+    "title": "UF Neurology Handbook",
+    "section": "",
+    "text": "Arousal state:\nAlert, Confused, Somnolent/Lethargic (rouses to tactile stim), Stuporous (rouses to painful stim), Coma (no arousal to pain)\nGlasgow Coma Scale"
+  },
+  {
+    "objectID": "mental_status_exam.html#classifying-disorders-of-consciousness",
+    "href": "mental_status_exam.html#classifying-disorders-of-consciousness",
+    "title": "UF Neurology Handbook",
+    "section": "11 Classifying disorders of consciousness",
+    "text": "11 Classifying disorders of consciousness\n Coma: A state of deep, unarousable unconsciousness with no eye-opening or behavioral response to stimuli.\nUnresponsive Wakefulness Syndrome(Vegetative State): Patients are awake (eye-opening, sleep-wake cycles present) but show no signs of awareness of themselves or their environment.\n\n\n\n\n\n\nWarning\n\n\n\nLocked-in Syndrome:\nAn awake and fully aware state, but the patient cannot move or speak (except sometimes eye blinks) due to tetraplegia, often mistaken for coma."
+  },
+  {
+    "objectID": "index.html#neurological-examination",
+    "href": "index.html#neurological-examination",
+    "title": "UF Neurology Living Handbook",
+    "section": "1 Neurological Examination",
+    "text": "1 Neurological Examination\n\n\nMental Status Exam\nCranial Nerves\nMotor\nSensory\nReflexes\nMovement\nGait and Speech"
+  },
+  {
+    "objectID": "mental_status_exam.html#attention",
+    "href": "mental_status_exam.html#attention",
+    "title": "UF Neurology Handbook",
+    "section": "2 Attention",
+    "text": "2 Attention\nSpell WORLD backwards, months backwards, serial 7’s, or count from 20 to 1."
+  },
+  {
+    "objectID": "mental_status_exam.html#language",
+    "href": "mental_status_exam.html#language",
+    "title": "UF Neurology Handbook",
+    "section": "3 Language",
+    "text": "3 Language\nEvaluate fluency, repetition, naming, reading, writing, and comprehension.\nTest: 1-step commands (midline vs. appendicular), 2-step commands, and 2-step reversed grammar commands (e.g., “touch your nose after pointing to the ceiling”).\n\n3.1 Aphasia Components\n\nMotor / Non-fluent / Expressive / Broca’s aphasia: &lt;50 words/min, effortful, agrammatic (mostly nouns), frustration; reading aloud and writing impaired.\n\nAphemia — writing preserved\nAlexia — isolated inability to read\n\nSensory / Receptive / Wernicke’s aphasia: Cannot comprehend speech, “word salad”, no awareness of deficit.\nConduction aphasia: Inability to repeat.\nTranscortical motor aphasia: Impaired fluency but preserved repetition.\nTranscortical sensory aphasia: Impaired comprehension but preserved repetition.\nTranscortical mixed aphasia: Impaired fluency and comprehension but preserved repetition.\nAnomic aphasia: Preserved motor/sensory function with difficulty naming."
+  },
+  {
+    "objectID": "mental_status_exam.html#fund-of-knowledge",
+    "href": "mental_status_exam.html#fund-of-knowledge",
+    "title": "UF Neurology Handbook",
+    "section": "4 Fund of Knowledge",
+    "text": "4 Fund of Knowledge\nCurrent events and quality of medical history."
+  },
+  {
+    "objectID": "mental_status_exam.html#memory",
+    "href": "mental_status_exam.html#memory",
+    "title": "UF Neurology Handbook",
+    "section": "5 Memory",
+    "text": "5 Memory\nRecall 3–5 objects at 1 minute, digit span (average 7), story retelling, distant memory.\n\nWorking / Immediate / Sensory memory (&lt;60 s): Able to store 7 ± 2 digits when asked in &lt;1 min.\nExplicit / Declarative memory (Episodic / Spatial — involves Papez circuit): Converts working memory into long-term memories.\nImplicit / Nondeclarative memory (Procedural, emotional conditioning): Involves amygdala, striatum, cerebellum; facilitated in Stage 2 sleep."
+  },
+  {
+    "objectID": "mental_status_exam.html#visuospatial",
+    "href": "mental_status_exam.html#visuospatial",
+    "title": "UF Neurology Handbook",
+    "section": "6 Visuospatial",
+    "text": "6 Visuospatial\nOrganization of space (clock drawing, complex figure copy)."
+  },
+  {
+    "objectID": "mental_status_exam.html#praxis",
+    "href": "mental_status_exam.html#praxis",
+    "title": "UF Neurology Handbook",
+    "section": "7 Praxis",
+    "text": "7 Praxis\n“Show me how you use a hammer” + mimic action afterward.\n\n7.1 Types of Apraxia\n\nIdeomotor — unable to complete action on verbal command (e.g., use a hammer).\nIdeational — incorrect sequence of actions for a verbal task (e.g., how to mail a letter).\nConduction — able to pantomime but cannot complete on verbal command.\nDissociation — unable to pantomime but can complete on verbal command.\nLimb-kinetic — unable to perform fine-motor predominant actions (e.g., buttoning).\n\nTask-specific apraxias: - Eyelid — unable to open eyes to command - Dressing — unable to dress self - Gait — unable to walk (freezing, wide-based); can perform complex movements without ataxia when supine - Oculomotor / ocular — cannot shift gaze with saccades (shifts head instead); intact slow pursuit"
+  },
+  {
+    "objectID": "mental_status_exam.html#calculation",
+    "href": "mental_status_exam.html#calculation",
+    "title": "UF Neurology Handbook",
+    "section": "8 Calculation",
+    "text": "8 Calculation\n“Show me 3 fingers”, “What is 40 + 50?”\n\nAcalculia — inability to perform."
+  },
+  {
+    "objectID": "mental_status_exam.html#abstraction",
+    "href": "mental_status_exam.html#abstraction",
+    "title": "UF Neurology Handbook",
+    "section": "9 Abstraction",
+    "text": "9 Abstraction\n“How are a bicycle and a train related?”"
+  },
+  {
+    "objectID": "mental_status_exam.html#executive-function",
+    "href": "mental_status_exam.html#executive-function",
+    "title": "UF Neurology Handbook",
+    "section": "10 Executive Function",
+    "text": "10 Executive Function\nOrganization of knowledge, inhibition, sequencing, perseveration.\n\nVerbal fluency: Name animals in 1 minute (&gt;20 is normal).\nOral trails: A1, B2, 3C…\nLuria 3-step: Fist–edge–palm (repeat 3 times).\nGo/No-Go: Raise hand every time I say a letter except when I say “D”."
+  },
+  {
+    "objectID": "cranial_nerves.html",
+    "href": "cranial_nerves.html",
+    "title": "Cranial Nerves",
+    "section": "",
+    "text": "Key for reduced level of consciousness: * = testable in comatose patients\n\n\n\nFundoscopy: Optic disc, vasculature, venous pulsations, retina\nVisual acuity: Test with pinhole to correct refractive error\nColor vision: Ishihara plates (especially red desaturation)\nVisual fields: Confrontation testing (cuts or neglect); *blink to threat\n\n\n\n\n\nPupil size, shape, and reactivity to light\nRelative afferent pupillary defect (swinging flashlight test)\nPtosis\n\n\n\n\n\nExtraocular movements:\n\nSaccades and smooth pursuit\nDuctions (each eye separately)\nVersions (both eyes together)\nAlignment (cover-uncover / alternate cover test)\n\nNote nystagmus, diplopia, or gaze palsy\n\n\n\n\n\nSensory: Light touch, pinprick, temperature in V1–V3 distributions\n*Corneal reflex (afferent limb)\nMotor: Jaw opening, clenching, deviation on opening\n\n\n\n\n\nMotor: Upper and lower face strength (central vs. peripheral pattern)\n\nRaise eyebrows, close eyes tightly, smile, puff cheeks, wrinkle forehead\n\nHyperacusis, dysgeusia (anterior 2/3 tongue)\n*Corneal reflex (efferent limb) / eye closure to prevent corneal dehydration\n\n\n\n\n\nHearing:\n\nFinger rub (high frequency screen)\nWeber and Rinne tests\nResponse to verbal stimulus\n\nVestibular:\n\nPast-pointing\nDix-Hallpike maneuver\nFukuda marching test\n*Oculocephalic (doll’s eyes) – assess VOR\nNystagmus\n\n\n\n\n\n\nPalate elevation (“Aaaah”) and uvula deviation\n*Gag reflex\n*Cough\n\n\n\n\n\nSternocleidomastoid (turn head against resistance – ipsilateral)\nTrapezius (shrug shoulders against resistance – contralateral)\n\n\n\n\n\nTongue position at rest, bulk, fasciculations\nStrength: Push tongue against cheek bilaterally\nProtrusion (deviation toward weak side)\n\nDocument abnormal findings clearly and always correlate with the rest of the neurologic exam."
+  },
+  {
+    "objectID": "cranial_nerves.html#cn-ii-optic",
+    "href": "cranial_nerves.html#cn-ii-optic",
+    "title": "Cranial Nerves",
+    "section": "",
+    "text": "Fundoscopy: Optic disc, vasculature, venous pulsations, retina\nVisual acuity: Test with pinhole to correct refractive error\nColor vision: Ishihara plates (especially red desaturation)\nVisual fields: Confrontation testing (cuts or neglect); *blink to threat"
+  },
+  {
+    "objectID": "cranial_nerves.html#cn-iiiii-optic-oculomotor-pupils",
+    "href": "cranial_nerves.html#cn-iiiii-optic-oculomotor-pupils",
+    "title": "Cranial Nerves",
+    "section": "",
+    "text": "Pupil size, shape, and reactivity to light\nRelative afferent pupillary defect (swinging flashlight test)\nPtosis"
+  },
+  {
+    "objectID": "cranial_nerves.html#cn-iiiivvi-oculomotor-trochlear-abducens",
+    "href": "cranial_nerves.html#cn-iiiivvi-oculomotor-trochlear-abducens",
+    "title": "Cranial Nerves",
+    "section": "",
+    "text": "Extraocular movements:\n\nSaccades and smooth pursuit\nDuctions (each eye separately)\nVersions (both eyes together)\nAlignment (cover-uncover / alternate cover test)\n\nNote nystagmus, diplopia, or gaze palsy"
+  },
+  {
+    "objectID": "cranial_nerves.html#cn-v-trigeminal",
+    "href": "cranial_nerves.html#cn-v-trigeminal",
+    "title": "Cranial Nerves",
+    "section": "",
+    "text": "Sensory: Light touch, pinprick, temperature in V1–V3 distributions\n*Corneal reflex (afferent limb)\nMotor: Jaw opening, clenching, deviation on opening"
+  },
+  {
+    "objectID": "cranial_nerves.html#cn-vii-facial",
+    "href": "cranial_nerves.html#cn-vii-facial",
+    "title": "Cranial Nerves",
+    "section": "",
+    "text": "Motor: Upper and lower face strength (central vs. peripheral pattern)\n\nRaise eyebrows, close eyes tightly, smile, puff cheeks, wrinkle forehead\n\nHyperacusis, dysgeusia (anterior 2/3 tongue)\n*Corneal reflex (efferent limb) / eye closure to prevent corneal dehydration"
+  },
+  {
+    "objectID": "cranial_nerves.html#cn-viii-vestibulocochlear",
+    "href": "cranial_nerves.html#cn-viii-vestibulocochlear",
+    "title": "Cranial Nerves",
+    "section": "",
+    "text": "Hearing:\n\nFinger rub (high frequency screen)\nWeber and Rinne tests\nResponse to verbal stimulus\n\nVestibular:\n\nPast-pointing\nDix-Hallpike maneuver\nFukuda marching test\n*Oculocephalic (doll’s eyes) – assess VOR\nNystagmus"
+  },
+  {
+    "objectID": "cranial_nerves.html#cn-ixx-glossopharyngeal-vagus",
+    "href": "cranial_nerves.html#cn-ixx-glossopharyngeal-vagus",
+    "title": "Cranial Nerves",
+    "section": "",
+    "text": "Palate elevation (“Aaaah”) and uvula deviation\n*Gag reflex\n*Cough"
+  },
+  {
+    "objectID": "cranial_nerves.html#cn-xi-spinal-accessory",
+    "href": "cranial_nerves.html#cn-xi-spinal-accessory",
+    "title": "Cranial Nerves",
+    "section": "",
+    "text": "Sternocleidomastoid (turn head against resistance – ipsilateral)\nTrapezius (shrug shoulders against resistance – contralateral)"
+  },
+  {
+    "objectID": "cranial_nerves.html#cn-xii-hypoglossal",
+    "href": "cranial_nerves.html#cn-xii-hypoglossal",
+    "title": "Cranial Nerves",
+    "section": "",
+    "text": "Tongue position at rest, bulk, fasciculations\nStrength: Push tongue against cheek bilaterally\nProtrusion (deviation toward weak side)\n\nDocument abnormal findings clearly and always correlate with the rest of the neurologic exam."
+  },
+  {
+    "objectID": "motor.html",
+    "href": "motor.html",
+    "title": "Motor",
+    "section": "",
+    "text": "Atrophy\nFasciculations\n\n\n\n\n\nFlaccid\nSpastic / Clasp-knife - resistance changes with velocity/force applied\nRigid / Lead-pipe - resistance remains similar despite change in velocity/force applied\nParatonia — distraction/calming can “break” the increase in tone\n\n\n\n\n0 = No movement\n1 = Trace movement, muscle activation\n2 = Limb movement in plane of bed (gravity eliminated)\n3 = Movement against gravity\n4 = Spectrum of resistance to force (4– = 25%, 4 = 50%, 4+ = 75%)\n5 = Full strength\nAdditional observations: Drift, satelliting/orbiting\n\n\n\n\n\n\nTip\n\n\n\nAlways test against gravity first, then add resistance. Look for pronator drift (upper) and leg drift (lower)\n\n\nFunctional Tests\n- Heel walking (L4/L5 – foot dorsiflexion)\n- Toe walking (S1/S2 – plantar flexion)\n- Rise from chair with arms crossed\n- Squat / deep knee bend"
+  },
+  {
+    "objectID": "motor.html#bulk",
+    "href": "motor.html#bulk",
+    "title": "Motor",
+    "section": "",
+    "text": "Atrophy\nFasciculations"
+  },
+  {
+    "objectID": "motor.html#tone",
+    "href": "motor.html#tone",
+    "title": "Motor",
+    "section": "",
+    "text": "Flaccid\nSpastic / Clasp-knife - resistance changes with velocity/force applied\nRigid / Lead-pipe - resistance remains similar despite change in velocity/force applied\nParatonia — distraction/calming can “break” the increase in tone"
+  },
+  {
+    "objectID": "motor.html#strength-testing-mrc-scale",
+    "href": "motor.html#strength-testing-mrc-scale",
+    "title": "Motor",
+    "section": "",
+    "text": "0 = No movement\n1 = Trace movement, muscle activation\n2 = Limb movement in plane of bed (gravity eliminated)\n3 = Movement against gravity\n4 = Spectrum of resistance to force (4– = 25%, 4 = 50%, 4+ = 75%)\n5 = Full strength\nAdditional observations: Drift, satelliting/orbiting\n\n\n\n\n\n\nTip\n\n\n\nAlways test against gravity first, then add resistance. Look for pronator drift (upper) and leg drift (lower)\n\n\nFunctional Tests\n- Heel walking (L4/L5 – foot dorsiflexion)\n- Toe walking (S1/S2 – plantar flexion)\n- Rise from chair with arms crossed\n- Squat / deep knee bend"
+  },
+  {
+    "objectID": "motor.html#segmental-reflexes-quick-reference",
+    "href": "motor.html#segmental-reflexes-quick-reference",
+    "title": "Motor",
+    "section": "3.1 Segmental Reflexes (Quick Reference)",
+    "text": "3.1 Segmental Reflexes (Quick Reference)\n\n\n\nReflex\nPrimary Root\n\n\n\n\nKnee (patellar)\nL4\n\n\nAnkle\nS1\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nAlways test against gravity first, then add resistance. Look for pronator drift (upper) and leg drift (lower).\nCompare side-to-side and proximal vs distal"
+  },
+  {
+    "objectID": "sensory.html",
+    "href": "sensory.html",
+    "title": "Sensory Examination",
+    "section": "",
+    "text": "Modality\nPathway\nTest\n\n\n\n\nPain\nAnterolateral (Spinothalamic)\nUse safety pin or broken wooden tongue depressor\n\n\nTemperature\nAnterolateral (Spinothalamic)\nHot/cold tuning fork or test tubes\n\n\nLight Touch\nBoth pathways\nCotton wisp or finger touch\n\n\nVibration\nDorsal Columns\n128 Hz tuning fork on bony prominences\n\n\nProprioception\nDorsal Columns\nJoint position sense (big toe, fingers) — “up or down?” with eyes closed\n\n\nRomberg Test\nDorsal Columns + Vestibular\nStand feet together, eyes closed × 30 seconds"
+  },
+  {
+    "objectID": "sensory.html#primary-sensory-modalities",
+    "href": "sensory.html#primary-sensory-modalities",
+    "title": "Sensory Examination",
+    "section": "",
+    "text": "Modality\nPathway\nTest\n\n\n\n\nPain\nAnterolateral (Spinothalamic)\nUse safety pin or broken wooden tongue depressor\n\n\nTemperature\nAnterolateral (Spinothalamic)\nHot/cold tuning fork or test tubes\n\n\nLight Touch\nBoth pathways\nCotton wisp or finger touch\n\n\nVibration\nDorsal Columns\n128 Hz tuning fork on bony prominences\n\n\nProprioception\nDorsal Columns\nJoint position sense (big toe, fingers) — “up or down?” with eyes closed\n\n\nRomberg Test\nDorsal Columns + Vestibular\nStand feet together, eyes closed × 30 seconds"
+  },
+  {
+    "objectID": "sensory.html#cortical-sensory-signs",
+    "href": "sensory.html#cortical-sensory-signs",
+    "title": "Sensory Examination",
+    "section": "2 Cortical Sensory Signs",
+    "text": "2 Cortical Sensory Signs\nTest only if primary modalities are intact.\n\nGraphesthesia: cannot recognize numbers or letters when drawn on skin\nStereognosis: Inability to recognize objects in hand\nTwo-point discrimination\n\n\n2.1 Neglect Syndromes\n\nVisual neglect: Ignores one visual field (blink to threat intact)\nTactile/sensory neglect: Ignores stimuli on one side of body; does not regard that body area\nLine bisection, target cancellation, drawing tests — useful bedside screens\n\n\n\n\n\n\n\nTip\n\n\n\nAlways compare right vs left and proximal vs distal.\nA clear sensory level suggests spinal cord pathology."
+  },
+  {
+    "objectID": "movement.html",
+    "href": "movement.html",
+    "title": "Movement Examination",
+    "section": "",
+    "text": "Ataxia — incoordination of movement rhythm through time and space, irrespective of the final target.\nDysmetria — subtype of ataxia: imprecision of targeting movements (over- or under-shooting).\n\n\n\nTrunk ataxia\nOptic ataxia\nAtaxic dysarthria (scanning speech)\nNystagmus\n\n\n\n\n\nFinger-to-nose (FTN)\nHeel-to-shin (HTS)\nRapid alternating movements (RAM) — dysdiadochokinesia"
+  },
+  {
+    "objectID": "movement.html#coordination",
+    "href": "movement.html#coordination",
+    "title": "Movement Examination",
+    "section": "",
+    "text": "Ataxia — incoordination of movement rhythm through time and space, irrespective of the final target.\nDysmetria — subtype of ataxia: imprecision of targeting movements (over- or under-shooting).\n\n\n\nTrunk ataxia\nOptic ataxia\nAtaxic dysarthria (scanning speech)\nNystagmus\n\n\n\n\n\nFinger-to-nose (FTN)\nHeel-to-shin (HTS)\nRapid alternating movements (RAM) — dysdiadochokinesia"
+  },
+  {
+    "objectID": "movement.html#movement-examination",
+    "href": "movement.html#movement-examination",
+    "title": "Movement Examination",
+    "section": "2 Movement Examination",
+    "text": "2 Movement Examination\n\n2.1 Bradykinesia/Hypokinesia\nDecrements in speed/amplitude of movement with repetition.\nTest with:\n\nFinger Tapping\nFist ope/close\nToe Tapping\n\n\n\n2.2 Hyperkinetic Movements\n\nTremor: slow, oscillatory movements with regular interval\n\nResting tremor: arms relaxed in lap or over chair arms\nAction tremor (postural/kinetic)\n\nEgocentric: reaching toward face\nAllocentric: reaching outward\n\nDystonic tremor: find null point by rotating posture\n\nDystonia — sustained muscle engagement, irregular\nMyoclonus — brief, irregular, jerky movements in one plane of space; not suppressible\n\nPositive myoclonus: in plane of muscle contraction\nNegative myoclonus: loss of tone (e.g., asterixis)\n\nChorea — multiplanar, semi-brief, irregular, rhythmic movements (complex myoclonus can mimic, look for multiplanar movements)\nHemiballismus — large amplitude, irregular\nTics — irregular, jerky movements (simple or multiplanar, vocalizations) with URGE followed by relief; suppressible\nStereotypies — irregular, complex, fixed/repetitive movements without clear urge; often triggered by negative emotional states"
+  },
+  {
+    "objectID": "reflexes.html",
+    "href": "reflexes.html",
+    "title": "Reflexes",
+    "section": "",
+    "text": "0 = None\n1 = any reflex WITH distraction/reinforcement maneuver\n2 = Normal reflex in one joint/muscle\n3 = Spread of reflex (not amplitude of response)\n4 = Clonus (&gt;2–3 beats)\n\nCommon DTRs:\n\nBiceps (C5-C6)\nBrachioradialis (C5-C6)\nTriceps (C6-C7)\nKnee / Patellar (L4-L5)\nAnkle / Achilles (S1-S2)\n\nJaw jerk — helps distinguish upper motor neuron (increased) from lower motor neuron or spinal cord lesions."
+  },
+  {
+    "objectID": "reflexes.html#deep-tendon-reflexes-dtrs",
+    "href": "reflexes.html#deep-tendon-reflexes-dtrs",
+    "title": "Reflexes",
+    "section": "",
+    "text": "0 = None\n1 = any reflex WITH distraction/reinforcement maneuver\n2 = Normal reflex in one joint/muscle\n3 = Spread of reflex (not amplitude of response)\n4 = Clonus (&gt;2–3 beats)\n\nCommon DTRs:\n\nBiceps (C5-C6)\nBrachioradialis (C5-C6)\nTriceps (C6-C7)\nKnee / Patellar (L4-L5)\nAnkle / Achilles (S1-S2)\n\nJaw jerk — helps distinguish upper motor neuron (increased) from lower motor neuron or spinal cord lesions."
+  },
+  {
+    "objectID": "reflexes.html#pathological-reflexes",
+    "href": "reflexes.html#pathological-reflexes",
+    "title": "Reflexes",
+    "section": "2 Pathological Reflexes",
+    "text": "2 Pathological Reflexes\n\nHoffman sign\nBabinski sign\nFrontal release signs (primitive reflexes):\n\nGlabellar tap\nRooting\nSnouting\nPalmomental\nGrasp reflex\n\n\n\n\n\n\n\n\nTip\n\n\n\nTest with reinforcement (Jendrassik maneuver) if reflexes are hypoactive"
+  },
+  {
+    "objectID": "docs/Movement.html",
+    "href": "docs/Movement.html",
+    "title": "Movement Examination",
+    "section": "",
+    "text": "Ataxia — incoordination of movement rhythm through time and space, irrespective of the final target.\nDysmetria — subtype of ataxia: imprecision of targeting movements (over- or under-shooting).\n\n\n\nTrunk ataxia\nOptic ataxia\nAtaxic dysarthria (scanning speech)\nNystagmus\n\n\n\n\n\nFinger-to-nose (FTN)\nHeel-to-shin (HTS)\nRapid alternating movements (RAM) — dysdiadochokinesia"
+  },
+  {
+    "objectID": "docs/Movement.html#coordination",
+    "href": "docs/Movement.html#coordination",
+    "title": "Movement Examination",
+    "section": "",
+    "text": "Ataxia — incoordination of movement rhythm through time and space, irrespective of the final target.\nDysmetria — subtype of ataxia: imprecision of targeting movements (over- or under-shooting).\n\n\n\nTrunk ataxia\nOptic ataxia\nAtaxic dysarthria (scanning speech)\nNystagmus\n\n\n\n\n\nFinger-to-nose (FTN)\nHeel-to-shin (HTS)\nRapid alternating movements (RAM) — dysdiadochokinesia"
+  },
+  {
+    "objectID": "docs/Movement.html#movement-examination",
+    "href": "docs/Movement.html#movement-examination",
+    "title": "Movement Examination",
+    "section": "2 Movement Examination",
+    "text": "2 Movement Examination\n\n2.1 Bradykinesia/Hypokinesia\nDecrements in speed/amplitude of movement with repetition.\nTest with:\n\nFinger Tapping\nFist ope/close\nToe Tapping\n\n\n\n2.2 Hyperkinetic Movements\n\nTremor: slow, oscillatory movements with regular interval\n\nResting tremor: arms relaxed in lap or over chair arms\nAction tremor (postural/kinetic)\n\nEgocentric: reaching toward face\nAllocentric: reaching outward\n\nDystonic tremor: find null point by rotating posture\n\nDystonia — sustained muscle engagement, irregular\nMyoclonus — brief, irregular, jerky movements in one plane of space; not suppressible\n\nPositive myoclonus: in plane of muscle contraction\nNegative myoclonus: loss of tone (e.g., asterixis)\n\nChorea — multiplanar, semi-brief, irregular, rhythmic movements (complex myoclonus can mimic, look for multiplanar movements)\nHemiballismus — large amplitude, irregular\nTics — irregular, jerky movements (simple or multiplanar, vocalizations) with URGE followed by relief; suppressible\nStereotypies — irregular, complex, fixed/repetitive movements without clear urge; often triggered by negative emotional states"
+  },
+  {
+    "objectID": "gait_and_speech.html",
+    "href": "gait_and_speech.html",
+    "title": "Speech and Gait",
+    "section": "",
+    "text": "What to observe: Base of stance, Stability of stance (with provocation), Posture, Initiation of gait, Stepping, Base of gait, Stride Length, Arm swing, Turning\nFunctional tests: Tandem walking, Heel and toe walking\n\n\n\nAntalgic — limping due to pain\nAtaxic / staggering — wide-based, unsteady, irregular\nSensory ataxia — wide-based, unsteady; high-stepping, + Romberg\nSpastic — stiff, “foot dragging” when ambulating\nSteppage — foot drop with hip flexor engagement to lift leg\nWaddling — weak proximal muscles with compensatory circumductive hip movements\nScissoring — legs are stiff, knees cross midline when stepping\nHyperkinetic — chorea, other abnormal movements that impact gait in any phase\nHypokinetic / Parkinsonian — stooped posture, reduced arm swing, shuffling, en-bloc turns\nMagnetic — feet appear stuck to floor, shuffling when able to walk"
+  },
+  {
+    "objectID": "gait_and_speech.html#common-gait-patterns",
+    "href": "gait_and_speech.html#common-gait-patterns",
+    "title": "Speech and Gait",
+    "section": "",
+    "text": "Antalgic — limping due to pain\nAtaxic / staggering — wide-based, unsteady, irregular\nSensory ataxia — wide-based, unsteady; high-stepping, + Romberg\nSpastic — stiff, “foot dragging” when ambulating\nSteppage — foot drop with hip flexor engagement to lift leg\nWaddling — weak proximal muscles with compensatory circumductive hip movements\nScissoring — legs are stiff, knees cross midline when stepping\nHyperkinetic — chorea, other abnormal movements that impact gait in any phase\nHypokinetic / Parkinsonian — stooped posture, reduced arm swing, shuffling, en-bloc turns\nMagnetic — feet appear stuck to floor, shuffling when able to walk"
+  },
+  {
+    "objectID": "gait_and_speech.html#dysarthria-types",
+    "href": "gait_and_speech.html#dysarthria-types",
+    "title": "Speech and Gait",
+    "section": "2.1 Dysarthria Types",
+    "text": "2.1 Dysarthria Types\n\nFlaccid (LMN) — weak, breathy, hyper-nasal, slow; phonation, tone, or articulation primarily affected\nSpastic (UMN) — strained, harsh, slow; phonation, tone, or articulation primarily affected. Can be unilateral with stroke (UUMN)\nAtaxic — scanning, jerky, uncoordinated; prosody primarily affected\nHypokinetic — reduced mouth movement, monotone (associated with parkinsonism)\nHyperkinetic — involuntary movements affecting speech\nMixed (e.g., flaccid + spastic in ALS)"
+  },
+  {
+    "objectID": "status_epilepticus.html",
+    "href": "status_epilepticus.html",
+    "title": "Status Epilepticus Protocol",
+    "section": "",
+    "text": "Benzodiazepine first line:\n\n\nIV lorazepam 0.1 mg/kg (max 4 mg) or\nIV diazepam 0.15 mg/kg (max 10 mg) or\nIM midazolam 0.2 mg/kg (max 10 mg)\n\nRepeat once if seizures persist after 5 min (total ≈ 0.2 mg/kg lorazepam equivalent).\n\nMonitor airway, breathing, hypotension, and respiratory depression\nObtain STAT EEG (call 50061) and activate neurocritical care/epilepsy teams immediately"
+  },
+  {
+    "objectID": "status_epilepticus.html#min-immediate-therapy",
+    "href": "status_epilepticus.html#min-immediate-therapy",
+    "title": "Status Epilepticus Protocol",
+    "section": "",
+    "text": "Benzodiazepine first line:\n\n\nIV lorazepam 0.1 mg/kg (max 4 mg) or\nIV diazepam 0.15 mg/kg (max 10 mg) or\nIM midazolam 0.2 mg/kg (max 10 mg)\n\nRepeat once if seizures persist after 5 min (total ≈ 0.2 mg/kg lorazepam equivalent).\n\nMonitor airway, breathing, hypotension, and respiratory depression\nObtain STAT EEG (call 50061) and activate neurocritical care/epilepsy teams immediately"
+  },
+  {
+    "objectID": "status_epilepticus.html#min-early-second-line-asm",
+    "href": "status_epilepticus.html#min-early-second-line-asm",
+    "title": "Status Epilepticus Protocol",
+    "section": "2 2. 5–30 min (Early Second Line ASM)",
+    "text": "2 2. 5–30 min (Early Second Line ASM)\nNo drug has proven superiority in benzodiazepine refractory CSE\nIf seizures continue, choose one IV ASM:\n\nValproate 40 mg/kg over 10 min (max 3000 mg)\nLevetiracetam 60 mg/kg over 5–10 min (max 4500 mg)\nLacosamide 400 mg IV bolus; then 200 mg IV q12 h (max 600 mg/d)\nFosphenytoin 20 mg PE/kg at ≤ 150 mg PE/min (max 1500 mg PE), check free phenytoin level 2 h post load (target 2–3 µg/mL); if below goal, re dose: 0.8 × W kg × (desired – actual) × 10 mg (round to 250 mg)\nPhenobarbital load 20 mg/kg in 5 mg/kg increments at ~1 mg/kg/min 1,2\n\nStart continuous video EEG monitoring."
+  },
+  {
+    "objectID": "status_epilepticus.html#min-refractory-cse",
+    "href": "status_epilepticus.html#min-refractory-cse",
+    "title": "Status Epilepticus Protocol",
+    "section": "3 3. 30 min (Refractory CSE)",
+    "text": "3 3. 30 min (Refractory CSE)\nIf seizures persist after adequate benzo + second line ASM, you may either:\nRepeat a bolus of second-line ASM (levetiracetam, phenytoin/fosphenytoin, valproate, lacosamide, or phenobarbital). OR\nInitiate continuous anesthetic infusion:\n\nMidazolam bolus 0.2 mg/kg IV (repeat up to 0.4 mg/kg), then infusion 0.1–0.6 mg/kg/h (titrate to EEG burst suppression; max ~2.9 mg/kg/h)\npropofol infusion (1–5 mg/kg/h)\npentobarbital infusion (1–5 mg/kg/h)\nConsider Ketamine infusion (1–5 mg/kg/h) in super refractory cases.\n\n\nhttps://doi.org/10.1016/S1474-4422(24)00430-7"
+  },
+  {
+    "objectID": "myasthenia_gravis_exacerbation.html",
+    "href": "myasthenia_gravis_exacerbation.html",
+    "title": "Myasthenia Gravis Exacerbation",
+    "section": "",
+    "text": "2:3 M:F ratio, bimodal peaks (females in 20s, males in 50s)\n20% bulbar-only\nIncidence ~2 per 100,000 per year"
+  },
+  {
+    "objectID": "myasthenia_gravis_exacerbation.html#epidemiology",
+    "href": "myasthenia_gravis_exacerbation.html#epidemiology",
+    "title": "Myasthenia Gravis Exacerbation",
+    "section": "",
+    "text": "2:3 M:F ratio, bimodal peaks (females in 20s, males in 50s)\n20% bulbar-only\nIncidence ~2 per 100,000 per year"
+  },
+  {
+    "objectID": "myasthenia_gravis_exacerbation.html#presentation",
+    "href": "myasthenia_gravis_exacerbation.html#presentation",
+    "title": "Myasthenia Gravis Exacerbation",
+    "section": "2 Presentation",
+    "text": "2 Presentation\n\nFacial diparesis, ptosis, neck extensor weakness, nasal voice, hypotonic/weak voice\nMay be precipitated by: medication non-compliance, excessive activity, infection, or drugs\nDifferent from “cholinergic crisis” – weakness, fasciculations, increased sweating/salivation, and miosis"
+  },
+  {
+    "objectID": "myasthenia_gravis_exacerbation.html#workup-admission-similar-respiratory-concerns-as-acute-gbs",
+    "href": "myasthenia_gravis_exacerbation.html#workup-admission-similar-respiratory-concerns-as-acute-gbs",
+    "title": "Myasthenia Gravis Exacerbation",
+    "section": "3 Workup & Admission (similar respiratory concerns as acute GBS)",
+    "text": "3 Workup & Admission (similar respiratory concerns as acute GBS)\n\nAssess respiratory status with Vital Capacity (VC) and Negative Inspiratory Force (NIF) — follow q2h if worrisome.\n\n\n\n\n\n\nImportant\n\n\n\nPulse oximetry and ABG lag behind hypoventilation!\n\n\nNon-invasive and Invansive ventiation\n\nConsider non-ventilation (BIPAP) before intubation, as it can prevent intubation unless patient is hypercarbic.\nIntubation thresholds (20/30/40 rule):\n\nVC &lt;20 mL/kg (or &lt;1 L): Bedside VC Estimate: Count aloud in one breath × 100 cc (e.g., counts to 25 = 2.5 L)\nMIP &lt;30 cmH₂O\nMEP &lt;40 cmH₂O\nOR there is a Reduction in VC, MIP, MEP &gt;30%\n\n\n\n\n\n\n\nWarning\n\n\n\nFacial weakness may cause underestimation due to poor seal\n\n\nIntubation Medications\n\nEtomidate 0.2–0.3 mg/kg\nNon-depolarizing paralytic if needed (e.g., vecuronium)\n\nExtubation criteria:\n\nRapid Shallow Breathing Index (RSBI) &lt;100\nFVC &gt;15 mL/kg\nNIF &gt;–30 cmH₂O\nPEF &gt;40 cmH₂O\n\n\nIf new diagnosis:\n\nAcetylcholine receptor antibodies (binding, blocking, modulating)\nMuSK antibody (especially young females)\nEMG/NCS with repetitive stimulation ± single fiber EMG\nConsider edrophonium (Tensilon) test\nThyroid function tests\nChest CT to rule out thymoma (± anti-striated muscle Ab)\n\nAcute treatment:\n\nPlasma exchange (PLEX) and/or IVIG + initiate acetylcholinesterase inhibitors\nStart or continue steroids?\nSteroids ≥ 40mg/d may acutely worsen symptoms, so consider starting at lower dose and ramp in tandem with PLEX/IVIG, or continue current dose if &gt;40mg + ramp after PLEX/IVIG\nHold pyridostigmine if the patient is intubated/ventilated (increases secretions). Restart at ½ dose approximately 24 hours before planned extubation."
+  },
+  {
+    "objectID": "myasthenia_gravis_exacerbation.html#acute-chronic-treatment",
+    "href": "myasthenia_gravis_exacerbation.html#acute-chronic-treatment",
+    "title": "Myasthenia Gravis Exacerbation",
+    "section": "4 Acute & Chronic Treatment",
+    "text": "4 Acute & Chronic Treatment\n\n4.1 Acute Treatments\n\n\n\n\n\n\n\n\n\nTreatment\nDosing\nTime to Onset\nAdverse Effects\n\n\n\n\nPlasma Exchange\n1–1.5× plasma volume × 5 treatments qd or qod\n2–3 treatments\nCoagulopathy, line infection, arrhythmia, shock\n\n\nIVIG\n2 g/kg divided over 4–5 days\n~5 days\nAseptic meningitis, fluid overload\n\n\n\n\n\n4.2 Chronic / Maintenance Treatments\n\n\n\n\n\n\n\n\n\nTreatment\nDosing\nTime to Onset\nAdverse Effects\n\n\n\n\nPyridostigmine (Mestinon)\n30–120 mg q3–6h (max 120 mg q3h)\nImmediate\nGI upset, cramps, pulmonary edema\n\n\nPrednisone\n60–80 mg/day with slow taper\n2–4 weeks\nOsteoporosis, weight gain, hyperglycemia\n\n\nAzathioprine (Imuran)\n1–3 mg/kg/day\n3–9 months\nLeukopenia, hepatotoxicity\n\n\nMycophenolate (Cellcept)\n1000 mg BID\nFew months\nAnemia, leukopenia, diarrhea\n\n\n\n\n\n4.3 Symptomatic Treatment with Pyridostigmine (Mestinon)\nInitiation & Titration:\nStart 30 mg PO TID, increase to 60–120 mg every 4–6 hours (maintenance dose). Maximum: 120 mg every 3 hours\nAdditional Notes:\n\nLong-acting Mestinon (Timespan) — useful at bedtime for nocturnal or early-morning weakness\nIV Mestinon dose = 1/30th of the oral dose\nUse Robinul (glycopyrrolate) for excessive GI cholinergic side effects\nMonitor closely for ileus or megacolon\n\n\n\n4.4 Long-Term Immunotherapy\n\nPrednisone (first-line)\nConsider steroid-sparing agents: CellCept (mycophenolate) or other immunosuppressants\nThymectomy — RCT-proven benefit in patients with generalized MG who are AChR-binding antibody positive"
+  },
+  {
+    "objectID": "myasthenia_gravis_exacerbation.html#drugs-to-avoid-in-myasthenia-gravis",
+    "href": "myasthenia_gravis_exacerbation.html#drugs-to-avoid-in-myasthenia-gravis",
+    "title": "Myasthenia Gravis Exacerbation",
+    "section": "5 Drugs to Avoid in Myasthenia Gravis",
+    "text": "5 Drugs to Avoid in Myasthenia Gravis\nBold = more significant effect\n\n\n\n\n\n\n\nDrug Class\nSpecific Drugs\n\n\n\n\nNeuromuscular depolarizing agents\nSuccinylcholine\n\n\nCalcium channel blockers\nAmlodipine, felodipine, nifedipine, verapamil\n\n\nBeta blockers\nAtenolol, nadolol, propranolol, sotalol, timolol\n\n\nAnti-arrhythmic agents\nEtafenone, peruvoside, procainamide, propafenone\n\n\nQuinolone Derivatives\nChloroquine, quinidine, quinine\n\n\nPenicillamine\n—\n\n\nCorticosteroids\nHydrocortisone, methylprednisolone, prednisolone, prednisone\n\n\nH2 receptor antagonists\nCimetidine, ranitidine, roxatidine\n\n\nAntibiotics\nAminoglycosides (amikacin, clindamycin, gentamycin, neomycin, streptomycin, tobramycin)Macrolides (azithromycin, erythromycin)Fluoroquinolones (ciprofloxacin, levofloxacin, moxifloxacin, norfloxacin, ofloxacin)Penicillins/ampicillinPolymixinsTetracyclinesImipenemVancomycin\n\n\nBotulinum Toxin\n—\n\n\nMagnesium sulfate\n—\n\n\nAntiepileptics\nCarbamazepine, Gabapentin, Phenytoin, Trimethadione\n\n\nChemotherapeutic agents\nCisplatin, Doxorubicin, Etoposide\n\n\nInterferons (alpha and beta)\n—\n\n\nPsychotropic medications\nChlorpromazine, Haloperidol, Lithium, Tricyclic antidepressants\n\n\nAntihelminthics\nPyrantel pamoate\n\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nAlways review the patient’s medication list on admission for MG exacerbation. Many commonly used drugs (especially antibiotics and beta blockers) can dramatically worsen weakness."
+  },
+  {
+    "objectID": "myasthenia_gravis_exacerbation.html#symptomatic-treatment-with-pyridostigmine-mestinon",
+    "href": "myasthenia_gravis_exacerbation.html#symptomatic-treatment-with-pyridostigmine-mestinon",
+    "title": "Myasthenia Gravis Exacerbation",
+    "section": "5 Symptomatic Treatment with Pyridostigmine (Mestinon)",
+    "text": "5 Symptomatic Treatment with Pyridostigmine (Mestinon)\nInitiation & Titration: - Start 30 mg PO TID - Increase to 60–120 mg every 4–6 hours (maintenance dose) - Maximum: 120 mg every 3 hours\nAdditional Notes: - Long-acting Mestinon (Timespan) — useful at bedtime for nocturnal or early-morning weakness - IV Mestinon dose = 1/30th of the oral dose - Use Robinul (glycopyrrolate) for excessive GI cholinergic side effects\nMonitor closely for ileus or megacolon"
+  },
+  {
+    "objectID": "myasthenia_gravis_exacerbation.html#long-term-immunotherapy",
+    "href": "myasthenia_gravis_exacerbation.html#long-term-immunotherapy",
+    "title": "Myasthenia Gravis Exacerbation",
+    "section": "6 Long-Term Immunotherapy",
+    "text": "6 Long-Term Immunotherapy\n\nPrednisone (first-line)\nConsider steroid-sparing agents: CellCept (mycophenolate) or other immunosuppressants\nThymectomy — RCT-proven benefit in patients with generalized MG who are AChR-binding antibody positive"
+  },
+  {
+    "objectID": "guillain_barre_syndrome_aidp.html#history-and-exam",
+    "href": "guillain_barre_syndrome_aidp.html#history-and-exam",
+    "title": "Guillian-Barre Syndrome (Acute inflamattory Demyelinating Poliradiculoneuropathy; AIDP)",
+    "section": "",
+    "text": "Recent infections – Post-vaccination, C. jejuni, flu, CMV, EBV, mycoplasma\nSymptoms develop over days, can be asymmetric\nLook for weakness (most often without sensory loss), loss of reflexes (though can be normal early)\nBack pain is common and can be a sign of demyelinating radiculitis\nIncidence of GBS increases with age; age &gt;50 are at higher risk"
+  },
+  {
+    "objectID": "guillain_barre_syndrome_aidp.html#admission-orders",
+    "href": "guillain_barre_syndrome_aidp.html#admission-orders",
+    "title": "Guillian-Barre Syndrome (Acute inflamattory Demyelinating Poliradiculoneuropathy; AIDP)",
+    "section": "2 Admission Orders",
+    "text": "2 Admission Orders\n\nDepending on respiratory status, consider IMC versus ICU admission.\nAddress code status in the ED as the patient may need intubation.\nCheck NIF and FVC q2h × 12 h then q4h.\nOrder telemetry – high risk of tachyarrhythmias from autonomic instability.\nAggressive bowel regimen + close monitoring for toxic megacolon or aspiration (autonomic involvement).\nPerform bedside swallow evaluation for aspiration risk.\nOrder DVT prophylaxis including SCDs.\n\n\n\n\n\n\n\nWarning\n\n\n\nAvoid beta-blockers – risk of complete heart block.\n\n\n\n2.1 Intubation Thresholds (20/30/40 Rule)\nConsider intubation if any of the following:\n\nVital Capacity (VC) &lt; 20 mL/kg (or &lt; 1 L)\nBedside estimate: Count aloud in one breath × 100 cc (e.g., counts to 25 = ~2.5 L)\nMIP &lt; 30 cmH₂O\nMEP &lt; 40 cmH₂O\nOR reduction in VC, MIP, or MEP &gt; 30%\nPO₂ &lt; 70 mmHg on room air\nPCO₂ &gt; 50 mmHg with acidosis"
+  },
+  {
+    "objectID": "guillain_barre_syndrome_aidp.html#work-up",
+    "href": "guillain_barre_syndrome_aidp.html#work-up",
+    "title": "Guillian-Barre Syndrome (Acute inflamattory Demyelinating Poliradiculoneuropathy; AIDP)",
+    "section": "3 Work-up",
+    "text": "3 Work-up\n\nLumbar puncture: Expect albumino-cytological dissociation (protein much higher than cells). Can be normal if caught early.\nLabs: HIV, CMV, hepatitis panel, Campylobacter in stool.\nEMG/NCS: Look for absent/prolonged F-waves or H-reflexes, conduction block, and temporal dispersion (may not be present early)."
+  },
+  {
+    "objectID": "guillain_barre_syndrome_aidp.html#treatment",
+    "href": "guillain_barre_syndrome_aidp.html#treatment",
+    "title": "Guillian-Barre Syndrome (Acute inflamattory Demyelinating Poliradiculoneuropathy; AIDP)",
+    "section": "4 Treatment",
+    "text": "4 Treatment\n\nIVIg 2 g/kg divided over 4–5 days.\nCheck IgA level prior to IVIg (risk of anaphylaxis in IgA deficiency).\nPremedicate with Acetaminophen + Benadryl before each dose.\n\nPeripheral neuropathies: EMG/NCS may help guide you\n\nSensory-Motor polyneuropathy: HbA1c, TSH, BUN/Cr, RPR, B12, ANA, ANCAs, Lyme, LFTs, SPEP, UPEP, SSA/B, RF, ESR, HIV; consider heavy metal screen (needs special navy blue top tube)\nSensory neuropathy: SSA/B, anti-Hu\nMononeuritis multiplex: HbA1c, Lyme, SPEP/UPEP, ANA, ANCA, ESR, RPR, HIV, hepatitis serologies, consider cryoglobulins\n\nPolyneuropathy and mononeuritis multiplex: not sure how to start your differential\n\n\n\n\n\n\n\nAcute\nAMAN (very fast, axonal motor-only GBS), vasculitis, porphyria, toxins (organophosphates, arsenic, thalidomide), tick, drugs, acute thiamine deficiency, critical care neuropathy\n\n\nStepwise (mononeuritis)\nVasculitis: PAN, Sjogren, Churg-Strauss, Wegener’s, hypersensitivity cryoglobulinemia, SLE, RA, isolated PNS vasculitis. DM. CIDP. Infectious: Lyme, HIV, HepC/ cryos, leprosy. Infiltration: (sarcoid (esp. b/l facial nerve), granuloma, leukemia/lymphoma)\n\n\nPredom motor\nlead, porphyria, hereditary, AIDP/CIDP, multifocal motor neuropathy (MMN), dysproteinemia\n\n\nPure sensory\nparaneoplastic (anti-Hu), Sjogren, toxic (cisplatin, B6), HIV, anti-sulfatide Ab, Friedreich’s, idiopathic, hereditary (HSN)\n\n\nPredom autonomic\nAIDP, DM, amyloid* toxins concentrated in urine can affect the bladder worst (e.g. cisplatin)\n\n\nSmall-fiber\nDM, amyloid, toxic (EtOH), hereditary, Tangier, Fabry, AIDS, idiopathic\n\n\nDemyelinating\nAcute: AIDP; Sub-acute: CIDP, lead, POEMs; Chronic: CIDP, CMT1, HNPP"
+  },
+  {
+    "objectID": "antiseizure_medication.html",
+    "href": "antiseizure_medication.html",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "",
+    "text": "All antiseizure medications (ASMs) confer an elevated risk of:\n\nSuicidal ideation and behavior\nTeratogenesis"
+  },
+  {
+    "objectID": "antiseizure_medication.html#general-precautions",
+    "href": "antiseizure_medication.html#general-precautions",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "",
+    "text": "All antiseizure medications (ASMs) confer an elevated risk of:\n\nSuicidal ideation and behavior\nTeratogenesis"
+  },
+  {
+    "objectID": "antiseizure_medication.html#pregnancy-considerations",
+    "href": "antiseizure_medication.html#pregnancy-considerations",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "2 Pregnancy Considerations",
+    "text": "2 Pregnancy Considerations\n\nWomen becoming pregnant while taking ASMs should enroll in the North American Antiepileptic Drug Pregnancy Registry.\nRegistry phone: 1-888-233-2334\nRegistry website: https://www.aedpregnancyregistry.org/\n\n\n2.1 Folic Acid Recommendations\nWomen of childbearing potential should take:\n\nFolic acid 1–2 mg daily preconceptually\nOR 1 mg daily plus prenatal vitamin"
+  },
+  {
+    "objectID": "antiseizure_medication.html#adverse-event-reporting",
+    "href": "antiseizure_medication.html#adverse-event-reporting",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "3 Adverse Event Reporting",
+    "text": "3 Adverse Event Reporting\nReport ASM adverse events to the FDA MedWatch program:\nhttps://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program\n\n3.1 Special Prescribing Considerations\nMedications requiring REMS or special documentation\n(therefore do not issue outpatient prescriptions without discussion with the epilepsy attending):\n\nFelbamate\nVigabatrin\nFenfluramine\nEpidiolex (not scheduled but must be dispensed from a specialty pharmacy)"
+  },
+  {
+    "objectID": "antiseizure_medication.html#antiseizure-medications-enzymatic-considerations",
+    "href": "antiseizure_medication.html#antiseizure-medications-enzymatic-considerations",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "4 Antiseizure Medications Enzymatic Considerations",
+    "text": "4 Antiseizure Medications Enzymatic Considerations\n\n\n\n\n\n\n\n\n\nEnzyme\nSubstrates\nEnzyme Inhibitors\nEnzyme Inducers\n\n\n\n\nCYP3A4\ncannabidiol, carbamazepine, clobazam, clonazepam, diazepam, ethosuximide, everolimus, felbamate, lacosamide, midazolam, oxcarbazepine, perampanel, stiripentol, tiagabine, zonisamide\n—\ncarbamazepine, eslicarbazepine, felbamate, oxcarbazepine, perampanel, phenobarbital, phenytoin, primidone, rufinamide, stiripentol, topiramate, cenobamate\n\n\nCYP2C19\nbrivaracetam, cannabidiol, clobazam, diazepam, lacosamide, phenobarbital, phenytoin, primidone, stiripentol, valproate, zonisamide\ncannabidiol, eslicarbazepine, felbamate, topiramate, valproate, cenobamate\ncarbamazepine, phenobarbital, phenytoin, primidone, stiripentol\n\n\nCYP2C9\ncarbamazepine, lacosamide, phenobarbital, primidone, valproate\nperampanel, stiripentol, valproate, cannabidiol\ncarbamazepine, phenobarbital, primidone\n\n\nCYP2B6\nclobazam, perampanel, valproate\n—\ncarbamazepine, perampanel\n\n\nCYP1A2\nstiripentol\ncannabidiol, stiripentol\n—\n\n\nUGT\ncannabidiol, diazepam, lamotrigine, oxcarbazepine\nvalproate\nlamotrigine, phenobarbital, primidone\n\n\nEpoxide hydrolase\ncarbamazepine 10,11 epoxide\nvalproate, brivaracetam\n—"
+  },
+  {
+    "objectID": "antiseizure_medication.html#references",
+    "href": "antiseizure_medication.html#references",
+    "title": "Antiseizure Medications (ASMs)",
+    "section": "5 References",
+    "text": "5 References\n\nAmerican Epilepsy Society. A Summary of Antiseizure Medications Available in the United States: 4th Edition, Revised April 1, 2024.\nAES website: https://www.aesnet.org/\nThe Pharmacology and Clinical Efficacy of Antiseizure Medications: From Bromide Salts to Cenobamate and Beyond by Wolfgang Löscher & Pavel Klein"
   }
 ]

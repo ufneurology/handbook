@@ -1,0 +1,80 @@
+---
+title: "Motor"
+category: "Neurological Exam"
+date-modified: today
+author: Luis Silva
+format:: html
+---
+
+# Motor Examination
+
+## Bulk
+
+-   Atrophy
+-   Fasciculations
+
+## Tone
+
+-   **Flaccid**
+-   **Spastic / Clasp-knife -** resistance changes with velocity/force applied
+-   **Rigid / Lead-pipe -** resistance remains similar despite change in velocity/force applied
+-   **Paratonia** --- distraction/calming can "break" the increase in tone
+
+## Strength Testing (MRC Scale)
+
+**0** = No movement\
+**1** = Trace movement, muscle activation\
+**2** = Limb movement in plane of bed (gravity eliminated)\
+**3** = Movement against gravity\
+**4** = Spectrum of resistance to force (4-- = 25%, 4 = 50%, 4+ = 75%)\
+**5** = Full strength
+
+**Additional observations**: Drift, satelliting/orbiting
+
+::: callout-tip
+Always test **against gravity first**, then add resistance. Look for **pronator drift** (upper) and **leg drift** (lower)
+:::
+
+**Functional Tests**\
+- Heel walking (L4/L5 -- foot dorsiflexion)\
+- Toe walking (S1/S2 -- plantar flexion)\
+- Rise from chair with arms crossed\
+- Squat / deep knee bend
+
+------------------------------------------------------------------------
+
+# Upper Extremity Strength Testing
+
+| Action                                  | Muscles                                    | Nerve                           | Root Levels    |
+|-----------------------------------------|--------------------------------------------|---------------------------------|----------------|
+| Arm abduction at shoulder               | Deltoid                                    | Axillary                        | **C5, C6**     |
+| Elbow flexion (forearm supinated)       | Biceps, Brachialis                         | Musculocutaneous                | **C5, C6**     |
+| Elbow extension                         | Triceps                                    | Radial                          | **C6, C7, C8** |
+| Wrist extension & hand abduction        | Extensor carpi radialis                    | Radial                          | **C5, C6**     |
+| Wrist flexion & hand abduction          | Flexor carpi radialis                      | Median                          | **C6, C7**     |
+| Wrist flexion & hand adduction          | Flexor carpi ulnaris                       | Ulnar                           | **C7, C8, T1** |
+| Finger extension                        | Extensor digitorum, indicis, digiti minimi | Radial (posterior interosseous) | **C7, C8**     |
+| Thumb abduction (perpendicular to palm) | Abductor pollicis brevis                   | Median                          | **C8, T1**     |
+| Thumb abduction (in plane of palm)      | Abductor pollicis longus                   | Radial (posterior interosseous) | **C7, C8**     |
+| Thumb opposition                        | Opponens pollicis                          | Median                          | **C8, T1**     |
+| Finger abduction                        | Dorsal interossei, Abductor digiti minimi  | Ulnar                           | **C8, T1**     |
+| Finger & thumb adduction                | Adductor pollicis, Palmar interossei       | Ulnar                           | **C8, T1**     |
+| DIP flexion digits 2--3                 | Flexor digitorum profundus (2,3)           | Median                          | **C7, C8**     |
+| DIP flexion digits 4--5                 | Flexor digitorum profundus (4,5)           | Ulnar                           | **C7, C8**     |
+
+------------------------------------------------------------------------
+
+# Lower Extremity Strength Testing
+
+| Action               | Muscles                                                      | Nerve                | Root Levels    |
+|----------------------|--------------------------------------------------------------|----------------------|----------------|
+| Hip flexion          | Iliopsoas                                                    | Femoral              | **L1--L4**     |
+| Knee extension       | Quadriceps                                                   | Femoral              | **L2, L3, L4** |
+| Knee flexion         | Hamstrings (semitendinosus, semimembranosus, biceps femoris) | Sciatic              | **L5, S1, S2** |
+| Hip abduction        | Gluteus medius/minimus, Tensor fasciae latae                 | Superior gluteal     | **L4, L5, S1** |
+| Hip adduction        | Adductors (longus, magnus, brevis), Gracilis                 | Obturator            | **L2, L3, L4** |
+| Foot dorsiflexion    | Tibialis anterior                                            | Deep peroneal        | **L4, L5**     |
+| Toe dorsiflexion     | Extensor hallucis longus, Extensor digitorum longus          | Deep peroneal        | **L5, S1**     |
+| Foot plantar flexion | Gastrocnemius, Soleus (Triceps surae)                        | Tibial               | **S1, S2**     |
+| Foot eversion        | Peroneus longus & brevis                                     | Superficial peroneal | **L5, S1**     |
+| Foot inversion       | Tibialis posterior                                           | Tibial               | **L4, L5**     |

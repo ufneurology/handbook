@@ -1,0 +1,47 @@
+---
+title: "Speech and Gait"
+category: "Neurological Exam"
+date-modified: today
+author: Luis Silva
+format:: html
+---
+
+# Gait
+
+**What to observe**: Base of stance, Stability of stance (with provocation), Posture, Initiation of gait, Stepping, Base of gait, Stride Length, Arm swing, Turning
+
+**Functional tests**: Tandem walking, Heel and toe walking
+
+## Common Gait Patterns
+
+-   **Antalgic** --- limping due to pain
+-   **Ataxic / staggering** --- wide-based, unsteady, irregular
+-   **Sensory ataxia** --- wide-based, unsteady; high-stepping, + Romberg
+-   **Spastic** --- stiff, "foot dragging" when ambulating
+-   **Steppage** --- foot drop with hip flexor engagement to lift leg
+-   **Waddling** --- weak proximal muscles with compensatory circumductive hip movements
+-   **Scissoring** --- legs are stiff, knees cross midline when stepping
+-   **Hyperkinetic** --- chorea, other abnormal movements that impact gait in any phase
+-   **Hypokinetic / Parkinsonian** --- stooped posture, reduced arm swing, shuffling, en-bloc turns
+-   **Magnetic** --- feet appear stuck to floor, shuffling when able to walk
+
+------------------------------------------------------------------------
+
+# Speech Production Examination
+
+**Components**:
+
+-   Respiration - lung dysfunction (ie COPD exacerbation)
+-   Phonation - (vocal folds in larynx)
+-   Tone / Resonance - ENT changes (larynx, nasal/oral cavity)
+-   Articulation - mouth movements (tongue, lips, palate); phonemes are differentiated here and can be tested at bedside
+-   Prosody / Rhythm / Flow - pitch, volume, tempo, expression
+
+## Dysarthria Types
+
+-   **Flaccid (LMN)** --- weak, breathy, hyper-nasal, slow; phonation, tone, or articulation primarily affected
+-   **Spastic (UMN)** --- strained, harsh, slow; phonation, tone, or articulation primarily affected. Can be unilateral with stroke (UUMN)
+-   **Ataxic** --- scanning, jerky, uncoordinated; prosody primarily affected
+-   **Hypokinetic** --- reduced mouth movement, monotone (associated with parkinsonism)
+-   **Hyperkinetic** --- involuntary movements affecting speech
+-   **Mixed** (e.g., flaccid + spastic in ALS)
