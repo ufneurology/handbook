@@ -1,199 +1,62 @@
-# Common Critical Care Pharmacology
+---
+title: "Common Critical Care Pharmacy"
+category: "Neurocritical Care"
+author: Luis Silva
+format: html
+---
 
-Common Critical Care Pharmacy
+::: {.panel-tabset}
 
-Pearls Adverse Reactions Dose Sedatives
-- Contraindications: Allergy to soy or egg
-- Use with caution in patients with cardiovascular disease Rapid onset and offset
-- Lipid vehicle is particularly susceptible to bacterial contamination, change IV tubing and bottle every 12 h
-- Blue-green discoloration of urine may occur
-- Propofol delivers 1.1 kcal/ml
+## Sedatives
 
-- Hypotension
-- Apnea
-- Movement
-- Pain at the injection site
-- Hypertriglyceridemia
-- Pancreatitis
-- Propofol-related infusion syndrome (PRIS): hyperkalemia, dysrhythmia, lipemia, metabolic acidosis, heart failure, ± rhabdomyolysis; Risk increased in young people with high doses (>70 mcg/kg/min) for prolonged duration (>48 hrs)
+| Drug                          | Dose                                                                 | Adverse Reactions                                                                 | Pearls |
+|-------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------|
+| **Propofol**<br>GABAa receptor agonist | Max 50 mcg/kg/min                                                    | Hypotension<br>Apnea<br>Movement<br>Pain at the injection site<br>Hypertriglyceridemia<br>Pancreatitis<br>Propofol-related infusion syndrome (PRIS): hyperkalemia, dysrhythmia, lipemia, metabolic acidosis, heart failure, ± rhabdomyolysis. Risk increased in young people with high doses (>70 mcg/kg/min) for prolonged duration (>48 hrs) | Contraindications: Allergy to soy or egg<br>Use with caution in patients with cardiovascular disease<br>Rapid onset and offset<br>Lipid vehicle is particularly susceptible to bacterial contamination, change IV tubing and bottle every 12 h<br>Blue-green discoloration of urine may occur<br>Propofol delivers 1.1 kcal/mL |
+| **Dexmedetomidine**<br>Alpha-2 agonist | Maintenance infusion: 0.2–1.4 mcg/kg/h<br>Loading dose (1 mcg/kg) **NOT** recommended | Hypotension<br>Transient hypotension, severe bradycardia, sinus arrest during loading dose<br>Bradycardia | Has analgesic properties<br>Goal is patient arousable with stimulation and sedative state when stimulation removed<br>Does not require mechanical ventilation |
+| **Lorazepam**<br>GABAa receptor agonist | Loading dose: 0.02–0.04 mg/kg<br>Intermittent dose: 0.02–0.06 mg/kg q2–6 h (max 2 mg IV for agitation at 2 mg/min)<br>Maintenance infusion: 0.01–0.1 mg/kg/h | Hypotension<br>Respiratory depression<br>Drowsiness<br>Pain at injection site<br>Akathisia<br>Confusion<br>Anterograde amnesia<br>Visual disturbances<br>Paradoxical reactions – hyperactivity and aggressive behavior | IV contains propylene glycol, which can accumulate and cause metabolic acidosis<br>Precipitation is possible; an inline filter recommended for infusions |
+| **Midazolam**<br>GABAa receptor agonist | Loading dose: 0.01–0.05 mg/kg<br>Maintenance infusion: 0.01–0.1 mg/kg/h | Similar to lorazepam                                                                 | Rapid onset and short duration<br>Active metabolites which may accumulate in renal dysfunction |
 
-- Max 50 mcg/kg/min Propofol GABAa receptor agonist
+## Opioids
 
-- Has analgesic properties
-- Goal is patient arousable with stimulation and sedative state when stimulation removed
-- Does not require mechanical ventilation
+| Drug             | Dose                                                                 | Adverse Reactions                                                                 | Pearls |
+|------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------|
+| **Fentanyl**    | Bolus: 50–100 mcg or 1–2 mcg/kg IVP<br>Maintenance: 0.7–10 mcg/kg/hr or 25–700 mcg/h | Respiratory depression<br>Bradycardia<br>Edema<br>Confusion<br>Sedation<br>Mood changes<br>Constipation<br>Miosis<br>Chest wall rigidity<br>Diaphoresis<br>Myoclonus | May be alternative in patients with morphine allergy<br>Do not use transdermal formulation in acute setting due to delayed onset (6–24 h) |
+| **Hydromorphone** | Oral: 2–4 mg every 4–6 h<br>IV: 0.2–1 mg every 4–6 h                 | Respiratory depression<br>Bradycardia<br>Edema<br>Confusion<br>Sedation<br>Mood changes<br>Constipation<br>Miosis<br>Diaphoresis<br>Myoclonus | May be alternative in patients with morphine allergy |
+| **Morphine**    | Bolus: 2–10 mg IVP<br>Intermediate dose: 2–8 mg q3–4 h<br>Maintenance infusion: 0.8–30 mg/h<br>Pediatric: 0.1–0.2 mg/kg IV over 5 min; maintenance infusion 0.02–0.03 mg/kg/h | Itching<br>Respiratory depression<br>Sedation<br>Hypotension<br>Mood changes<br>Xerostomia<br>Constipation<br>Pruritus<br>Urinary retention<br>Pain at injection site<br>Dizziness<br>Fever<br>Myoclonus<br>May elevate ICP due to hypercarbia | Active metabolites may accumulate in renal dysfunction; reduced dose recommended<br>Can induce a histamine release that causes itching |
+| **Naloxone** (antagonist) | IV/IM: 0.04–0.4 mg<br>Intranasal: 1–2 mg per nare into both nares, can be repeated q2–3 min and switch to IV/IM when possible | Tachycardia<br>Hypertension<br>Nausea, vomiting<br>Tremor<br>Diaphoresis<br>Dyspnea<br>Withdrawal symptoms | Due to short half-life, effects may wear off before opioid is cleared from the system, resulting in renarcotization |
 
-- Hypotension
-- Transient hypotension, severe bradycardia, sinus arrest during loading dose
-- Bradycardia
+## Neuromuscular Blocking Agents
 
-- Maintenance infusion: 0.2-1.4 mcg/kg/h
-- Loading dose (1 mcg/kg) NOT recommended
+| Neuromuscular Blocking Agent | Dosing                                      | Onset                  | Duration                          | Pearls | Adverse Effects |
+|------------------------------|---------------------------------------------|------------------------|-----------------------------------|--------|-----------------|
+| **Succinylcholine**         | Adults: IV 0.5 to 1.1 mg/kg or IM 2–4 mg/kg<br>Adolescent: 1 mg/kg IV<br>Pediatrics: 2 mg/kg IV | Very Rapid<br>IV: 30–60 s<br>IM: 4 min | Short<br>Average 3–5 min<br>Max 7–10 min | Cannot be reversed<br>May cause slight increases in ICP<br>Severe hyperkalemia may occur if burns, severe muscle trauma, neuromuscular disease, stroke, SCI, MS, prolonged immobilization<br>Contraindicated in malignant hyperthermia | Hypersensitivity reactions, including anaphylaxis<br>Cardiac arrest<br>Cardiac arrhythmias<br>Malignant hyperthermia<br>Hypertension or hypotension<br>Hyperkalemia<br>Prolonged respiratory depression<br>Jaw rigidity<br>Rhabdomyolysis<br>Myalgias<br>Skeletal muscle weakness |
+| **Vecuronium**              | Adults and pediatrics: 0.1 mg/kg (up to 0.2 mg/kg) IV | Fast<br>1.5–2 min<br>Faster onset with higher dose | Intermediate<br>35–45 min (up to 60 min) | No significant cardiovascular effects<br>No effect on ICP | — |
+| **Cisatracurium**           | Adults and pediatrics: 0.15 mg/kg (up to 0.2 mg/kg) IV | Fast<br>1–2 min        | Prolonged<br>Adults: 45–75 min<br>Pediatrics: 20–35 min | Longer half-life in elderly<br>Elimination via enzymatic breakdown and does not rely on renal or liver function for clearance | — |
+| **Rocuronium**              | Adults: 0.6 mg/kg (up to 1.2 mg/kg) IV<br>Pediatrics: 0.45–0.6 mg/kg IV | Rapid<br>1–2 min<br>Faster onset with higher dose | Intermediate<br>20–35 min (up to 60 min) | Prolonged duration in renal failure | — |
 
-Dexmedetomidine Alpha-2 agonist
+## Vasopressors / Inotropes
 
-- IV contains propylene glycol, which can accumulate and cause metabolic acidosis
-- Precipitation is possible; an inline filter recommended for infusions
+| Vasopressors / Inotropes | Adrenergic receptor activity | Initial dosing                                      | Indications                                      | Advantages                                                                 | Disadvantages |
+|--------------------------|------------------------------|-----------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------|---------------|
+| **Norepinephrine**      | α1, β1                       | 0.1–0.5 mcg/kg/min<br>Can be used in anaphylactic shock | Septic shock with low SVR and/or low CO<br>Can be used in anaphylactic shock | Great for increasing SVR and MAP while preserving CO<br>First-line for septic, cardiogenic, and hypovolemic shock | Risk of increase oxygen consumption<br>Risk of dysrhythmias and myocardial ischemia<br>May decrease splanchnic perfusion and increase lactate levels |
+| **Dopamine**            | D1 (0-5 mcg), β1 (5-10), α1 (10+) | 5–15 mcg/kg/min                                     | Poor cardiac function with poor perfusion<br>Hypotension with bradycardia | Effective at multiple receptors<br>First-line agent for septic shock | Highest risk of dysrhythmias (especially at high dose) |
+| **Epinephrine**         | α1, β1, β2                   | 0.02–0.05 mcg/kg/min                                | Septic shock with low SVR and/or low CO<br>Anaphylactic shock<br>Cardiogenic shock | Less need for adequate volume resuscitation for initial response<br>First-line agent for septic shock | Risk of increase oxygen consumption<br>Risk of dysrhythmias and myocardial ischemia<br>Tachydysrhythmias, hyperglycemia, may decrease mesenteric perfusion |
+| **Phenylephrine**       | α1                           | 10–200 mcg/min IV push, repeat after 5–10 min<br>OR 0.1–0.5 mcg/kg/min | Post-cardiac arrest hypotension<br>Spinal anesthesia hypotension | Can increase SVR without increasing heart rate<br>Alternative for septic shock (if tachyarrhythmias on norepinephrine, epinephrine, or dopamine) | May decrease CO<br>May cause reflex bradycardia |
+| **Vasopressin**         | V1                           | 0.02–0.04 units/min                                 | Refractory hypotension in septic shock<br>Diabetes insipidus | May reduce the dose of other vasopressors<br>Spares pulmonary vasoconstriction, resulting in ↑GFR or ↑RBF | Not first-line agent in shock<br>May increase risk of splanchnic ischemia in CAD<br>May decrease splanchnic perfusion and increase lactate |
+| **Angiotensin II** (Giapreza) | AT-1                      | 10–80 ng/kg/min and titrate; 1.25 ng/kg/min if on ACEi/ARB | Refractory septic or distributive shock<br>Non-ACEi/ARB patients | Can increase MAP independent of catecholamines<br>Useful when high-dose vasopressors are failing | Delirium, thrombosis, bronchospasm, tachycardia, lactic acidosis, hyperglycemia |
+| **Dobutamine**          | β1, β2                       | 2.5–20 mcg/kg/min                                   | Acute decompensated HF, cardiogenic shock, septic shock with decreased CO | Good to improve CO in decompensated HF<br>Useful agent to increase CO in decompensated or distributive shock | Renal elimination<br>Hypotension, arrhythmias, thrombocytopenia |
+| **Milrinone**           | PDE inhibitor                | 0.25–0.75 mcg/kg/min                                | Acute decompensated HF, cardiogenic shock      | Useful when adequate response not achieved or in setting of chronic HF | Renal elimination<br>Hypotension, arrhythmias, thrombocytopenia |
 
-- Hypotension
-- Respiratory depression
-- Drowsiness
-- Pain at injection site
-- Akathisia
-- Confusion
-- Anterograde amnesia
-- Visual disturbances
-- Paradoxical reactions – hyperactivity and aggressive behavior
+## Fluids
 
-- Loading dose: 0.02-0.04 mg/kg
-- Intermittent dose: 0.02-0.06 mg/kg q2-6 h (max 2 mg IV for agitation at 2 mg/min)
-- Maintenance infusion: 0.01-0.1 mg/kg/h
+### Physiologic Properties of Resuscitation Fluids
 
-Lorazepam GABAa receptor agonist
+| Fluid          | Na mEq/L | K mEq/L | Ca mEq/L<br>mg/dL<br>mmol/L | Mg mEq/L<br>mg/dL<br>mmol/L | Cl mEq/L | Acetate mEq/L | Lactate mEq/L | Gluconate mEq/L | Bicarb mEq/L | Osmolarity mOsm/L |
+|----------------|----------|---------|-----------------------------|-----------------------------|----------|---------------|---------------|-----------------|--------------|-------------------|
+| **Plasma**    | 135–145 | 3.5–5  | 2.2–2.6<br>4.4–5.2<br>1.1–1.3 | 0.8–1.0<br>1.0–1.2<br>0.4–0.5 | 94–111  | —             | 1.2           | —               | —            | 275–295          |
+| **NaCl 0.9%** | 154     | —      | —                           | —                           | 154     | —             | —             | —               | —            | 308              |
+| **LR**        | 130     | 4      | 1.4<br>2.7<br>1.4?          | 1.5?                        | 109     | —             | 28            | —               | —            | 273              |
+| **Plasma-Lyte** | 140   | 5      | —                           | 1.5<br>3.0<br>1.5           | 98      | 27            | —             | 23              | —            | 294              |
+| **0.45% NaCl + Na Bicarb** | 141 | — | — | — | 72 | — | — | — | 70 | 283 |
 
-- Rapid onset and short duration
-- Active metabolites which may accumulate in renal dysfunction
-
-- Similar to lorazepam
-- Loading dose: 0.01-0.05 mg/kg
-- Maintenance infusion: 0.01-0.1 mg/kg/h
-
-Midazolam GABAa receptor agonist
-
-Pearls Adverse Reactions Usual dose Opioids
-- May be alternative in patients with morphine allergy
-- Do not use transdermal formulation in acute setting due to delayed onset (6–24 h)
-
-- Constipation
-- Miosis
-- Chest wall rigidity
-- Diaphoresis
-- Myoclonus
-
-- Respiratory depression
-- Bradycardia
-- Edema
-- Confusion
-- Sedation
-- Mood changes
-
-- Bolus: 50-100 mcg or 1-2 mcg/kg IVP
-- Maintenance: 0.7-10 mcg/kg/hr or 25-700 mcg/h
-
-Fentanyl
-
-- May be alternative in patients with morphine allergy
-- Mood changes
-- Constipation
-- Miosis
-- Diaphoresis
-- Myoclonus
-
-- Respiratory depression
-- Bradycardia
-- Edema
-- Confusion
-- Sedation
-
-- Oral: 2-4 mg every 4-6 h
-- IV: 0.2-1 mg every 4-6 h Hydromorphone
-
-- Active metabolites may accumulate in renal dysfunction; reduced dose recommended
-- Can induce a histamine release that causes itching
-
-- Pruritus
-- Urinary retention
-- Pain at injection site
-- Dizziness
-- Fever
-- Myoclonus
-- May elevate ICP due to hypercarbia
-
-- Itching
-- Respiratory depression
-- Sedation
-- Hypotension
-- Mood changes
-- Xerostomia
-- Constipation
-
-- Bolus: 2-10 mg IVP
-- Intermediate dose: 2-8 mg  q3-4 h
-- Maintenance infusion: 0.8-30 mg/h
-- Pediatric: 0.1-0.2 mg/kg IV over 5 min; maintenance infusion 0.02-0.03 mg/kg/h, titrate as needed
-
-Morphine
-
-- Due to short half-life, effects may wear off before opioid is cleared from the system, resulting in renarcotization
-
-- Diaphoresis
-- Dyspnea
-- Withdrawal symptoms
-
-- Tachycardia
-- Hypertension
-- Nausea, vomiting
-- Tremor
-
-- IV/IM: 0.04-0.4 mg
-- Intranasal: 1-2 mg per nare into both nares, can be repeated q2-3 min and switch to IV/IM when possible
-
-Naloxone (antagonist)
-
-Adverse Effects Pearls Duration Onset Dosing Neuromuscular Blocking Agent
-- Hypersensitivit y reactions, including anaphylaxis
-- Cardiac arrest
-- Cardiac arrhythmias
-- Malignant hyperthermia
-- Hypertension or hypotension
-- Hyperkalemia
-- Prolonged respiratory depression
-- Jaw rigidity
-- Rhabdomyolysi s
-- Myalgias
-- Skeletal muscle weakness
-
-- Cannot be reversed
-- May cause slight increases in ICP
-- Severe hyperkalemia may occur if burns, severe muscle trauma, neuromuscular disease, stroke, SCI, MS, prolonged immobilization
-- Contraindicated in malignant hyperthermia
-- Hyperkalemia
-
-Short Average 3–5 min Max 7–10 min
-
-Very Rapid
-- IV: 30–60 s
-- IM: 4 mins
-
-Adults
-- IV 0.5 to 1.1 mg/kg
-- IM 2–4 mg/kg Adolescent: 1 mg/kg IV Pediatrics: 2 mg/kg IV
-
-Succinylcholine
-
-- No significant cardiovascular effects
-- No effect on ICP Intermediate 35-45 mins (up to 60 mins)
-
-Prolonged 3-9 mins Faster onset with higher dose (2 min)
-
-Adults and pediatrics: 0.1 mg/kg (up to 0.2 mg/kg) IV
-
-Vecuronium
-
-- Longer half life in elderly
-- Elimination via enzymatic breakdown and does not rely on renal or liver function for clearance
-
-Prolonged Adults: 45-75 mins Pediatrics: 20-35 mins
-
-Fast 1.5-2 mins Adults and pediatrics: 0.15 mg/kg (up to 0.2 mg/kg) IV
-
-Cisatracurium
-
-- Prolonged duration in renal failure Intermediate 20-35 mins (up to 60 mins)
-
-Rapid 1-2 mins Faster onset with higher dose
-
-Adults: 0.6 mg/kg (up to 1.2 mg/kg) IV Pediatrics: 0.45-0.6 mg/kg IV
-
-Rocuronium
-
+:::

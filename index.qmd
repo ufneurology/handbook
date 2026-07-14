@@ -42,16 +42,14 @@ Use the search bar or browse by topic below.
 ::: index-list
 -   [Subarachnoid Hemorrhage](subarachnoid_hemorrhage.qmd)
 -   [ICP and Herniation Management](icp_and_herniation_management.qmd)
--   [Sodium Management](sodium_management.qmd)
 -   [Traumatic Brain Injury](tbi.qmd)
 -   [Management of PSH](management_of_psh.qmd)
 -   [Common Critical Care Pharmacology](common_critical_care_pharmacology.qmd)
--   [Fluids](fluids.qmd)
 -   [Intracranial Vascular Malformation](intracranial_vascular_malformation.qmd)
 -   [Common Agents Affecting Neurologic Exam](common_agents_affecting_neurologic_exam.qmd)
--   [Post Cardiac Arrest Management](post_cardiac%20_arrest_management.qmd)
+-   [Post Cardiac Arrest Management](cardiac_arrest.qmd)
 -   [Post-Anoxic Status Epilepticus](post_anoxic_status_epilepticus.qmd)
--   [Brain Death](brian_death.qmd)
+-   [Brain Death](brain_death.qmd)
 -   [Mechanical Ventilation](mechanical_ventilation.qmd)
 -   [Cervical Spine Clearance](cervical_spine_clearance.qmd)
 :::

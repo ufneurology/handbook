@@ -5,47 +5,53 @@ format: html
 editor: visual
 ---
 
+::: {.panel-tabset}
+
+
 ## Barbiturates
 
-| Drug            | Half Life (t½)          | Distribution                          | Suggested time to brain death exam          |
-|-----------------|-------------------------|---------------------------------------|---------------------------------------------|
-| Pentobarbital   | ~4-50 hrs               | ~35-45% bound to plasma proteins      | Pentobarbital level ≤ 10 mcg/ml             |
-| Phenobarbital   | ~2-6 days               | ~20-45% bound to plasma proteins      | Phenobarbital level ≤ 10 mcg/ml             |
+| Drug          | Half Life (t½) | Distribution                      | Suggested time to brain death exam |
+|---------------|---------------|-------------------|-----------------------|
+| Pentobarbital | \~4-50 hrs     | \~35-45% bound to plasma proteins | Pentobarbital level ≤ 10 mcg/ml    |
+| Phenobarbital | \~2-6 days     | \~20-45% bound to plasma proteins | Phenobarbital level ≤ 10 mcg/ml    |
 
 ## Benzodiazepines
 
-| Drug              | Half Life (t½)                     | Distribution                          | Suggested time to brain death exam                  |
-|-------------------|------------------------------------|---------------------------------------|-----------------------------------------------------|
-| Lorazepam         | 10-20 hrs                          | Widely in most body tissues           | —                                                   |
-| Midazolam         | 1-12.5 hrs                         | Widely, 95% protein bound             | —                                                   |
-| Diazepam          | 20-50 hrs, active metabolite 40-100 hrs | Widely, 94-99% protein bound     | Variable, if expect toxicity, wait 1.5-2 times the half life |
-| Chlordiazepoxide  | 10-48 hrs, active metabolite 14-95 hrs | Widely                            | —                                                   |
+| Drug             | Half Life (t½)                          | Distribution                 | Suggested time to brain death exam                           |
+|----------------|----------------|-----------------|------------------------|
+| Lorazepam        | 10-20 hrs                               | Widely in most body tissues  | Variable, if expect toxicity, wait 1.5-2 times the half life                                                          |
+| Midazolam        | 1-12.5 hrs                              | Widely, 95% protein bound    | Variable, if expect toxicity, wait 1.5-2 times the half life                                                          |
+| Diazepam         | 20-50 hrs, active metabolite 40-100 hrs | Widely, 94-99% protein bound | Variable, if expect toxicity, wait 1.5-2 times the half life |
+| Chlordiazepoxide | 10-48 hrs, active metabolite 14-95 hrs  | Widely                       | Variable, if expect toxicity, wait 1.5-2 times the half life                                                    |
 
 ## Neuromuscular Blocking Agents
 
-| Drug              | Half Life (t½)                          | Distribution                     | Suggested time to brain death exam |
-|-------------------|-----------------------------------------|----------------------------------|------------------------------------|
-| Atracurium        | Biphasic t½ (2-3.4 min and 20 min respectively) | Low body distribution       | —                                  |
-| Pancuronium       | Triphasic t½, terminal t½ ~2hr         | —                                | —                                  |
-| Rocuronium        | Triphasic t½, terminal t½ ~2hr         | 87% protein bound                | —                                  |
-| Succinylcholine   | Metabolized rapidly, with effect lasting ~10 min | Widely                       | Train of four via peripheral nerve stimulation should result in four thumb twitches |
-| Vecuronium        | Biphasic t½ (3-9 min and 30-80 min respectively) | Not fully characterized     | —                                  |
+| Drug            | Half Life (t½)                                    | Distribution            | Suggested time to brain death exam                                                  |
+|----------------|---------------------|-----------------|------------------|
+| Atracurium      | Biphasic t½ (2-3.4 min and 20 min respectively)   | Low body distribution   | Train of four via peripheral nerve stimulation should result in four thumb twitches                                                                                 |
+| Pancuronium     | Triphasic t½, terminal t½ \~2hr                   | ---                     | Train of four via peripheral nerve stimulation should result in four thumb twitches                                                                                 |
+| Rocuronium      | Triphasic t½, terminal t½ \~2hr                   | 87% protein bound       | Train of four via peripheral nerve stimulation should result in four thumb twitches                                                                                 |
+| Succinylcholine | Metabolized rapidly, with effect lasting \~10 min | Widely                  | Train of four via peripheral nerve stimulation should result in four thumb twitches |
+| Vecuronium      | Biphasic t½ (3-9 min and 30-80 min respectively)  | Not fully characterized | Train of four via peripheral nerve stimulation should result in four thumb twitches                                                                                 |
 
 ## Narcotics
 
-| Drug         | Half Life (t½)                     | Distribution                          | Suggested time to brain death exam |
-|--------------|------------------------------------|---------------------------------------|------------------------------------|
-| Morphine     | 1.5-4.5 hrs                        | Widely, 30-35% protein bound          | —                                  |
-| Fentanyl     | 3-7 hrs, duration 30-60 mins       | Widely, 80-86% protein bound          | —                                  |
-| Hydromorphone| 2.5 hrs, duration 4-5 hrs          | Two distributive t½, 1.27 and 14.7 hrs respectively | —                            |
-| Meperidine   | 3.2-3.7 hrs, active metabolite 24-48 hrs | Widely, 65-80% protein bound     | —                                  |
-| Oxycodone    | N/A                                | N/A                                   | N/A                                |
+| Drug          | Half Life (t½)                           | Distribution                                        | Suggested time to brain death exam |
+|----------------|------------------|--------------------|------------------|
+| Morphine      | 1.5-4.5 hrs                              | Widely, 30-35% protein bound                        | Variable, if expect toxicity, wait 1.5-2 times the half life                                |
+| Fentanyl      | 3-7 hrs, duration 30-60 mins             | Widely, 80-86% protein bound                        | Variable, if expect toxicity, wait 1.5-2 times the half life                                |
+| Hydromorphone | 2.5 hrs, duration 4-5 hrs                | Two distributive t½, 1.27 and 14.7 hrs respectively | Variable, if expect toxicity, wait 1.5-2 times the half life                                |
+| Meperidine    | 3.2-3.7 hrs, active metabolite 24-48 hrs | Widely, 65-80% protein bound                        | Variable, if expect toxicity, wait 1.5-2 times the half life                                |
+| Oxycodone     | N/A                                      | N/A                                                 | N/A                                |
 
 ## Miscellaneous Drugs
 
-| Drug         | Half Life (t½)                          | Distribution               | Suggested time to brain death exam |
-|--------------|-----------------------------------------|----------------------------|------------------------------------|
-| Propofol     | Biphasic: alpha t½ = 1-8 mins, beta t½ = 1.5-12.4 hrs | Moderately         | Brain death exam after 2-3 times half life. Neuro exam ok after drip off for 5-10 mins |
-| Dopamine     | ~2 minutes, duration ~10 minutes        | —                          | Extremely high doses can fix/dilate pupils |
-| Atropine     | Duration of cardiac effects ~5 mins     | —                          | Pupil effects after IV are transient |
-| Ketamine     | 2-3 hrs                                 | 50% protein bound          | Recovery time 2-3 hrs |
+| Drug     | Half Life (t½)                                        | Distribution      | Suggested time to brain death exam                                                     |
+|----------------|----------------------|----------------|-------------------|
+| Propofol | Biphasic: alpha t½ = 1-8 mins, beta t½ = 1.5-12.4 hrs | Moderately        | Brain death exam after 2-3 times half life. Neuro exam ok after drip off for 5-10 mins |
+| Dopamine | \~2 minutes, duration \~10 minutes                    | ---               | Extremely high doses can fix/dilate pupils                                             |
+| Atropine | Duration of cardiac effects \~5 mins                  | ---               | Pupil effects after IV are transient                                                   |
+| Ketamine | 2-3 hrs                                               | 50% protein bound | Recovery time 2-3 hrs                                                                  |
+
+
+:::
