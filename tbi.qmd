@@ -1,13 +1,41 @@
-# TBI
+---
+title: "Traumatic Brain Injury"
+category: "Neurocritical Care"
+format: html
+editor: visual
+---
 
-protocol
+## All patients with:
 
-Paroxysmal Sympathetic Hyperactivity (PSH)
+1.  Risk of intracranial hypertension (ICP ≥ 22 mmHg) **or**
+2.  GCS ≤ 8 and abnormal CT scan **or**
+3.  GCS ≤ 9 with normal CT scan and 2 of the following:
+    a.  Systolic blood pressure \< 90 mmHg\
+    b.  Age \> 40
 
-PSH is a disorder in the regulation of autonomic function with acute brain injury, most notably severe TBI
-- Recurrent episodes of excessive sympathetic activity that start rapidly, are often induced by stimulation, and resolve spontaneously after a variable period of time or after administration of an abortive medication
-- Core clinical features include tachycardia, hypertension, tachypnea, hyperthermia, sweating, and/or increased muscle tone with possible dystonic posturing
-- Associated conditions —brain trauma, nontraumatic forms of acute brain disease, including anoxic-ischemic coma after cardiac arrest, intracranial hemorrhage, autoimmune encephalitis, ischemic stroke, hydrocephalus, and cerebral fat embolism syndrome
+**Must have the following on admission to the ICU:**
 
-![](images/tbi_23_img9.png)
+1.  ICP monitor to be placed within 6 hours (EVD or intraparenchymal, although evidence to suggest extradural placement has been brought up by NSG/T department)
+2.  Cerebral Oximetry Monitor to be placed within 6 hours
+3.  Invasive arterial monitoring
+4.  CO monitoring
+    a.  Bedside TTE/hTTE or Flotrac
+5.  Central venous line and CVP monitoring
+6.  Bladder temperature
+7.  ETCO2 Monitor
+8.  24 hour EEG within 24 hours of admission
+9.  Keppra IV infusion, 500 mg bid x 7 days
 
+## Goals of Management:
+
+1.  Maintain CPP = 60 (CPP = MAP -- ICP)
+2.  Core Temperature = 37.5 degrees Celsius
+3.  ICP ≤ 22 mmHg
+4.  PbtO2 (cerebral oxygen) \> 15--20 mmHg
+5.  Target PaO2 of 35-45 mmHg
+6.  Sodium goal of 143-150 mmol/L (133-145 per NIH 2020 guidelines, favoring UUN value; NCCs without clear goal but favors \>140-145 ± 135)
+7.  Maintain SpO2 ≥ 90% and PaO2 ≥ 80 mmHg
+8.  Hemoglobin \> 7 g/dL
+9.  Blood sugar per ICU protocol 100-180 mg/dL
+10. Ensure adequate sedation to maintain ICP goals
+11. Management of elevated ICP and decreased PbtO2 using UF severe TBI protocol

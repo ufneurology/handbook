@@ -9,7 +9,7 @@ source: "UF Neurology Resident Handbook 2026-2027"
 # Differential diagnosis
 
 | Imaging pattern                | Differential                                                                                                                             |
-|-----------------|-------------------------------------------------------|
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | Thunderclap headache           | SAH, pituitary apoplexy, arterial dissection, DVST, hypertensive emergency, RCVS, intracranial hypotension, primary thunderclap headache |
 | Sulcal subarachnoid hemorrhage | RCVS, DVST, vasculitis, mycotic aneurysm, trauma, amyloid angiopathy, meningeal neoplasm, dural AV fistula, meningitis                   |
 
@@ -121,7 +121,7 @@ For Hunt and Hess, consider adding one grade for severe vasospasm on angiogram o
 # Events and complications after aneurysmal SAH
 
 | Early                                                    | Late                                            | Chronic                                                         |
-|------------------------|---------------------|---------------------------|
+|----------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------|
 | Rebleeding                                               | Cerebral vasospasm                              | Chronic hydrocephalus that may require placement of a shunt     |
 | Acute hydrocephalus                                      | Delayed cerebral ischemia                       | Behavior, personality, memory changes                           |
 | Seizures                                                 | Pituitary dysfunction                           | Need for further retreatment for recurrent or residual aneurysm |

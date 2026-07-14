@@ -1,160 +1,66 @@
-# Sodium Management
-
-Practical Approach to Hyponatremia (uptodate)
-
-CSW SIADH DI Increased Decreased Increased Urine output Low Low High Serum Na
-
-High High Low Urine Na Normal/Low Low High Serum Osm
-
-Normal/Low High Low Urine Osm Low High Normal/Low CVP Normal High Low ADH
-
-Estimate of 1L of any saline infusion on serum sodium Change in serum sodium = [infusion sodium concentration (mmol/L) – serum sodium concentration (mmol/L)] / (total body water +
-1) Sodium concentration (mmol/L) Infusion 855 5% NaCl in water 513 3% NaCl in water 154 0.9% NaCl in water 130 Lactate Ringer 77 0.45% NaCl in water 34 0.2% NaCl in D5W 0 D5W
-
-Sodium Repletion
-- Calculate sodium deficit = 0.6 x body weight x (desired [Na] – current [Na])
-
-- Use 0.5 for women/elderly men or 0.45 for elderly women
-- Na check q4h (ICU) or q4-6h (floor
-- Target repletion rate: 6 mEq/L/day
-
-Low serum sodium (<135 mEq/L)
-
-Hyperglycemia present?
-
-Calculate corrected sodium*
-
-Yes
-
-Could extra solutes be present in serum:
-- Is pt postop after prostate or uterine surgery?
-- Has the pt received IV mannitol or IVIG
-
-Hyperglycemia induced hyponatremia Low
-
-Normal No
-
-Reason to suspect pseudohyponatremia (due to hyperlipidemia or hyperproteinemia):
-- Is serum lipemic?
-- Is pt jaundiced?
-- Is there history of plasma cell dyscrasia?
-
-No
-
-Measure serum osmolality
-
-Yes
-
-No
-
-Yes
-
-Hypotonic hyponatremia
-
-Normal or high
-
-Isoosmolar or hyperosmolar hyponatremia:
-- TURP and hysteroscopy can be associated with absorption of irrigation solutions (glycine, sorbitol)
-- If suspected pseudohyponatremia, have sodium measured by direct potentiometry. If normal, measure total protein and lipids. Low (<280 mosmol/kg)
-
-GFR substantially impaired?
-
-Yes Renal failure No Use of thiazide diuretic?
-
-Yes
-
-Stop thiazide
-
-Hyponatremia resolved? Yes Thiazide induced hyponatremia
-
-No
-
-No Edema? (peripheral or pulmonary edema, or ascites)
-
-Yes Low effective arterial blood volume (heart failure, cirrhosis)
-
-Signs of hypovolemia (low BP, orthostatic)?
-
-Yes No Yes Measure urine sodium Measure urine sodium and urine osmolality
-
-Low (<25 mEq/L)
-
-High (>40 mEq/L)
-
-(25-40 mEq/L)
-
-Hypovolemic hyponatremia Extrarenal losses (GI, third space, diuretics)
-
-Infuse isotonic saline (ex. 1L over 1hr) Remeasure serum sodium
-
-Hypovolemic hyponatremia Renal losses
-
-Review hx and meds AM cortisol and ACTH stim test
-
-Low cortisol Positive ACTH stim test
-
-Using diuretics
-
-Head injury Cranial surgery
-
-Primary adrenal insufficiency (glucocorticoid and mineralocorticoid deficiency)
-
-Diuretic induced
-
-Cerebral salt wasting
-
-Urine osmolality <100?
-
-No
-
-Urine sodium >40?
-
-Yes Urine osmolality measured AFTER therapy initiated?
-
-Yes Recovery from one of following:
-- Mild hypovolemia (given isotonic fluids)
-- Hypopituitarism (given glucocorticoids)
-
-No
-
-Rapid water consumption?
-
-Yes
-
-No High fluid, low protein diet:
-- “Beer potomania”
-- “Tea and toast diet”
-
-Self  induced water intoxication:
-- Psychosis
-- Endurance event
-- Ecstasy use
-
-Ensure sodium intake >150 mEq over next 24 hrs (ex. 1L isotonic saline over 1 or more hrs)
-
-Remeasure urine osmolality and sodium
-
-No
-
-Urine Na <40 or urine osm <100 Urine Na >40 or urine osm >100 Hypovolemic hyponatremia
-
-Evaluate for glucocorticoid deficiency and hypothyroidism
-
-Yes
-
-AM cortisol and ACTH stim test abnormal?
-
-Yes Glucocorticoid deficiency No
-
-TSH very elevated?
-
-Yes Severe hypothyroidism
-
-No
-
-SIADH or nephrogenic SIADH evaluate underlying etiology
-
-Practical Approach to Hyponatremia (uptodate)
-
-*Add 2 mEq/L to the serum sodium for every 100 mg/dL of serum glucose above the normal value
+---
+title: "Common Critical Care Pharmacology"
+category: "Neurocritical Care"
+format: html
+editor: visual
+---
+
+## Sedatives
+
+| Drug                  | Dose                                      | Adverse Reactions                          | Pearls |
+|-----------------------|-------------------------------------------|--------------------------------------------|--------|
+| **Propofol**<br>GABAa receptor agonist | Max 50 mcg/kg/min                         | Hypotension, Apnea, Movement, Pain at injection site, Hypertriglyceridemia, Pancreatitis, PRIS (hyperkalemia, dysrhythmia, lipemia, metabolic acidosis, heart failure, rhabdomyolysis) | Contraindications: Allergy to soy or egg. Use with caution in cardiovascular disease. Rapid onset/offset. Lipid vehicle susceptible to bacterial contamination — change IV tubing/bottle q12h. Blue-green urine discoloration. Delivers 1.1 kcal/ml. |
+| **Dexmedetomidine**<br>Alpha-2 agonist | Maintenance: 0.2-1.4 mcg/kg/h<br>Loading dose (1 mcg/kg) **NOT** recommended | Hypotension, Transient hypotension, severe bradycardia, sinus arrest during loading dose, Bradycardia | Has analgesic properties. Goal is patient arousable with stimulation and sedative state when stimulation removed. Does not require mechanical ventilation. |
+| **Lorazepam**<br>GABAa receptor agonist | Loading: 0.02-0.04 mg/kg<br>Intermittent: 0.02-0.06 mg/kg q2-6 h (max 2 mg IV for agitation at 2 mg/min)<br>Maintenance infusion: 0.01-0.1 mg/kg/h | Hypotension, Respiratory depression, Drowsiness, Pain at injection site, Akathisia, Confusion, Anterograde amnesia, Visual disturbances, Paradoxical reactions | Precipitation and metabolic acidosis possible; inline filter recommended for infusions. |
+| **Midazolam**<br>GABAa receptor agonist | Loading: 0.01-0.05 mg/kg<br>Maintenance: 0.01-0.1 mg/kg/h | Similar to lorazepam | Rapid onset and short duration. Active metabolites may accumulate in renal dysfunction. |
+
+## Opioids
+
+| Drug         | Usual dose                                      | Adverse Reactions                     | Pearls |
+|--------------|-------------------------------------------------|---------------------------------------|--------|
+| **Fentanyl** | Bolus: 50-100 mcg or 1-2 mcg/kg IV<br>Maintenance: 0.7-10 mcg/kg/hr or 25-700 mcg/h | Respiratory depression, Bradycardia, Edema, Confusion, Sedation, Mood changes, Constipation, Miosis, Chest wall rigidity, Diaphoresis, Myoclonus | May be alternative in morphine allergy. Do not use transdermal in acute setting (delayed onset 6-24 h). |
+| **Hydromorphone** | Oral: 2-4 mg q4-6h<br>IV: 0.2-1 mg q4-6h     | Respiratory depression, Bradycardia, Edema, Confusion, Sedation, Mood changes, Constipation, Miosis, Diaphoresis, Myoclonus | May be alternative in morphine allergy. |
+| **Morphine** | Bolus: 2-10 mg IVP<br>Intermediate: 2-8 mg q3-4h<br>Maintenance infusion: 0.8-30 | Itching, Respiratory depression, Sedation, Pruritus, Urinary retention, Pain at injection site, Dizziness | Active metabolites accumulate in renal dysfunction — reduced dose recommended. Can induce histamine release causing itching. |
+
+**Naloxone (antagonist)**  
+- IV/IM: 0.04-0.4 mg  
+- Intranasal: 1-2 mg per naris (repeat q2-3 min, switch to IV/IM)  
+**Adverse:** Tachycardia, Hypertension, Nausea, Vomiting, Tremor, Diaphoresis, Dyspnea, Withdrawal symptoms.  
+**Pearl:** Short half-life — effects may wear off before opioid cleared (renarcotization risk).
+
+## Neuromuscular Blocking Agents
+
+| Agent              | Dosing                                      | Onset              | Duration                  | Pearls                                      | Adverse Effects |
+|--------------------|---------------------------------------------|--------------------|---------------------------|---------------------------------------------|-----------------|
+| **Succinylcholine** | Adults: 0.5-1.1 mg/kg IV<br>IM: 2-4 mg/kg | Very Rapid (IV 30-60s) | Short (3-5 min, max 10 min) | Cannot be reversed. Contraindicated in malignant hyperthermia, hyperkalemia risk. | Hypersensitivity, Anaphylaxis, Cardiac arrest, Hyperkalemia, Rhabdomyolysis |
+| **Vecuronium**     | 0.1 mg/kg IV (up to 0.2 mg/kg)             | Prolonged (3-9 min) | Intermediate (35-45 min) | No significant CV effects. No effect on ICP. | Malignant hyperthermia, Hypertension, Hyperkalemia |
+| **Cisatracurium**  | 0.15-0.2 mg/kg IV                          | Fast (1.5-2 min)   | Prolonged (45-75 min adults) | Hofmann elimination — good in renal/hepatic failure. | Prolonged respiratory depression, Jaw rigidity |
+| **Rocuronium**     | 0.6-1.2 mg/kg IV                           | Rapid (1-2 min)    | Intermediate (20-35 min) | Prolonged in renal failure. | Rhabdomyolysis, Myalgias, Skeletal muscle weakness |
+
+## Vasopressors / Inotropes
+
+| Vasopressor/Inotrope | Adrenergic receptor activation | Initial dosing                  | Indications                          | Advantages                              | Disadvantages |
+|----------------------|--------------------------------|---------------------------------|--------------------------------------|-----------------------------------------|---------------|
+| **Norepinephrine**   | α1, β1                         | 2-5 mcg/min OR 0.02-0.06 mcg/kg/min | Septic shock with low SVR            | Great for increasing SVR/MAP while preserving CO. First line for septic, cardiogenic, hypovolemic shock. | May increase O2 consumption, Myocardial ischemia, Decrease intestinal perfusion |
+| **Dopamine**         | D1 (0-5), β1 (5-10), α1 (10-15) | 0-15 mcg/kg/min                | Poor cardiac function, Hypotension with bradycardia | Effective at multiple receptors         | Highest risk of dysrhythmias at high doses |
+| **Epinephrine**      | β1, α1, β2                     | 0.02-0.05 mcg/kg/min           | Septic shock with low SVR/CO, Anaphylactic shock | First line for septic shock             | Risk of dysrhythmias, Myocardial ischemia |
+| **Phenylephrine**    | α1                             | 10-200 mcg/min OR 0.1-1 mcg/kg/min | Rapid MAP increases post-sedation   | No β effects, less arrhythmogenic       | May decrease CO, Reflex bradycardia |
+| **Vasopressin**      | 0                              | 0.02-0.04 units/min            | Refractory hypotension in septic shock | Spares pulmonary vasoconstriction       | May decrease CO in CAD |
+| **Dobutamine**       | β1, α1, β2                     | 2.5-10 mcg/kg/min              | Acute decompensated HF               | Improves CO in decompensated HF         | Can decrease SVR, Provoke hypotension |
+
+## Fluids
+
+### Physiologic Properties of Resuscitation Fluids
+
+| Fluid                  | Na mEq/L | K mEq/L | Ca mg/dL | Mg mg/dL | Cl mEq/L | Acetate mEq/L | Lactate mEq/L | Gluconate mEq/L | Bicarb mEq/L | Osmolarity mOsm/L |
+|------------------------|----------|---------|----------|----------|----------|---------------|---------------|-----------------|--------------|-------------------|
+| **Plasma**             | 135-145  | 3.5-5   | 2.2-2.6  | 0.8-1.0  | 94-111   | -             | 1.2           | -               | -            | 275-295           |
+| **Na Cl**              | 154      | -       | -        | -        | 154      | -             | -             | -               | -            | 308               |
+| **LR**                 | 130      | 4       | 2.7      | -        | 109      | -             | 28            | -               | -            | 273               |
+| **Plasma-Lyte**        | 140      | 5       | -        | 3.0      | 98       | 27            | -             | 23              | -            | 294               |
+| **0.45% Na Cl + Na Bicarb** | 141 | -       | -        | -        | 72       | -             | -             | -               | 70           | 283               |
+
+**Key Notes:**  
+- Prefer balanced crystalloids (LR, Plasma-Lyte) over normal saline in most neuro ICU patients to avoid hyperchloremic acidosis.  
+- Avoid hypotonic fluids in patients at risk for cerebral edema.
 
