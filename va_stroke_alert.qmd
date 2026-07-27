@@ -1,26 +1,47 @@
-# VA Stroke Alert
+---
+title: "VA Stroke Alert"
+format: html
+editor: visual
+---
 
-S with concern for large vessel occlusion
+# VA STROKE ALERTS with concern for large vessel occlusion
 
 Evaluate patient emergently and obtain noncontrast head CT as you would normally. Do not give contrast (i.e. CTA) at VA if concern for large vessel occlusion, as availability at the VA will introduce a time delay. You can give tPA at the VA after discussion with attending if indicated.
 
-If concern for large vessel stroke that may be amenable to endovascular intervention, bring this to the attention of VA attending immediately. If the VA attending agrees to transfer to UF, he/she must call the Shands transfer center (352-265-0559) to speak with the on-call stroke attending
-- do NOT bypass this step by calling the stroke attending directly. Once the patient has been accepted for transfer, follow the steps below.* If patient is within tPA window do not delay tPA administration, you can give bolus and start infusion while setting up the transfer.** Make sure nurse continues to monitor blood pressure with tPA infusion.
+If concern for large vessel stroke that may be amenable to endovascular intervention, bring this to the attention of VA attending immediately. **If the VA attending agrees to transfer to UF, he/she must call the Shands transfer center (352-265-0559) to speak with the on-call stroke attending - do NOT bypass this step by calling the stroke attending directly.** Once the patient has been accepted for transfer, follow the steps below. If patient is within tPA window do not delay tPA administration, you can give bolus and start infusion while setting up the transfer. Make sure nurse continues to monitor blood pressure with tPA infusion.
 
-To transfer to UF: Regular Hours (8-4:30p, M-F)
-1. Call VA transfer coordinator (Teresa Taylor @ 352-264-3848 or 352-339-9126 or Sharonda Taylor- Martin @ 386-487-1750 ext
-1788) and inform them of need for emergent transfer
-2. Place a Non-VA Care (NVCC) Consult (CPRSConsults (order menu)Non VA Care
-3. Complete BENEFICIARY TRAVEL (BT) note template (Notes section of CPRS).  After completing the template, an order menu will open, select “GNV Travel IP” option and complete the travel consult order.
-4. Obtain consent using iMed Consent.
-5. Enter discharge order (In the Discharge Order dialogue box, next to “Discharge Patient”  type in “Hospital to Hospital Transfer to Shands pending bed availability.”
-6. Write a consult note/DC summary
+## To transfer to UF
 
-Afterhours/ weekends/holidays AOD will act as the VA Transfer Coordinator and may be reached at 78-6724 or 78-6004, but otherwise the process will be the same as during regular hours.
+The following steps must be completed in this order **(8:00AM-4:30PM)**
 
-*Make resident on service and/or vascular fellow at UF aware of transfer as well. **Stay with patient until ambulance arrives to transfer to UF.
+1. VA attending/resident must call Shands transfer center and discuss the case with the accepting attending. Shands Transfer Center 352-265-0111, x45003
+2. Ok it with accepting service before everything else.
+3. Tell VA transfer coordinator EARLY; contact is 10-6014.
+4. May change depending on the day. Message the case manager in teams and they will provide you with the person who is covering transfers if no one picks up the phone. The VA coordinator will also contact the Shands transfer center.
+5. "Provider certification and patient consent for transfer 10-2649B" in IMED consent. IMED consent->Browse->Shared->Administration->"Provider cert…". Requires patient, witness, and physician signature.
+6. Release of Information 10-5345 in IMED consent (2023 version). IMED consent->Browse->Shared->ROI->"Release of Information.". Requires patient signature only.
+7. Inter-Facility Transfer Form 10-2649A. (Type "inter" into notes and complete note). The IMED consents must be completed first, otherwise it will not let you complete the note. Orders->Consults-> Community Care consults-> inpatient (just fill it out, it doesn’t make sense). Attending signs order.
+8. Beneficiary travel note (Special mode with wheel chair or stretcher). The order will populate. Have the patient sent with BLS or ALS. Place the bed number at Shands if known. Sign the note. Do not sign the order. Attending Signs.
+9. Leaf request to send records. Must go to VA site->service request center-> Must call X-RAY (find extension ***) specifically to have this set up. Submit Leaf request for images you want Shands to have access to. XRAY will then have to release them to Shands. (This step may not be necessary if transferring for stroke and images have already been shared with the team). Ask the VA transfer coordinator to help with this if during the day.
+10. Discharge instructions and Summary must be completed.
+11. Discharge order.
+12. Tell nurses that they are pending transfer and to await arrival of transport.
 
-Lake City VA telephone requests Treatment recommendations can only be given for patients whom you have personally evaluated. If you receive a request for telephone consultation from the Lake City VA, the following are the only two available options:
+## Afterhours / weekends / holidays
+
+*(Abandon all hope ye who enter here)*
+
+1. The AOD (Administrator on Duty) will act as the VA Transfer Coordinator. The AOD is located at the Emergency Dept. entrance, telephone 10-6724 or 10-6004. Requesting provider (Attending) will need to provide direct call back number to the AOD for physician to physician communication.
+2. The Chief of Staff (or designee) must approve the request for transfer before proceeding with transfer process. The AOD will contact the Chief of Staff on behalf of the requesting provider. The subspecialist recommending the transfer is the preferred point of contact to discuss the request with the Chief of Staff if needed. If the Chief of Staff approves transfer:
+3. The AOD will contact the Shands Transfer Center 352-265-0111, x45003
+4. The AOD will facilitate physician to physician communication by providing them with your direct call-back number (Attending number).
+5. The Shands Transfer Center will contact the Hospitalist AOD at Shands (Pager 413-1731 or extension X 28908 or 30150) who will contact you (The Attending) regarding their bed availability and to accept/decline transfer. A similar process will occur for Alternate Facility
+6. If the Hospitalist AOD accepts the patient, the same documentation and consent process outlined above must be completed. The AOD will be responsible for faxing medical records as requested by the receiving facility. Ward clerk will print copies to accompany patient.
+7. Now you will complete Steps 1-9 listed in the “Daytime Hours” section.
+
+## Lake City VA telephone requests
+
+Treatment recommendations can only be given for patients whom you have personally evaluated. If you receive a request for telephone consultation from the Lake City VA, the following are the only two available options:
+
 - If the description sounds like a potential acute stroke within a therapeutic treatment window, you should advise the physician to contact the VA National Tele-Stroke program from their location or immediately transfer the patient to the nearest Comprehensive Stroke Center of their choice.
 - If the physician calling you describes ANYTHING else, please state the following verbatim: “As a resident in training, I am not permitted by my Service Chief and Program Directors to provide consultation over the telephone. If your patient needs urgent Neurological Consultation, I will be happy to evaluate the patient if he or she is transferred to this hospital or ED. If your patient does not need urgent Neurological Consultation, please submit a Consult or E-Consult request to LKC or GNV Neurology.”
-
