@@ -28,7 +28,6 @@ Use the search bar or browse by topic below.
 -   [Stroke Alert](stroke_alert.qmd)
 -   [Stroke Admission Orders](stroke_admission_orders.qmd)
 -   [TIA Risk Stratification](tia_risk_stratification.qmd)
--   [Stroke Mechanisms](stroke_mechanisms.qmd)
 -   [VA Stroke Alert](va_stroke_alert.qmd)
 -   [Intracerebral Hemorrhage](intracebral_hemorrhage.qmd)
 -   [Blood Pressure Pharmacology](blood_pressure_pharamacology.qmd)
