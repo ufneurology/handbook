@@ -1,5 +1,5 @@
 ---
-title: "Post Cardiac Arrest management"
+title: "Post Anoxic Status Epilepticus"
 category: "Neurocritical Care"
 format: html
 editor: visual

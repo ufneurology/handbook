@@ -1,24 +1,126 @@
-# Stroke Admission Orders
+---
+title: "Stroke Admission Orders"
+format: html
+editor: visual
+---
 
-and Workup: *exceptions to guidelines if tPA given
-- For routine stroke admissions, use order set “NEU STROKE PROGRAM ISCHEMIC STROKE ADMISSION” *Post-tPA or mechanical thrombectomy patients use order set “NEU STROKE PROGRAM ORDERS – POST ALTEPLASE (T-PA) ADMISSION ORDERS IP UF”
-- Bedside dysphagia screen performed by nursing, must be documented in chart. If the patient fails, he/she MUST have formal swallow evaluation.
-- Patient who fail dysphagia screen must be strict NPO (this includes oral medications!) until they are cleared by speech/swallow
-- Make sure any medication orders accurately reflect the patient’s po status (eg oral or DHT route)
-- ASA 325 mg PO if swallowing, 300 mg PR if not (*unless on anticoagulation or tPA in last 24 hours)
-- Statin
-- NS @ 100 cc/hr (careful with patients with CHF or on HD). Avoid hypotonic fluids.
-- acetaminophen 650 mg q4h prn temp >100.4
-- sliding scale insulin and fingersticks q6h
-- neurochecks q4h on floor (q2h in IMC, q1h in NICU)
-- UA/UDS
-- CXR
-- EKG in ED, telemetry/monitoring after admission
-- SCD (all) plus Heparin SQ 5,000 units q8h (*unless tPA in last 24 hours)
-- Permissive hypertension (SBP<220, DBP<110), hold home BP meds (except ½ dose β-blocker) o Exception: BP goal will be lower following IV tPA (<180/105) or mechanical thrombectomy (goal depends on procedure result, discuss with fellow/attending)
-- Labs: lipid panel, HgbA1c, RPR, liver function tests, troponin, TSH, folate/B12
-- If concerned for endocarditis, send serial blood cultures
-- Transthoracic echocardiogram (+/- bubble study if <60 years old)
-- MRI brain
-- MRA head and neck vs. carotid ultrasound/transcranial dopplers if patient has not had CTA head/neck **Certain patients (e.g., younger patients) may require TEE, hypercoagulable or vasculitis workup. Discuss with attending before ordering. Hypercoagulable panel: Antiphospholipid panel (anticardiolipin, DRVVT, beta-2 microglobulin, prothrombin gene mutation, Factor V Leiden mutation, Protein C activity, Protein S activity, antithrombin III activity, HIT antibody (in appropriate clinical setting).
+# Admission and Workup
 
+-   For routine stroke admissions, use order set "NEURO Stroke Ischemic/TIA Admission" *Post-TNK or mechanical thrombectomy patients use order set "NEURO Stroke POST Thrombolytic Administration"*
+
+::: {.callout-caution appearance="minimal"}
+-   Bedside dysphagia screen (YALE) performed by ED//ICU/floor nursing, **must be documented in chart (see Flowsheets)**. If the patient fails, he/she MUST have formal swallow evaluation.
+-   Patients who fail dysphagia screen must be **strict NPO (this includes oral medications!)** until they are cleared by speech/swallow
+-   Make sure any medication orders accurately reflect the patient's po status (eg oral or DHT route)
+:::
+
+## Medications
+
+-   ASA 325 mg PO if swallowing, 300 mg PR if not (*unless on anticoagulation or TNK \<24 hours*)
+
+-   High-intensity statin (atorvastatin or rosuvastatin)
+
+-   Can consider NS \@ 100 cc/hr (careful with patients with CHF or on HD). Avoid hypotonic fluids.
+
+-   acetaminophen 650 mg q4h prn for temp \>100.4
+
+## Floor orders
+
+-   Sliding scale insulin and fingersticks (q6h if NPO)
+
+-   Neurochecks q4h on floor (q2h in IMC, q1h in NICU)
+
+-   UA/UDS
+
+-   CXR
+
+-   EKG in ED, telemetry/monitoring after admission
+
+-   SCD (all) plus Heparin SQ 5,000 units q8h (*unless TNK in last 24 hours*)
+
+-   Permissive hypertension (SBP\<220, DBP\<110), hold home BP meds (except ½ dose β-blocker)
+
+    -   Exception: BP goal will be lower following TNK (\<180/105) or mechanical thrombectomy (goal depends on procedure result, discuss with fellow/attending)
+
+-   Labs: lipid panel, HgbA1c, RPR, liver function tests, troponin, TSH, folate/B12
+
+-   If concerned for endocarditis, send serial blood cultures
+
+-   Transthoracic echocardiogram with ultrasound contrast
+
+-   Dual energy CT Head within 24 hours (can be as soon as 18, can discuss with fellow/attending)
+
+-   MRI brain (without contrast unless hemorrhage or concern for inflammatory/neoplastic cause)
+
+-   MRA head and neck vs. carotid ultrasound/transcranial dopplers if patient has not had CTA head/neck
+
+**Certain patients (e.g., younger patients) may require TEE, hypercoagulable or vasculitis workup. Discuss with attending before ordering.**
+
+::: callout-important
+**Hypercoagulable panel:**\
+[*Arterial:*]{.underline} anticardiolipin, DRVVT, beta-2 microglobulin\
+[*Venous:*]{.underline} prothrombin gene mutation, Factor V Leiden mutation, Protein C activity, Protein S activity, antithrombin III activity, HIT antibody (in appropriate clinical setting).
+:::
+
+# TIAs
+
+As a general rule of thumb, moderate/high-risk TIA patients should be observed for 24 hours and evaluated expeditiously for high-risk stroke mechanism. If they want to go home, tell them the risk:
+
+::: callout-note
+The **ABCD² score predicts risk of stroke within 2 days of a TIA** (Lancet 369: 282-292, 2007):
+
+1.  Age ≥60 years \[1 point\]
+
+2.  Blood pressure ≥140/90 mm Hg \[1 point\]
+
+3.  Clinical features: unilateral weakness \[2 points\], speech impairment without weakness \[1 point\]
+
+4.  Duration ≥60 min \[2 points\] or 10--59 min \[1 point\]
+
+5.  Diabetes \[1 point\]
+
+[*Score*]{.underline}\
+6--7 = High risk = 8.1% 2-day risk\
+4--5 = Moderate risk = 4.1%\
+0--3 = Low risk = 1.0%
+:::
+
+Patients with TIA or minor stroke symptoms (non-disabling, NIHSS ≤ 3) can be admitted to the Clinical Decision Unit (CDU) -- must be discussed with stroke attending and ED
+
+# Stroke mechanisms
+
+Most common mechanisms of stroke include:
+
+-   **Cardioembolism** (\~20% ischemic stroke): Atrial fibrillation (most common, esp in older adults), CHF/CM with low EF, LV or LAA thrombus, cardiac tumor (myxoma/fibroelastoma), mechanical valve, endocarditis (infectious or marantic \[autoimmune/malignancy\]), paradoxical embolism (PFO, pulm AVM)
+-   **Large-artery atherosclerosis** (\~15%) -- extracranial or intracranial (affects treatment choice)
+-   **Small-vessel disease** (\~25%) -- must be subcortical/brainstem/cerebellum. Small cortical strokes are generally embolic. Lacunar strokes are usually linked to uncontrolled vascular risk factors.
+-   **Rare causes** (\<5%) -- undiagnosed malignancy, vasculitis, mitochondrial metabolism disorders, genetic causes
+-   **Cryptogenic stroke** (\~20-30%) -- no cause found despite thorough workup. If embolic-appearing, may be ESUS (embolic stroke of undetermined source), consider long-term Afib monitoring, no role for empiric AC per ESUS trials to date.
+
+# Stroke in Young
+
+In addition to conventional stroke mechanisms, consider the following for patients \<60 years old:
+
+**Cardiac disease** (including congenital, rheumatic valve disease, mitral valve prolapse, patent foramen ovale, endocarditis, atrial myxoma, arrhythmias, cardiac surgery)
+
+**Large vessel disease**
+
+-   Premature atherosclerosis -- consider radiation vasculopathy in patients with previous head/neck irradiation. Also consider HIV
+-   Dissection (spontaneous or traumatic)
+-   Inherited metabolic diseases (homocystinuria, Fabry's, pseudoxanthoma elasticum, MELAS syndrome)
+-   Fibromuscular dysplasia
+-   Infection (bacterial, fungal, tuberculosis, syphilis, Lyme)
+-   Vasculitis (collagen vascular diseases --- systemic lupus erythematosus, rheumatoid arthritis, Sjögren's syndrome, polyarteritis nodosa; Takayasu's disease, Wegener's syndrome, cryoglobulinemia, sarcoidosis, inflammatory bowel disease, isolated central nervous system angiitis)
+-   Moyamoya disease
+-   Toxic (illicit drugs --- cocaine, heroin, phencyclidine; therapeutic drugs --- L-asparaginase, cytosine arabinoside)
+
+**Small vessel disease**
+
+-   Vasculopathy (infectious, noninfectious, microangiopathy)
+
+**Hematologic disease**
+
+-   Sickle-cell disease, leukemia, thrombocytosis, polycythemia vera
+-   Hypercoagulable states (antiphospholipid antibody syndromes, deficiency of antithrombin III or protein S or C, resistance to activated protein C, increased factor VIII, MTHFR)
+-   DIC, TTP
+-   Venous occlusion (dehydration, parameningeal infection, meningitis, neoplasm, polycythemia, leukemia, inflammatory bowel disease)
