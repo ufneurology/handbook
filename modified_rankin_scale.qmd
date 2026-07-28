@@ -1,6 +1,3 @@
 # Modified Rankin Scale
 
-![](images/modified_rankin_scale_17_img6.png)
-
-![](images/modified_rankin_scale_17_img7.png)
-
+![](images/stroke/mrs.png)

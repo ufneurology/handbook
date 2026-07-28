@@ -29,8 +29,8 @@ Use the search bar or browse by topic below.
 -   [Stroke Admission Orders](stroke_admission_orders.qmd)
 -   [TIA Risk Stratification](tia_risk_stratification.qmd)
 -   [VA Stroke Alert](va_stroke_alert.qmd)
--   [Intracerebral Hemorrhage](intracebral_hemorrhage.qmd)
--   [Blood Pressure Pharmacology](blood_pressure_pharamacology.qmd)
+-   [Intracerebral Hemorrhage](intracerebral_hemorrhage.qmd)
+-   [Blood Pressure Pharmacology](blood_pressure_pharmacology.qmd)
 -   [Anticoagulation Reversal](anticoagulation_reversal.qmd)
 -   [NIHSS and Tools](nihss_and_tools.qmd)
 -   [Modified Rankin Scale](modified_rankin_scale.qmd)
@@ -50,7 +50,7 @@ Use the search bar or browse by topic below.
 -   [Post-Anoxic Status Epilepticus](post_anoxic_status_epilepticus.qmd)
 -   [Brain Death](brain_death.qmd)
 -   [Mechanical Ventilation](mechanical_ventilation.qmd)
--   [Cervical Spine Clearance](cervical_spine_clearance.qmd)
+-   [C-Collar Clearance](cervical_spine_clearance.qmd)
 :::
 
 ## Epilepsy

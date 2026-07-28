@@ -1,47 +1,70 @@
-# Anticoagulation Reversal
+---
+title: "Anticoagulation Reversal"
+format: html
+editor: visual
+---
 
-UF Anticoagulant reversal for intracranial hemorrhage (ICH) and other life threatening bleeding (2020)
+::: panel-tabset
 
-Anticoagulant Reversal Comments Warfarin Vitamin K 10 mg IV over 15-30 min AND Prothrombin Complex Concentrates (PCC, eg. KCentra) 25 units/kg if INR 1.7-4, 35 units/kg if INR 4-6, or 50 u/kg if INR>6)
+## Warfarin
 
-FFP is not recommended with use of PCC unless otherwise indicated Consider FEIBA in patients with a documented heparin allergy as PCCs contain a small amount of heparin
-- 500 units for INR ≤5
-- 1000 units for INR >5 Un- fractionated heparin (UFH)
+**Warfarin**
 
-- 1mg Protamine iv for each 100 units of UFH. Need to consider timing and total amount of UH administered over the last 3 hours in calculation (see next column).
-- Infusion should not exceed 5mg/minute due to risk of anaphylaxis.
-- Maximum single dose of Protamine is 50 mg, but can be repeated
+| Reversal | Comments |
+|----------|----------|
+| Vitamin K 10 mg IV over 15–30 min<br>**AND** Prothrombin Complex Concentrates (PCC)<br><br>• 25 units/kg if INR 1.7–3.9<br>• 35 units/kg if INR 4–6<br>• 50 units/kg if INR >6<br>*Max dose 5000 units* | FFP is **not** recommended with use of PCC unless otherwise indicated<br><br>Use FEIBA in patients with a documented heparin allergy as PCCs contain a small amount of heparin<br>• 500 units for INR ≤5<br>• 1000 units for INR >5 |
 
-Following a single bolus of heparin: a. Immediately: Dose 1mg protamine IV for every 100 units UFH b. 30 min to 1 hour after a bolus: Dose 0.5 mg protamine IV for every 100 units UFH. c. >2 hours after a bolus – Dose 0.25-0.375 mg protamine IV for every 100 units UFH For continuous infusion of heparin: Calculate dose (1 mg protamine per 100 units UFH) for all UFH given within the last hour + one half the dose of heparin given during the preceding hour + one-quarter of the dose of heparin given in the hour prior to that.
+## Unfractionated Heparin
 
-Low molecular weight heparin (LMWH)
+**Unfractionated Heparin**
 
-- 1 mg Protamine IV for each 1mg of Enoxaparin in last 8 hours
-- 1 mg Protamine IV for each 100 units of Dalteparin or Tinazeparin in last 8 hours
-- For either regimen, may consider Factor VIIa 45-90 mcg/kg IV for life threatening intractable bleed** (Round rVIIa dose to vial size)
+| Reversal | Comments |
+|----------|----------|
+| • 1 mg Protamine IV for each 100 units of UFH. Need to consider timing and total amount of UH administered over the last 3 hours in calculation (see next column).<br>• Infusion should not exceed 5 mg/minute due to risk of anaphylaxis.<br>• Maximum single dose of Protamine is 50 mg, but can be repeated | **Following a single bolus of heparin:**<br>a. Immediately: Dose 1 mg protamine IV for every 100 units UFH<br>b. 30 min to 1 hour after a bolus: Dose 0.5 mg protamine IV for every 100 units UFH<br>c. >2 hours after a bolus: Dose 0.25–0.375 mg protamine IV for every 100 units UFH<br><br>**For continuous infusion of heparin:**<br>Calculate dose (1 mg protamine per 100 units UFH) for all UFH given within the last hour + one half the dose of heparin given during the preceding hour + one-quarter of the dose of heparin given in the hour prior to that. |
 
-- Protamine only partially reverses the activity of LMWH.
-- Note differences in dosing between enoxaparin and other LMWHs
-- May administer 0.5 mg protamine for every 1 mg enoxaparin (or 100 units of dalteparin) if LMWH dose administered 8-12 hours prior
-- Round Factor VIIa dose to nearest 1 mg. Factor Xa inhibitors (Rivaroxaban, Apixaban, Edoxaban)
+## LMWH
 
-Note: Andexanet alfa not FDA approved for Edoxaban reversal; requires attending approval to order
+**Low molecular weight Heparin (Enoxaparin, Dalteparin)**
 
-Andexanet alfa:**
-- Low Dose (Rivaroxaban 10 mg or less, Apixaban 5 mg or less) (Xa inhibitor given >8h prior or dose < than 10mg): 400mg bolus at 30mg/min followed by immediate infusion 4mg/min for 120 min (480mg total)
-- High Dose (Rivaroxaban greater than 10 mg, Apixaban greater than 5 mg) (Xa inhibitor given <8h prior or dose >10mg or dose or time unknown): 800mg bolus at 30mg/min followed by immediate infusion 8mg/min for 120 min (960mg total)
+| Reversal | Comments |
+|----------|----------|
+| • 1 mg Protamine IV for each 1 mg of Enoxaparin in last 8 hours<br>• 1 mg Protamine IV for each 100 units of Dalteparin or Tinzaparin in last 8 hours<br>• For either regimen, may consider Factor VIIa 45–90 mcg/kg IV for life-threatening intractable bleed** (Round rVIIa dose to vial size) | • Protamine only partially reverses the activity of LMWH<br>• Note differences in dosing between enoxaparin and other LMWHs<br>• May administer 0.5 mg protamine for every 1 mg enoxaparin (or 100 units of dalteparin) if LMWH dose administered 8–12 hours prior<br>• Round Factor VIIa dose to nearest 1 mg. |
 
-- Send stat anti-Xa level (LMWH).  Recs may alter depending on level
-- Reversal indicated if UFH level >0.6
-- Alternative if andexanet not available: PCC 50 IU/kg iv** or activated charcoal if Xa inhibitor given <8h prior
-- If no response to PCC or heparin allergy: -Factor VIIa 45-90 mcg/kg or FEIBA 50 units/kg may be tried if no response to PCC
-- Note: If anti-Xa level is <0.6 there is likely little anticoagulant effect and ANY “reversal” is not necessary
+## Factor Xa Inhibitors
 
-Dabigatran
-- Activated oral charcoal if ingestion occurred within 2 hours
-- Idarucizumab 5 gm IV once
+**Rivaroxaban, Apixaban, Edoxaban**
 
-- Consider HD, especially if renal impairment
-- If no clinical response to idarucizumab, consider Prothrombin Complex Concentrates (PCC) 50 units/kg** OR FEIBA 50 units/kg may be tried if no clinical response to PCC or documented heparin allergy
-- Note: If thrombin time and aPTT are normal there is likely no anticoagulant effect and “reversal” is not necessary
+| Reversal | Comments |
+|----------|----------|
+| Send STAT UFH (anti-Xa level).<br>If < 0.6, therapeutic anticoagulation is not likely; consider no reversal.<br>If > 0.6: PCC 50 IU/kg IV<br><br>**Do not recheck UFH level after administration of PCC as value will not change and is not indicative of clinical hemostasis.<br>Do not check UFH for edoxaban.** | Do not redose PCC unless clinical failure.<br>Alternative if documented heparin allergy (i.e., cannot receive PCC): Factor VIIa 45–90 mcg/kg (round to nearest 1 mg) or FEIBA 50 units/kg<br><br>**Note: Andexanet alfa did not receive full FDA approval and has been removed from the UF formulary** |
 
+## Dabigatran
+
+**Dabigatran**
+
+| Reversal | Comments |
+|----------|----------|
+| Note: If thrombin time and aPTT are normal there is likely no anticoagulant effect and “reversal” is not necessary<br><br>• Activated oral charcoal if ingestion occurred within 2 hours<br>• Idarucizumab 5 gm IV once | • Consider HD, especially if renal impairment<br>• If no clinical response to idarucizumab, consider Prothrombin Complex Concentrates (PCC) 50 units/kg**<br>OR<br>FEIBA 50 units/kg may be tried if no clinical response to PCC or documented heparin allergy<br>• Note: If thrombin time and aPTT are normal there is likely no anticoagulant effect and “reversal” is not necessary |
+
+## TNK
+
+**Tenecteplase**
+
+| Reversal | Comments |
+|----------|----------|
+| Cryoprecipitate 10 units IV **PLUS**<br>Tranexamic acid 1 gm IV once<br>Obtain TEG and fibrinogen level 2 hr after reversal to assess need for further therapy | If bleeding is refractory or life threatening consider aminocaproic acid 0.1 g/kg bolus in addition to cryoprecipitate and tranexamic acid |
+
+## Antiplatelets
+
+**Antiplatelets**
+
+| Agent | Reversal | Comments |
+|-------|----------|----------|
+| **Enteric-Coated Aspirin** | Best supportive care (based on PATCH trial)<br>or 1 unit single donor platelet **if a surgical procedure is scheduled or bleeding is refractory** (*d/w stroke attg) | Can consider repeat 1 single donor unit if PFA-100 (orderable in EPIC) is not normalized.<br>Consider DDAVP 0.3 mcg/kg or rVIIa 45–90 mcg/kg (round to nearest 1 mg) if refractory bleeding |
+| **Clopidogrel (Plavix®)** | Best supportive care (based on PATCH trial)<br>or 2 units of single donor platelets **if a surgical procedure is scheduled or bleeding is refractory** (*d/w stroke attg) | Consider repeating 2 units Q12 hours until the PFA-100 and Verify Now (Plavix inhibition <20% or PRU over 240) assays are normal. Both tests are orderable in EPIC. Consider DDAVP iv or rVIIa IV if refractory bleeding |
+
+:::
+
+::: callout-note
+Per P&T committee guidelines adult **hematology consult required for approval of Factor VIIa / rVIIa.**
+:::
