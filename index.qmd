@@ -1,11 +1,15 @@
 ---
-title: "UF Neurology Living Handbook"
+title: "UF Neurology Living Hanbook"
 page-layout: full
 toc: false
 ---
 
 ::: {.hero}
-A practical reference for neurology residents.
+
+A practical index for neurology residents.
+
+Use the search bar or browse by topic below.
+
 :::
 
 ## Neurological Examination

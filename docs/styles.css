@@ -1,44 +1,453 @@
-/* css styles */
+/* ============================================================
+   UF Neurology Living Handbook
+   Utopian Scholastic Theme
+   ============================================================
+   Aesthetic: calm academic idealism — the quiet order of a
+   well-kept library, the clarity of a finely printed atlas,
+   the curiosity of a classic scientific plate.
+   Inspired by detailed natural-history illustration, cutaway
+   diagrams, and the measured typography of scholarly books.
+   ============================================================ */
+
+/* ---------- Web fonts (loaded when the site is rendered) ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Inter:wght@400;500;600&display=swap');
+
+/* ---------- Root palette ---------- */
+:root {
+  /* Paper & ink */
+  --schol-paper:        #f8f4ec;          /* warm ivory */
+  --schol-paper-deep:   #f0e9db;          /* slightly deeper cream */
+  --schol-ink:          #1c2a36;          /* deep charcoal-blue ink */
+  --schol-ink-soft:     #3a4a58;          /* secondary text */
+  --schol-muted:        #6b7a88;          /* captions, meta */
+
+  /* Accents */
+  --schol-navy:         #1a3a5c;          /* primary scholarly blue */
+  --schol-navy-light:   #2a5a8a;
+  --schol-gold:         #9c7a4a;          /* muted brass / ochre */
+  --schol-gold-soft:    #c4a574;
+  --schol-teal:         #3d6b6b;          /* quiet teal for secondary */
+  --schol-sage:         #5a6b55;          /* soft botanical green */
+
+  /* Surfaces */
+  --schol-rule:         #d4c9b5;          /* thin horizontal rules */
+  --schol-border:       #e0d6c4;
+  --schol-card:         #fffcf6;
+  --schol-code-bg:      #f3eee3;
+
+  /* Callout tints */
+  --callout-note:       #e8f0f4;
+  --callout-tip:        #e9f0e6;
+  --callout-warning:    #f7efe3;
+  --callout-important:  #f0e8e4;
+}
+
+/* ---------- Base ---------- */
+html {
+  font-size: 17px;                        /* comfortable reading size */
+}
+
+body {
+  font-family: "Source Serif 4", "Georgia", "Times New Roman", serif;
+  color: var(--schol-ink);
+  background-color: var(--schol-paper);
+  line-height: 1.65;
+  letter-spacing: 0.01em;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ---------- Headings ---------- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Cormorant Garamond", "Georgia", serif;
+  color: var(--schol-navy);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  line-height: 1.25;
+  margin-top: 1.8em;
+  margin-bottom: 0.55em;
+}
+
+h1 {
+  font-size: 2.35rem;
+  font-weight: 700;
+  border-bottom: 1px solid var(--schol-rule);
+  padding-bottom: 0.35em;
+  margin-top: 0.4em;
+}
+
+h2 {
+  font-size: 1.75rem;
+  border-bottom: 1px solid var(--schol-rule);
+  padding-bottom: 0.25em;
+}
+
+h3 {
+  font-size: 1.35rem;
+  color: var(--schol-navy-light);
+}
+
+h4 {
+  font-size: 1.15rem;
+  font-style: italic;
+  color: var(--schol-ink-soft);
+}
+
+/* ---------- Links ---------- */
+a {
+  color: var(--schol-navy-light);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+a:hover {
+  color: var(--schol-gold);
+  border-bottom-color: var(--schol-gold-soft);
+}
+
+/* ---------- Paragraphs & lists ---------- */
+p {
+  margin-bottom: 1.05em;
+  max-width: 68ch;                        /* classic measure */
+}
+
+li {
+  margin-bottom: 0.35em;
+}
+
+ul, ol {
+  padding-left: 1.4em;
+}
+
+/* Nested lists feel more scholarly */
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0.25em;
+  margin-bottom: 0.4em;
+}
+
+/* ---------- Strong / emphasis ---------- */
+strong, b {
+  font-weight: 600;
+  color: var(--schol-ink);
+}
+
+em, i {
+  font-style: italic;
+}
+
+/* ---------- Horizontal rules ---------- */
+hr {
+  border: none;
+  border-top: 1px solid var(--schol-rule);
+  margin: 2.2em 0;
+}
+
+/* ---------- Code & pre ---------- */
+code {
+  font-family: "Inter", "SF Mono", "Menlo", "Consolas", monospace;
+  font-size: 0.88em;
+  background: var(--schol-code-bg);
+  color: var(--schol-ink);
+  padding: 0.12em 0.35em;
+  border-radius: 3px;
+  border: 1px solid var(--schol-border);
+}
+
+pre {
+  background: var(--schol-code-bg) !important;
+  border: 1px solid var(--schol-border) !important;
+  border-radius: 4px;
+  padding: 1em 1.2em !important;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+pre code {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+/* ---------- Tables (classic scientific plate style) ---------- */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.6em 0;
+  font-size: 0.95em;
+  background: var(--schol-card);
+  border: 1px solid var(--schol-border);
+}
+
+thead th {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.05em;
+  background: var(--schol-paper-deep);
+  color: var(--schol-navy);
+  border-bottom: 2px solid var(--schol-navy);
+  padding: 0.65em 0.9em;
+  text-align: left;
+  letter-spacing: 0.02em;
+}
+
+tbody td {
+  padding: 0.55em 0.9em;
+  border-bottom: 1px solid var(--schol-border);
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) {
+  background: #faf7f0;
+}
+
+tbody tr:hover {
+  background: #f3eee3;
+}
+
+/* ---------- Blockquotes ---------- */
+blockquote {
+  border-left: 3px solid var(--schol-gold);
+  margin: 1.5em 0;
+  padding: 0.4em 0 0.4em 1.3em;
+  color: var(--schol-ink-soft);
+  font-style: italic;
+  background: transparent;
+}
+
+/* ---------- Callouts (textbook marginalia feel) ---------- */
+div.callout {
+  border-radius: 3px;
+  border: 1px solid var(--schol-border);
+  background: var(--schol-card);
+  margin: 1.6em 0;
+  box-shadow: 0 1px 2px rgba(28, 42, 54, 0.04);
+}
+
+div.callout-note {
+  border-left: 4px solid var(--schol-navy);
+  background: var(--callout-note);
+}
+
+div.callout-tip {
+  border-left: 4px solid var(--schol-sage);
+  background: var(--callout-tip);
+}
+
+div.callout-warning {
+  border-left: 4px solid var(--schol-gold);
+  background: var(--callout-warning);
+}
+
+div.callout-important,
+div.callout-caution {
+  border-left: 4px solid #8a4a3a;
+  background: var(--callout-important);
+}
+
+div.callout .callout-header {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.05em;
+  color: var(--schol-navy);
+  letter-spacing: 0.02em;
+}
+
+div.callout .callout-body {
+  font-size: 0.97em;
+}
+
+/* ---------- Navbar (formal, restrained) ---------- */
+.navbar {
+  background-color: var(--schol-navy) !important;
+  border-bottom: 3px solid var(--schol-gold);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  font-family: "Cormorant Garamond", Georgia, serif !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.03em;
+  color: #f5f0e6 !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: var(--schol-gold-soft) !important;
+}
+
+.navbar .dropdown-menu {
+  background-color: var(--schol-card);
+  border: 1px solid var(--schol-border);
+  box-shadow: 0 4px 12px rgba(28,42,54,0.08);
+  border-radius: 3px;
+}
+
+.navbar .dropdown-item {
+  font-family: "Source Serif 4", Georgia, serif;
+  color: var(--schol-ink);
+  font-size: 0.95rem;
+}
+
+.navbar .dropdown-item:hover {
+  background-color: var(--schol-paper-deep);
+  color: var(--schol-navy);
+}
+
+/* ---------- Sidebar / TOC ---------- */
+#TOC, .sidebar nav[role="doc-toc"] {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.88rem;
+}
+
+.sidebar nav[role="doc-toc"] ul a {
+  color: var(--schol-ink-soft);
+}
+
+.sidebar nav[role="doc-toc"] ul a:hover,
+.sidebar nav[role="doc-toc"] ul a.active {
+  color: var(--schol-navy);
+}
+
+/* ---------- Hero / index specials ---------- */
 .hero {
-  border: 1px solid 	#002657;
-  border-radius: 16px;
-  padding: 1.5rem;
-  margin-bottom: 2rem;
-  background: #C7C9C8;
+  background: linear-gradient(160deg, var(--schol-paper-deep) 0%, var(--schol-paper) 100%);
+  border: 1px solid var(--schol-border);
+  border-left: 5px solid var(--schol-navy);
+  padding: 1.6em 1.8em;
+  margin-bottom: 2.2em;
+  border-radius: 2px;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.25rem;
+  color: var(--schol-ink-soft);
+  line-height: 1.5;
 }
 
-.hero h1 {
-  margin-top: 0;
-}
-
+/* Index list styling – clean academic catalogue feel */
 .index-list {
-  column-count: 2;
-  column-gap: 3rem;
-  margin-bottom: 1.5rem;
+  columns: 1;
+  margin: 0.8em 0 1.8em 0;
+}
+
+.index-list ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
 }
 
 .index-list li {
-  break-inside: avoid;
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.45em;
+  padding-left: 0;
 }
 
-@media (max-width: 768px) {
-  .index-list {
-    column-count: 1;
+.index-list a {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1.05rem;
+  color: var(--schol-navy);
+  border-bottom: 1px solid transparent;
+}
+
+.index-list a:hover {
+  color: var(--schol-gold);
+  border-bottom-color: var(--schol-gold-soft);
+}
+
+/* Section headers on index */
+main h2 {
+  margin-top: 2.2em;
+}
+
+/* ---------- Images ---------- */
+img {
+  border-radius: 2px;
+  max-width: 100%;
+  height: auto;
+}
+
+figure {
+  margin: 1.8em 0;
+}
+
+figcaption {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.85rem;
+  color: var(--schol-muted);
+  text-align: center;
+  margin-top: 0.5em;
+  font-style: italic;
+}
+
+/* ---------- Footer ---------- */
+.nav-footer {
+  background-color: var(--schol-navy) !important;
+  color: #d4c9b5 !important;
+  border-top: 3px solid var(--schol-gold);
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.85rem;
+}
+
+.nav-footer a {
+  color: var(--schol-gold-soft) !important;
+}
+
+.nav-footer a:hover {
+  color: #f5f0e6 !important;
+}
+
+/* ---------- Page title / header ---------- */
+.quarto-title-block .title {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  color: var(--schol-navy);
+  font-weight: 700;
+}
+
+/* ---------- Misc refinements ---------- */
+.page-columns .content {
+  max-width: 52rem;                       /* comfortable measure for long medical text */
+}
+
+/* Subtle selection color */
+::selection {
+  background: #dce8f0;
+  color: var(--schol-ink);
+}
+
+/* Scrollbar (webkit) – restrained */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--schol-paper-deep);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--schol-rule);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--schol-gold-soft);
+}
+
+/* ---------- Print-friendly (scholastic paper) ---------- */
+@media print {
+  body {
+    background: white;
+    color: black;
+    font-size: 11pt;
   }
-}
-
-.hero {
-  background: lightgrey          /* UF Blue */
-  color: white;
-  padding: 2rem 2.2rem;
-  border-radius: 12px;
-  margin-bottom: 2.5rem;
-  border-left: 6px solid #0021A5; /* UF Orange accent */
-}
-
-.hero h3 {
-  color: black;
-  margin-top: 0;
-  font-weight: 600;
+  .navbar, .sidebar, .nav-footer {
+    display: none !important;
+  }
+  a {
+    color: black;
+    text-decoration: underline;
+  }
+  h1, h2, h3 {
+    color: black;
+    page-break-after: avoid;
+  }
 }
