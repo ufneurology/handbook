@@ -72,7 +72,8 @@ Use the search bar or browse by topic below.
 
 ::: index-list
 -   [Multiple Sclerosis](multiple_sclerosis.qmd)
--   [Optic Neuritis and Transverse Myelitis](optic_neuritis_and_transverse_myelitis.qmd)
+-   [Optic Neuritis](optic_neuritis.qmd)
+-   [Transverse Myelitis](transverse_myelitis.qmd)
 -   [Autoimmune Encephalopathy](autoimmune_encephalopathy.qmd)
 -   [Neuroinfectious Disease](neuroinfectious_disease.qmd)
 :::

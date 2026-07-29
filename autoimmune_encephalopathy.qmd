@@ -1,75 +1,115 @@
 ---
-title: "Autoimmune Encephalopathy"
-category: "Neuroimmunology"
-section_id: "autoimmune-encephalopathy"
-last_updated: "2026-07-01"
-source: "UF Neurology Resident Handbook 2026-2027"
+title: "Autoimmune Encephalitis"
+format: html
+editor: visual
 ---
 
-# Autoimmune Encephalopathy
+## Initial Work-up
 
-**AUTOIMMUNE ENCEPHALITIS **
+-   Order **MRI brain with contrast**
+-   CSF: basic studies, OCB, cytokine panel, flow cytometry, cytology, infectious PCR
+-   If suspicious for HSV → send **two** tests and treat empirically with acyclovir until both tests are negative
 
-Order MRI brain with contrast. CSF with basic studies, OCB, cytokine panel, flow cytometry, cytology, infectious PCR. If suspicious for HSV, send two tests and treat empirically until tests are negative
+## Does it meet Graus criteria for autoimmune encephalitis?
 
-Does it meet Graus criteria for autoimmune encephalitis?
+1.  Subacute onset (\< 3 months) of memory deficits, altered mental status, or psychiatric symptoms
 
-1. Subacute onset (<3 months) of memory deficits, altered mental status, or psychiatric symptoms;
+2. One or more of the following:
 
-2. one or more of: a. new focal CNS deficits, b. unexplained seizures, c. CSF pleocytosis, or d. MRI findings suggestive of encephalitis
+    -   New focal CNS deficits
 
-3. reasonable exclusion of alternative disorders.
+    -   Unexplained seizures
 
-Serum or CSF? Short answer: both
+    -   CSF pleocytosis
 
-Which panel to choose?
+    -   MRI findings suggestive of encephalitis
 
-When in doubt choose the MDC2 and MDS2 as it is the most complete of panels. It has the same antibodies as the ENS2/ENC2 + Kelch 11. Kelch 11 although many times presents as a brainstem syndrome, it can present with limbic encephalitis, so it is best to send all antibodies.
+    AND Reasonable exclusion of alternative disorders
 
-Is that enough? NO
+## Serum or CSF?
 
-**Ma2** can also present with **limbic encephalitis,** and it is NOT on ANY panel, it has to be ordered separately, it can be ordered via Mayo, Quest or Athena
+**Short answer: both.**
 
-MOGAD can also present as ADEM, CCE or undifferentiated meningoencephalitis and IT IS NOT in the MDC2/MDS2 or the ENC2/ENS2 so in addition to that, you should ALSO order CDS1 (to test for MOG-IgG).
+### Which panel to choose?
 
-**If you have a diencephalic****, brainstem, or cerebellar**** syndrome:**
+-   When in doubt, order **MDC2 and MDS2** --- these are the most complete panels.\
+    They contain the same antibodies as ENS2/ENC2 **plus Kelch-11**.\
+    (Kelch-11 often presents as a brainstem syndrome but can also cause limbic encephalitis, so it is best to send all antibodies.)
 
-Order MDC2/MDS2 + CDS1 + Ma2 ( has to be ordered separately)
+::: callout-important
+**Is that enough? NO.**
 
-**ENC2/ENS2 is not enough for above syndromes. You HAVE to order MDS2/MDC2 since if you do not, you would be missing many antibodies not tested in the encephalopathy panel.
+-   **Ma2** can present with limbic encephalitis and is **not** on any panel. It must be ordered separately (Mayo, Quest, or Athena).
+-   **MOGAD** can present as ADEM, cortical encephalitis, or undifferentiated meningoencephalitis and is **not** included in MDC2/MDS2 or ENC2/ENS2.\
+    → Always add **CDS1** (to test for MOG-IgG).
+:::
 
-*See **Mayo** anatomical map **in team rooms **to guide you on which antibodies cause different syndromes: *
+### If diencephalic, brainstem, or cerebellar syndrome
 
-Things to know about antibodies:
+Order:
 
-GAD 65, very commonly false positive. It must be >20 nmol/L to be clinically significant. 0.03 to <20 nmol/L is false positive. If the titer is in UI then the number is 10000
+-   **MDC2 / MDS2**
+-   **CDS1**
+-   **Ma2** (must be ordered separately)
 
-Low titer MOGAD 1:20 -1:40 not meeting Banwell criteria is a false positive. ( If it looks like MS, then it is MS)
+::: callout-warning
+**ENC2 / ENS2 alone is not enough** for these syndromes.\
+You **must** order MDS2/MDC2; otherwise you will miss many antibodies not tested on the encephalopathy panel.
+:::
 
-NMDA + in serum but negative on CSF. Rethink to see if they truly have the syndrome
+*See the Mayo anatomical map in the team rooms to guide which antibodies cause different syndromes.*
 
-Which antbodies are better in serum? AQP4, MOG, CASPR2, LGI-1 myasthenia antibodies
+## Things to Know About Antibodies
 
-Which antibodies are better in CSF? NMDA, GFAP
+-   **GAD65** --- very commonly false positive.\
+    Must be **\> 20 nmol/L** to be clinically significant.\
+    Values 0.03 -- \< 20 nmol/L are false positive.\
+    (If reported in IU, the significant threshold is 10 000.)
 
-Treatment of autoimmune encephalitis:
+-   **Low-titer MOGAD** (1:20 -- 1:40) that does **not** meet Banwell criteria is usually a false positive.\
+    If it looks like MS → it is MS.
 
-If high suspicion (meeting criteria), treat with IVMP+PLEX, give rituximab 1g once after PLEX.
+-   **NMDA+ in serum but negative in CSF** → rethink whether the patient truly has the syndrome.
 
-CT CAP and testicular/ovarian US
+### Preferred specimen by antibody
 
-Remember
+| Better in **Serum**                      | Better in **CSF** |
+|------------------------------------------|-------------------|
+| AQP4, MOG, CASPR2, LGI-1, Myasthenia Abs | NMDA, GFAP        |
 
-NMDA and AMPA: psychiatric symptoms and limbic encephalitis
+## Treatment of Autoimmune Encephalitis
 
-PCA-1 or Anti-yo: Cerebellar degeneration and ovarian cancer
+If high suspicion (meets criteria):
 
-LGI-1: Faciobrachiodystonic seizures/ hyponatremias
+-   Treat with **IVMP + PLEX**
+-   Give **rituximab 1 g once** after PLEX
+-   Obtain **CT CAP** + testicular / ovarian ultrasound
 
-LGI-1/CASPR2/GABAb: seizures, usually temporal lobe, rapidly progressive dementia
+## Quick Antibody Associations
 
-GAD 65: refractory epilepsy, cerebellar ataxia, autoimmune encephalitis, SPS
+-   **NMDA & AMPA** → psychiatric symptoms + limbic encephalitis
+-   **PCA-1 / Anti-Yo** → cerebellar degeneration + ovarian cancer
+-   **LGI-1** → faciobrachial dystonic seizures / hyponatremia
+-   **LGI-1 / CASPR2 / GABAb** → seizures (usually temporal lobe), rapidly progressive dementia
+-   **GAD65** → refractory epilepsy, cerebellar ataxia, autoimmune encephalitis, stiff-person syndrome
+-   **ANNA-1 / Anti-Hu** → can cause almost anything, including a neuronopathy with complete sensory loss
 
-ANNA-1/Anti-Hu: Can cause **everything** including a neuronopathy with complete sensory loss
+## Neurosarcoidosis
 
-**FOR NEUROSARCOIDOSIS: **It can present as parenchymal, leptomeningitis, pachymeningitis, “meningiomas”  diencephalic presentation, pituitary and sellar involvement, myelitis  (trident sign, pial enhancement). Get CT CAP, obtain something to biopsy if possible. After biopsy treat empirically with steroids IVMP 1g x3-5 days (can be oral) plus prolonged steroid taper. If has diagnosis inpatient can consider starting infliximab inpatient.
+Can present as:
+
+-   Parenchymal lesions
+-   Leptomeningitis / pachymeningitis
+-   "Meningioma-like" lesions
+-   Diencephalic presentation
+-   Pituitary / sellar involvement
+-   Myelitis (trident sign, pial enhancement)
+
+**Work-up / Treatment**
+
+-   Get **CT CAP**
+-   Obtain tissue for biopsy if possible
+-   After biopsy (or empirically if high suspicion): **IVMP 1 g × 3--5 days** (or oral equivalent) + prolonged steroid taper
+-   If diagnosis is confirmed while inpatient → consider starting **infliximab**
+
+![](images/neuroimmunology/autoimmune_encephalitis.jpg){fig-align="center"}

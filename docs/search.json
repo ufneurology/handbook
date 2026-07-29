@@ -100,9 +100,9 @@
   {
     "objectID": "autoimmune_encephalopathy.html",
     "href": "autoimmune_encephalopathy.html",
-    "title": "Autoimmune Encephalopathy",
+    "title": "Autoimmune Encephalitis",
     "section": "",
-    "text": "1 Autoimmune Encephalopathy\nAUTOIMMUNE ENCEPHALITIS \nOrder MRI brain with contrast. CSF with basic studies, OCB, cytokine panel, flow cytometry, cytology, infectious PCR. If suspicious for HSV, send two tests and treat empirically until tests are negative\nDoes it meet Graus criteria for autoimmune encephalitis?\n\nSubacute onset (&lt;3 months) of memory deficits, altered mental status, or psychiatric symptoms;\none or more of: a. new focal CNS deficits, b. unexplained seizures, c. CSF pleocytosis, or d. MRI findings suggestive of encephalitis\nreasonable exclusion of alternative disorders.\n\nSerum or CSF? Short answer: both\nWhich panel to choose?\nWhen in doubt choose the MDC2 and MDS2 as it is the most complete of panels. It has the same antibodies as the ENS2/ENC2 + Kelch 11. Kelch 11 although many times presents as a brainstem syndrome, it can present with limbic encephalitis, so it is best to send all antibodies.\nIs that enough? NO\nMa2 can also present with limbic encephalitis, and it is NOT on ANY panel, it has to be ordered separately, it can be ordered via Mayo, Quest or Athena\nMOGAD can also present as ADEM, CCE or undifferentiated meningoencephalitis and IT IS NOT in the MDC2/MDS2 or the ENC2/ENS2 so in addition to that, you should ALSO order CDS1 (to test for MOG-IgG).\nIf you have a diencephalic, brainstem, or cerebellar** syndrome:**\nOrder MDC2/MDS2 + CDS1 + Ma2 ( has to be ordered separately)\n**ENC2/ENS2 is not enough for above syndromes. You HAVE to order MDS2/MDC2 since if you do not, you would be missing many antibodies not tested in the encephalopathy panel.\nSee Mayo anatomical map in team rooms to guide you on which antibodies cause different syndromes: \nThings to know about antibodies:\nGAD 65, very commonly false positive. It must be &gt;20 nmol/L to be clinically significant. 0.03 to &lt;20 nmol/L is false positive. If the titer is in UI then the number is 10000\nLow titer MOGAD 1:20 -1:40 not meeting Banwell criteria is a false positive. ( If it looks like MS, then it is MS)\nNMDA + in serum but negative on CSF. Rethink to see if they truly have the syndrome\nWhich antbodies are better in serum? AQP4, MOG, CASPR2, LGI-1 myasthenia antibodies\nWhich antibodies are better in CSF? NMDA, GFAP\nTreatment of autoimmune encephalitis:\nIf high suspicion (meeting criteria), treat with IVMP+PLEX, give rituximab 1g once after PLEX.\nCT CAP and testicular/ovarian US\nRemember\nNMDA and AMPA: psychiatric symptoms and limbic encephalitis\nPCA-1 or Anti-yo: Cerebellar degeneration and ovarian cancer\nLGI-1: Faciobrachiodystonic seizures/ hyponatremias\nLGI-1/CASPR2/GABAb: seizures, usually temporal lobe, rapidly progressive dementia\nGAD 65: refractory epilepsy, cerebellar ataxia, autoimmune encephalitis, SPS\nANNA-1/Anti-Hu: Can cause everything including a neuronopathy with complete sensory loss\nFOR NEUROSARCOIDOSIS: It can present as parenchymal, leptomeningitis, pachymeningitis, “meningiomas” diencephalic presentation, pituitary and sellar involvement, myelitis (trident sign, pial enhancement). Get CT CAP, obtain something to biopsy if possible. After biopsy treat empirically with steroids IVMP 1g x3-5 days (can be oral) plus prolonged steroid taper. If has diagnosis inpatient can consider starting infliximab inpatient."
+    "text": "Order MRI brain with contrast\nCSF: basic studies, OCB, cytokine panel, flow cytometry, cytology, infectious PCR\nIf suspicious for HSV → send two tests and treat empirically with acyclovir until both tests are negative"
   },
   {
     "objectID": "blood_pressure_pharmacology.html",
@@ -508,7 +508,7 @@
     "href": "index.html#neuroimmunology",
     "title": "UF Neurology Living Handbook",
     "section": "6 Neuroimmunology",
-    "text": "6 Neuroimmunology\n\n\nMultiple Sclerosis\nOptic Neuritis and Transverse Myelitis\nAutoimmune Encephalopathy\nNeuroinfectious Disease"
+    "text": "6 Neuroimmunology\n\n\nMultiple Sclerosis\nOptic Neuritis\nTransverse Myelitis\nAutoimmune Encephalopathy\nNeuroinfectious Disease"
   },
   {
     "objectID": "index.html#neurotology",
@@ -744,9 +744,9 @@
   {
     "objectID": "multiple_sclerosis.html",
     "href": "multiple_sclerosis.html",
-    "title": "1 Multiple Sclerosis",
+    "title": "Multiple Sclerosis (Flare)",
     "section": "",
-    "text": "1 Multiple Sclerosis\nMS EXACERBATION (FLARE)\nEpi: expect 1-2 flares in untreated RRMS patient per year (75% will have at least 1 flare)\nPresentation: Relapse: patient-reported or objectively observed events typical of an acute inflammatory demyelinating event in the CNS current or historical, with duration of at least 24 hours, in the absence of fever or infection. Consider: vision loss with painful eye movements (optic neuritis), trigeminal neuralgia, focal weakness, focal numbness, ataxia, parasthesias, incontinence, falls, fatigue. KEY WORDS: NEW or WORSE; 24 hours or more; Symptom MUST be associated with FINDING on exam Pseudorelapse: acute worsening of symptoms that is typically associated with an increase in body temperature, which can be due to infection, exercise, or heat exposure.\nHISTORY: - Current symptoms (onset, duration, progression) - Past neurologic symptoms (if MS suspected) - Recent signs of infection (fever, chills, URI symptoms, dysuria) - If patient has known MS, have they ever had these exact symptoms before? This may suggest recrudescence due to systemic issue, such as an infection - Pregnancy If known MS, MS history: - When, where, and how they were diagnosed - Type of MS (RRMS, PPMS, SPMS, NMO) - Medication history and compliance, if on Tysabri, Gilenya or Tecfidera: LAST JCV TEST result - Last exacerbation, last round of steroids - If on Tysabri, date of last infusion. Watch out for Tysabri discontinuation rebound (usually around 3 months from last infusion) - Baseline deficits EXAM: Full physical and neurologic exam with specific attention to APD, optic nerve pallor, INO, Lhermitte’s sign, spasticity, and hyper-reflexia\nWorkup +/- Admission + Treatment: 1) Rule out infection with UA/Ucx & CXR if indicated. If positive, may represent a “pseudoexacerbation” - treat the infection first and see if flare resolves. Patient may also warrant admission to medical service. 2) Rule out Uhtoff’s phenomenon (unmasking of old flare symptoms due to increased body temperature) - may not warrant acute steroid administration. 3) Consider admission based on following criteria – “can’t see” (optic neuritis), “can’t pee” (myelitis, neurogenic bladder), “can’t eat/swallow,” “can’t walk,” or “can’t take care of family.” If not admitted, can arrange outpatient infusion center IV steroids. Should also admit for first-time receiving IV steroids to monitor for paradoxical (psychiatric) reaction. 4) Start IV Solumedrol 1 g/d x 3-5 days. No need for oral taper if 5 days or less. 5) Prevent steroid side effects with GI prophylaxis (ranitidine 150 bid), finger stick glucose checks/sliding scale insulin, diabetic diet, and mental status checks. Consider a sleep aid. 6) Order PT/OT/Rehab service consults immediately if patient is unable to care for self at home on admission. 7) Continue outpatient symptomatic medications, such as muscle relaxants, SSRIs, stimulants, anticonvulsants, antipsychotics, amantadine, etc. Immunomodulating therapies (Interferons, Glatiramer acetate, Gilenya, Tecfidera, Aubagio) can be continued using home supply.\nEvidence for treatment in acute MS exacerbations - IV steroids may expedite the timing of recovery from a flare - IV steroids will not increase the degree of recovery or the course of disease - High-dose oral steroids may also expedite recovery, but IV treatment remains standard - Alternatives to failed IV steroids include IVIG and plasma exchange\nIf suspected new diagnosis: - A full differential needs to be considered. Work-up: MRI brain and spine w/wo contrast, ACE (sarcoidosis), Lyme disease, anti-NMO Ab, RPR/VDRL, vasculitis and autoimmune panel, and lumbar puncture. CSF should be evaluated for CSF for basic studies and oligoclonal bands, myelin basic protein, IgG index, Lyme, ACE."
+    "text": "Expect 1–2 flares in untreated RRMS patient per year (75% will have at least 1 flare).\nIf they are on high-efficacy drugs the true relapse should be close to 0."
   },
   {
     "objectID": "myasthenia_gravis.html",
@@ -814,9 +814,9 @@
   {
     "objectID": "neuroinfectious_disease.html",
     "href": "neuroinfectious_disease.html",
-    "title": "1 Neuroinfectious Disease",
+    "title": "Neuroinfectious Diseases",
     "section": "",
-    "text": "1 Neuroinfectious Disease\nS\nMENINGITIS vs. ENCEPHALITIS (start treatment empirically, don’t wait for LP…): Meningitis Encephalitis\nS/S: HA, photo/phono/meningismus, N/V, fever, malaise, irritability S/S: similar to meningitis, plus acute confusion, personality changes, seizures\nBugs: Viral: echo, coxsackie, mumps, HSV-2, adeno Bacterial: by age… &lt;1m: GBS, E.coli, Listeria (“hear bells”) 1-23m: S.pneumo, N.mening, H.flu, E.coli 2-50y: N.mening, S.pneumo 50+y: S.pneumo, N.mening, Listeria, GNR\nBugs: HSV-1 (#1), arbo (SLE, LAC, EEE, WEE), WNV, VZV, legionella\nW/U: HCT \u001f LP (routine, HSV PCR, t/c crypto/TB/AFB/viral studies) W/U: HCT \u001f if no abscess \u001f LP (routine, HSV PCR, t/c viral/toxo) \u001f t/c MRI and EEG Treatment: empirically… Viral: supportive (if high suspicion for HSV, start acyclovir 10 mg/kg IV q8) Bacterial: &lt;1m cefotax/ceftriax + ampicillin 1-23m cefotax or ceftriax + vanco 2-50y ceftriax + vanco 50+y ceftriax + vanco+ ampicillin Fungal: amphoB + flucytosine + fluconazole TB: rifampin+INH+pyrazinamide+ethambutol, +/- streptomycin (“RIPES”) * if trauma: use cefepime or meropenem * Dexamethasone 10 mg IV q6h x 4 days was shown to be beneficial in subgroups with pneumococcal meningitis, 1st dose 20 min before abx.\nTreatment: by bug… HSV/VZV: acyclovir 10 mg/kg IV q8 x 14+d CMV: ganciclovir or foscarnet Legionella: azithro, quinolone, tatracyclines\nPrognosis: - aseptic/viral: most improve over 2 weeks - bacterial: 20% mortality (S. pneumo worst)\nPrognosis: HSV& EEE = 70% die untreated, 25% treated Others = 5-20% mortality rate\nTunkel AR et. al. Practice guidelines for the management of bacterial meningitis. Clin Infect Dis 2004 Nov 1;39(9):1267-84. de Gans et. Al. Dexamethasone in adults with bacterial meningitis. NEJM, 2002; 347(20): 1549-56.\nSerum Studies 1. Viruses: Measure IgM and IgG antibodies acute and convalescent (4 fold rise in IgG): St. Louis, West Nile, Eastern and Western Equine, Japanese encephalitis, Dengue fever EBV (VCA IgM and IgG and EBNA), VZV, HSV-1 (IgM), Rabies, HIV (RNA can be checked early when viral load high but ELISA weakly positive or negative) 2. Tick-borne bacteria: IgG & IgM by indirect immunofluorescence for RMSF, Lyme ELISA- confirmatory Western blot, Ehrlichia antibodies by indirect fluorescent antibody 3. Parasites: Toxoplasma gondii - No IgG or IgM Abs does not exclude toxoplasma encephalitis in AIDS patients - If +ve in HIV patient, tx with pyrimethamine/sulfadiazine and folinic acid. (Incidence reduced among people receiving prophylaxis with sulfadiazine or dapsone and pyrimethamine against Pneumocystis jiroveci pneumonia) b) If toxoplasma serology negative, check CSF EBV pcr and consider brain biopsy of any accessible mass lesion for lymphoma Taenia solium (cysticercosis): ELISA, but 50% with solitary lesions will be seronegative"
+    "text": "Meningitis\nEncephalitis\n\n\n\n\nSymptoms / Signs\nHA, photophobia / phonophobia, meningismus, N/V, fever, malaise, irritability\nSimilar to meningitis plus acute confusion, personality changes, seizures\n\n\nCommon Bugs\nViral: echo, coxsackie, mumps, HSV-2, adenovirusBacterial by age:• &lt;1 mo: GBS, E. coli, Listeria (“hear bells”)• 1–23 mo: S. pneumo, N. mening, H. flu, E. coli• 2–50 y: N. mening, S. pneumo• ≥50 y: S. pneumo, N. mening, Listeria, GNR\nHSV-1 (#1), arboviruses (SLE, LAC, EEE, WEE), WNV, VZV, Legionella\n\n\nWork-up\nHCT → LP (routine, HSV PCR, ± crypto / TB / AFB / viral studies)\nHCT → if no abscess → LP (routine, HSV PCR, ± viral / toxo) → ± MRI and EEG\n\n\nTreatment\nEmpiricViral: supportive (if high suspicion for HSV → acyclovir 10 mg/kg IV q8h)Bacterial:• &lt;1 mo: cefotaxime/ceftriaxone + ampicillin• 1–23 mo: cefotaxime or ceftriaxone + vancomycin• 2–50 y: ceftriaxone + vancomycin• ≥50 y: ceftriaxone + vancomycin + ampicillinFungal: Amphotericin B + flucytosine + fluconazoleTB: RIPE ± streptomycinIf trauma: use cefepime or meropenemDexamethasone 10 mg IV q6h × 4 days beneficial in pneumococcal meningitis (1st dose 20 min before antibiotics)\nBy organism• HSV / VZV: acyclovir 10 mg/kg IV q8h × ≥14 days• CMV: ganciclovir or foscarnet• Legionella: azithromycin, quinolone, or tetracyclines\n\n\nPrognosis\n• Aseptic / viral: most improve over 2 weeks• Bacterial: ~20% mortality (S. pneumo worst)\n• HSV & EEE: 70% die untreated, 25% treated• Others: 5–20% mortality\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nStart treatment empirically — do not wait for the LP."
   },
   {
     "objectID": "neuroleptic_malignant_syndrome,_serotonin_syndrome,_and_acute_dystonia.html",
@@ -1650,5 +1650,222 @@
     "title": "NIHSS and Tools",
     "section": "",
     "text": "You know how.\nDown to earth.\nI got home from work.\nNear the table in the dining room.\nThey heard him speak on the radio last night.\n\n\n\n\n\n\n\nMAMA\n\n\nTIP-TOP\n\n\nFIFTY-FIFTY\n\n\nTHANKS\n\n\nHUCKLEBERRY\n\n\nBASEBALL PLAYER"
+  },
+  {
+    "objectID": "multiple_sclerosis.html#epidemiology",
+    "href": "multiple_sclerosis.html#epidemiology",
+    "title": "Multiple Sclerosis",
+    "section": "",
+    "text": "Expect 1–2 flares in untreated RRMS patient per year (75% will have at least 1 flare).\nIf they are on high-efficacy drugs the true relapse should be close to 0."
+  },
+  {
+    "objectID": "multiple_sclerosis.html#presentation",
+    "href": "multiple_sclerosis.html#presentation",
+    "title": "Multiple Sclerosis",
+    "section": "",
+    "text": "Patient-reported or objectively observed events typical of an acute inflammatory demyelinating event in the CNS (current or historical), with duration of at least 24 hours, in the absence of fever or infection.\nConsider:\n\nVision loss with painful eye movements (optic neuritis)\nTrigeminal neuralgia\nFocal weakness\nFocal numbness\nAtaxia\nParesthesias\nIncontinence\nFalls\nFatigue\n\nKEY WORDS: NEW or WORSE; 24 hours or more.\n\n\n\nAcute worsening of symptoms that is typically associated with an increase in body temperature, or stress in the body, which can be due to pain, stress, infection, exercise, or heat exposure."
+  },
+  {
+    "objectID": "multiple_sclerosis.html#history",
+    "href": "multiple_sclerosis.html#history",
+    "title": "Multiple Sclerosis (Flare)",
+    "section": "2.1 History",
+    "text": "2.1 History\n\nCurrent symptoms (onset, duration, progression)\nPast neurologic symptoms (if MS suspected)\nRecent signs of infection (fever, chills, URI symptoms, dysuria)\nIf patient has known MS, have they ever had these exact symptoms before? This may suggest recrudescence due to systemic issue, such as an infection\nPregnancy\n\nIf known MS — MS history\n\nWhen, where, and how they were diagnosed\nType of MS (RRMS, PPMS, SPMS)\nMedication history and compliance\n\nIf on Natalizumab, Sphingosine-1-phosphate (S1P) modulators (fingolimod / ozanimod / siponimod) or fumarates (dimethyl fumarate, diroximel fumarate): LAST JCV TEST result\nThese are the 3 DMTs with highest risk of PML. PML can happen on fumarates with grade 3 lymphopenia (ALC of &lt;500)\n\nLast exacerbation, last round of steroids\nIf on Tysabri or (S1P) receptor modulators (Fingolimod, ozanimod, siponimod): ask for the last date the drug was administered\n\nWatch out for Natalizumab or (S1P) receptor modulators discontinuation rebound (usually around 3 months from last administration)\n\nBaseline deficits\n\nExam\nFull physical and neurologic exam with specific attention to:\n\nRelative afferent pupillary defect (rAPD)\nOptic nerve pallor\nInternuclear ophthalmoplegia (INO)\nLhermitte’s sign\nSpasticity\nHyper-reflexia\nMcArdle’s sign (finger extensor weakness on neck flexion)\nProprioception"
+  },
+  {
+    "objectID": "multiple_sclerosis.html#exam",
+    "href": "multiple_sclerosis.html#exam",
+    "title": "Multiple Sclerosis",
+    "section": "",
+    "text": "Full physical and neurologic exam with specific attention to:\n\nRelative afferent pupillary defect (rAPD)\nOptic nerve pallor\nInternuclear ophthalmoplegia (INO)\nLhermitte’s sign\nSpasticity\nHyper-reflexia\nMcArdle’s sign (finger extensor weakness on neck flexion)\nProprioception"
+  },
+  {
+    "objectID": "multiple_sclerosis.html#workup-admission-treatment",
+    "href": "multiple_sclerosis.html#workup-admission-treatment",
+    "title": "Multiple Sclerosis (Flare)",
+    "section": "2.2 Workup ± Admission + Treatment",
+    "text": "2.2 Workup ± Admission + Treatment\n\nRule out infection with UA/UCx & CXR if indicated. If positive, may represent a “pseudoflare” — treat the infection first and see if flare resolves. Patient may also warrant admission to medical service if cannot walk.\nRule out Uhthoff’s phenomenon (unmasking of old flare symptoms due to increased body temperature) — may not warrant acute steroid administration.\nIf the patient is having NEW or WORSE symptoms, obtain MRIs to rule out new enhancing lesions. If enhancing lesions, then order high-dose steroids.\nConsider admission based on following criteria:\n\n“Can’t see” (optic neuritis)\n“Can’t pee” (myelitis, neurogenic bladder)\n“Can’t eat/swallow”\n“Can’t walk”\n“Can’t take care of family”\n\nIf not admitted, can arrange outpatient infusion center IV steroids or the equivalent oral steroids.\n\nThe equivalent oral steroids is 1250 mg of prednisone for 3–5 days.\nWhen you write the prescription write to the pharmacy: “This is not an error: this is the equivalent of 1 gram of methylprednisolone daily for the treatment of MS flare”\nConsider calling the pharmacy to confirm or write your cellphone in the prescription; more often than not if you do not do this the pharmacist will cancel this thinking it was an error and you will not hear about it until the following week.\nSend a PPI for steroids at home.\n\nStart IV Solumedrol 1 g/d × 3–5 days if suspect new relapse or enhancing lesions on MRI.\n\nNo need for oral taper if 5 days or less. (Remember we use a taper for MOGAD or sarcoidosis.)\nIf sent with taper, send PPI and ask them to follow up with PCP about blood glucose and adjustments.\nCan also give oral equivalent which is 1250 mg of prednisone daily for 3–5 days.\n\nIf the patient is on steroids inpatient; prevent steroid side effects with:\n\nGI prophylaxis (PPI)\nFinger stick glucose checks / sliding scale insulin\nDiabetic diet\nMental status checks\nConsider a sleep aid\n\nOrder PT/OT/Rehab service consults immediately if patient is unable to care for self at home on admission.\nContinue outpatient symptomatic medications, such as muscle relaxants, SSRIs, stimulants, anticonvulsants, antipsychotics, amantadine, etc. Immunomodulating therapies (Interferons, Glatiramer acetate, Gilenya, Tecfidera, Aubagio) can be continued using home supply."
+  },
+  {
+    "objectID": "multiple_sclerosis.html#evidence-for-treatment-in-acute-ms-exacerbations",
+    "href": "multiple_sclerosis.html#evidence-for-treatment-in-acute-ms-exacerbations",
+    "title": "Multiple Sclerosis (Flare)",
+    "section": "2.3 Evidence for Treatment in Acute MS Exacerbations",
+    "text": "2.3 Evidence for Treatment in Acute MS Exacerbations\n\nIV steroids may expedite the timing of recovery from a flare\nIV steroids will not increase the degree of recovery or the course of disease (different from MOGAD or NMO)\nHigh-dose oral steroids or IV is equivalent for MS (1250 : 1000 mg)\nAlternatives to failed IV steroids in patients with tumefactive MS include plasma exchange and Cytoxan (when rapidly decompensating — lesion in the medulla causing respiratory failure for example)\nIn a patient that may have difficulty getting a DMT outpatient (very active and not soon follow-up appointment) can consider 1 g of rituximab once to give time to the outpatient neurologist to get the DMT\nIf going to do rituximab needs the hepatitis B/C antibodies + QuantiFERON testing prior to giving"
+  },
+  {
+    "objectID": "multiple_sclerosis.html#if-suspected-new-diagnosis",
+    "href": "multiple_sclerosis.html#if-suspected-new-diagnosis",
+    "title": "Multiple Sclerosis (Flare)",
+    "section": "5.1 If Suspected New Diagnosis",
+    "text": "5.1 If Suspected New Diagnosis\nA full differential needs to be considered.\nWork-up:\n\nMRI brain and C/T spine w/wo contrast + orbits if optic neuritis\nCytokine 13 panel (sarcoidosis)\nLyme disease\nRPR/VDRL\nCDS1 (demyelinating panel that has MOG IgG and AQP4 antibodies in serum)\nConsider vasculitis and rheum panel (depending on the case)\nLP (if not classic and does not meet Revised 2025 McDonald Criteria)\n\nCSF should be evaluated for basic studies + oligoclonal bands, kappa free light chains (send out lab), and myelin basic protein"
+  },
+  {
+    "objectID": "multiple_sclerosis.html#relapse",
+    "href": "multiple_sclerosis.html#relapse",
+    "title": "Multiple Sclerosis (Flare)",
+    "section": "2.1 Relapse",
+    "text": "2.1 Relapse\nPatient-reported or objectively observed events typical of an acute inflammatory demyelinating event in the CNS (current or historical), with duration of at least 24 hours, in the absence of fever or infection.\nConsider:\n\nVision loss with painful eye movements (optic neuritis)\nTrigeminal neuralgia\nFocal weakness\nFocal numbness\nAtaxia\nParesthesias\nIncontinence\nFalls\nFatigue\n\nKEY WORDS: NEW or WORSE; 24 hours or more."
+  },
+  {
+    "objectID": "multiple_sclerosis.html#pseudorelapse-pseudoflare",
+    "href": "multiple_sclerosis.html#pseudorelapse-pseudoflare",
+    "title": "Multiple Sclerosis (Flare)",
+    "section": "2.2 Pseudorelapse / Pseudoflare",
+    "text": "2.2 Pseudorelapse / Pseudoflare\nAcute worsening of symptoms that is typically associated with an increase in body temperature, or stress in the body, which can be due to pain, stress, infection, exercise, or heat exposure."
+  },
+  {
+    "objectID": "optic_neuritis.html",
+    "href": "optic_neuritis.html",
+    "title": "Optic Neuritis",
+    "section": "",
+    "text": "Usually ages 20s–40s\nFemale:Male ratio ≈ 2:1\n\n\n\n\n\nMonocular vision loss / scotoma\nRed desaturation\nPainful eye movements (≈ 90%)\nUhthoff’s phenomenon\n\n\n\n\n\nSwollen discs in only ~1/3 of cases\nCentral vision loss\nPoor color plates / red hatpin\nRelative afferent pupillary defect (+APD)\n\n\n\n\n\nOrder MRI brain and orbits.\nConsider MRI of the spine; if no signs or symptoms of myelopathy, this can be done outpatient.\nConsider ophthalmology consultation.\nSend ON infectious workup (syphilis, bartonella, Lyme) and order CDS1 (CNS demyelinating panel) in serum (AQP4 and MOG).\n\nIf more atypical (meningitis + TM), can order MAS1 (myelopathy panel) or ENS2 in serum, which includes AQP4, MOG, GFAP, and CRMP5.\n\nAdmit for IV Solumedrol 1 g/d × 3–5 days (can also use high-dose oral equivalent).\nIf bilateral, visual acuity worse than 20/200, or long-segment involvement → strongly consider MOG/AQP4 and discuss concomitant plasma exchange (PLEX)."
+  },
+  {
+    "objectID": "optic_neuritis.html#epidemiology",
+    "href": "optic_neuritis.html#epidemiology",
+    "title": "Optic Neuritis",
+    "section": "",
+    "text": "Usually ages 20s–40s\nFemale:Male ratio ≈ 2:1"
+  },
+  {
+    "objectID": "optic_neuritis.html#presentation",
+    "href": "optic_neuritis.html#presentation",
+    "title": "Optic Neuritis",
+    "section": "",
+    "text": "Monocular vision loss / scotoma\nRed desaturation\nPainful eye movements (≈ 90%)\nUhthoff’s phenomenon"
+  },
+  {
+    "objectID": "optic_neuritis.html#exam",
+    "href": "optic_neuritis.html#exam",
+    "title": "Optic Neuritis",
+    "section": "",
+    "text": "Swollen discs in only ~1/3 of cases\nCentral vision loss\nPoor color plates / red hatpin\nRelative afferent pupillary defect (+APD)"
+  },
+  {
+    "objectID": "optic_neuritis.html#workup-admission-treatment",
+    "href": "optic_neuritis.html#workup-admission-treatment",
+    "title": "Optic Neuritis",
+    "section": "",
+    "text": "Order MRI brain and orbits.\nConsider MRI of the spine; if no signs or symptoms of myelopathy, this can be done outpatient.\nConsider ophthalmology consultation.\nSend ON infectious workup (syphilis, bartonella, Lyme) and order CDS1 (CNS demyelinating panel) in serum (AQP4 and MOG).\n\nIf more atypical (meningitis + TM), can order MAS1 (myelopathy panel) or ENS2 in serum, which includes AQP4, MOG, GFAP, and CRMP5.\n\nAdmit for IV Solumedrol 1 g/d × 3–5 days (can also use high-dose oral equivalent).\nIf bilateral, visual acuity worse than 20/200, or long-segment involvement → strongly consider MOG/AQP4 and discuss concomitant plasma exchange (PLEX)."
+  },
+  {
+    "objectID": "transverse_myelitis.html",
+    "href": "transverse_myelitis.html",
+    "title": "Acute Transverse Myelitis",
+    "section": "",
+    "text": "History is of utmost importance.\n\nHyperacute (within a few hours), especially after lifting a heavy object → think vascular\nWorsening over hours to days → think autoimmune / infectious\nProgressive over weeks → think Dural AV Fistula, compressive myelopathy, or neoplasia"
+  },
+  {
+    "objectID": "transverse_myelitis.html#history",
+    "href": "transverse_myelitis.html#history",
+    "title": "Acute Transverse Myelitis",
+    "section": "",
+    "text": "History is of utmost importance.\n\nHyperacute (within a few hours), especially after lifting a heavy object → think vascular\nWorsening over hours to days → think autoimmune / infectious\nProgressive over weeks → think Dural AV Fistula, compressive myelopathy, or neoplasia"
+  },
+  {
+    "objectID": "transverse_myelitis.html#approach",
+    "href": "transverse_myelitis.html#approach",
+    "title": "Acute Transverse Myelitis",
+    "section": "",
+    "text": "MRI with gadolinium → rule out compression (if compression present, call neurosurgery). Consider MRI brain to look for MS lesions.\nIf the lesion involves &gt; 3 segments, it is considered longitudinally extensive transverse myelitis (LETM). This changes the differential (MS usually causes short lesions) and includes:\n\nInfection\nNMO / AQP4\nMOGAD\nSarcoidosis\nDural AV fistula (dAVF)\n\nIf LETM is present:\n\nConsider sending MAS1 / MAC1 (contains all antibodies that cause myelopathies, including AQP4 and MOG) or at least the CDS1 panel (AQP4 / MOG)\nObtain CSF with basic chemistries + OCB / KFLC / MBP\nIf pleocytosis: add infectious PCR, cytology, and flow cytometry on top of the Mayo panels (MAS1/MAC1 or CDS1) + cytokine panel (serum and CSF)\n\nIn sarcoidosis, IL-2R is usually high (and often IL-6); this is a better test than serum or CSF ACE\n\nSerologic testing should include: ANA, SSA/B, ANCA, HTLV-1, HIV-1, RPR, B12, folate, copper, serum cytokine 13 panel, MAS1 (or at least CDS1)\nAdditional ancillary testing: Chest CT (sarcoid), lip biopsy (Sjögren’s), brain/meningeal biopsy if indicated\n\n\n\n\n\n\n\n\nImportant\n\n\n\nALWAYS look at both sagittal and axial images.\nMany times you can tell the etiology from characteristic MRI features:\n\n\n\nAQP4: LETM, whole-cord swelling, ring-enhancing appearance\nMOGAD: LETM, sometimes with the H-sign (gray matter involvement); similar to acute flaccid paralysis seen with arboviruses (JEV, EEE, WNV) and enterovirus. Lesions often disappear on follow-up\nSarcoidosis: LETM, usually posterior enhancement, sometimes trident sign, sometimes only leptomeningeal enhancement\nParaneoplastic: LETM but with a tractopathy pattern\nSpinal cord stroke: Owl’s eyes (anterior cord syndrome). Hyperacute; first MRI may be negative\nDural AV fistula: LETM in the thoracic spine, progressive course, and presence of flow voids (sometimes no flow voids are visible). If suspicion is high → angiogram"
+  },
+  {
+    "objectID": "transverse_myelitis.html#neuromyelitis-optica-spectrum-disorder-nmosd-aqp4",
+    "href": "transverse_myelitis.html#neuromyelitis-optica-spectrum-disorder-nmosd-aqp4",
+    "title": "Acute Transverse Myelitis",
+    "section": "",
+    "text": "Brain MRI not consistent with MS\n\n\n\nOptic neuritis\n\nLETM\n\nArea postrema syndrome (intractable vomiting)\n\nAcute brainstem syndrome\n\nAcute diencephalic syndrome\n\nAcute cerebral syndrome\n\n\n\n\n\nFor ON: Optic nerve inflammation involving &gt;½ of the optic nerve or chiasmatic lesion\n\nFor myelitis: Cord lesion &gt; 3 segments; brain MRI not consistent with MS; AQP4-IgG positive (CDS1 panel)\n\n\n\n\n\nNMOSD with AQP4-IgG: ≥ 1 core clinical characteristic + positive AQP4-IgG\n\nSpecificity is near 100% → if AQP4 is positive, the patient has the disease\n\nSensitivity ≈ 75% (can be false-negative early)\n\nOnly ~15% of patients have +OCB\n\nSeronegative NMOSD: ≥ 2 core clinical events (at least one must be ON or LETM) + dissemination in space + applicable MRI requirements\n\n\n\n\n\nIVMP → PLEX 5–7 days → IVIg if refractory (can be given concomitantly)\n\nWhile inpatient after pheresis, consider:\n\nRituximab 1000 mg once, or\nInebilizumab (IL-19; now on formulary, requires form), or\nSatralizumab (IL-6), Ravulizumab (C5), Eculizumab (C5)"
+  },
+  {
+    "objectID": "transverse_myelitis.html#mogad-banwell-criteria",
+    "href": "transverse_myelitis.html#mogad-banwell-criteria",
+    "title": "Acute Transverse Myelitis",
+    "section": "",
+    "text": "Brain MRI not consistent with MS\n\nHigh titer (1:100–1:1000) + ≥ 1 core event\nCore events: optic neuritis, myelitis, ADEM, cerebral monofocal or polyfocal deficits, brainstem or cerebellar deficits, cerebral cortical encephalitis\nLow positive titer (1:20 or 1:40), negative AQP4, + supporting MRI/clinical features, including:\n\nBilateral ON\nLongitudinally extensive optic nerve involvement / perineuritis / optic disc edema\nLETM\nH-sign\nConus lesion\nADEM / deep gray involvement\nIll-defined brainstem, cerebellum, or cerebellar peduncle lesions\nCortical cerebral encephalitis ± leptomeningeal enhancement\n\n\nOnly ~15% of patients have +OCB.\n\n\n\nAcute: IVMP ± PLEX / IVIg\nMOGAD usually requires a prolonged steroid taper\nIf recurrent → consider DMT: IVIg, CellCept + prednisone, Rituximab, or Tocilizumab\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nDistinctive imaging features and patterns of enhancement with myelopathies accompanied by longitudinally extensive T2 lesions.\nThe sagittal and axial images depict the typical lesion patterns on T2-weighted images (shown in light red) and postcontrast T1-weighted images (enhancement after contrast is shown in dark red). For each panel, the T2 sequences are shown on the left and postcontrast T1 sequences are shown on the right.\n\n\n\n\n\n\n\n\nNote\n\n\n\nA. Aquaporin-4 (AQP4)-IgG-seropositive neuromyelitis optica spectrum disorder (NMOSD) myelitis\nOn sagittal cervical spine images typically reveals a solitary T2-hyperintense lesion that is central on axial sequences and extends over three or more vertebral segments, with contrast enhancement sometimes having a ringlike appearance.\n\n\n\n\n\n\n\n\nNote\n\n\n\nB. Myelin oligodendrocyte glycoprotein (MOG)-IgG–associated disorder myelitis\nOn cervicothoracic cord images typically shows multifocal T2-hyperintense lesions with one or more longitudinally extensive T2 lesions and a predilection for the conus. The T2 lesions are generally central on axial sequences and in about one-third of patients will be restricted to the gray matter, forming an H pattern. Contrast enhancement is infrequent; if present, it is usually faint.\n\n\n\n\n\n\n\n\nNote\n\n\n\nC. Neurosarcoidosis myelitis\nIn the cervical spine shows a typical nonspecific longitudinally extensive T2-hyperintense lesion that is central on axial images. Postcontrast images show hallmark linear dorsal subpial enhancement with some accompanying central canal enhancement, with the combination forming an axial trident sign.\n\n\n\n\n\n\n\n\nNote\n\n\n\nD. Paraneoplastic myelopathy\nIn the cervical spine shows the typical longitudinally extensive T2 signal abnormality with a tractopathy on axial images confirmed by the presence of symmetric tract-specific T2 hyperintensity and enhancement restricted to the dorsal columns or lateral columns, or both.\n\n\n\n\n\n\n\n\nNote\n\n\n\nE. Spinal cord infarction\nIn anterior spinal artery territory reveals the typical pencillike linear anterior cord longitudinally extensive T2 hyperintensity with a partial linear strip of enhancement with contrast. On axial T2 and postcontrast images, the anterior horn cells are preferentially affected in an owl-eye or snake-eye pattern; occasionally (in approximately 10%), a vertebral body infarct can ensue, as shown here.\n\n\n\n\n\n\n\n\nNote\n\n\n\nF. Cervical spondylotic myelopathy\nWith sagittal imaging showing spondylosis and a spindle-shaped T2 hyperintensity extending more than three vertebral segments, with a characteristic flat pancake-like transverse band of enhancement just below the site of maximum stenosis on postcontrast images. On axial images, the enhancement typically involves the white matter but spares the gray matter.\n\n\n\n\n\n\n\n\nNote\n\n\n\nG. Intramedullary spinal cord metastasis\nReveals a longitudinally extensive T2 hyperintensity with an enhancing intramedullary mass with the hallmark thin rim of more intense enhancement (the rim sign) accompanied by an ill-defined flame-shaped region of enhancement at its superior and inferior margins with a central dot (the dot sign) occasionally noted on postcontrast images, as shown here.\n\n\n\n\n\n\n\n\nNote\n\n\n\nH. Spinal dural arteriovenous fistula\nReveals the typical thoracic longitudinally extensive T2 hyperintensity extending to the conus with prominent flow voids and contrast enhancement and a characteristic “missing piece” of enhancement sometimes noted, as shown here."
+  },
+  {
+    "objectID": "transverse_myelitis.html#core-clinical-characteristics",
+    "href": "transverse_myelitis.html#core-clinical-characteristics",
+    "title": "Acute Transverse Myelitis",
+    "section": "3.1 Core Clinical Characteristics",
+    "text": "3.1 Core Clinical Characteristics\n\nOptic neuritis\n\nLETM\n\nArea postrema syndrome (intractable vomiting)\n\nAcute brainstem syndrome\n\nAcute diencephalic syndrome\n\nAcute cerebral syndrome"
+  },
+  {
+    "objectID": "transverse_myelitis.html#additional-mri-requirements",
+    "href": "transverse_myelitis.html#additional-mri-requirements",
+    "title": "Acute Transverse Myelitis",
+    "section": "3.2 Additional MRI Requirements",
+    "text": "3.2 Additional MRI Requirements\n\nFor ON: Optic nerve inflammation involving &gt;½ of the optic nerve or chiasmatic lesion\n\nFor myelitis: Cord lesion &gt; 3 segments; brain MRI not consistent with MS; AQP4-IgG positive (CDS1 panel)"
+  },
+  {
+    "objectID": "transverse_myelitis.html#diagnostic-rules",
+    "href": "transverse_myelitis.html#diagnostic-rules",
+    "title": "Acute Transverse Myelitis",
+    "section": "3.3 Diagnostic Rules",
+    "text": "3.3 Diagnostic Rules\n\nNMOSD with AQP4-IgG: ≥ 1 core clinical characteristic + positive AQP4-IgG\n\nSpecificity is near 100% → if AQP4 is positive, the patient has the disease\n\nSensitivity ≈ 75% (can be false-negative early)\n\nOnly ~15% of patients have +OCB\n\nSeronegative NMOSD: ≥ 2 core clinical events (at least one must be ON or LETM) + dissemination in space + applicable MRI requirements\n\n\n3.3.1 Treatment (Acute)\n\nIVMP → PLEX 5–7 days → IVIg if refractory (can be given concomitantly)\n\nWhile inpatient after pheresis, consider:\n\nRituximab 1000 mg once, or\nInebilizumab (IL-19; now on formulary, requires form), or\nSatralizumab (IL-6), Ravulizumab (C5), Eculizumab (C5)"
+  },
+  {
+    "objectID": "neuroinfectious_disease.html#meningitis-vs.-encephalitis",
+    "href": "neuroinfectious_disease.html#meningitis-vs.-encephalitis",
+    "title": "Neuroinfectious Diseases",
+    "section": "",
+    "text": "Meningitis\nEncephalitis\n\n\n\n\nSymptoms / Signs\nHA, photophobia / phonophobia, meningismus, N/V, fever, malaise, irritability\nSimilar to meningitis plus acute confusion, personality changes, seizures\n\n\nCommon Bugs\nViral: echo, coxsackie, mumps, HSV-2, adenovirusBacterial by age:• &lt;1 mo: GBS, E. coli, Listeria (“hear bells”)• 1–23 mo: S. pneumo, N. mening, H. flu, E. coli• 2–50 y: N. mening, S. pneumo• ≥50 y: S. pneumo, N. mening, Listeria, GNR\nHSV-1 (#1), arboviruses (SLE, LAC, EEE, WEE), WNV, VZV, Legionella\n\n\nWork-up\nHCT → LP (routine, HSV PCR, ± crypto / TB / AFB / viral studies)\nHCT → if no abscess → LP (routine, HSV PCR, ± viral / toxo) → ± MRI and EEG\n\n\nTreatment\nEmpiricViral: supportive (if high suspicion for HSV → acyclovir 10 mg/kg IV q8h)Bacterial:• &lt;1 mo: cefotaxime/ceftriaxone + ampicillin• 1–23 mo: cefotaxime or ceftriaxone + vancomycin• 2–50 y: ceftriaxone + vancomycin• ≥50 y: ceftriaxone + vancomycin + ampicillinFungal: Amphotericin B + flucytosine + fluconazoleTB: RIPE ± streptomycinIf trauma: use cefepime or meropenemDexamethasone 10 mg IV q6h × 4 days beneficial in pneumococcal meningitis (1st dose 20 min before antibiotics)\nBy organism• HSV / VZV: acyclovir 10 mg/kg IV q8h × ≥14 days• CMV: ganciclovir or foscarnet• Legionella: azithromycin, quinolone, or tetracyclines\n\n\nPrognosis\n• Aseptic / viral: most improve over 2 weeks• Bacterial: ~20% mortality (S. pneumo worst)\n• HSV & EEE: 70% die untreated, 25% treated• Others: 5–20% mortality\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nStart treatment empirically — do not wait for the LP."
+  },
+  {
+    "objectID": "neuroinfectious_disease.html#serum-studies",
+    "href": "neuroinfectious_disease.html#serum-studies",
+    "title": "Neuroinfectious Diseases",
+    "section": "2 Serum Studies",
+    "text": "2 Serum Studies\n\n2.1 Viruses\nMeasure IgM and IgG antibodies (acute and convalescent — look for 4-fold rise in IgG):\n\nSt. Louis encephalitis\nWest Nile virus\nEastern & Western Equine encephalitis\nJapanese encephalitis\nDengue fever\nEBV (VCA IgM/IgG + EBNA)\nVZV\nHSV-1 (IgM)\nRabies\nHIV (RNA can be checked early when viral load is high but ELISA is weakly positive or negative)\n\n\n\n2.2 Tick-borne Bacteria\n\nRMSF: IgG & IgM by indirect immunofluorescence\nLyme: ELISA → confirmatory Western blot\nEhrlichia: antibodies by indirect fluorescent antibody\n\n\n\n2.3 Parasites\nToxoplasma gondii\n\nAbsence of IgG or IgM antibodies does not exclude toxoplasma encephalitis in AIDS patients\nIf positive in an HIV patient → treat with pyrimethamine + sulfadiazine + folinic acid\nIncidence is reduced in patients receiving Pneumocystis prophylaxis with sulfadiazine or dapsone + pyrimethamine\nIf toxoplasma serology is negative → check CSF EBV PCR and consider brain biopsy of any accessible mass lesion (to evaluate for lymphoma)\n\nTaenia solium (cysticercosis)\n\nELISA (note: ~50% of patients with solitary lesions will be seronegative)"
+  },
+  {
+    "objectID": "autoimmune_encephalopathy.html#initial-work-up",
+    "href": "autoimmune_encephalopathy.html#initial-work-up",
+    "title": "Autoimmune Encephalitis",
+    "section": "",
+    "text": "Order MRI brain with contrast\nCSF: basic studies, OCB, cytokine panel, flow cytometry, cytology, infectious PCR\nIf suspicious for HSV → send two tests and treat empirically with acyclovir until both tests are negative"
+  },
+  {
+    "objectID": "autoimmune_encephalopathy.html#does-it-meet-graus-criteria-for-autoimmune-encephalitis",
+    "href": "autoimmune_encephalopathy.html#does-it-meet-graus-criteria-for-autoimmune-encephalitis",
+    "title": "Autoimmune Encephalitis",
+    "section": "2 Does it meet Graus criteria for autoimmune encephalitis?",
+    "text": "2 Does it meet Graus criteria for autoimmune encephalitis?\n\nSubacute onset (&lt; 3 months) of memory deficits, altered mental status, or psychiatric symptoms\nOne or more of the following:\n\nNew focal CNS deficits\nUnexplained seizures\nCSF pleocytosis\nMRI findings suggestive of encephalitis\n\nAND Reasonable exclusion of alternative disorders"
+  },
+  {
+    "objectID": "autoimmune_encephalopathy.html#serum-or-csf",
+    "href": "autoimmune_encephalopathy.html#serum-or-csf",
+    "title": "Autoimmune Encephalitis",
+    "section": "3 Serum or CSF?",
+    "text": "3 Serum or CSF?\nShort answer: both.\n\n3.1 Which panel to choose?\n\nWhen in doubt, order MDC2 and MDS2 — these are the most complete panels.\nThey contain the same antibodies as ENS2/ENC2 plus Kelch-11.\n(Kelch-11 often presents as a brainstem syndrome but can also cause limbic encephalitis, so it is best to send all antibodies.)\n\n\n\n\n\n\n\nImportant\n\n\n\nIs that enough? NO.\n\nMa2 can present with limbic encephalitis and is not on any panel. It must be ordered separately (Mayo, Quest, or Athena).\nMOGAD can present as ADEM, cortical encephalitis, or undifferentiated meningoencephalitis and is not included in MDC2/MDS2 or ENC2/ENS2.\n→ Always add CDS1 (to test for MOG-IgG).\n\n\n\n\n\n3.2 If diencephalic, brainstem, or cerebellar syndrome\nOrder:\n\nMDC2 / MDS2\nCDS1\nMa2 (must be ordered separately)\n\n\n\n\n\n\n\nWarning\n\n\n\nENC2 / ENS2 alone is not enough for these syndromes.\nYou must order MDS2/MDC2; otherwise you will miss many antibodies not tested on the encephalopathy panel.\n\n\nSee the Mayo anatomical map in the team rooms to guide which antibodies cause different syndromes."
+  },
+  {
+    "objectID": "autoimmune_encephalopathy.html#things-to-know-about-antibodies",
+    "href": "autoimmune_encephalopathy.html#things-to-know-about-antibodies",
+    "title": "Autoimmune Encephalitis",
+    "section": "4 Things to Know About Antibodies",
+    "text": "4 Things to Know About Antibodies\n\nGAD65 — very commonly false positive.\nMust be &gt; 20 nmol/L to be clinically significant.\nValues 0.03 – &lt; 20 nmol/L are false positive.\n(If reported in IU, the significant threshold is 10 000.)\nLow-titer MOGAD (1:20 – 1:40) that does not meet Banwell criteria is usually a false positive.\nIf it looks like MS → it is MS.\nNMDA+ in serum but negative in CSF → rethink whether the patient truly has the syndrome.\n\n\n4.1 Preferred specimen by antibody\n\n\n\nBetter in Serum\nBetter in CSF\n\n\n\n\nAQP4, MOG, CASPR2, LGI-1, Myasthenia Abs\nNMDA, GFAP"
+  },
+  {
+    "objectID": "autoimmune_encephalopathy.html#treatment-of-autoimmune-encephalitis",
+    "href": "autoimmune_encephalopathy.html#treatment-of-autoimmune-encephalitis",
+    "title": "Autoimmune Encephalitis",
+    "section": "5 Treatment of Autoimmune Encephalitis",
+    "text": "5 Treatment of Autoimmune Encephalitis\nIf high suspicion (meets criteria):\n\nTreat with IVMP + PLEX\nGive rituximab 1 g once after PLEX\nObtain CT CAP + testicular / ovarian ultrasound"
+  },
+  {
+    "objectID": "autoimmune_encephalopathy.html#quick-antibody-associations",
+    "href": "autoimmune_encephalopathy.html#quick-antibody-associations",
+    "title": "Autoimmune Encephalitis",
+    "section": "6 Quick Antibody Associations",
+    "text": "6 Quick Antibody Associations\n\nNMDA & AMPA → psychiatric symptoms + limbic encephalitis\nPCA-1 / Anti-Yo → cerebellar degeneration + ovarian cancer\nLGI-1 → faciobrachial dystonic seizures / hyponatremia\nLGI-1 / CASPR2 / GABAb → seizures (usually temporal lobe), rapidly progressive dementia\nGAD65 → refractory epilepsy, cerebellar ataxia, autoimmune encephalitis, stiff-person syndrome\nANNA-1 / Anti-Hu → can cause almost anything, including a neuronopathy with complete sensory loss"
+  },
+  {
+    "objectID": "autoimmune_encephalopathy.html#neurosarcoidosis",
+    "href": "autoimmune_encephalopathy.html#neurosarcoidosis",
+    "title": "Autoimmune Encephalitis",
+    "section": "7 Neurosarcoidosis",
+    "text": "7 Neurosarcoidosis\nCan present as:\n\nParenchymal lesions\nLeptomeningitis / pachymeningitis\n“Meningioma-like” lesions\nDiencephalic presentation\nPituitary / sellar involvement\nMyelitis (trident sign, pial enhancement)\n\nWork-up / Treatment\n\nGet CT CAP\nObtain tissue for biopsy if possible\nAfter biopsy (or empirically if high suspicion): IVMP 1 g × 3–5 days (or oral equivalent) + prolonged steroid taper\nIf diagnosis is confirmed while inpatient → consider starting infliximab"
   }
 ]
