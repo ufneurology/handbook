@@ -1,25 +1,37 @@
-# DHE Protocol
+---
+title: "IV DHE Protocol"
+format: html
+editor: visual
+---
 
 Dihydroergotamine (DHE) is a serotonin agonist with neurologic effects. It is also a venoconstrictor; those with difficult IV access may require PICC line. DHE can be used to treat refractory migraine or cluster headache.
-- Counsel patient that when DHE protocol is complete that unfortunately there are no other inpatient therapies and discharge will occur even if headache hasn’t improved. Contraindications: peripheral vascular disease, CAD, stroke, severe or poorly controlled HTN, liver or renal impairment, pregnancy Orders: Admit to Neurology/telemetry floor bed, baseline EKG, weight, BMP, CBC, Mag, Phos, Coags, LFTs, UA, Urine tox, serum tox, serum alcohol panel, pregnancy test Protocol: Cumulative Dose = 3mg daily x 5 days Adult: age >16 and weight >50kg Pediatric: (adult dose) x (patient weight in kg) x (0.014) mg 8mg ondansetron, or 10mg metoclopramide, or 10mg prochlorperazine IV 30minutes prior to each DHE infusion
 
-Day 1: First Dose: 0.5mg in 1000mL normal saline over one hour Second Dose:
-- If well tolerated (including no nausea), 1 hour later give another 0.5mg in 250mL normal saline over one hour
-- If nauseated reduce dose to 0.25mg and give 8 hours later (with combination antiemetic therapy)
-- If headache completely resolved continue with 0.5mg 8 hours later
-- If severe nausea, chest pain, or hypotension occur discontinue DHE therapy
+::: callout-important
+Counsel patient that when DHE protocol is complete that unfortunately there are no other inpatient therapies and discharge will occur even if headache hasn’t improved.
+:::
 
-Day 2-5: Third and subsequent doses if initial 2 doses were well tolerated: 1mg in 250mL normal saline over 1 hour every 8 hours for 10 doses
-- If headache has completely resolve treat for an additional 3 doses and then consider early discontinuation
-- If 0.25mg dose is required due to nausea, treat with combination antiemetic therapy 30 minutes prior to doses and test higher doses at 0.25mg increments
+## Contraindications
 
-Side effects: nausea, vomiting, leg cramps, limb pain/cramps, cool limbs, abdominal cramps, diarrhea, vasospasm, tachycardia or bradycardia, hypertension
+-   Peripheral vascular disease
+-   CAD
+-   Stroke
+-   Severe or poorly controlled HTN
+-   Liver or renal impairment
+-   Pregnancy
+-   Triptan use within 24 hours
 
-Side effect management:
-- slow rate of IV DHE infusion
-- reduce DHE dose to highest tolerable
-- increase dose of antiemetic, use combination antiemetic therapy
-- naproxen or benzo for muscle cramps Silberstein SD, Schulman EA, Hopkins MM. Repetitive intravenous DHE in the treatment of refractory headaches. Headache 1990; 6:334-9
+# PROTOCOL
 
-Treatment of cluster headache: 100% O2 by face mask for 10 min, DHE protocol.  Can also try lidocaine + steroid nerve block or Triptans.  If prophylaxis is indicated, especially consider verapamil, lithium, and valproate.
+1.  Admit to Neurology/telemetry floor bed, START IVF NS \@ 75 cc/hr; continue home preventative agents
+2.  Baseline EKG, weight, CBC, CMP, Mag, Phos, pregnancy urine screen
+3.  Give one-time Depakote 500 mg and Dexamethasone 8 mg PO
+4.  Order DHE 0.5 mg IV ×1, followed by 0.5–1 mg q8h (9–10 doses)
+5.  Premedicate with Benadryl 25 mg IV + Phenergan 25 mg IV
+6.  Measure vitals before each infusion. Hold if SBP \> 170 or DBP \> 100
+7.  Can slow rate of infusion per patient preference
+8.  Monitor for common side effects: chest pain (stop infusion, EKG, trops), GI symptoms, diarrhea
+9.  Can order scheduled IV Mag 2 g qd, Toradol 15–30 mg q8h prn for breakthrough pain
 
+::: callout-note
+If headache has completely resolved, treat for an additional 3 doses and then consider early discontinuation.
+:::

@@ -1,0 +1,84 @@
+# Neuroleptic Malignant Syndrome (NMS)
+
+## Signs and symptoms
+
+1.  Mental status change: agitated delirium, confusion, encephalopathy (82%)
+2.  Muscular rigidity: "lead pipe" tremor (up to 92%) → elevated CPK and myoglobinuric acute renal failure
+3.  Hyperthermia: \>38°C (87%), \>40°C (40%)
+4.  Autonomic instability: tachycardia (88%), labile BP (77%), tachypnea (73%), diaphoresis
+
+## Diagnosis
+
+Exclude other etiologies: acute drug intoxication, metabolic derangements, meningitis, etc.
+
+## Treatment
+
+1.  Admit to ICU
+2.  Discontinue offending agent (e.g. neuroleptics, D2 blocking antiemetics or abrupt w/d levodopa)
+3.  Supportive care for Autonomic instability, DVT/PE prophylaxis, IVFs to prevent rhabdo
+4.  Symptomatic treatment:
+    -   **Agitation** --- Lorazepam 0.5--1 mg prn (may also help with rigidity)
+    -   **Rigidity** --- Dantrolene 0.25--2 mg/kg IV q6--12 hours (max dose 10 mg/kg/day; be aware of hepatotoxicity)
+    -   **Fever** --- cooling blankets, ice lavage, acetaminophen
+
+# Serotonin Syndrome (SS)
+
+## Signs and symptoms
+
+1.  Mental status change: agitated delirium, restlessness, disorientation
+2.  Neuromuscular hyperreactivity: tremor, rigidity, myoclonus, hyperreflexia (+Babinski and clonus)
+3.  Autonomic instability: dilated pupils, diaphoresis, hypertension, diarrhea, vomiting
+
+## Diagnosis
+
+Exclude other etiologies: acute drug intoxication, metabolic derangements, meningitis, etc.
+
+## Treatment
+
+1.  Admit to ICU
+2.  Discontinue offending agent (e.g. SSRIs, MAOIs, buspirone, trazodone, lithium, opiates, etc.)
+3.  Supportive care for Autonomic instability, DVT/PE prophylaxis
+4.  Symptomatic treatment:
+    -   **Agitation, Neuromuscular hyperreactivity** --- Lorazepam 0.5--1 mg prn
+    -   **Cyproheptadine** (only for severe cases) 12 mg PO, then 2 mg q2 hours until clinical response
+
+# Acute Dystonic Reaction
+
+## Signs and symptoms
+
+Intermittent or sustained dystonic posturing due to blockade of D2 receptor (neuroleptics, certain antiemetics)
+
+## Diagnosis
+
+1.  Review medication list/MAR for offending agent.
+2.  Exclude metabolic derangements (hypomagnesemia, hypocalcemia) or other drug toxicity.
+
+## Treatment
+
+1.  Discontinue offending agent
+2.  Diphenhydramine 25--50 mg IV/IM vs Lorazepam 0.5--1 mg IV (acute); Diphenhydramine 25 mg PO qid (×48 hr)
+3.  Alternative therapy: Benztropine 2 mg IV/IM (acute); Benztropine 1--2 mg PO bid (×48 hr)
+
+# General Recommendations for Treatment of Movement Disorders
+
+*Robottom et al. Arch Neurol. June 2011.*
+
+|      Movement Disorder      |     Medication Class      |        Medication        | Initial Daily Dose, mg | Maximum Daily Dose, mg |
+|:---------------:|:-------------:|:-----------------:|:-------------:|:-------------:|
+|         **Chorea**          |        Neuroleptic        |       Haloperidol        |          0.5           |           8            |
+|                             |                           |       Risperidone        |          0.5           |           6            |
+|                             | Dopamine-depleting agentᵃ |      Tetrabenazine       |          12.5          |           75           |
+|                             |      Benzodiazepine       |        Clonazepam        |          0.5           |           6            |
+|        **Myoclonus**        |      Anticonvulsant       |      Valproic acid       |          750           | Titrate to serum level |
+|                             |                           |      Levetiracetam       |          500           |          3000          |
+|                             |                           |        Primidoneᵃ        |          12.5          |          750           |
+|                             |      Benzodiazepine       |        Clonazepam        |          0.5           |           6            |
+|          **Tics**           |        Neuroleptic        |       Haloperidol        |          0.5           |           8            |
+|                             |                           |       Risperidone        |          0.5           |           6            |
+|                             | Dopamine-depleting agentᵃ |      Tetrabenazine       |          12.5          |           75           |
+|                             |     Antihypertensiveᵃ     | Clonidine hydrochloride  |          0.1           |          0.6           |
+|                             |                           | Guanfacine hydrochloride |           1            |           3            |
+| **Acute dystonic reaction** |      Anticholinergic      |   Benztropine mesylate   |           1            |           6            |
+|                             |                           |     Diphenhydramine      |           25           |          400           |
+
+ᵃ May need to temporarily replace Sinemet CR with IR.

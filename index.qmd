@@ -4,10 +4,8 @@ page-layout: full
 toc: false
 ---
 
-::: hero
-A practical index for neurology residents, fellows, and faculty.
-
-Use the search bar or browse by topic below.
+::: {.hero}
+A practical reference for neurology residents.
 :::
 
 ## Neurological Examination
@@ -87,8 +85,7 @@ Use the search bar or browse by topic below.
 ## Headache
 
 ::: index-list
--   [Headache](headache.qmd)
--   [Acute Headache Management](acute_headache_management.qmd)
+-   [Acute Headache Management](acute_headache.qmd)
 -   [DHE Protocol](dhe_protocol.qmd)
 -   [Headache in Pregnancy](headache_in_pregnancy.qmd)
 -   [Idiopathic Intracranial Hypertension](idiopathic_intracranial_hypertension.qmd)

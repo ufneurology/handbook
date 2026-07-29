@@ -1,44 +1,89 @@
-# Headache in Pregnancy
+---
+title: "Headache in Pregnancy"
+format: html
+editor: visual
+---
 
-Primary Headaches
-1)  Migraine headache:  in general, retrospective studies have suggested that migraine frequency and severity decrease during pregnancy, particularly during the 2nd and 3rd trimesters.  A prospective study of 49 patients showed 79% had complete remission of headaches by the third trimester. By one month postpartum, 50% had recurrence of migraine.
-2)  Tension Headaches:  no change in frequency during pregnancy, but few data exist
+# Primary Headaches
 
-Secondary Headaches
-- Pseudotumor cerebri:  see other section
-- Pre-eclampsia: new hypertension >140/90,  proteinuria>300mg/dL; headache may precede development of serious neurologic sequelae (i.e. eclampsia with seizures)
-- Subarachnoid hemorrhage: incidence may be higher in pregnancy (between 0.9-5/10,000) and during the six weeks postpartum, risk of SAH increases 28-fold
-- Cerebral Venous Thrombosis: occurs in 1/2500-10,000 deliveries; especially likely if associated hypercoagulable states (protein C/S or antithrombin III deficiency, antiphospholipid antibody syndrome). Can occur up to 2-8 weeks postpartum, too!
-- Postdural Puncture/Nonpostdural puncture: can occur with epidural & spinal anesthesia (CSF leak, pneumocephalus; other complications-subdural hematoma, aseptic/septic meningitis)
+1.  **Migraine headache**: In general, retrospective studies have suggested that migraine frequency and severity decrease during pregnancy, particularly during the 2nd and 3rd trimesters. A prospective study of 49 patients showed 79% had complete remission of headaches by the third trimester. By one month postpartum, 50% had recurrence of migraine.
 
-Workup:
-1)  Worrisome features: new-onset headache, change in pattern, visual changes, speech abnormalities, focal neuro signs/sxs, meningeal signs, trauma, seizure, history of malignancy
-2)  Detailed headache history & neurologic ROS; medications, diet
-3)  Vitals, neuro exam (including funduscopic exam)
-4)  Labs (urinalysis, pre-eclampsia labs)
-5)  Imaging: if you suspect SAH  non-contrast head CT (sensitivity ~90% in first 24 h of onset); it takes 50-100 head CTs to reach a concerning level of radiation exposure (5 rads!)
+2.  **Tension Headaches**: No change in frequency during pregnancy, but few data exist.
 
-if you suspect venous sinus thrombosis   MRI/MRV (although, if necessary, a CT venogram can be done).  The National Radiological Protection Board advises against MRI in the first trimester, but there is no evidence to support the advisory.
-6)  LP: if imaging reveals no hemorrhage and the suspicion remains high, lumbar puncture is the only way to exclude SAH.  Also indicated if suspicious of meningitis.
+# Secondary Headaches
 
-Treatment  in Pregnant Patients: What's Safe?  Usually decided by our OB/GYN colleagues…
+-   **Pseudotumor cerebri (IIH)**: See other section
+-   **Pre-eclampsia**: New hypertension \>140/90, proteinuria \>300 mg/dL; headache may precede development of serious neurologic sequelae (i.e., eclampsia with seizures)
+-   **Subarachnoid hemorrhage**: Incidence may be higher in pregnancy (between 0.9--5/10,000) and during the six weeks postpartum, risk of SAH increases 28-fold
+-   **Cerebral Venous Sinus Thrombosis**: Occurs in 1/2500--10,000 deliveries; especially likely if associated hypercoagulable states (protein C/S or antithrombin III deficiency, antiphospholipid antibody syndrome). Can occur up to 2--8 weeks postpartum, too!
+-   **Postdural Puncture / Nonpostdural puncture**: Can occur with epidural & spinal anesthesia (CSF leak, pneumocephalus; other complications --- subdural hematoma, aseptic/septic meningitis)
 
-Category B – no human studies, but animal studies show no risk
+# Workup
 
-Category C
-- no human/ animal studies or animal studies show adverse effect
+1.  **Worrisome features**: New-onset headache, change in pattern, visual changes, speech abnormalities, focal neuro signs/sxs, meningeal signs, trauma, seizure, history of malignancy
+2.  Detailed headache history & neurologic ROS; medications, diet
+3.  Vitals, neuro exam (including funduscopic exam)
+4.  Labs (urinalysis, pre-eclampsia labs)
+5.  **Imaging**:
+    -   If you suspect SAH → non-contrast head CT (sensitivity \~90% in first 24 h of onset); it takes 50--100 head CTs to reach a concerning level of radiation exposure (5 rads!)
+    -   If you suspect venous sinus thrombosis → MRI/MRV (although, if necessary, a CT venogram can be done). The National Radiological Protection Board advises against MRI in the first trimester, but there is no evidence to support the advisory.
+6.  **LP**: If imaging reveals no hemorrhage and the suspicion remains high, lumbar puncture is the only way to exclude SAH. Also indicated if suspicious of meningitis.
 
-Category D
-- evidence of risk to humans based on animal or human studies
+# Treatment in Pregnant Patients: What's Safe?
 
-Category X 
-- evidence of risk to fetuses outweighs any benefit, contraindicated acetaminophen, caffeine, ibuprofen*, naproxen*, indomethacin, butorphanol, meperidine, oxycodone, hydromorphone, morphine, dichloralphenazone, Reglan (metoclopramide), fluoxetine
+Usually decided by our OB/GYN colleagues...
 
-aspirin*, codeine, hydrocodone, propoxyphene, butalbital, sumitriptan, prochlorperazine promethazine, clonazepam
+::: panel-tabset
+## Category B
 
-lorazepam, diazepam, amitriptyline, imipramine, nortriptyline
+**No human studies, but animal studies show no risk**
 
-* avoided in third trimester
+-   Acetaminophen
+-   Caffeine
+-   Ibuprofen\*
+-   Naproxen\*
+-   Indomethacin
+-   Butorphanol
+-   Meperidine
+-   Oxycodone
+-   Hydromorphone
+-   Morphine
+-   Dichloralphenazone
+-   Metoclopramide (Reglan)
+-   Fluoxetine
 
-ergotamine, dihydroergotamine
+## Category C
 
+**No human/animal studies *or* animal studies show adverse effect**
+
+-   Aspirin\*
+-   Codeine
+-   Hydrocodone
+-   Propoxyphene
+-   Butalbital
+-   Sumatriptan
+-   Prochlorperazine
+-   Promethazine
+-   Clonazepam
+
+## Category D
+
+**Evidence of risk to humans based on animal or human studies**
+
+-   Lorazepam
+-   Diazepam
+-   Amitriptyline
+-   Imipramine
+-   Nortriptyline
+
+## Category X
+
+**Evidence of risk to fetuses outweighs any benefit --- contraindicated**
+
+-   Ergotamine
+-   Dihydroergotamine
+:::
+
+::: callout-warning
+\* Avoid in the third trimester.
+:::

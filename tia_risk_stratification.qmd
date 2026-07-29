@@ -1,4 +1,8 @@
-# TIAs
+---
+title: "TIA Risk stratification"
+format: html
+editor: visual
+---
 
 As a general rule of thumb, moderate/high-risk TIA patients should be observed for 24 hours and evaluated expeditiously for high-risk stroke mechanism. If they want to go home, tell them the risk:
 

@@ -1,0 +1,138 @@
+---
+title: "Neuro-oncology Emergencies"
+format: html
+editor: visual
+---
+
+# Overview
+
+**Brain tumor**
+
+-   **Direct effects**: Epilepsy, Stroke, SIADH, Diabetes insipidus, Behavioral symptoms
+-   **Indirect effects**: VTE, Stroke
+
+**Iatrogenic causes**
+
+-   **Antineoplastic therapies**
+    -   Surgery: Stroke, Cerebral abscess
+    -   Chemotherapy: Nausea/vomiting, Constipation, HTN, Stroke, PRES, Bowel perforation, Myelotoxicity
+    -   Radiation: Fatigue, Dermatitis, Memory loss, Hearing loss, Cataracts
+-   **Supportive therapies**
+    -   Steroids: Cushing syndrome, Infection, Diabetes mellitus, Mood disorder, Myopathy, Tremor
+    -   AEDs: Sedation, Fatigue, Irritability, Hyponatremia, Rash, Myelotoxicity
+
+::: {.panel-tabset}
+
+## Structural
+
+### Mass Effect
+
+| Category | Details |
+|----------|---------|
+| **Neuro-onc specifics** | Vasogenic edema: tumor increases vascular permeability → responds to steroids |
+| **Acute tx** | If new lesion and suspicion for CNS lymphoma, consider osmotic therapy as a bridge to urgent biopsy (as dexamethasone can decrease yield of biopsy) |
+| **Other** | Steroids effective dose: dexamethasone typically 4 mg BID–QID; subtherapeutic doses do not treat edema and do not cause return of symptoms if stopped. Schedule at 6 am and 2 pm to avoid insomnia |
+
+### Herniation
+
+| Category | Details |
+|----------|---------|
+| **Acute tx** | If chemical or herniation: Dexamethasone 10 mg once, then 4 mg q6h |
+| **Other** | Select patients (e.g. large contrast-enhancing tumors with significant vasogenic edema) may benefit from bevacizumab long-term as can improve edema over days to weeks. If used long-term, discuss with oncology |
+
+### Hydrocephalus
+
+| Category | Details |
+|----------|---------|
+| **Neuro-onc specifics** | Communicating hydrocephalus common w/ leptomeningeal carcinomatosis |
+| **Acute tx** | Noncommunicating hydrocephalus: often from structural lesion obstructing ventricular system. May need EVD (*page neurosurgery*) |
+
+### Epidural Spinal Cord Compression
+
+| Category | Details |
+|----------|---------|
+| **Acute tx** | If neurologic deficits or pain associated with compression: immediate treatment with high-dose IV dexamethasone (10 mg once, then 4 mg q6h) |
+| **Other** | Definitive treatment: surgical decompression (*page spine as well*). May require radiation for treatment or palliation |
+
+## Seizures / Status
+
+| Category | Details |
+|----------|---------|
+| **Neuro-onc specifics** | Tend to be focal, but can generalize. Risk factors: resection, metabolic derangement, paraneoplastic encephalitis, infection, PRES |
+| **Acute tx** | No benefit from seizure prophylaxis |
+| **Other** | If status epilepticus: treat as needed as remaining seizure activity may outweigh less immediate risk of drug interaction. See AED concise table for further details |
+
+## Pituitary Apoplexy
+
+| Category | Details |
+|----------|---------|
+| **Acute tx** | Involve endocrinology ASAP. Supportive measures, hydrocortisone 100 mg IV (prevent adrenal crisis) |
+
+## PRES
+
+| Category | Details |
+|----------|---------|
+| **Neuro-onc specifics** | Associated with bevacizumab, sorafenib, cyclophosphamide, L-asparaginase, steroids, gemcitabine, immunosuppressants such as tacrolimus and high-dose steroids, and consequence of uncontrolled hypertension |
+| **Acute tx** | Management of blood pressure |
+
+## Infection Risk
+
+| Category | Details |
+|----------|---------|
+| **Neuro-onc specifics** | Meningitis: often does not have classic triad and without CSF pleocytosis in cancer patients. Common causative organisms: staph aureus, coag-negative staph, *Listeria*, and parasitic (*toxoplasmosis*) |
+| **Acute tx** | Viral encephalitis if one common with immunosuppression: HSV, VZV (consider antibody-IgG and/or testing), CMV, HHV-6, WNV, JC virus (PML). Pneumocystis jirovecii: at risk due to lymphopenia from TMZ or steroids. Candida (thrush): common due to immunosuppression. At risk for cerebral abscess from neurosurgical interventions in context of steroid use |
+| **Other** | Empiric coverage if in hospital or undergoing a neurosurgical procedure, in addition to vancomycin, include cefepime (vs ceftazidime or meropenem) rather than ceftriaxone. If chronic ALC <500 or chronic steroids: consider daily bactrim SS and acyclovir 400 mg daily as prophylaxis |
+
+## Vascular
+
+### Radiation Necrosis
+
+| Category | Details |
+|----------|---------|
+| **Neuro-onc specifics** | More likely to occur with doses of radiation >50 Gy |
+| **Acute tx** | Treatment: Dexamethasone 4–24 mg in divided doses to reduce mass effect |
+| **Other** | If cannot tolerate steroids, bevacizumab is an alternative |
+
+### Thromboembolic Events
+
+| Category | Details |
+|----------|---------|
+| **Neuro-onc specifics** | High risk for ischemic stroke, pulmonary embolism, DVT; most commonly in postoperative setting and subsequent 6 months |
+| **Acute tx** | Pro-thrombotic therapies: bevacizumab, thalidomide, sorafenib, cisplatin |
+| **Other** | Anticoagulation unless contraindication present |
+
+### Ischemic Stroke
+
+| Category | Details |
+|----------|---------|
+| **Neuro-onc specifics** | Chemotherapy: promotes risk of stroke with immune system compromise – bacterial endocarditis, sepsis, VZV vasculopathy. Increased risk in cancer population from: hypercoagulable state, atherosclerosis / vasculopathy – can cause moyamoya, tumor emboli from cardiac metastasis, arterial occlusion by tumor, PRES |
+| **Acute tx** | Steroids relatively contraindicated |
+| **Other** | Otherwise, management per acute ischemic stroke pathway |
+
+### Intraparenchymal Hemorrhage
+
+| Category | Details |
+|----------|---------|
+| **Neuro-onc specifics** | Increased risk from chemotherapy, hematologic malignancies (thrombocytopenia, coagulopathy), bevacizumab, radiation vasculopathy, and brain tumors themselves can bleed spontaneously. Most prone to hemorrhage: oligodendroglioma, CNS lymphoma, melanoma, lung, papillary thyroid, renal cell cancer, choriocarcinoma. High-risk hematologic malignancies: APML |
+| **Acute tx** | No different than acute ICH management with blood pressure monitoring, consideration of EVD/VPS if evidence of hydrocephalus, or decompression if evidence of herniation |
+| **Other** | If suspicious IPH suggestive of underlying CNS neoplasm: repeat MRI 6–12 weeks after initial hemorrhage |
+
+### Cerebral Venous Sinus Thrombosis
+
+| Category | Details |
+|----------|---------|
+| **Neuro-onc specifics** | Increased risk from hypercoagulable state; treatment of cancer can lead to severe dehydration; certain medications can trigger thrombosis (tamoxifen, L-asparaginase, heparin [especially if HIT]); venous compression by extrinsic metastasis; bacterial infection (mastoiditis or ear infection) |
+| **Acute tx** | Anticoagulation unless contraindication present |
+
+## Paraneoplastic
+
+| Category | Details |
+|----------|---------|
+| **Neuro-onc specifics** | See paraneoplastic table for details on specific antibodies and related neurologic syndromes |
+| **Acute tx** | Immunosuppression: high-dose steroids (e.g. 1 g IV methylprednisolone for 5 days). IVIG 2 g/kg divided over 2–5 days. Plasma exchange |
+| **Other** | Treat underlying cancer. If refractory to above therapy: consider rituximab, cyclophosphamide, tocilizumab, cyclosporine |
+
+:::
+
+*Adapted from Lee et al. Neurological Emergencies in the Cancer Patient: Diagnosis and Managem
+*Adapted from Lee et al. Neurological Emergencies in the Cancer Patient: Diagnosis and Management. J Intensive Care Med. 2017 Feb; 32(2): 99–115.*

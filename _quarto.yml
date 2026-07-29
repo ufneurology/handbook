@@ -27,58 +27,55 @@ website:
         menu:
           - stroke_alert.qmd
           - stroke_admission_orders.qmd
-          - tia_risk_stratification.qmd 
-          - stroke_mechanisms.qmd
+          - tia_risk_stratification.qmd
           - va_stroke_alert.qmd
-          - intracebral_hemorrhage.qmd
-          - blood_pressure_pharamacology.qmd
+          - intracerebral_hemorrhage.qmd
+          - blood_pressure_pharmacology.qmd
           - anticoagulation_reversal.qmd
           - nihss_and_tools.qmd
           - modified_rankin_scale.qmd
-          
+
       - text: Neurocritical Care
         menu:
           - subarachnoid_hemorrhage.qmd
           - icp_and_herniation_management.qmd
-          - sodium_management.qmd
           - tbi.qmd
           - management_of_psh.qmd
           - common_critical_care_pharmacology.qmd
-          - fluids.qmd
           - intracranial_vascular_malformation.qmd
-          - drug_pharmacokinetics_affecting_neuro_exam.qmd
+          - common_agents_affecting_neurologic_exam.qmd
           - cardiac_arrest.qmd
-          - status_myoclonus.qmd
-          - brian_death
+          - post_anoxic_status_epilepticus.qmd
+          - brain_death.qmd
           - mechanical_ventilation.qmd
-          - cervical_spine_clearance
+          - cervical_spine_clearance.qmd
 
       - text: Epilepsy
         menu:
           - seizure_consult.qmd
           - status_epilepticus.qmd
           - antiseizure_medication.qmd
-          
+
       - text: Neuromuscular
         menu:
           - myasthenia_gravis_exacerbation.qmd
           - guillain_barre_syndrome_aidp.qmd
-          
+
       - text: Neuroimmunology
         menu:
           - multiple_sclerosis.qmd
-          - optic_neuritis_and_transverse_myelitis.qmd    
-          - autoimmune_encephalopathy
+          - optic_neuritis.qmd
+          - transverse_myelitis.qmd
+          - autoimmune_encephalopathy.qmd
           - neuroinfectious_disease.qmd
-          
+
       - text: Neurotology
         menu:
           - dizziness_evaluation.qmd
 
       - text: Headache
         menu:
-          - headache.qmd
-          - acute_headache_management.qmd
+          - acute_headache.qmd
           - dhe_protocol.qmd
           - headache_in_pregnancy.qmd
           - idiopathic_intracranial_hypertension.qmd
@@ -91,12 +88,11 @@ website:
           - neuro_oncology_emergencies.qmd
 
       - text: Procedures
-        menu: 
+        menu:
           - lumbar_puncture.qmd
 
       - href: about.qmd
         text: About
-       
 
 format:
   html:
@@ -107,5 +103,5 @@ format:
     number-sections: true
     repo-url: https://github.com/ufneurology/handbook
     repo-actions: [edit, source, issue]
-    
+
 editor: visual

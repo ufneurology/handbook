@@ -1,0 +1,47 @@
+---
+title: "Parkinson's disease emergencies"
+format: html
+editor: visual
+---
+
+# Acute Psychosis in Parkinson’s Disease
+
+## Diagnosis
+
+Exclude secondary causes including infection (UTI, PNA, etc.), metabolic derangements, medications.
+
+## Treatment
+
+1.  Treat secondary cause if one exists.
+2.  Gradually reduce exacerbating PD medications (amantadine \> dopamine agonists \> COMT/MAOI \> levodopa)
+3.  Cautious symptomatic treatment of psychosis with the least D2 blocking agents \[quetiapine \> clozapine\].
+
+# Parkinsonism-Hyperpyrexia Syndrome
+
+## Signs and symptoms
+
+Indistinguishable from Neuroleptic Malignant Syndrome and often due to abrupt w/d of dopaminergic agents.
+
+## Diagnosis
+
+Exclude other etiologies: infection, metabolic derangements, medications (esp. dopamine blockers).
+
+## Treatment
+
+1.  Restart dopaminergic agents.
+2.  If no PO access, establish PO access with temporary gastric tube (Nasogastric, Duotube).
+    -   OK to crush Sinemet IR. May need to temporarily replace Sinemet CR with IR.  
+        (dose of IR is approx. ½ of CR dose)
+3.  If unable to use gut, may temporarily use apomorphine SC if available and only if necessary.
+    -   Starting dose 2 mg SC, max 5 doses per day; pretreatment with trimethobenzamide to avoid nausea.
+
+# Inpatient or Perioperative Treatment of Parkinson’s Disease
+
+## Treatment
+
+1.  Restart dopaminergic agents.
+2.  If no PO access, establish PO access with temporary gastric tube (Nasogastric, Duotube).
+    -   OK to crush Sinemet IR. May need to temporarily replace Sinemet CR with IR.  
+        (dose of IR is approx. ½ of CR dose)
+3.  If unable to use gut, may temporarily use apomorphine SC if available and only if necessary.
+    -   Starting dose 2 mg SC, max 5 doses per day; pretreatment with trimethobenzamide to avoid nausea.

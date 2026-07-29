@@ -110,10 +110,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./reflexes.html" rel="" target="">
  <span class="dropdown-text">Reflexes</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./movement.html" rel="" target="">
- <span class="dropdown-text">Movement Examination</span></a>
-  </li>  
+        <li class="dropdown-header">movement.qmd</li>
         <li>
     <a class="dropdown-item" href="./gait_and_speech.html" rel="" target="">
  <span class="dropdown-text">Speech and Gait</span></a>
@@ -170,11 +167,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="./sodium_management.html" rel="" target="">
- <span class="dropdown-text">Sodium Management</span></a>
+ <span class="dropdown-text">Common Critical Care Pharmacology</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./tbi.html" rel="" target="">
- <span class="dropdown-text">TBI</span></a>
+ <span class="dropdown-text">Traumatic Brain Injury</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./management_of_psh.html" rel="" target="">
@@ -182,7 +179,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="./common_critical_care_pharmacology.html" rel="" target="">
- <span class="dropdown-text">Common Critical Care Pharmacology</span></a>
+ <span class="dropdown-text">Common Critical Care Pharmacy</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./fluids.html" rel="" target="">
@@ -192,17 +189,14 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./intracranial_vascular_malformation.html" rel="" target="">
  <span class="dropdown-text">Intracranial Vascular Malformations</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./drug_pharmacokinetics_affecting_neuro_exam.html" rel="" target="">
- <span class="dropdown-text">Drug Pharmacokinetics Affecting Neuro Exam</span></a>
-  </li>  
+        <li class="dropdown-header">drug_pharmacokinetics_affecting_neuro_exam.qmd</li>
         <li>
     <a class="dropdown-item" href="./cardiac_arrest.html" rel="" target="">
- <span class="dropdown-text">Cardiac Arrest</span></a>
+ <span class="dropdown-text">Post Cardiac Arrest Management</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./status_myoclonus.html" rel="" target="">
- <span class="dropdown-text">Status Myoclonus</span></a>
+ <span class="dropdown-text">Post-Anoxic Status Epilepticus</span></a>
   </li>  
         <li class="dropdown-header">brian_death</li>
         <li>
@@ -253,16 +247,13 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-neuroimmunology">    
         <li>
     <a class="dropdown-item" href="./multiple_sclerosis.html" rel="" target="">
- <span class="dropdown-text">Multiple Sclerosis</span></a>
+ <span class="dropdown-text">Multiple Sclerosis (Flare)</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./optic_neuritis_and_transverse_myelitis.html" rel="" target="">
- <span class="dropdown-text">Optic Neuritis and Transverse Myelitis</span></a>
-  </li>  
+        <li class="dropdown-header">optic_neuritis_and_transverse_myelitis.qmd</li>
         <li class="dropdown-header">autoimmune_encephalopathy</li>
         <li>
     <a class="dropdown-item" href="./neuroinfectious_disease.html" rel="" target="">
- <span class="dropdown-text">Neuroinfectious Disease</span></a>
+ <span class="dropdown-text">Neuroinfectious Diseases</span></a>
   </li>  
     </ul>
   </li>
@@ -313,9 +304,18 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./neuro_ophthalmologic_emergencies.html" rel="" target="">
  <span class="dropdown-text">Neuro-ophthalmologic Emergencies</span></a>
   </li>  
-        <li class="dropdown-header">parkinsons_disease_emergencies.qmd</li>
-        <li class="dropdown-header">other_movement_disorders_emergencies.qmd</li>
-        <li class="dropdown-header">neuro_oncology_emergencies.qmd</li>
+        <li>
+    <a class="dropdown-item" href="./parkinsons_disease_emergencies.html" rel="" target="">
+ <span class="dropdown-text">Parkinson’s disease emergencies</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./other_movement_disorders_emergencies.html" rel="" target="">
+ <span class="dropdown-text">Neuroleptic Malignant Syndrome (NMS)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./neuro_oncology_emergencies.html" rel="" target="">
+ <span class="dropdown-text">Neuro-oncology Emergencies</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
@@ -349,7 +349,29 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#acute-headache-management" id="toc-acute-headache-management" class="nav-link active" data-scroll-target="#acute-headache-management"><span class="header-section-number">1</span> Acute Headache Management</a></li>
+  <li><a href="#history" id="toc-history" class="nav-link active" data-scroll-target="#history"><span class="header-section-number">1</span> HISTORY</a>
+  <ul class="collapse">
+  <li><a href="#chronic-headache-syndrome" id="toc-chronic-headache-syndrome" class="nav-link" data-scroll-target="#chronic-headache-syndrome"><span class="header-section-number">1.1</span> Chronic headache syndrome</a>
+  <ul class="collapse">
+  <li><a href="#new-headache-syndrome" id="toc-new-headache-syndrome" class="nav-link" data-scroll-target="#new-headache-syndrome"><span class="header-section-number">1.1.1</span> New headache syndrome</a></li>
+  </ul></li>
+  <li><a href="#new-headache-in-the-elderly" id="toc-new-headache-in-the-elderly" class="nav-link" data-scroll-target="#new-headache-in-the-elderly"><span class="header-section-number">1.2</span> New headache in the elderly</a></li>
+  </ul></li>
+  <li><a href="#exam" id="toc-exam" class="nav-link" data-scroll-target="#exam"><span class="header-section-number">2</span> EXAM</a></li>
+  <li><a href="#workup" id="toc-workup" class="nav-link" data-scroll-target="#workup"><span class="header-section-number">3</span> WORKUP</a></li>
+  <li><a href="#plan" id="toc-plan" class="nav-link" data-scroll-target="#plan"><span class="header-section-number">4</span> PLAN</a></li>
+  <li><a href="#differential" id="toc-differential" class="nav-link" data-scroll-target="#differential"><span class="header-section-number">5</span> Differential</a>
+  <ul class="collapse">
+  <li><a href="#primary-hypersensitization-of-receptors-in-meninges" id="toc-primary-hypersensitization-of-receptors-in-meninges" class="nav-link" data-scroll-target="#primary-hypersensitization-of-receptors-in-meninges"><span class="header-section-number">5.1</span> Primary (hypersensitization of receptors in meninges)</a></li>
+  <li><a href="#secondary-meningeal-stretch-irritation-or-ischemia" id="toc-secondary-meningeal-stretch-irritation-or-ischemia" class="nav-link" data-scroll-target="#secondary-meningeal-stretch-irritation-or-ischemia"><span class="header-section-number">5.2</span> Secondary (meningeal stretch, irritation, or ischemia)</a></li>
+  </ul></li>
+  <li><a href="#targeted-workup" id="toc-targeted-workup" class="nav-link" data-scroll-target="#targeted-workup"><span class="header-section-number">6</span> Targeted Workup</a></li>
+  <li><a href="#treatment-of-acute-inpatient-migraine" id="toc-treatment-of-acute-inpatient-migraine" class="nav-link" data-scroll-target="#treatment-of-acute-inpatient-migraine"><span class="header-section-number">7</span> Treatment of Acute Inpatient Migraine</a>
+  <ul class="collapse">
+  <li><a href="#migraine-cocktail-can-repeat-q8h-up-to-3-times" id="toc-migraine-cocktail-can-repeat-q8h-up-to-3-times" class="nav-link" data-scroll-target="#migraine-cocktail-can-repeat-q8h-up-to-3-times"><span class="header-section-number">7.1</span> Migraine cocktail (can repeat q8h up to 3 times)</a></li>
+  <li><a href="#if-fails-can-try" id="toc-if-fails-can-try" class="nav-link" data-scroll-target="#if-fails-can-try"><span class="header-section-number">7.2</span> If fails, can try</a></li>
+  </ul></li>
+  <li><a href="#treatment-of-cluster-headache" id="toc-treatment-of-cluster-headache" class="nav-link" data-scroll-target="#treatment-of-cluster-headache"><span class="header-section-number">8</span> Treatment of Cluster Headache</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/ufneurology/handbook/edit/main/acute_headache.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/ufneurology/handbook/blob/main/acute_headache.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/ufneurology/handbook/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -373,81 +395,180 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="acute-headache-management" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> Acute Headache Management</h1>
-<p>ACUTE HEADACHE</p>
-<p><strong>HISTORY:</strong></p>
-<p>New headache or history of headaches</p>
-<p>Location, quality, severity</p>
-<p>Onset (sudden or gradual)</p>
-<p>Aura</p>
-<p>Transient visual obscurations</p>
-<p>Associated features (nausea/vomiting/photophobia/phonophobia/kinesophobia/diplopia/tinnitus) AND autonomic features (tearing, sinus pressure/fullness, eye redness, sweating)</p>
-<p>What medications and how much have they taken for the headache</p>
-<p>Worsening factors (e.g.&nbsp;lying down, standing up, straining)</p>
-<p>Diurnal pattern (e.g.&nbsp;worse in the morning)</p>
-<p>OCP or Vitamin A/retinoid use</p>
-<p><strong>Chronic headache syndrome</strong>: ask about family history of headaches and screen for lifestyle factors: caffeine use, sleep, hydration status, frequency of analgesic use, relation to menses, stress, relation to weather</p>
-<p><strong>New headache syndrome</strong>: screen for red flags such as recent head or neck trauma, chiropractor visits, fevers or chills, recent travel or sick contacts, altered mental state, neck stiffness, focal neurologic or visual deficits</p>
-<p><strong>New headache in the elderly:</strong> screen for GCA symptoms such as fever, weight loss, jaw claudication, scalp tenderness, proximal limb myalgias, constitutional symptoms</p>
-<p><strong>EXAM: </strong>Vital signs with particular attention to blood pressure and temperature, neurologic exam including a fundoscopic and visual fields exam, evaluate for nuchal rigidity, scalp tenderness and Horner’s syndrome</p>
-<p><strong>WORKUP:</strong> ESR if patient &gt;60 (corrected ESR = (age + 10 if female)/2)</p>
-<p><strong>PLAN: </strong>Dictated by patient’s history and physical</p>
-<p>Differential:</p>
-<p>Secondary (meningeal stretch, irritation, or ischemia)</p>
-<ol type="1">
-<li><p>Pseudotumor cerebri (IIH): diffuse, photo, tinnitus, vision loss, VI palsy + wt gain/Vit A/meds</p></li>
-<li><p>Subarachnoid hemorrhage: sudden-onset, WHOL, 10/10, meningismus</p></li>
-<li><p>Optic neuritis/myositis: painful eye movements +/- vision loss, F&gt;M</p></li>
-<li><p>Encephalitis: like meningitis, plus altered mental status, seizures, focal features</p></li>
-<li><p>Meningitis: diffuse, photo/phono, meningismus, N/V, fever, malaise, irritability</p></li>
-<li><p>Carotid dissection, periorbital/auricular throbbing (carotidynia), Horner’s, TMB, focal features, double lumen on CTA; crescent sign on MRA with fat sats</p></li>
-<li><p>Temporal arteritis: achy, jaw claudication, myalgias, ESR &gt; age/2 + 10, wt loss</p></li>
-<li><p>Hypertensive encephalopathy: frontal/occipital, throbbing, +/- confusion</p></li>
-<li><p>Venous sinus thrombosis: diffuse or focal, seizure, meningismus</p></li>
-</ol>
-<p>Primary (hypersensitization of receptors in meninges)</p>
-<ol start="10" type="1">
-<li><p><strong>Migraine</strong>: moderate unilateral, F&gt;M, pulsatile, photo/phono, n/v, transient visual obscurations, scintillating scotomas, fortification spectra, + family history, + menstrual, + triggers. Subtypes: common (no aura, 50%), classic (aura, 50%), complicated (focal features, &lt;5%), retinal (monocular vision loss), vertiginous, acephalgic (aura without headache)</p></li>
-<li><p><strong>Tension</strong>-type: bilateral, pressure, “hatband”, shoulder/neck tightness</p></li>
-<li><p><strong>Trigeminal autonomic cephalalgias</strong> (Indomethicin responsive aside from cluster)</p></li>
-</ol>
-<p>12a) Cluster (15-180min): severe unilateral, M&gt;F, daily x wks-mths, photo/phono, autonomic features (Horner’s, tearing, rhinorrhea)</p>
-<p>12b) Paroxysmal Hemicrania (2-30min): like clusters in women -or- hemicrania continua (constant)</p>
-<p>12c) SUNCT/SUNA (0-10min): “short-lasting, unilateral, neuralgiform, conjunctival injection and tearing or autonomic symptoms (1 of those only)”</p>
-<ol start="13" type="1">
-<li><p><strong>Occipital Neuralgia</strong>: unilateral over occipital region, to eye, lasts seconds</p></li>
-<li><p>Primary stabbing: migrating pain, “ice-pick feeling” episodic</p></li>
-<li><p>Hypnic headache: occurs in sleep, improves with caffeine</p></li>
-<li><p>New daily persistent headache (they can remember when it started to the date)</p></li>
-</ol>
-<p>Workup:</p>
-<p>R/O meningitis/encephalitis: HCT → LP (determine aseptic/viral/bacteria/fungal, etc.), broad tx</p>
-<p>R/O SAH: HCT → LP (HCT less likely to see blood after 48-72 hours)</p>
-<p>R/O Pseudotumor: HCT → LP (check OP &gt; 20, decubitus position, legs extended after tap better)</p>
-<p>R/O dissection: MRI/A neck c/s gad with T1 fat sats, add MRI brain to r/o accomp infarction</p>
-<p>R/O temporal arteritis: TA bruit/tenderness/pulselessness, if ESR hi → steroids, bx next day</p>
-<p>R/O hypertensive encephalopathy: watch BP, if focal or AMS → MRI to see RPLS</p>
-<p>R/O CVST: HCT with contrast (“empty delta sign”) vs MRV</p>
-<p>R/O optic neuritis/myopathy: HCT → MRI brain/orbits c/s gad, CK, admit for IV steroids for ON</p>
-<p>R/O acute migraine – tension-type continuum: consider HCT if new HA syndrome</p>
-<p>Treatment of acute inpatient migraine</p>
-<ol type="1">
-<li>Migraine cocktail (can repeat q8h up to 3 times)</li>
-</ol>
+<section id="history" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> HISTORY</h1>
 <ul>
-<li><p><strong>IV fluids</strong>: 1-2 L NSS or 80-100 cc/hr while hospitalized</p></li>
-<li><p><strong>NSAIDs</strong>: 15-30 mg IV toradol (caution with GI sx)</p></li>
-<li><p><strong>DA antagonist</strong>: 10 mg metoclopramide or prochlorperazine ± 12.5 mg diphenhydramine to prevent EPS</p></li>
-<li><p><strong>Magnesium sulfate</strong>: 2g IV</p></li>
+<li>New headache or history of headaches</li>
+<li>Location, quality, severity</li>
+<li>Onset (sudden or gradual)</li>
+<li>Aura</li>
+<li>Transient visual obscurations</li>
+<li>Associated features (nausea/vomiting/photophobia/phonophobia/kinesophobia/diplopia/tinnitus) <strong>AND</strong> autonomic features (tearing, sinus pressure/fullness, eye redness, sweating)</li>
+<li>What medications and how much have they taken for the headache</li>
+<li>Worsening factors (e.g., lying down, standing up, straining)</li>
+<li>Diurnal pattern (e.g., worse in the morning)</li>
+<li>OCP or Vitamin A/retinoid use</li>
 </ul>
-<p>If fails, can try</p>
+<section id="chronic-headache-syndrome" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="chronic-headache-syndrome"><span class="header-section-number">1.1</span> Chronic headache syndrome</h2>
+<p>Ask about family history of headaches and screen for lifestyle factors: caffeine use, sleep, hydration status, frequency of analgesic use, relation to menses, stress, relation to weather.</p>
+<section id="new-headache-syndrome" class="level3" data-number="1.1.1">
+<h3 data-number="1.1.1" class="anchored" data-anchor-id="new-headache-syndrome"><span class="header-section-number">1.1.1</span> New headache syndrome</h3>
+<p>Screen for red flags such as recent head or neck trauma, chiropractor visits, fevers or chills, recent travel or sick contacts, altered mental state, neck stiffness, focal neurologic or visual deficits.</p>
+</section>
+</section>
+<section id="new-headache-in-the-elderly" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="new-headache-in-the-elderly"><span class="header-section-number">1.2</span> New headache in the elderly</h2>
+<p>Screen for GCA symptoms such as fever, weight loss, jaw claudication, scalp tenderness, proximal limb myalgias, constitutional symptoms.</p>
+</section>
+</section>
+<section id="exam" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> EXAM</h1>
+<p>Vital signs with particular attention to blood pressure and temperature, neurologic exam including a fundoscopic and visual fields exam, evaluate for nuchal rigidity, scalp tenderness and Horner’s syndrome.</p>
+</section>
+<section id="workup" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> WORKUP</h1>
+<p>ESR if patient &gt;60 (corrected ESR = (age + 10 if female)/2)</p>
+</section>
+<section id="plan" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> PLAN</h1>
+<p>Dictated by patient’s history and physical.</p>
+</section>
+<section id="differential" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Differential</h1>
+<section id="primary-hypersensitization-of-receptors-in-meninges" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="primary-hypersensitization-of-receptors-in-meninges"><span class="header-section-number">5.1</span> Primary (hypersensitization of receptors in meninges)</h2>
+<ol start="10" type="1">
+<li><strong>Migraine</strong>: moderate unilateral, F&gt;M, pulsatile, photo/phono, n/v, transient visual obscurations, scintillating scotomas, fortification spectra, + family history, + menstrual, + triggers.<br>
+Subtypes: common (no aura, 50%), classic (aura, 50%), complicated (focal features, &lt;5%), retinal (monocular vision loss), vertiginous, acephalgic (aura without headache)</li>
+<li><strong>Tension-type</strong>: bilateral, pressure, “hatband”, shoulder/neck tightness</li>
+<li><strong>Trigeminal autonomic cephalalgias</strong> (Indomethacin responsive aside from cluster)
 <ul>
-<li><p><strong>Sodium valproate</strong>: 500 mg – 1g IV (caution in patients on topiramate, can cause hyperammonemia); can use this as bridge as well for 3-5 doses q8-12h</p></li>
-<li><p><strong>Methylprednisolone</strong> 200 mg – 1g IV (caution regarding avascular necrosis, diabetes, active infection)</p></li>
-<li><p><strong>Zyprexa bridge</strong> – 5-7.5mg PO for 7 days (will take days for effect)</p></li>
-<li><p><strong>Droperidol</strong>** – <strong>2.7.5-8.25 mg</strong> **IM once; MUST have cardiac monitoring afterward (Level C evidence)*</p></li>
-<li><p><strong>DHE</strong>: See below. MUST discuss with attending beforehand.</p></li>
+<li><strong>12a Cluster (15–180 min)</strong>: severe unilateral, M&gt;F, daily × wks–mths, photo/phono, autonomic features (Horner’s, tearing, rhinorrhea)</li>
+<li><strong>12b Paroxysmal Hemicrania (2–30 min)</strong>: like clusters in women — or — hemicrania continua (constant)</li>
+<li><strong>12c SUNCT/SUNA (0–10 min)</strong>: “short-lasting, unilateral, neuralgiform, conjunctival injection and tearing or autonomic symptoms (1 of those only)”</li>
+</ul></li>
+<li><strong>Occipital Neuralgia</strong>: unilateral over occipital region, to eye, lasts seconds</li>
+<li><strong>Primary stabbing</strong>: migrating pain, “ice-pick feeling” episodic</li>
+<li><strong>Hypnic headache</strong>: occurs in sleep, improves with caffeine</li>
+<li><strong>New daily persistent headache</strong> (they can remember when it started to the date)</li>
+</ol>
+</section>
+<section id="secondary-meningeal-stretch-irritation-or-ischemia" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="secondary-meningeal-stretch-irritation-or-ischemia"><span class="header-section-number">5.2</span> Secondary (meningeal stretch, irritation, or ischemia)</h2>
+<ol type="1">
+<li><strong>Pseudotumor cerebri (IIH)</strong>: diffuse, photo, tinnitus, vision loss, VI palsy + wt gain/Vit A/meds</li>
+<li><strong>Subarachnoid hemorrhage</strong>: sudden-onset, WHOL, 10/10, meningismus</li>
+<li><strong>Optic neuritis/myositis</strong>: painful eye movements +/- vision loss, F&gt;M</li>
+<li><strong>Meningitis</strong>: diffuse, photo/phono, meningismus, N/V, fever, malaise, irritability</li>
+<li><strong>Encephalitis</strong>: like meningitis, plus altered mental status, seizures, focal features</li>
+<li><strong>Carotid dissection</strong>: periorbital/auricular throbbing (carotidynia), Horner’s, TMB, focal features, double lumen on CTA; crescent sign on MRA with fat sats</li>
+<li><strong>Temporal arteritis</strong>: achy, jaw claudication, myalgias, ESR &gt; age/2 + 10, wt loss</li>
+<li><strong>Hypertensive encephalopathy</strong>: frontal/occipital, throbbing, +/- confusion</li>
+<li><strong>Venous sinus thrombosis</strong>: diffuse or focal, seizure, meningismus</li>
+</ol>
+</section>
+</section>
+<section id="targeted-workup" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Targeted Workup</h1>
+<table class="table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Rule-out</th>
+<th>Approach</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Meningitis/encephalitis</td>
+<td>HCT → LP (determine aseptic/viral/bacterial/fungal, etc.), broad tx</td>
+</tr>
+<tr class="even">
+<td>SAH</td>
+<td>HCT → LP (HCT less likely to see blood after 48–72 hours)</td>
+</tr>
+<tr class="odd">
+<td>Pseudotumor</td>
+<td>HCT → LP (check OP &gt; 20, decubitus position, legs extended after tap better)</td>
+</tr>
+<tr class="even">
+<td>Dissection</td>
+<td>MRI/A neck c/s gad with T1 fat sats; add MRI brain to r/o accompanying infarction</td>
+</tr>
+<tr class="odd">
+<td>Temporal arteritis</td>
+<td>TA bruit/tenderness/pulselessness; if ESR high → steroids, bx next day</td>
+</tr>
+<tr class="even">
+<td>Hypertensive encephalopathy</td>
+<td>Watch BP; if focal or AMS → MRI to see RPLS</td>
+</tr>
+<tr class="odd">
+<td>CVST</td>
+<td>HCT with contrast (“empty delta sign”) vs MRV</td>
+</tr>
+<tr class="even">
+<td>Optic neuritis/myopathy</td>
+<td>HCT → MRI brain/orbits c/s gad, CK; admit for IV steroids for ON</td>
+</tr>
+<tr class="odd">
+<td>Acute migraine–tension-type continuum</td>
+<td>Consider HCT if new HA syndrome</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="treatment-of-acute-inpatient-migraine" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Treatment of Acute Inpatient Migraine</h1>
+<section id="migraine-cocktail-can-repeat-q8h-up-to-3-times" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="migraine-cocktail-can-repeat-q8h-up-to-3-times"><span class="header-section-number">7.1</span> Migraine cocktail (can repeat q8h up to 3 times)</h2>
+<ul>
+<li><strong>IV fluids</strong>: 1–2 L NSS or 80–100 cc/hr while hospitalized</li>
+<li><strong>NSAIDs</strong>: 15–30 mg IV ketorolac (caution with GI sx)</li>
+<li><strong>DA antagonist</strong>: 10 mg metoclopramide or prochlorperazine ± 12.5 mg diphenhydramine to prevent EPS</li>
+<li><strong>Magnesium sulfate</strong>: 2 g IV</li>
+</ul>
+</section>
+<section id="if-fails-can-try" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="if-fails-can-try"><span class="header-section-number">7.2</span> If fails, can try</h2>
+<ul>
+<li><strong>Sodium valproate</strong>: 500 mg – 1 g IV (caution in patients on topiramate — can cause hyperammonemia); can use this as bridge as well for 3–5 doses q8–12h</li>
+<li><strong>Methylprednisolone</strong>: 200 mg – 1 g IV (caution regarding avascular necrosis, diabetes, active infection)</li>
+<li><strong>Zyprexa bridge</strong>: 5–7.5 mg PO for 7 days (will take days for effect)</li>
+<li><strong>Droperidol</strong>: 2.75–8.25 mg IM once; <strong>MUST</strong> have cardiac monitoring afterward (Level C evidence)*</li>
+<li><strong>DHE</strong>: See DHE protocol. <strong>MUST discuss with attending beforehand.</strong></li>
+</ul>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Warning
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Discuss DHE and any high-risk therapies with the attending before administration.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="treatment-of-cluster-headache" class="level1" data-number="8">
+<h1 data-number="8"><span class="header-section-number">8</span> Treatment of Cluster Headache</h1>
+<ul>
+<li>100% O₂ by face mask for 10 min</li>
+<li>DHE protocol</li>
+<li>Can also try lidocaine + steroid nerve block or triptans</li>
+</ul>
+<p>If prophylaxis is indicated, especially consider:</p>
+<ul>
+<li>Verapamil</li>
+<li>Lithium</li>
+<li>Valproate</li>
 </ul>
 
 

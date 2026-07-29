@@ -1,9 +1,40 @@
 ---
-title: "About"
+title: "About the UF Neurology Living Handbook"
+format: html
+editor: visual
 ---
 
-About this site
+This is a practical, living reference for neurology residents at the University of Florida, Gainesville.
 
-```{r}
-1 + 1
-```
+It is designed to be used at the bedside and on call --- focused on high-yield clinical decision-making, admission orders, treatment algorithms, and common consult questions.
+
+## Purpose
+
+-   Provide rapid access to institutional and evidence-based approaches to common neurologic emergencies and inpatient problems
+-   Standardize initial work-ups and management across the residency
+-   Serve as a continuously updated resource rather than a static printed handbook
+
+## How to Use
+
+-   Use the **search bar** or browse by section in the navigation
+-   Most pages are intentionally concise and action-oriented
+-   When institutional preferences or order sets exist, they are reflected here
+
+## Contributing & Feedback
+
+This is a **living document**. Content is expected to evolve with new evidence, changing institutional protocols, and feedback from the department.
+
+-   To suggest edits, corrections, or new content, open an issue or pull request on the [GitHub repository](https://github.com/ufneurology/handbook)
+-   You can also use the "Edit" or "Issue" links in the page footer
+
+::: callout-warning
+This handbook is intended as a **clinical reference aid** for UF Neurology trainees and faculty.
+
+It does **not** replace clinical judgment, attending supervision, or official institutional policies and order sets.
+
+Drug dosing, contraindications, and local protocols should always be verified. When in doubt, discuss with the appropriate attending or fellow.
+:::
+
+## Acknowledgments
+
+Originally adapted from the UF Neurology Resident Handbook (2026--2027) and converted into a modular Quarto website for easier maintenance and continuous updating.
