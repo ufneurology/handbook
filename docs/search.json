@@ -226,9 +226,9 @@
   {
     "objectID": "delirium_management.html",
     "href": "delirium_management.html",
-    "title": "1 Delirium Management",
+    "title": "Diagnosis and Management of Delirium",
     "section": "",
-    "text": "1 Delirium Management\nMANAGEMENT OF THE AGITATED PATIENT\nAgitation happens for a variety of reasons in the inpatient setting including psychosis, toxidromes, delirium, substance withdrawal, or rational people deciding they no longer want to conform to hospital restrictions. With agitation, it is always advisable to back off patients if you feel unsafe, involve other staff, and call security if the situation escalates. Restraints, both chemical and physical, are often necessary both for preventing patient and staff harm.\nGeneral strategies: 1) Avoid/remove aggravating factors, 2) identify/treat cause, 3) supportive care, 4) control dangerous/disruptive behavior.\nPrevention: orientation protocol, structured activities, reassurance, sitter (ideally family). Visual/hearing aids. Nonpharmacological sleep aids, maintain day/night cycle (quiet time at night), pain management, early mobilization. Avoid: frequent change of environment (eg, room changes), restraints, constipation, anticholingerics, catheters\nPharmacologic interventions have varying efficacy based on etiology, in general the following apply: 1) Delirious patients: (decreased sensorium, poor attention), benzodiazepines and anticholinergic medications should be avoided. In these individuals, antipsychotics should be first line. Often low dose haldol (0.5 to 2 mg) IM, PO, or IV can be helpful. A crude guideline is to monitor response to the first dose and treat accordingly. If improvement is seen you may think about halving the dose, if no change is seen you may repeat the dose after some interval (1 - 2 hrs), or if the situation worsens you may think about doubling the dose. The generally accepted max effective dose per 24 hr interval is around 15 mg. Watch for QT prolongation by monitoring with EKG once the patient is compliant. Common management strategies are to use standing haldol in delirium, with 0.5 - 1 mg Q12 being used frequently and evidence based, albeit weakly. 2) Withdrawal: For individuals thought to be in sedative withdrawal or with acute toxidromes, including cocaine intoxication, benzodiazepines are first line for agitation. Features suggestive of withdrawal include tremor, diaphoresis, self-reported craving, dysautonomia, history of daily RTC alcohol or benzodiazepine use, history of withdrawal. In these individuals, ativan is a good choice for agitation because it is available IM, IV and PO. Generally, treating in 1-2 mg doses with monitoring at fixed intervals is a safe strategy. 3) For individuals without delirium or withdrawal: an effective and safe strategy would be a combination of low dose haldol, ativan and bendaryl. Often a combination of haldol 2 mg, ativan 2mg, and benadryl 25 or 50 mg will sedate people quickly and safely. They can be draw together and given in one syringe if necessary. This combination can be given in stages if people are not responding after the first dose. Notably, the onset of action is similar for oral and IM preparations so patient cooperation is the deciding factor in choosing route of administration. 4) Extreme agitation: where the potential for mortal self harm is possible, benzodiazepines at high doses may be necessary, to the point of requiring intubation. 5) Drug induced extrapydramidal symptoms: Quetiapine (Seroquel) has a lower affinity for the D2 receptor and results in fewer parkinsonian symptoms than haloperidol. There is some evidence for its use in the treatment of delirium, but its use in acute agitation is limited by unavailability in parenteral forms."
+    "text": "Agitation happens for a variety of reasons in the inpatient setting including psychosis, toxidromes, delirium, substance withdrawal, or rational people deciding they no longer want to conform to hospital restrictions. With agitation, it is always advisable to back off patients if you feel unsafe, involve other staff, and call security if the situation escalates. Restraints, both chemical and physical, are often necessary both for preventing patient and staff harm."
   },
   {
     "objectID": "dementia_and_aphasia.html",
@@ -529,7 +529,7 @@
     "href": "index.html#emergencies",
     "title": "UF Neurology Living Hanbook",
     "section": "9 Emergencies",
-    "text": "9 Emergencies\n\n\nNeuro-Ophthalmologic Emergencies\nParkinson Disease Emergencies\nOther Movement Disorder Emergencies\nNeuro-Oncology Emergencies"
+    "text": "9 Emergencies\n\n\nDelirium\nNeuro-Ophthalmologic Emergencies\nParkinson Disease Emergencies\nOther Movement Disorder Emergencies\nNeuro-Oncology Emergencies"
   },
   {
     "objectID": "index.html#procedures",
@@ -2105,5 +2105,96 @@
     "title": "About the UF Neurology Living Handbook",
     "section": "4 Acknowledgments",
     "text": "4 Acknowledgments\nOriginally adapted from the UF Neurology Resident Handbook (2026–2027) and converted into a modular Quarto website for easier maintenance and continuous updating."
+  },
+  {
+    "objectID": "delirium_management.html#general-strategies",
+    "href": "delirium_management.html#general-strategies",
+    "title": "Management and Diagnosis of Delirium",
+    "section": "",
+    "text": "Avoid/remove aggravating factors\nIdentify/treat cause\nSupportive care\nControl dangerous/disruptive behavior"
+  },
+  {
+    "objectID": "delirium_management.html#prevention",
+    "href": "delirium_management.html#prevention",
+    "title": "Management and Diagnosis of Delirium",
+    "section": "",
+    "text": "Orientation protocol, structured activities, reassurance, sitter (ideally family)\nVisual/hearing aids\nNonpharmacological sleep aids, maintain day/night cycle (quiet time at night)\nPain management, early mobilization\n\nAvoid: frequent change of environment (e.g., room changes), restraints, constipation, anticholinergics, catheters"
+  },
+  {
+    "objectID": "delirium_management.html#pharmacologic-interventions",
+    "href": "delirium_management.html#pharmacologic-interventions",
+    "title": "Diagnosis and Management of Delirium",
+    "section": "1.5 Pharmacologic Interventions",
+    "text": "1.5 Pharmacologic Interventions\nPharmacologic interventions have varying efficacy based on etiology; in general the following apply:"
+  },
+  {
+    "objectID": "delirium_management.html#history",
+    "href": "delirium_management.html#history",
+    "title": "Diagnosis and Management of Delirium",
+    "section": "1.1 History",
+    "text": "1.1 History\n\nOnset\nPrecipitating factor\nBaseline level of functioning (history of dementia?)\nRecent infectious symptoms (dysuria, nausea, diarrhea, vomiting, cough)\nSymptoms of CNS infection (neck stiffness, headache, nausea)\nAccess to toxic ingestion or illicit substances including alcohol\nAssociated focal deficits or abnormal movements"
+  },
+  {
+    "objectID": "delirium_management.html#exam",
+    "href": "delirium_management.html#exam",
+    "title": "Diagnosis and Management of Delirium",
+    "section": "1.2 Exam",
+    "text": "1.2 Exam\nFull general exam with attention to signs of intoxication, dehydration and infection; neurologic exam including MMSE with close attention to level of consciousness, attentiveness, and focal deficits. Check and document meningeal signs, asterixis and subtle signs of seizure."
+  },
+  {
+    "objectID": "delirium_management.html#differential",
+    "href": "delirium_management.html#differential",
+    "title": "Diagnosis and Management of Delirium",
+    "section": "1.3 Differential",
+    "text": "1.3 Differential\n\nDrugs (most common, illicit or prescribed)\nEndocrine, Electrolytes, Ethanol, Emotional, Eyes/Ears\nLow O₂, Lack of drugs, Liver\nInfection (second most common, especially in elderly)\nRetention\nIntracranial (stroke/hemorrhage/mass)\nUremia, Under-nutrition, Under-hydration\nMetabolic\n\n\n\n\n\n\n\nTip\n\n\n\nOften two hits:\n\nBaseline brain disease (stroke/PD/dementia), advanced age, sensory impairment (absence of hearing aid/glasses), psychiatric illness, pain, absence of orienting devices (e.g., clock)\n\nPLUS\n\nSystemic/neurological issues (toxin, infection, metabolic derangement, etc.)"
+  },
+  {
+    "objectID": "delirium_management.html#workup",
+    "href": "delirium_management.html#workup",
+    "title": "Diagnosis and Management of Delirium",
+    "section": "1.4 Workup",
+    "text": "1.4 Workup\nDetermined by above but typically includes:\n\nRoutine labs; consider TSH, vitamin B12, VDRL, ammonia, thiamine\n\nLook for: hyper/hypoglycemia, hyper/hypoNa⁺, hyperCa⁺⁺, uremia, hepatic enceph, hypercarbia, hypothyroidism\n\nUrine toxicology screen and alcohol level; review medication list for precipitants\n\nBenzos, opiates, antihistamines, anticholinergics, neuroleptics, DA agonists, AEDs, lithium, TCAs, theophylline, digoxin, steroids, amantadine, H2 blockers, anti-emetics, INH, salicylates, FK506, quinolones, etc.\n\nUrinalysis, culture, and chest x-ray\nNon-contrast CT head ± CTA; MRI for focal deficits\n\nConsider diffuse cortical hypoperfusion or infarcts, R parietal infarcts, bilateral thalamic infarcts (top-of-the-basilar syndrome), brainstem infarct; edema/mass effect secondary to stroke/tumor, carcinomatous meningitis, SDH\n\n± LP if fever, leukocytosis, meningeal signs/symptoms, or any concern for HSV encephalitis\nEEG to rule-out seizures or non-convulsive status and assess degree of encephalopathy"
+  },
+  {
+    "objectID": "delirium_management.html#plan",
+    "href": "delirium_management.html#plan",
+    "title": "Management and Diagnosis of Delirium",
+    "section": "2.5 Plan",
+    "text": "2.5 Plan\n\nDetermine and treat underlying cause, which is often multifactorial\nTreat with IV thiamine empirically if malnourished or alcohol history (500 mg q8h × 3 days [does not pop up in EPIC] and then 100 mg daily)\nRecommend supportive measures: reorientation, encourage sleep-wake cycles, use visual and hearing aids"
+  },
+  {
+    "objectID": "delirium_management.html#delirious-patients-decreased-sensorium-poor-attention",
+    "href": "delirium_management.html#delirious-patients-decreased-sensorium-poor-attention",
+    "title": "Diagnosis and Management of Delirium",
+    "section": "1.6 Delirious patients (decreased sensorium, poor attention)",
+    "text": "1.6 Delirious patients (decreased sensorium, poor attention)\nBenzodiazepines and anticholinergic medications should be avoided. Antipsychotics should be first line.\n\nOften low-dose haloperidol (0.5 to 2 mg) IM, PO, or IV can be helpful.\nCrude guideline: monitor response to the first dose and treat accordingly.\n\nIf improvement is seen → consider halving the dose\nIf no change → may repeat the dose after some interval (1–2 hrs)\nIf the situation worsens → may double the dose\n\nGenerally accepted max effective dose per 24 hr interval is around 15 mg\nWatch for QT prolongation by monitoring with EKG once the patient is compliant\nCommon management: standing haldol in delirium, 0.5–1 mg Q12 (frequently used and evidence-based, albeit weakly)\n\n\n\n\n\n\n\nExtreme agitation\n\n\n\nWhere the potential for mortal self-harm is possible, benzodiazepines at high doses may be necessary, to the point of requiring intubation."
+  },
+  {
+    "objectID": "delirium_management.html#withdrawal",
+    "href": "delirium_management.html#withdrawal",
+    "title": "Diagnosis and Management of Delirium",
+    "section": "1.7 Withdrawal",
+    "text": "1.7 Withdrawal\nFor individuals thought to be in sedative withdrawal or with acute toxidromes, including cocaine intoxication, benzodiazepines are first line for agitation.\nFeatures suggestive of withdrawal: tremor, diaphoresis, self-reported craving, dysautonomia, history of daily RTC alcohol or benzodiazepine use, history of withdrawal.\n\nAtivan is a good choice (available IM, IV, and PO)\nGenerally treat in 1–2 mg doses with monitoring at fixed intervals"
+  },
+  {
+    "objectID": "delirium_management.html#individuals-without-delirium-or-withdrawal",
+    "href": "delirium_management.html#individuals-without-delirium-or-withdrawal",
+    "title": "Diagnosis and Management of Delirium",
+    "section": "1.8 Individuals without delirium or withdrawal",
+    "text": "1.8 Individuals without delirium or withdrawal\nAn effective and safe strategy is a combination of low-dose haldol, ativan, and benadryl:\n\nCommon combination: haldol 2 mg + ativan 2 mg + benadryl 25 or 50 mg\nCan be drawn together and given in one syringe if necessary\nCan be given in stages if people are not responding after the first dose\nOnset of action is similar for oral and IM preparations → patient cooperation decides route"
+  },
+  {
+    "objectID": "delirium_management.html#extreme-agitation",
+    "href": "delirium_management.html#extreme-agitation",
+    "title": "Management and Diagnosis of Delirium",
+    "section": "2.9 Extreme agitation",
+    "text": "2.9 Extreme agitation\nWhere the potential for mortal self-harm is possible, benzodiazepines at high doses may be necessary, to the point of requiring intubation."
+  },
+  {
+    "objectID": "delirium_management.html#drug-induced-extrapyramidal-symptoms-eps",
+    "href": "delirium_management.html#drug-induced-extrapyramidal-symptoms-eps",
+    "title": "Diagnosis and Management of Delirium",
+    "section": "1.9 Drug-induced extrapyramidal symptoms (EPS)",
+    "text": "1.9 Drug-induced extrapyramidal symptoms (EPS)\n\nQuetiapine (Seroquel) has a lower affinity for the D2 receptor and results in fewer EPS symptoms than haloperidol\nSome evidence for its use in the treatment of delirium\nUse in acute agitation limited by unavailability in parenteral forms"
   }
 ]

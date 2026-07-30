@@ -98,6 +98,7 @@ Use the search bar or browse by topic below.
 ## Emergencies
 
 ::: index-list
+-   [Delirium](delirium_management.qmd)
 -   [Neuro-Ophthalmologic Emergencies](neuro_ophthalmologic_emergencies.qmd)
 -   [Parkinson Disease Emergencies](parkinsons_disease_emergencies.qmd)
 -   [Other Movement Disorder Emergencies](other_movement_disorders_emergencies.qmd)
