@@ -67,7 +67,7 @@ flowchart TD
     F -->|No| H[Request approved]
     G --> H
     H --> I[Changes pushed to Github]
-    J --> K[Github updates the website]
+    I --> J[Github updates the website]
 ```
 
 
