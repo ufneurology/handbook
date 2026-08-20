@@ -13,17 +13,16 @@
 
 ## Project Overview
 
-This repository contains the source code for the UF Neurology Resident Handbook, a practical living document written by and for neurology residents. The handbook gathers high-yield clinical notes, admission orders, consult templates (often called “dot phrases”), grading scales, and management algorithms, organized by subspecialty. The goal is to provide a single, easily searchable, mobile-friendly reference that residents can use on the wards or in clinic.
+This repository contains the source code for the UF Neurology Resident Handbook, a practical living document written by and for neurology residents.
 
-The site is generated entirely from plain-text Markdown files using Quarto, an open-source publishing system designed for scientific and technical content. Because the source is simple Markdown, any resident can open a file, make an edit, and see the change appear on the live website after a short publishing cycle.
+The site is built with Quarto, a tool that turns simple text files into a clean, searchable website.
+
+It is deliberately designed as a living document. Content is expected to change as evidence updates, institutional protocols evolve, and residents contribute improvements.
 
 ## How This Site Is Built with Quarto
 
-Quarto is the engine that turns a collection of Markdown files into a polished website. Each clinical page is a `.qmd` file—ordinary Markdown with an optional YAML header at the top that supplies the page title and category. When you run the Quarto render command, the system reads every `.qmd` file, converts the Markdown into HTML, applies the site-wide theme and custom styles, builds the navigation bar from the project configuration, and writes the finished pages into an output folder.
+Currently the Quarto files are prepared and rendered on a computer running RStudio. Those files are then mirrored in this GitHub repository. GitHub takes the finished files and publishes them on the internet as a regular website (HTML pages). GitHub also makes it easy for anyone to suggest improvements or corrections by opening a ‘pull request. A pull request is simply a formal way to suggest a change. You make your edits in a separate copy of the file, then ask the maintainer to review them. If the changes look good, the maintainer accepts (“merges”) them into the main handbook. If something needs fixing, the maintainer can discuss it with you or adjust it before the change goes live.
 
-The project is configured as a “website” rather than a book or a single document. This means Quarto automatically creates a multi-page site with a shared navigation bar, a search box, and consistent styling across all pages. Features such as tabsets (used for the Modified Fisher scale examples), callout boxes, tables, and fenced code blocks for copy-paste notes are all native Quarto constructs and require no extra plugins.
-
-Because Quarto produces static HTML, the resulting site can be hosted anywhere. We chose GitHub Pages because it is free, version-controlled, and tightly integrated with the same repository that holds the source files.
 
 ## Contributing
 
