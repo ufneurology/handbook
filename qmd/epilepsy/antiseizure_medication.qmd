@@ -1,0 +1,57 @@
+---
+title: "Antiseizure Medications (ASMs)"
+format: html
+editor: visual
+---
+
+## General Precautions
+
+All antiseizure medications (ASMs) confer an elevated risk of:
+
+-   Suicidal ideation and behavior
+
+-   Teratogenesis
+
+## Pregnancy Considerations
+
+-   Women becoming pregnant while taking ASMs should enroll in the North American Antiepileptic Drug Pregnancy Registry.
+-   Registry phone: **1-888-233-2334**
+-   Registry website: https://www.aedpregnancyregistry.org/
+
+### Folic Acid Recommendations
+
+Women of childbearing potential should take:
+
+-   Folic acid 1--2 mg daily preconceptually
+-   OR 1 mg daily plus prenatal vitamin
+
+## Adverse Event Reporting
+
+Report ASM adverse events to the FDA MedWatch program:
+
+https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program
+
+### Special Prescribing Considerations
+
+Medications requiring REMS or special documentation\
+(therefore do **not** issue outpatient prescriptions without discussion with the epilepsy attending):
+
+-   Felbamate
+-   Vigabatrin
+-   Fenfluramine
+-   Epidiolex (not scheduled but must be dispensed from a specialty pharmacy)
+
+## Antiseizure Medications Enzymatic Considerations
+
+| Enzyme            | Substrates                                                                                                                                                                            | Enzyme Inhibitors                                                          | Enzyme Inducers                                                                                                                                            |
+|----------------|----------------------|----------------|-------------------|
+| CYP3A4            | cannabidiol, carbamazepine, clobazam, clonazepam, diazepam, ethosuximide, everolimus, felbamate, lacosamide, midazolam, oxcarbazepine, perampanel, stiripentol, tiagabine, zonisamide | ---                                                                        | carbamazepine, eslicarbazepine, felbamate, oxcarbazepine, perampanel, phenobarbital, phenytoin, primidone, rufinamide, stiripentol, topiramate, cenobamate |
+| CYP2C19           | brivaracetam, cannabidiol, clobazam, diazepam, lacosamide, phenobarbital, phenytoin, primidone, stiripentol, valproate, zonisamide                                                    | cannabidiol, eslicarbazepine, felbamate, topiramate, valproate, cenobamate | carbamazepine, phenobarbital, phenytoin, primidone, stiripentol                                                                                            |
+| CYP2C9            | carbamazepine, lacosamide, phenobarbital, primidone, valproate                                                                                                                        | perampanel, stiripentol, valproate, cannabidiol                            | carbamazepine, phenobarbital, primidone                                                                                                                    |
+| CYP2B6            | clobazam, perampanel, valproate                                                                                                                                                       | ---                                                                        | carbamazepine, perampanel                                                                                                                                  |
+| CYP1A2            | stiripentol                                                                                                                                                                           | cannabidiol, stiripentol                                                   | ---                                                                                                                                                        |
+| UGT               | cannabidiol, diazepam, lamotrigine, oxcarbazepine                                                                                                                                     | valproate                                                                  | lamotrigine, phenobarbital, primidone                                                                                                                      |
+| Epoxide hydrolase | carbamazepine 10,11 epoxide                                                                                                                                                           | valproate, brivaracetam                                                    | ---                                                                                                                                                        |
+
+
+[![](/images/epilepsy/asm.png)](https://link.springer.com/article/10.1007/s40263-021-00827-8)

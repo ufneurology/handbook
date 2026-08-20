@@ -1,0 +1,57 @@
+---
+title: "Status Epilepticus Protocol"
+format: html
+editor: visual
+---
+
+## 1. 0--5 min (Immediate Therapy)
+
+a.  Benzodiazepine first line:
+
+-   IV lorazepam 0.1 mg/kg (max 4 mg) or
+
+-   IV diazepam 0.15 mg/kg (max 10 mg) or
+
+-   IM midazolam 0.2 mg/kg (max 10 mg)
+
+Repeat once if seizures persist after 5 min (total ≈ 0.2 mg/kg lorazepam equivalent).
+
+b.  Monitor airway, breathing, hypotension, and respiratory depression
+
+c.  Obtain STAT EEG (call 50061) and activate neurocritical care/epilepsy teams immediately
+
+## 2. 5--30 min (Early Second Line ASM)
+
+*No drug has proven superiority in benzodiazepine refractory CSE*
+
+If seizures continue, choose one IV ASM:
+
+-   Valproate 40 mg/kg over 10 min (max 3000 mg)
+
+-   Levetiracetam 60 mg/kg over 5--10 min (max 4500 mg)
+
+-   Lacosamide 400 mg IV bolus; then 200 mg IV q12 h (max 600 mg/d)
+
+-   Fosphenytoin 20 mg PE/kg at ≤ 150 mg PE/min (max 1500 mg PE), check free phenytoin level 2 h post load (target 2--3 µg/mL); if below goal, re dose: 0.8 × W kg × (desired -- actual) × 10 mg (round to 250 mg)
+
+-   Phenobarbital load 20 mg/kg in 5 mg/kg increments at \~1 mg/kg/min 1,2
+
+Start continuous video EEG monitoring.
+
+## 3. 30 min (Refractory CSE)
+
+If seizures persist after adequate benzo + second line ASM, you may either:
+
+Repeat a bolus of second-line ASM (levetiracetam, phenytoin/fosphenytoin, valproate, lacosamide, or phenobarbital). OR
+
+Initiate continuous anesthetic infusion:
+
+-   Midazolam bolus 0.2 mg/kg IV (repeat up to 0.4 mg/kg), then infusion 0.1--0.6 mg/kg/h (titrate to EEG burst suppression; max \~2.9 mg/kg/h)
+
+-   propofol infusion (1--5 mg/kg/h)
+
+-   pentobarbital infusion (1--5 mg/kg/h)
+
+-   Consider Ketamine infusion (1--5 mg/kg/h) in super refractory cases.
+
+[![](/images/epilepsy/status_differential.jpg){fig-align="center"}](https://pubmed.ncbi.nlm.nih.gov/39637874/)

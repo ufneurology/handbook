@@ -1,114 +1,110 @@
 ---
-title: "UF Neurology Living Hanbook"
+title: "UF Neurology Living Handbook"
 page-layout: full
 toc: false
 ---
 
-::: {.hero}
-
-A practical index for neurology residents.
-
+::: hero
+A practical index for neurology residents.\
 Use the search bar or browse by topic below.
-
 :::
 
 ## Neurological Examination
 
 ::: index-list
--   [Mental Status Exam](mental_status_exam.qmd)
--   [Cranial Nerves](cranial_nerves.qmd)
--   [Motor](motor.qmd)
--   [Sensory](sensory.qmd)
--   [Reflexes](reflexes.qmd)
--   [Movement](movement.qmd)
--   [Gait and Speech](gait_and_speech.qmd)
+-   [Mental Status Exam](qmd/exam/mental_status_exam.qmd)
+-   [Cranial Nerves](qmd/exam/cranial_nerves.qmd)
+-   [Motor](qmd/exam/motor.qmd)
+-   [Sensory](qmd/exam/sensory.qmd)
+-   [Reflexes](qmd/exam/reflexes.qmd)
+-   [Gait and Speech](qmd/exam/gait_and_speech.qmd)
 :::
 
 ## Vascular Neurology
 
 ::: index-list
--   [Stroke Alert](stroke_alert.qmd)
--   [Stroke Admission Orders](stroke_admission_orders.qmd)
--   [TIA Risk Stratification](tia_risk_stratification.qmd)
--   [VA Stroke Alert](va_stroke_alert.qmd)
--   [Intracerebral Hemorrhage](intracerebral_hemorrhage.qmd)
--   [Blood Pressure Pharmacology](blood_pressure_pharmacology.qmd)
--   [Anticoagulation Reversal](anticoagulation_reversal.qmd)
--   [NIHSS and Tools](nihss_and_tools.qmd)
--   [Modified Rankin Scale](modified_rankin_scale.qmd)
+-   [Stroke Alert](qmd/vascular/stroke_alert.qmd)
+-   [Stroke Admission Orders](qmd/vascular/stroke_admission_orders.qmd)
+-   [TIA Risk Stratification](qmd/vascular/tia_risk_stratification.qmd)
+-   [VA Stroke Alert](qmd/vascular/va_stroke_alert.qmd)
+-   [Intracerebral Hemorrhage](qmd/vascular/intracerebral_hemorrhage.qmd)
+-   [Blood Pressure Pharmacology](qmd/vascular/blood_pressure_pharmacology.qmd)
+-   [Anticoagulation Reversal](qmd/vascular/anticoagulation_reversal.qmd)
+-   [NIHSS and Tools](qmd/vascular/nihss_and_tools.qmd)
+-   [Modified Rankin Scale](qmd/vascular/modified_rankin_scale.qmd)
 :::
 
 ## Neurocritical Care
 
 ::: index-list
--   [Subarachnoid Hemorrhage](subarachnoid_hemorrhage.qmd)
--   [ICP and Herniation Management](icp_and_herniation_management.qmd)
--   [Traumatic Brain Injury](tbi.qmd)
--   [Management of PSH](management_of_psh.qmd)
--   [Common Critical Care Pharmacology](common_critical_care_pharmacology.qmd)
--   [Intracranial Vascular Malformation](intracranial_vascular_malformation.qmd)
--   [Common Agents Affecting Neurologic Exam](common_agents_affecting_neurologic_exam.qmd)
--   [Post Cardiac Arrest Management](cardiac_arrest.qmd)
--   [Post-Anoxic Status Epilepticus](post_anoxic_status_epilepticus.qmd)
--   [Brain Death](brain_death.qmd)
--   [Mechanical Ventilation](mechanical_ventilation.qmd)
--   [C-Collar Clearance](cervical_spine_clearance.qmd)
+-   [Subarachnoid Hemorrhage](qmd/neurocritical_care/subarachnoid_hemorrhage.qmd)
+-   [ICP and Herniation Management](qmd/neurocritical_care/icp_and_herniation_management.qmd)
+-   [Traumatic Brain Injury](qmd/neurocritical_care/tbi.qmd)
+-   [Management of PSH](qmd/neurocritical_care/management_of_psh.qmd)
+-   [Common Critical Care Pharmacology](qmd/neurocritical_care/common_critical_care_pharmacology.qmd)
+-   [Intracranial Vascular Malformation](qmd/neurocritical_care/intracranial_vascular_malformation.qmd)
+-   [Common Agents Affecting Neurologic Exam](qmd/neurocritical_care/common_agents_affecting_neurologic_exam.qmd)
+-   [Post Cardiac Arrest Management](qmd/neurocritical_care/cardiac_arrest.qmd)
+-   [Post-Anoxic Status Epilepticus](qmd/neurocritical_care/post_anoxic_status_epilepticus.qmd)
+-   [Brain Death](qmd/neurocritical_care/brain_death.qmd)
+-   [Mechanical Ventilation](qmd/neurocritical_care/mechanical_ventilation.qmd)
+-   [C-Collar Clearance](qmd/neurocritical_care/cervical_spine_clearance.qmd)
 :::
 
 ## Epilepsy
 
 ::: index-list
--   [Seizure Consult](seizure_consult.qmd)
--   [Status Epilepticus](status_epilepticus.qmd)
--   [Antiseizure Medications](antiseizure_medication.qmd)
+-   [Seizure Consult](qmd/epilepsy/seizure_consult.qmd)
+-   [Status Epilepticus](qmd/epilepsy/status_epilepticus.qmd)
+-   [Antiseizure Medications](qmd/epilepsy/antiseizure_medication.qmd)
 :::
 
 ## Neuromuscular
 
 ::: index-list
--   [Myasthenia Gravis Exacerbation](myasthenia_gravis_exacerbation.qmd)
--   [Guillain-Barré Syndrome / AIDP](guillain_barre_syndrome_aidp.qmd)
+-   [Myasthenia Gravis Exacerbation](qmd/neuromuscular/myasthenia_gravis_exacerbation.qmd)
+-   [Guillain-Barré Syndrome / AIDP](qmd/neuromuscular/guillain_barre_syndrome_aidp.qmd)
 :::
 
 ## Neuroimmunology
 
 ::: index-list
--   [Multiple Sclerosis](multiple_sclerosis.qmd)
--   [Optic Neuritis](optic_neuritis.qmd)
--   [Transverse Myelitis](transverse_myelitis.qmd)
--   [Autoimmune Encephalopathy](autoimmune_encephalopathy.qmd)
--   [Neuroinfectious Disease](neuroinfectious_disease.qmd)
+-   [Multiple Sclerosis](qmd/neuroimmunology/multiple_sclerosis.qmd)
+-   [Optic Neuritis](qmd/neuroimmunology/optic_neuritis.qmd)
+-   [Transverse Myelitis](qmd/neuroimmunology/transverse_myelitis.qmd)
+-   [Autoimmune Encephalopathy](qmd/neuroimmunology/autoimmune_encephalopathy.qmd)
+-   [Neuroinfectious Disease](qmd/neuroimmunology/neuroinfectious_disease.qmd)
 :::
 
 ## Neurotology
 
 ::: index-list
--   [Dizziness Evaluation](dizziness_evaluation.qmd)
+-   [Dizziness Evaluation](qmd/neurotology/dizziness_evaluation.qmd)
 :::
 
 ## Headache
 
 ::: index-list
--   [Acute Headache Management](acute_headache.qmd)
--   [DHE Protocol](dhe_protocol.qmd)
--   [Headache in Pregnancy](headache_in_pregnancy.qmd)
--   [Idiopathic Intracranial Hypertension](idiopathic_intracranial_hypertension.qmd)
+-   [Acute Headache Management](qmd/headache/acute_headache.qmd)
+-   [DHE Protocol](qmd/headache/dhe_protocol.qmd)
+-   [Headache in Pregnancy](qmd/headache/headache_in_pregnancy.qmd)
+-   [Idiopathic Intracranial Hypertension](qmd/headache/idiopathic_intracranial_hypertension.qmd)
 :::
 
 ## Emergencies
 
 ::: index-list
--   [Delirium](delirium_management.qmd)
--   [Neuro-Ophthalmologic Emergencies](neuro_ophthalmologic_emergencies.qmd)
--   [Parkinson Disease Emergencies](parkinsons_disease_emergencies.qmd)
--   [Other Movement Disorder Emergencies](other_movement_disorders_emergencies.qmd)
--   [Neuro-Oncology Emergencies](neuro_oncology_emergencies.qmd)
+-   [Delirium](qmd/emergencies/delirium_management.qmd)
+-   [Neuro-Ophthalmologic Emergencies](qmd/emergencies/neuro_ophthalmologic_emergencies.qmd)
+-   [Parkinson Disease Emergencies](qmd/emergencies/parkinsons_disease_emergencies.qmd)
+-   [Other Movement Disorder Emergencies](qmd/emergencies/other_movement_disorders_emergencies.qmd)
+-   [Neuro-Oncology Emergencies](qmd/emergencies/neuro_oncology_emergencies.qmd)
 :::
 
 ## Procedures
 
 ::: index-list
--   [Lumbar Puncture](lumbar_puncture.qmd)
+-   [Lumbar Puncture](qmd/procedures/lumbar_puncture.qmd)
 :::
 
 ## About

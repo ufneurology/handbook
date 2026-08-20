@@ -1,0 +1,3 @@
+# Modified Rankin Scale
+
+![](/images/stroke/mrs.png){fig-align="center"}
