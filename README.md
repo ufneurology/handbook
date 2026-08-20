@@ -58,7 +58,7 @@ Small corrections such as typos, outdated information, or broken links are espec
 
 ```mermaid
 flowchart TD
-    A[Resident wants to improve a page] --> B[Creates GitHub account]
+    A [You want to edit a page] --> B[Creates GitHub account]
     B --> C[Edits file in browser]
     C --> D[Submits Pull Request]
     D --> E[Luis reviews PR]
