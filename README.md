@@ -25,6 +25,12 @@ The project is configured as a “website” rather than a book or a single docu
 
 Because Quarto produces static HTML, the resulting site can be hosted anywhere. We chose GitHub Pages because it is free, version-controlled, and tightly integrated with the same repository that holds the source files.
 
+## Contributing
+
+Anyone with access to the repository can improve the handbook. The preferred method is to open a Pull Request with the proposed changes. The maintainer will review the contribution, make any necessary edits on the local computer, and merge it. Small factual corrections or typo fixes can also be submitted as pull requests.
+
+The design philosophy remains deliberate simplicity: plain Markdown, a single configuration file, one custom stylesheet, and a static hosting model. This keeps the barrier to contribution low while still producing a professional, searchable, and mobile-friendly resource for the residency.
+
 ## Core Files
 
 | File / Folder       | Purpose |
@@ -61,14 +67,25 @@ This arrangement has several practical advantages. Version control is automatic:
 
 ## Recommended Workflow
 
-The cleanest way to maintain the handbook is to treat one computer as the single place where the final version is prepared and pushed. All editing, Quarto rendering, and testing happen locally on that computer. When the changes are ready, they are pushed from the computer to the `main` branch on GitHub, and the live website updates automatically.
+Luis Silva currently maintains the computer that has Quarto installed and from which all final versions of the handbook are rendered and pushed. All official changes to the live site are prepared and published from that machine. Before any update goes live, Luis confirms the content with the relevant section editors to ensure accuracy and consensus.
 
-Other residents who want to contribute open a Pull Request instead of pushing directly to `main`. The maintainer reviews the proposed changes, can pull the branch to the local computer for testing if needed, makes any final adjustments, and then merges the pull request. After the merge, a simple `git pull` on the local computer brings everything back into perfect sync.
+Other residents who wish to contribute open a Pull Request with their proposed changes. Luis reviews the pull request, discusses it with the appropriate section editors when needed, makes any final adjustments on the local computer, and only then merges and publishes the update. After the merge, a simple `git pull` keeps the local computer synchronized with GitHub.
 
-This workflow keeps the repository clean, avoids almost all merge conflicts, and ensures that the live site only updates when the maintainer has verified the result. It also gives the maintainer full control over quality while still allowing the whole residency to contribute safely through pull requests.
+This process keeps a single, controlled point of publication while still allowing the entire residency to contribute safely.
 
-## Contributing
+### Workflow Chart
 
-Anyone with access to the repository can improve the handbook. The preferred method is to open a Pull Request with the proposed changes. The maintainer will review the contribution, make any necessary edits on the local computer, and merge it. Small factual corrections or typo fixes can also be submitted as pull requests.
+```mermaid
+flowchart TD
+    A[Resident proposes change] --> B[Opens Pull Request on GitHub]
+    B --> C[Luis reviews the PR]
+    C --> D{Needs section editor input?}
+    D -->|Yes| E[Discusses with section editor]
+    D -->|No| F[Makes final edits on local computer]
+    E --> F
+    F --> G[Runs quarto render]
+    G --> H[Pushes to main branch]
+    H --> I[Live website updates]
+    I --> J[Luis runs git pull to stay in sync]
 
-The design philosophy remains deliberate simplicity: plain Markdown, a single configuration file, one custom stylesheet, and a static hosting model. This keeps the barrier to contribution low while still producing a professional, searchable, and mobile-friendly resource for the residency.
+
