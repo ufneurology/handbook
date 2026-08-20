@@ -13,64 +13,46 @@
 
 ## Project Overview
 
-This repository contains the source code for the UF Neurology Resident Handbook, a practical living document written by and for neurology residents.
+This repository contains the source code for the UF Neurology Resident Handbook, a practical living document written by and for neurology residents.  
+
+It is deliberately designed as a living document. Content is expected to change as evidence updates, institutional protocols evolve.
+
+## How This Site Is Built
 
 The site is built with Quarto, a tool that turns simple text files into a clean, searchable website.
 
-It is deliberately designed as a living document. Content is expected to change as evidence updates, institutional protocols evolve, and residents contribute improvements.
+Currently the Quarto files are rendered on a computer running RStudio. Those files are then mirrored in this GitHub repository. GitHub takes the finished files and publishes them on the internet as a regular website (HTML pages).
 
-## How This Site Is Built with Quarto
+GitHub also makes it easy for anyone to suggest improvements or corrections by opening a pull request. You make your edits on GitHub in a separate copy of the source file, then the pull request is sent to the root administrator, who will review them. If the changes look good, the root administrator merges them into the main handbook.
 
-Currently the Quarto files are prepared and rendered on a computer running RStudio. Those files are then mirrored in this GitHub repository. GitHub takes the finished files and publishes them on the internet as a regular website (HTML pages). GitHub also makes it easy for anyone to suggest improvements or corrections by opening a ‘pull request. A pull request is simply a formal way to suggest a change. You make your edits in a separate copy of the file, then ask the maintainer to review them. If the changes look good, the maintainer accepts (“merges”) them into the main handbook. If something needs fixing, the maintainer can discuss it with you or adjust it before the change goes live.
+Luis Silva is the current root administrator. He maintains the master files on his local computer and edits them using RStudio, the environment he is most familiar with. Quarto also supports Python and Julia, so future administrators can work in the language they prefer.
 
+Invitations for section editors have been sent. The current editorial team is listed below.
 
-## Contributing
+| Section                        | Editor          |
+|--------------------------------|-----------------|
+| **Editor in Chief**            | Dr. Wilson      |
+| Neurological Examination       | TBD             |
+| Vascular                       | TBD             |
+| Neurocritical Care             | Dr. Maciel      |
+| Epilepsy                       | TBD             |
+| Neuromuscular                  | TBD             |
+| Neuroimmunology                | TBD             |
+| Neurotology                    | TBD             |
+| Headache                       | TBD             |
+| Emergencies                    | Dr. da Silva    |
+| Procedures (Lumbar Puncture)   | TBD             |
+| **New Sections**               |                 |
+| Movement Disorders             | Dr. Almeida     |
+| Sleep                          | TBD             |
+| Neuro-ophthalmology            | TBD             |
+| Behavioral Neurology           | TBD             |
 
-Anyone with access to the repository can improve the handbook. The preferred method is to open a Pull Request with the proposed changes. The maintainer will review the contribution, make any necessary edits on the local computer, and merge it. Small factual corrections or typo fixes can also be submitted as pull requests.
+## How to contribute
 
-The design philosophy remains deliberate simplicity: plain Markdown, a single configuration file, one custom stylesheet, and a static hosting model. This keeps the barrier to contribution low while still producing a professional, searchable, and mobile-friendly resource for the residency.
+ANYONE can contribute to the handbook. To do this you only need a free GitHub account.  
 
-## Core Files
-
-| File / Folder       | Purpose |
-|---------------------|---------|
-| `_quarto.yml`       | Project configuration (navbar, theme, output directory, search, repo links) |
-| `styles.css`        | Custom CSS that gives the site its distinctive look (hero boxes, code blocks, mobile tweaks) |
-| `index.qmd`         | Homepage |
-| `about.qmd`         | About page |
-| `qmd/`              | All clinical content organized by topic |
-| `images/`           | Figures, CT examples, etc. |
-| `docs/`             | Generated website (this is what GitHub Pages serves) |
-
-## Repository Structure
-
-The repository is deliberately simple. Source content lives in the root and in the `qmd/` directory; images are kept in `images/`. The `_quarto.yml` file controls site-wide settings such as the navigation menus and the output directory. After rendering, Quarto places every finished HTML page, CSS file, and asset into the `docs/` folder. That folder is the only thing GitHub Pages needs to serve the public website. Everything inside `docs/` is generated and should never be edited by hand—any manual change will be overwritten on the next render.
-
-## Local Development and Editing
-
-To work on the handbook you need Quarto and Git installed on your computer. After cloning the repository, the most useful command is `quarto preview`. This starts a local web server and watches every source file; as soon as you save a change, the browser refreshes automatically. You can therefore write a new section, adjust a table, or tweak the CSS and see the result instantly without publishing anything.
-
-When you are satisfied with the changes, run `quarto render`. This rebuilds the entire site into the `docs/` folder. You then commit both the source files and the newly generated `docs/` folder and push to the main branch. The push is what triggers the public update.
-
-Editing a clinical page is straightforward. Open the corresponding `.qmd` file, change the text, add or replace images by placing them in the `images/` folder and referencing them with ordinary Markdown image syntax, and save. Tabsets, callouts, and code blocks follow standard Quarto conventions and are documented in the Quarto documentation if you need a reminder of the exact syntax.
-
-## How This Site Is Hosted on GitHub
-
-The handbook is published using GitHub Pages, GitHub’s free static-site hosting service. The key design decision that makes this work cleanly is the line in `_quarto.yml` that sets `output-dir: docs`. This tells Quarto to place every generated HTML file, stylesheet, and image into a folder named `docs` at the root of the repository.
-
-GitHub Pages is then configured (under Settings → Pages) to treat the `/docs` folder on the `main` branch as the source of the public website. When a visitor goes to the site, GitHub simply serves the static files that live inside that folder. There is no server-side processing, no database, and no continuous-integration runner required beyond the ordinary `git push`.
-
-The publishing workflow is therefore very direct. A resident edits one or more `.qmd` files, runs `quarto render` locally, commits both the source changes and the freshly generated contents of the `docs/` folder, and pushes to `main`. Within one to two minutes GitHub detects the new commit, updates the Pages site, and the revised handbook becomes publicly visible. Because the source files and the published HTML live in the same repository, every page on the live site can offer “Edit this page,” “View source,” and “Report an issue” buttons that link straight back to the corresponding file on GitHub.
-
-This arrangement has several practical advantages. Version control is automatic: every change to the handbook is recorded in the Git history. Collaboration is simple: anyone with write access can improve a page and the result appears for everyone after a single push. Rollback is equally easy—if a change introduces an error, the previous commit can be restored and the site reverts immediately. Finally, because the output is pure static HTML, the site is fast, secure, and requires essentially zero ongoing maintenance.
-
-## Recommended Workflow
-
-Luis Silva currently maintains the computer that has Quarto installed and from which all final versions of the handbook are rendered and pushed. All official changes to the live site are prepared and published from that machine. Before any update goes live, Luis confirms the content with the relevant section editors to ensure accuracy and consensus.
-
-Other residents who wish to contribute open a Pull Request with their proposed changes. Luis reviews the pull request, discusses it with the appropriate section editors when needed, makes any final adjustments on the local computer, and only then merges and publishes the update. After the merge, a simple `git pull` keeps the local computer synchronized with GitHub.
-
-This process keeps a single, controlled point of publication while still allowing the entire residency to contribute safely.
+After that, you can edit the file directly in your browser, make your changes, and then submit a 'pull request'. The root administrator will review the suggestion and, if everything looks good, merge it into the main handbook.  
 
 ### Workflow Chart
 
@@ -86,5 +68,26 @@ flowchart TD
     G --> H[Pushes to main branch]
     H --> I[Live website updates]
     I --> J[Luis runs git pull to stay in sync]
+
+```
+
+
+## Repository Structure
+
+The repository is deliberately simple. Source pages are kept in the `qmd/` directory; images are kept in `images/`. 
+The `_quarto.yml` file controls site-wide settings such as the navigation menus and the output directory. 
+
+## Core Files
+
+| File / Folder       | Purpose |
+|---------------------|---------|
+| `_quarto.yml`       | Project configuration (navbar, theme, output directory, search, repo links) |
+| `styles.css`        | Custom CSS that gives the site its distinctive look (hero boxes, code blocks, mobile tweaks) |
+| `index.qmd`         | Homepage |
+| `about.qmd`         | About page |
+| `qmd/`              | All clinical content organized by topic |
+| `images/`           | Figures, CT examples, etc. |
+| `docs/`             | Generated website (this is what GitHub Pages serves) |
+
 
 
