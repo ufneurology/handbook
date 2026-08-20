@@ -63,7 +63,7 @@ flowchart TD
     C --> D[Submit Pull Request]
     D --> E[Luis reviews the request]
     E --> F{Request has clinical content?}
-    F -->|Yes| G[Section editor approves]
+    F -->|Yes| G[Section editor reviews]
     F -->|No| H[Request approved]
     G --> H
     H --> I[Changes pushed to Github]
@@ -86,7 +86,7 @@ The `_quarto.yml` file controls site-wide settings such as the navigation menus 
 | `about.qmd`         | About page |
 | `qmd/`              | All clinical content organized by topic |
 | `images/`           | Figures, CT examples, etc. |
-| `docs/`             | Generated website (this is what GitHub Pages serves) |
+| `docs/`             | Generated website (this is what GitHub Pages serves) | 
 
 
 ## Closing Note
