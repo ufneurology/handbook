@@ -3,19 +3,17 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [How This Site Is Built with Quarto](#how-this-site-is-built-with-quarto)
-- [Core Files](#core-files)
+- [How This Site Is Built](#how-this-site-is-built)
+- [How to Contribute](#how-to-contribute)
 - [Repository Structure](#repository-structure)
-- [Local Development and Editing](#local-development-and-editing)
-- [How This Site Is Hosted on GitHub](#how-this-site-is-hosted-on-github)
-- [Recommended Workflow](#recommended-workflow)
-- [Contributing](#contributing)
+- [Core Files](#core-files)
+- [Closing Note](#closing-note)
 
 ## Project Overview
 
 This repository contains the source code for the UF Neurology Resident Handbook, a practical living document written by and for neurology residents.  
 
-It is deliberately designed as a living document. Content is expected to change as evidence updates, institutional protocols evolve.
+It is deliberately designed as a living document. Content is expected to change as evidence updates, institutional protocols evolve, and residents contribute improvements.
 
 ## How This Site Is Built
 
@@ -48,27 +46,29 @@ Invitations for section editors have been sent. The current editorial team is li
 | Neuro-ophthalmology            | TBD             |
 | Behavioral Neurology           | TBD             |
 
-## How to contribute
+## How to Contribute
 
-ANYONE can contribute to the handbook. To do this you only need a free GitHub account.  
+Anyone can contribute to the handbook. To do this you only need a free GitHub account.
 
-After that, you can edit the file directly in your browser, make your changes, and then submit a 'pull request'. The root administrator will review the suggestion and, if everything looks good, merge it into the main handbook.  
+After creating an account, you can open any page, click the pencil icon to edit the file directly in your browser, make your changes, and then submit a pull request. The root administrator will review the suggestion and, if everything looks good, merge it into the main handbook.
 
-### Workflow Chart
+Small corrections such as typos, outdated information, or broken links are especially welcome and can usually be accepted quickly.
+
+### Contribution Workflow
 
 ```mermaid
 flowchart TD
-    A[Resident proposes change] --> B[Opens Pull Request on GitHub]
-    B --> C[Luis reviews the PR]
-    C --> D{Needs section editor input?}
-    D -->|Yes| E[Discusses with section editor]
-    D -->|No| F[Makes final edits on local computer]
-    E --> F
-    F --> G[Runs quarto render]
-    G --> H[Pushes to main branch]
-    H --> I[Live website updates]
-    I --> J[Luis runs git pull to stay in sync]
-
+    A[Resident wants to improve a page] --> B[Creates free GitHub account]
+    B --> C[Edits the file in the browser]
+    C --> D[Submits a Pull Request]
+    D --> E[Luis reviews the Pull Request]
+    E --> F{Needs section editor input?}
+    F -->|Yes| G[Discusses with section editor]
+    F -->|No| H[Makes final edits on local computer]
+    G --> H
+    H --> I[Renders the site with Quarto]
+    I --> J[Pushes the update to main]
+    J --> K[Live website is updated]
 ```
 
 
@@ -90,4 +90,8 @@ The `_quarto.yml` file controls site-wide settings such as the navigation menus 
 | `docs/`             | Generated website (this is what GitHub Pages serves) |
 
 
+## Closing Note
 
+Thank you for taking the time to read this and for considering a contribution.
+This handbook exists because residents decided it should. Every correction, every clarified note, and every new section makes it more useful for the next person on call.
+Whether you fix a single typo or help build an entire new section, you are part of keeping this resource alive and accurate for the whole residency.
