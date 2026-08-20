@@ -63,12 +63,11 @@ flowchart TD
     C --> D[Submit Pull Request]
     D --> E[Luis reviews the request]
     E --> F{Request has clinical content?}
-    F -->|Yes| G[Discusses with editor]
-    F -->|No| H[Final edits on computer]
+    F -->|Yes| G[Discusses with section editor]
+    F -->|No| H[Final edits on local computer]
     G --> H
-    H --> I[Renders with Quarto]
-    I --> J[Pushes to main]
-    J --> K[Website updates]
+    H --> I[Pushes changes to Github]
+    I --> J[Github updates the website]
 ```
 
 
