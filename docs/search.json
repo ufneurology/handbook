@@ -464,84 +464,84 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "",
     "text": "A practical index for neurology residents.\nUse the search bar or browse by topic below."
   },
   {
     "objectID": "index.html#neurological-examination",
     "href": "index.html#neurological-examination",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "1 Neurological Examination",
     "text": "1 Neurological Examination\n\n\nMental Status Exam\nCranial Nerves\nMotor\nSensory\nReflexes\nGait and Speech"
   },
   {
     "objectID": "index.html#vascular-neurology",
     "href": "index.html#vascular-neurology",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "2 Vascular Neurology",
     "text": "2 Vascular Neurology\n\n\nStroke Alert\nStroke Admission Orders\nTIA Risk Stratification\nVA Stroke Alert\nIntracerebral Hemorrhage\nBlood Pressure Pharmacology\nAnticoagulation Reversal\nNIHSS and Tools\nModified Rankin Scale"
   },
   {
     "objectID": "index.html#neurocritical-care",
     "href": "index.html#neurocritical-care",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "3 Neurocritical Care",
     "text": "3 Neurocritical Care\n\n\nSubarachnoid Hemorrhage\nICP and Herniation Management\nTraumatic Brain Injury\nManagement of PSH\nCommon Critical Care Pharmacology\nIntracranial Vascular Malformation\nCommon Agents Affecting Neurologic Exam\nPost Cardiac Arrest Management\nPost-Anoxic Status Epilepticus\nBrain Death\nMechanical Ventilation\nC-Collar Clearance"
   },
   {
     "objectID": "index.html#epilepsy",
     "href": "index.html#epilepsy",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "4 Epilepsy",
     "text": "4 Epilepsy\n\n\nSeizure Consult\nStatus Epilepticus\nAntiseizure Medications"
   },
   {
     "objectID": "index.html#neuromuscular",
     "href": "index.html#neuromuscular",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "5 Neuromuscular",
     "text": "5 Neuromuscular\n\n\nMyasthenia Gravis Exacerbation\nGuillain-Barré Syndrome / AIDP"
   },
   {
     "objectID": "index.html#neuroimmunology",
     "href": "index.html#neuroimmunology",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "6 Neuroimmunology",
     "text": "6 Neuroimmunology\n\n\nMultiple Sclerosis\nOptic Neuritis\nTransverse Myelitis\nAutoimmune Encephalopathy\nNeuroinfectious Disease"
   },
   {
     "objectID": "index.html#neurotology",
     "href": "index.html#neurotology",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "7 Neurotology",
     "text": "7 Neurotology\n\n\nDizziness Evaluation"
   },
   {
     "objectID": "index.html#headache",
     "href": "index.html#headache",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "8 Headache",
     "text": "8 Headache\n\n\nAcute Headache Management\nDHE Protocol\nHeadache in Pregnancy\nIdiopathic Intracranial Hypertension"
   },
   {
     "objectID": "index.html#emergencies",
     "href": "index.html#emergencies",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "9 Emergencies",
     "text": "9 Emergencies\n\n\nDelirium\nNeuro-Ophthalmologic Emergencies\nParkinson Disease Emergencies\nOther Movement Disorder Emergencies\nNeuro-Oncology Emergencies"
   },
   {
     "objectID": "index.html#procedures",
     "href": "index.html#procedures",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "10 Procedures",
     "text": "10 Procedures\n\n\nLumbar Puncture"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "UF Neurology Living Handbook",
+    "title": "UF Neurology Resident Handbook",
     "section": "11 About",
     "text": "11 About\n\n\nAbout This Handbook"
   },
@@ -2636,7 +2636,7 @@
     "href": "qmd/exam/mental_status_exam.html#classifying-disorders-of-consciousness",
     "title": "UF Neurology Handbook",
     "section": "11 Classifying disorders of consciousness",
-    "text": "11 Classifying disorders of consciousness\n Coma: A state of deep, unarousable unconsciousness with no eye-opening or behavioral response to stimuli.\nUnresponsive Wakefulness Syndrome(Vegetative State): Patients are awake (eye-opening, sleep-wake cycles present) but show no signs of awareness of themselves or their environment.\n\n\n\n\n\n\nWarning\n\n\n\nLocked-in Syndrome:\nAn awake and fully aware state, but the patient cannot move or speak (except sometimes eye blinks) due to tetraplegia, often mistaken for coma."
+    "text": "11 Classifying disorders of consciousness\n\n\n\n\n\nComa: A state of deep, unarousable unconsciousness with no eye-opening or behavioral response to stimuli.\nUnresponsive Wakefulness Syndrome(Vegetative State): Patients are awake (eye-opening, sleep-wake cycles present) but show no signs of awareness of themselves or their environment.\n\n\n\n\n\n\nWarning\n\n\n\nLocked-in Syndrome:\nAn awake and fully aware state, but the patient cannot move or speak (except sometimes eye blinks) due to tetraplegia, often mistaken for coma."
   },
   {
     "objectID": "qmd/exam/motor.html",

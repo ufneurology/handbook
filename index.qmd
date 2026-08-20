@@ -1,5 +1,5 @@
 ---
-title: "UF Neurology Living Handbook"
+title: "UF Neurology Resident Handbook"
 page-layout: full
 toc: false
 ---
