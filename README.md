@@ -64,9 +64,10 @@ flowchart TD
     D --> E[Luis reviews the request]
     E --> F{Request has clinical content?}
     F -->|Yes| G[Section editor approves]
-    F -->|No| H[Changes pushed to Github]
+    F -->|No| H[Request approved]
     G --> H
-    H --> I[Github updates the website]
+    H --> I[Changes pushed to Github]
+    J --> K[Github updates the website]
 ```
 
 
