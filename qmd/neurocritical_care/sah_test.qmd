@@ -14,23 +14,12 @@ category: "Neurocritical Care"
 
 ## Confirm the diagnosis
 
--   Non-contrast CT head; Negative Predictive value is of 100% in the first 6 hours from symptom onset"
--   LP if CT findings are normal and suspicion remains high
-     *Xanthochromia may only be seen 6 hours ago from onset of headache (ictus)*
+-   Non-contrast CT head; Negative Predictive value is 100% in the first 6 hours from headache onset"
+-   LP if CT findings are normal and suspicion remains high *Xanthochromia may only be seen 6 hours ago from onset of headache (ictus)*
 
+## Grade Clinically
 
-## Modified Fisher Scale for vasospasm prediction
-
-| Score | Description                                            |
-|-------|--------------------------------------------------------|
-| 0     | no subarachnoid blood                                  |
-| 1     | thin focal or diffuse SAH; no intraventricular blood   |
-| 2     | thin focal or diffuse SAH; intraventricular extension  |
-| 3     | thick focal or diffuse SAH; no intraventricular blood  |
-| 4     | thick focal or diffuse SAH; intraventricular extension |
-
-
-## Hunt and Hess
+### Hunt and Hess
 
 | Grade | Description                                           |
 |-------|-------------------------------------------------------|
@@ -42,19 +31,50 @@ category: "Neurocritical Care"
 | 4     | stupor, mod/severe hemiparesis                        |
 | 5     | deep coma, decerebrate posturing, moribund appearance |
 
-
-## World Federation of Neurological Surgeons
-
-| Grade | Description                               |
-|-------|-------------------------------------------|
-| I     | GCS 15, no motor deficit                  |
-| II    | GCS 13-14, no motor deficit               |
-| III   | GCS 13-14, motor deficit Present          |
-| IV    | GCS 7-12, motor deficit present or absent |
-| V     | GCS 3-6, motor deficit present or absent  |
-
 ::: callout-note
-For Hunt and Hess, consider adding one grade for severe vasospasm on angiogram or serious systemic disease.
+Consider adding one grade for severe vasospasm on angiogram or severe systemic disease.
+:::
+
+## Grade radiologically
+
+### Modified Fisher Scale
+
+::: panel-tabset
+### Grade 1
+
+**Thin focal or diffuse SAH · No IVH**
+
+-   Thin = \< 1 mm\
+-   Symptomatic vasospasm risk: ≈ 24%
+
+![Grade 1 -- Thin SAH, no IVH](/images/neurocritical_care/sah_1.png)
+
+### Grade 2
+
+**Thin focal or diffuse SAH · With IVH**
+
+-   Thin SAH + any IVH\
+-   Symptomatic vasospasm risk: ≈ 33%
+
+![Grade 2 -- Thin SAH + IVH](/images/neurocritical_care/sah_2.png)
+
+### Grade 3
+
+**Thick focal or diffuse SAH · No IVH**
+
+-   Thick = ≥ 1 mm (or completely filling ≥ 1 cistern/fissure)\
+-   Symptomatic vasospasm risk: ≈ 33%
+
+![Grade 3 -- Thick SAH, no IVH](/images/neurocritical_care/sah_3.png)
+
+### Grade 4
+
+**Thick focal or diffuse SAH · With IVH**
+
+-   Thick SAH + any IVH\
+-   Symptomatic vasospasm risk: ≈ 40% (highest)
+
+![Grade 4 -- Thick SAH + IVH](/images/neurocritical_care/sah_4.png)
 :::
 
 # Events and complications after aneurysmal SAH
@@ -67,7 +87,7 @@ For Hunt and Hess, consider adding one grade for severe vasospasm on angiogram o
 | Cardiopulmonary issues and stress induced cardiomyopathy | Infection related to surgery or ventriculostomy |                                                                 |
 | Sodium and electrolyte abnormalities                     |                                                 |                                                                 |
 
-# SAH Consult Note - Assessment and Plan
+# Consult Note - Assessment and Plan
 
 ```         
 # Subarachnoid Hemorrhage
@@ -94,7 +114,7 @@ DVT prophylaxis: SCDs, no SC heparin
 - STAT CT Head if neurologic deterioration
 ```
 
-# SAH Primary Service - Assessment and Plan
+# Unit 47 - Assessment and Plan
 
 ```         
 Neurological A/P: 
@@ -176,3 +196,4 @@ Interventions: ***
 
 ICU consents obtained: {YES/NO:20566}
 ```
+

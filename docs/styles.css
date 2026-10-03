@@ -208,6 +208,9 @@ pre::before {
   border-radius: 8px 8px 0 0;
   font-family: system-ui, sans-serif;
 }
+.cell pre::before {
+  content: none;
+}
 pre code {
   background: transparent !important;
   color: inherit;

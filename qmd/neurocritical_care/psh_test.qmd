@@ -1,0 +1,342 @@
+---
+title: "Paroxysmal sympathetic hyperactivity assessment measure"
+---
+
+# What is PSH?
+
+-   PSH is a disorder in the regulation of autonomic function that occurs with acute brain injury, most notably severe TBI.
+-   It is the overall severity of brain injury (not location) that increases risk of PSH development.
+-   Mechanisms remain elusive, but the excitatory/inhibitory model (loss of central disinhibition of sympathetic and motor pathways) leading to loss of control of excitatory spinal circuits is well accepted.
+-   Associated conditions: brain trauma, anoxic-brain injury, intracranial hemorrhage, autoimmune encephalitis, ischemic stroke, hydrocephalus, and cerebral fat embolism.
+
+# How does it present?
+
+-   PSH is episodic, usually **starts within 1--2 weeks from injur**y, and on average lasts 2 weeks for severe TBI patients.
+-   Recurrent episodes are often induced by stimulation, and resolve spontaneously after a variable period of time or after administration of an abortive medication.
+-   Core clinical features include tachycardia, hypertension, tachypnea, hyperthermia, sweating, and/or increased muscle tone with possible dystonic posturing
+
+# How to diagnose?
+
+-   If you suspect PSH, the immediate next step is to **rule-out mimics**
+-   **PSH mimics**: infection, pulmonary embolism, neuroleptic malignant syndrome, autonomic dysreflexia in spinal cord injury, seizures, and hydrocephalus
+-   The **Paroxysmal Sympathetic Hyperactivity---Assessment Measure** can assist in the diagnosis of PSH, also being designed for routine daily collection. Serial collection of PSH-AM data allows clinical certainty to increase or decrease along with the evolution of the patient's clinical status
+
+## PSH-AM Calculator
+
+``` {ojs}
+//| panel: input
+viewof hr = Inputs.number({label: "Heart rate (beats/min)", value: 88, min: 30, max: 250, step: 1})
+viewof rr = Inputs.number({label: "Respiratory rate (breaths/min)", value: 16, min: 4, max: 60, step: 1})
+viewof sbp = Inputs.number({label: "Systolic blood pressure (mmHg)", value: 120, min: 60, max: 260, step: 1})
+viewof temp = Inputs.number({label: "Temperature (°C)", value: 36.8, min: 32, max: 43, step: 0.1})
+viewof sweat = Inputs.select(["None", "Mild — moist skin", "Moderate — beads or drops of sweat", "Severe — profuse sweating"], {label: "Sweating", value: "None"})
+viewof posture = Inputs.select(["None", "Mild — increased tone, no treatment needed", "Moderate — increased tone requiring treatment", "Severe — tone refractory to treatment"], {label: "Posturing during episodes", value: "None"})
+```
+
+``` {ojs}
+//| panel: input
+viewof dlt = Inputs.checkbox([
+  "Clinical features occur simultaneously",
+  "Episodes are paroxysmal in nature",
+  "Sympathetic over-reactivity to normally non-painful stimuli",
+  "Features persist ≥ 3 consecutive days",
+  "Features persist ≥ 2 weeks post-brain injury",
+  "Features persist despite treatment of alternative differential diagnoses",
+  "Medication administered to decrease sympathetic features",
+  "≥ 2 episodes daily",
+  "Absence of parasympathetic features during episodes",
+  "Absence of other presumed cause of features",
+  "Antecedent acquired brain injury"
+], {label: "Diagnosis Likelihood Tool — tick each feature that is present"})
+```
+
+```{ojs}
+function band(x, cuts) {
+  if (x < cuts[0]) return 0;
+  if (x < cuts[1]) return 1;
+  if (x < cuts[2]) return 2;
+  return 3;
+}
+
+hr_score = band(hr, [100, 120, 140])
+rr_score = band(rr, [18, 24, 30])
+sbp_score = band(sbp, [140, 160, 180])
+temp_score = band(temp, [37, 38, 39])
+sweat_score = ["None", "Mild — moist skin", "Moderate — beads or drops of sweat", "Severe — profuse sweating"].indexOf(sweat)
+posture_score = ["None", "Mild — increased tone, no treatment needed", "Moderate — increased tone requiring treatment", "Severe — tone refractory to treatment"].indexOf(posture)
+
+cfs = hr_score + rr_score + sbp_score + temp_score + sweat_score + posture_score
+cfs_severity = cfs === 0 ? "None" : cfs <= 6 ? "Mild" : cfs <= 12 ? "Moderate" : "Severe"
+dlt_score = dlt.length
+total = cfs + dlt_score
+likelihood = total < 8 ? "Unlikely" : total <= 16 ? "Possible" : "Probable"
+tone = total < 8 ? "#1b7f4e" : total <= 16 ? "#9a6b00" : "#9b2335"
+```
+
+```{ojs}
+html`<div style="border:1px solid #d7dce3;border-radius:12px;padding:1.1rem 1.25rem;margin-top:0.5rem;background:#fbfcfd">
+  <div style="display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;align-items:baseline">
+    <div>
+      <div style="font-size:0.78rem;letter-spacing:0.04em;text-transform:uppercase;color:#667">PSH diagnostic likelihood</div>
+      <div style="font-size:1.8rem;font-weight:700;color:${tone}">${likelihood}</div>
+    </div>
+    <div style="text-align:right">
+      <div style="font-size:0.78rem;letter-spacing:0.04em;text-transform:uppercase;color:#667">Combined total</div>
+      <div style="font-size:1.8rem;font-weight:700">${total} <span style="font-size:1rem;font-weight:500;color:#667">/ 29</span></div>
+    </div>
+  </div>
+  <table style="width:100%;margin-top:0.8rem;border-collapse:collapse;font-size:0.95rem">
+    <tbody>
+      <tr><td>Heart rate</td><td style="text-align:right">${hr} → ${hr_score}</td></tr>
+      <tr><td>Respiratory rate</td><td style="text-align:right">${rr} → ${rr_score}</td></tr>
+      <tr><td>Systolic blood pressure</td><td style="text-align:right">${sbp} → ${sbp_score}</td></tr>
+      <tr><td>Temperature</td><td style="text-align:right">${temp.toFixed(1)} → ${temp_score}</td></tr>
+      <tr><td>Sweating</td><td style="text-align:right">${sweat_score}</td></tr>
+      <tr><td>Posturing</td><td style="text-align:right">${posture_score}</td></tr>
+      <tr style="border-top:1px solid #d7dce3"><td><strong>CFS subtotal</strong></td><td style="text-align:right"><strong>${cfs} / 18 · ${cfs_severity}</strong></td></tr>
+      <tr><td><strong>DLT subtotal</strong></td><td style="text-align:right"><strong>${dlt_score} / 11</strong></td></tr>
+    </tbody>
+  </table>
+  <p style="margin:0.8rem 0 0;color:#556;font-size:0.85rem">Unlikely < 8 · Possible 8–16 · Probable ≥ 17. CFS severity: None 0, mild 1–6, moderate 7–12, severe ≥ 13.</p>
+</div>`
+```
+
+# How to manage PSH
+
+-   The goals of managing PSH are to **reduce pain, dampen the sympathetic system, and decrease muscle tone**
+-   **Reduce triggers**, including: urinary retention, constipation, gastric paresis, spasticity, poor positioning (where spasticity may contribute), allodynic responses to poorly fitting orthotics, pressure sores and other causes of pain, environmental factors such as ambient temperature and noise.
+-   Supportive treatment (hydration, reduction of fever, correction of electrolytes, nutrition) should be optimised in parallel to pharmacological treatment for PSH
+-   **Sedating drugs (benzodiazepines, anesthetics) should be minimized** wherever possible when treating PSH
+-   **Opiates are often necessary for PSH early after injury**. However, should be tapered when possible at later stages (med/surg, rehab).
+-   If severe symptoms **persist for months**, more invasive procedures can be considered, such as Intratechal Baclofen for spasticity.
+
+```{=html}
+<style>
+.psh-wrap { overflow-x: auto; margin: 1rem 0 1.5rem; }
+.psh-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+.psh-table th {
+  background: #1f2937;
+  color: #f9fafb;
+  text-align: left;
+  font-weight: 600;
+  padding: 0.55rem 0.7rem;
+  position: sticky;
+  top: 0;
+}
+.psh-table td {
+  padding: 0.5rem 0.7rem;
+  vertical-align: top;
+  border-bottom: 1px solid #e5e7eb;
+}
+.psh-table tr:last-child td { border-bottom: none; }
+.psh-table .drug { font-weight: 650; white-space: nowrap; }
+.psh-table .dose { font-variant-numeric: tabular-nums; }
+.badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 650;
+  letter-spacing: 0.01em;
+  padding: 0.15rem 0.45rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.cat-sympatholytic td { background: #eff6ff; }
+.cat-sympatholytic .badge { background: #1d4ed8; color: #fff; }
+.cat-pain td { background: #fff7ed; }
+.cat-pain .badge { background: #c2410c; color: #fff; }
+.cat-tone td { background: #f5f3ff; }
+.cat-tone .badge { background: #6d28d9; color: #fff; }
+.cat-fever td { background: #fdf2f8; }
+.cat-fever .badge { background: #be185d; color: #fff; }
+.psh-note {
+  font-size: 0.85rem;
+  color: #4b5563;
+  border-left: 3px solid #d1d5db;
+  padding-left: 0.75rem;
+  margin-top: 0.4rem;
+}
+.psh-legend { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.4rem 0 0.6rem; }
+</style>
+
+<div class="psh-legend" aria-label="Category legend">
+  <span class="badge" style="background:#1d4ed8;color:#fff;">Sympatholytic</span>
+  <span class="badge" style="background:#c2410c;color:#fff;">Pain / abortive</span>
+  <span class="badge" style="background:#6d28d9;color:#fff;">Muscle tone</span>
+  <span class="badge" style="background:#be185d;color:#fff;">Fever, diaphoresis</span>
+</div>
+
+<div class="psh-wrap">
+<table class="psh-table">
+  <caption style="caption-side:top; text-align:left; font-weight:650; padding-bottom:0.4rem;">
+    Pharmacologic treatment of PSH
+  </caption>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Medication</th>
+      <th>Mechanism</th>
+      <th>Dose</th>
+      <th>Adverse effects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="cat-sympatholytic">
+      <td><span class="badge">Sympatholytic</span></td>
+      <td class="drug">Propranolol</td>
+      <td>Nonselective β-blocker</td>
+      <td class="dose">IV 6–80 mg per 24 h, or 1–2 mg q4–6h</td>
+      <td>Dizziness, bradycardia, hypotension, bronchospasm</td>
+    </tr>
+    <tr class="cat-sympatholytic">
+      <td><span class="badge">Sympatholytic</span></td>
+      <td class="drug">Clonidine</td>
+      <td>Central α2-agonist</td>
+      <td class="dose">100 μg PO q8–12h; titrate</td>
+      <td>Dry mouth, dizziness, constipation, sedation, hypotension</td>
+    </tr>
+    <tr class="cat-sympatholytic">
+      <td><span class="badge">Sympatholytic</span></td>
+      <td class="drug">Guanfacine</td>
+      <td>α2-agonist (brain and spinal cord)</td>
+      <td class="dose">0.5–2 mg PO BID</td>
+      <td>Dry mouth, dizziness, constipation, sedation, hypotension</td>
+    </tr>
+    <tr class="cat-sympatholytic">
+      <td><span class="badge">Sympatholytic</span></td>
+      <td class="drug">Dexmedetomidine</td>
+      <td>α2-agonist (brain and spinal cord)</td>
+      <td class="dose">IV 0.2–0.7 μg/kg/h; titrate to symptoms</td>
+      <td>Hypotension, bradycardia, sedation</td>
+    </tr>
+    <tr class="cat-pain">
+      <td><span class="badge">Pain</span></td>
+      <td class="drug">Morphine</td>
+      <td>μ-opioid agonist (brain and spinal cord)</td>
+      <td class="dose">1–10 mg IV bolus</td>
+      <td>Sedation, hypotension, respiratory depression, constipation, tolerance</td>
+    </tr>
+    <tr class="cat-pain">
+      <td><span class="badge">Pain</span></td>
+      <td class="drug">Fentanyl</td>
+      <td>μ-opioid agonist (brain and spinal cord)</td>
+      <td class="dose">Patch 12–100 μg/h</td>
+      <td>Sedation, hypotension, respiratory depression, constipation, tolerance</td>
+    </tr>
+    <tr class="cat-pain">
+      <td><span class="badge">Pain</span></td>
+      <td class="drug">Gabapentin</td>
+      <td>α2δ subunit of presynaptic Ca<sup>2+</sup> channels</td>
+      <td class="dose">600–1200 mg PO TID</td>
+      <td>Sedation</td>
+    </tr>
+    <tr class="cat-pain">
+      <td><span class="badge">Pain</span></td>
+      <td class="drug">Acetaminophen</td>
+      <td>COX pathway inhibition</td>
+      <td class="dose">650–1000 mg PO</td>
+      <td>Hepatotoxicity</td>
+    </tr>
+    <tr class="cat-tone">
+      <td><span class="badge">Muscle tone</span></td>
+      <td class="drug">Baclofen</td>
+      <td>GABA-B agonist</td>
+      <td class="dose">15–30 mg PO q6h</td>
+      <td>Sedation, dizziness, hypotension, constipation, respiratory depression</td>
+    </tr>
+    <tr class="cat-tone">
+      <td><span class="badge">Muscle tone</span></td>
+      <td class="drug">Dantrolene</td>
+      <td>Blocks sarcoplasmic reticulum Ca<sup>2+</sup> release</td>
+      <td class="dose">0.5–2 mg/kg IV q6–8h; 25–100 mg PO TID–QID</td>
+      <td>Hepatotoxicity, respiratory depression</td>
+    </tr>
+    <tr class="cat-tone">
+      <td><span class="badge">Muscle tone</span></td>
+      <td class="drug">Midazolam</td>
+      <td>GABA-A benzodiazepine site</td>
+      <td class="dose">1–2 mg IV bolus</td>
+      <td>Respiratory depression, hypotension</td>
+    </tr>
+    <tr class="cat-tone">
+      <td><span class="badge">Muscle tone</span></td>
+      <td class="drug">Lorazepam</td>
+      <td>GABA-A benzodiazepine site</td>
+      <td class="dose">0.5–8 mg/day PO in divided doses</td>
+      <td>Respiratory depression, hypotension</td>
+    </tr>
+    <tr class="cat-fever">
+      <td><span class="badge">Fever, diaphoresis</span></td>
+      <td class="drug">Bromocriptine</td>
+      <td>Dopamine D2 agonist</td>
+      <td class="dose">1.25 mg PO q12h; titrate, max 40 mg/day</td>
+      <td>Nausea, GI upset, diarrhea, hypotension</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+```
+
+# Dot phrase
+```
+# Paroxysmal Sympathetic Hyperactivity
+## Assessment
+Onset of severe brain injury:
+
+To establish diagnosis, exclude / treat mimics before attributing symptoms to PSH:
+- Infection, PE, neuroleptic malignant syndrome, seizures
+
+Longitudinal PSH Assessment Measure:
+First consult day (__/__):
+
+## Plan
+Remove triggers such as Pain, Urinary retention, constipation, gastric paresis, spasticity, poor positioning, poorly fitting orthotics, pressure sores, ambient heat/cold and noise
+- Bite block if trismus
+
+Supportive management must occur in parallel with pharmacological therapies; Hydration, normotermia, electrolytes optimization, nutrition (NG or PEG early)
+
+Pharmacological managment
+# Preventive medications
+Sympatholytics
+- Propranolol: PO 20-60mg q4-q6h; monitor for hypotension and bradycardia
+- Guanfacine: PO 0.5-2mg q12h; monitor for hypotension and sedation
+- Clonidine: PO 100-400mcg q8-12h with max of 1200mcg/day; monitor for hypotension and sedation
+- Fentanyl: Transdermal Patch 12–100 μg/h; monitor for sedation and constipation
+
+
+Pain control
+- Acetaminophen: 650–1000mg PO q6h; monitor for liver injury
+- Gabapentin: 600–1200mg TID PO; monitor for hypotension sedation
+
+Spasticity/Posturing Management
+- Baclofen: 5-30mg q6-q12h; monitor for sedation, constipation and hypotension
+- Dantrolene: 25–100mg PO TID–QID; monitor for respiratory dpression and sedation
+
+Fever
+- Acetaminophen 650–1000mg PO q6h; monitor for liver injury
+- Bromocriptine: 1.25-20mg PO q12h; monitor for diarrhea and hypotension
+
+# Abortive medications
+Sympatholytics
+- Propofol: 10mg IV bolus; infusion ≤4 mg/kg/h, ventilated patients only; monitor for hypotension and sedation
+
+Pain control
+- Morphine IV 1-10mg; monitor for hypotension due to venodilation
+
+Spasticity/Posturing Management
+AVOID RECURRENT USE OF BENZODIAZEPINES
+- Midazolam (Versed): IV 1-2mg; monitor for sedation and hypotension
+- Lorazepam (Ativan): IV 0.5–2mg; monitor for sedation and hypotension
+```
+
+
+
+
+
+
+

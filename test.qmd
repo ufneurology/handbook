@@ -1,0 +1,332 @@
+---
+title: "Aneurysmal subarachnoid hemorrhage"
+category: "Neurocritical Care"
+---
+
+# Epidemiology
+
+-   \~3% of all strokes
+-   Incidence ≈ 3 per 100,000
+-   \~30% 90-day mortality among hospitalized patients
+-   Mean age at presentation ≈ 55 years, younger than other stroke patients leading to more years of life lost due to disability
+-   Patients with ≥2 first-degree relatives with aneurysms have \~12% higher likelihood of having an aneurysm
+-   [Posterior circulation aneurysms have the highest mortality](https://www.neurology.org/doi/10.1212/WNL.0000000000214709).
+
+# Initial assessment
+
+Most common symptom of aneurysmal SAH is **headache**. Neck stiffness/pain is an important part of the history and is built into the Ottawa SAH rule. **Ictus** (time of headache onset) is critical for work-up and management.
+
+**Thunderclap headache**: specific pattern of severe headaches that reaches maximum intensity usually in less than one minute, but up to 1 hour.
+
+## Thunderclap headache differential
+
+| Pattern              | Differential                                                                                                                            |
+|-----------------|-------------------------------------------------------|
+| Thunderclap headache | aSAH, pituitary apoplexy, arterial dissection, CVT/DVST, hypertensive emergency, RCVS, intracranial hypotension, primary thunderclap HA |
+
+::: callout-tip
+Apply the **Ottawa SAH rule** to rule out clinically (close to 100% sensitiivty).
+
+Imaging required if the patient has **≥1** of:
+
+-   Age \>40 years of age
+
+-   Thunderclap headache
+
+-   Neck pain / stiffness
+
+-   Limited neck flexion on exam
+
+-   Onset during exertion
+
+-   Witnessed loss of consciousness
+
+    If all of the above are **absent**, patient can be discharged without further work-up
+:::
+
+# Work-up
+
+-   **Ictus \<6 h from presentation AND no new neurological deficits:** non-contrast CT head is sufficient to rule out SAH *if* the scan is read by a fellowship-trained neuroradiologist (NPV approaches 100%).
+-   **Ictus \>6 h OR new neurological deficits:** CT head → if negative, LP looking for **xanthochromia** which may not be detectable in the first 6 hours after ictus.
+
+# Grading
+
+Grading helps predict delayed cerebral ischemia (DCI) and future functional outcome.
+
+## Exam-based: Hunt and Hess
+
+| Grade | Description                                           |
+|-------|-------------------------------------------------------|
+| 0     | Unruptured aneurysm                                   |
+| 1     | Asymptomatic or mild HA and nuchal rigidity           |
+| 1a    | No meningeal signs but fixed neurologic deficit       |
+| 2     | CN palsy, moderate/severe HA, nuchal rigidity         |
+| 3     | Mild focal deficit, confusion or drowsiness           |
+| 4     | Stupor, moderate/severe hemiparesis                   |
+| 5     | Deep coma, decerebrate posturing, moribund appearance |
+
+## Imaging-based: Modified Fisher Scale
+
+::: panel-tabset
+### Grade 1
+
+**Thin focal or diffuse SAH · No IVH**
+
+-   Thin = \<1 mm
+-   Symptomatic vasospasm risk: ≈ 24%
+
+![Grade 1 --- Thin SAH, no IVH](/images/neurocritical_care/sah_1.png)
+
+### Grade 2
+
+**Thin focal or diffuse SAH · With IVH**
+
+-   Thin SAH + any IVH
+-   Symptomatic vasospasm risk: ≈ 33%
+
+![Grade 2 --- Thin SAH + IVH](/images/neurocritical_care/sah_2.png)
+
+### Grade 3
+
+**Thick focal or diffuse SAH · No IVH**
+
+-   Thick = ≥1 mm (or completely filling ≥1 cistern/fissure)
+-   Symptomatic vasospasm risk: ≈ 33%
+
+![Grade 3 --- Thick SAH, no IVH](/images/neurocritical_care/sah_3.png)
+
+### Grade 4
+
+**Thick focal or diffuse SAH · With IVH**
+
+-   Thick SAH + any IVH
+-   Symptomatic vasospasm risk: ≈ 40% (highest)
+
+![Grade 4 --- Thick SAH + IVH](/images/neurocritical_care/sah_4.png)
+:::
+
+::: callout-warning
+**"Irreversible injury" / "unsalvageable"** can be labeled only after correction of seizures, hydrocephalus, hyponatremia, and hypothermia.
+
+Absent brainstem reflexes on arrival must be rechecked after those corrections and again at 24 h.
+
+Futility *may* be considered if:
+
+-   Persistently absent brainstem reflexes
+-   No purposeful response to pain
+-   Large infarct on initial CT
+-   Global cerebral edema
+:::
+
+# Immediate management
+
+**Primary goal: secure the aneurysm to prevent rebleeding.**
+
+-   Ideal: within 24 h
+-   Acceptable: 24--72 h
+-   Admit to a **NeuroICU**. High-volume units with expert nursing reduce poor functional outcomes --- serial exam remains paramount for DCI diagnosis.
+
+Discuss surgical options with neurosurgery.
+
+::: callout-important
+## Dicussing of aneurysm securament with Neurosurgery
+
+-   **Coiling** is usually preferred when anatomically feasible, it is associated with better 1-year functional outcomes.
+-   **Clipping** should be considered for aneurysms at high risk of rerupture and may be preferred in patients **\<40 years** because of greater durability (coiled aneurysms have a higher late rerupture rate).
+-   **High-density stents / flow diverters (e.g. Pipeline)** for wide-neck, fusiform, or blister aneurysms not amenable to coiling or clipping.
+-   Stents and flow diverters **require DAPT**, which raises bleeding risk --- use only when there is no other viable option.
+
+Per guidelines, aneurysm securament is still recommended in high modified Fisher grades and in older patients. The only situation without proven benefit is **irreversible neurological injury**.
+:::
+
+# Early management (first 72 hours)
+
+## Rebleeding
+
+-   Occurs in \~5% of patients within the first 24 h.
+-   Reduce BP variability; avoid both hypo- and hypertension.
+-   No single data-driven SBP target; a reasonable pre-secure goal is **SBP 140--160 mmHg**, reduced gradually.
+-   Level 1 / expert opinion: **reverse anticoagulation**.
+
+::: callout-note
+**What about TXA?**
+
+The ULTRA trial showed no outcome benefit. Tranexamic acid has therefore largely fallen out of use.
+:::
+
+## Hydrocephalus
+
+-   Can be early or late.
+-   More common with IVH, but can occur with no visible intraventricular blood.
+-   Clinical clues: AMS or restricted upward gaze (tectal compression from third-ventricle dilation).
+-   Treatment: CSF drainage (EVD vs lumbar drain).
+
+## Seizures
+
+-   Can occur at any time (early or late).
+-   **Do not** use routine seizure prophylaxis except in high-risk patients.
+-   No guideline indication for prophylaxis. If seizures are documented, treat for **at least 7 days**.
+
+## Elevated ICP
+
+Consider ICP monitoring if:
+
+-   GCS \<8
+
+-   Neurological deterioration
+
+-   Hydrocephalus
+
+-   Cerebral edema
+
+# Late Managment
+
+Most important is **Delayed cerberal ishcemia**
+
+## Delayed cerberal ishcemia
+
+-   Occurs in \~30% of patients, mainly **days 4--14** from ictus.
+-   **Leading cause of disability among survivors.**
+-   Diagnosis is elusive: classically tied to angiographic spasm, but small-vessel spasm may be invisible to current imaging.
+
+::: callout-important
+Three interventions prevent DCI:
+
+1\. **Enteral nimodipine** (Class 1A)
+
+2\. **Euvolemia**
+
+3\. **Avoidance of hypotension (MAP \> 65), hypertension (SBP \< 160) and minimizing blood pressure variability**
+:::
+
+### Monitoring
+
+Serial clinical exam remains the best tool. Complementary tests are most useful in high-grade aSAH, coma, or a fluctuating exam.
+
+| Modality                      | Role / performance                       | Recommendation     |
+|--------------------|-----------------------------------|-----------------|
+| Clinical exam                 | Best first-line diagnosis of DCI         | Standard of care   |
+| DSA                           | Gold standard for angiographic vasospasm | Reference standard |
+| CTA                           | Sensitivity \~82%, specificity \~97%     | 2a / Class B       |
+| CT perfusion (CTP)            | Detects tissue-level hypoperfusion       | Adjunct            |
+| TCD                           | Screening for large-vessel spasm         | 2a / Class B       |
+| EEG                           | Useful in comatose / high-grade patients | 2a / Class B       |
+| PbtO2, lactate/pyruvate ratio | Multimodal neuromonitoring               | 2b / Class B       |
+
+#### TCD interpretation (MCA)
+
+Common thresholds used in practice (always interpret with the exam and other imaging):
+
+| Finding                                           | Interpretation                                     |
+|---------------------------------|---------------------------------------|
+| Mean flow velocity (MFV) \<120 cm/s               | Unlikely significant MCA spasm                     |
+| MFV 120--200 cm/s                                 | Possible / moderate spasm --- correlate clinically |
+| MFV \>200 cm/s                                    | High likelihood of severe MCA spasm                |
+| Lindegaard ratio (MCA MFV / extracranial ICA) \<3 | Hyperemia more likely than spasm                   |
+| Lindegaard ratio 3--6                             | Mild--moderate spasm                               |
+| Lindegaard ratio \>6                              | Severe spasm                                       |
+| Rapid rise in MFV day-to-day                      | Concerning even before absolute cutoffs            |
+
+TCD is operator-dependent, limited for posterior circulation and distal vessels, and can miss small-vessel DCI.
+
+#### EEG ratios
+
+In high-grade or comatose patients, continuous EEG can flag DCI before a clinical change:
+
+-   Rising **alpha/delta ratio (ADR)** deterioration or loss of reactivity is concerning.
+-   Focal slowing or new epileptiform activity may accompany ischemia or seizure.
+-   Quantitative EEG trends (ADR, relative alpha variability) are more useful than isolated snapshots.
+
+#### CT perfusion
+
+-   Prolonged MTT or Tmax with relatively preserved CBV suggests salvageable hypoperfusion (treatable DCI) rather than completed infarct.
+-   Use as an adjunct when exam is unreliable, not as a standalone rule-in/rule-out.
+
+### Treatment of DCI
+
+-   **Induced hypertension** is first-line
+-   Endovascular rescue (IA vasodilators such as verapamil or milrinone, angioplasty) may be considered if induced hypertension fails.
+
+## Long-term
+
+Screening for **depression, anxiety, and sexual dysfunction** improves long-term outcomes.
+
+# NCC H&P --- Assessment and Plan
+
+```         
+Neurological A/P:
+Principal Problem(s): ***
+Onset of headache:
+Hunt & Hess: | Modified Fisher:
+Pain/sedation: Acetaminophen 1 g q6h if no liver disease | Codeine 30–60 mg q6h PRN
+
+- Nimodipine 60 mg PO/NGT q4h × 21 days for DCI prophylaxis
+- Transition to 30 mg q2h if hypotension on typical dosing
+- Neurosurgery consultation for DSA and/or EVD
+- EVD if depressed LOC and hydrocephalus
+- Neuro checks q1h
+- STAT CT head if neurologic deterioration
+- Avoid Valsalva: antiemetics, antitussives, stool softeners as below
+- Daily electrolytes to monitor for hyponatremia
+- Bedrest
+- PT/OT: {YES/NO:20566}
+
+Respiratory A/P:
+Airway: ***
+Vent settings: @VENTSETTINGS@
+Pulmonary toilet: ***
+
+Cardiovascular A/P:
+MAP/SBP goal: SBP 140–160 prior to securing, MAP >65
+- PRN labetalol 10 mg IV if HR >60, hydralazine 10 mg IV if HR <60
+- Refractory HTN: nicardipine infusion, titrate to effect
+- Consider arterial line
+Drips: ***
+TTE: ***
+ECG: ***
+
+Infectious A/P:
+ABX: ***
+Cultures: ***
+C. auris screening (if inmate or medical facility resident): ***
+
+Renal A/P:
+- Strict I/O, maintain euvolemia
+- Daily electrolytes to monitor for hyponatremia
+Volume status:
+@INTAKEOUTPUTBRIEF@
+Fluid/drips: ***
+Foley: {YES/NO:20566}, {should be inserted}
+Electrolyte protocol: {YES/NO:20566}
+
+GI / Nutrition A/P:
+- Bedside dysphagia evaluation by nursing
+- No oral meds prior to bedside dysphagia screen
+Avoid Valsalva
+- Anti-emetics:
+  - Ondansetron 4 mg IV/PO q6h PRN, avoid if QTc >420 ms
+  - Prochlorperazine 10 mg IV q6h PRN
+- Anti-tussives:
+  - Dextromethorphan 15–30 mg PO q6h PRN
+- Stool softeners:
+  - Polyethylene glycol 17 g PO daily
+  - Senna 8.6 mg PO nightly
+  - Docusate 100 mg PO BID PRN
+Diet: Pending swallow eval
+Nutrition route: Pending swallow eval
+Stress ulcer PPx:
+
+Endocrine A/P:
+Insulin: ***
+
+Hematologic A/P:
+PPx: SCDs, no SC heparin until secured
+Antiplatelets/Anticoagulants: Hold all (unless stent / flow diverter mandates DAPT)
+CVL: {YES/NO:20566}; date placed: ***
+
+Wound A/P:
+Skin intact: {YES/NO:20566}
+Interventions: ***
+
+ICU consents obtained: {YES/NO:20566}
+```

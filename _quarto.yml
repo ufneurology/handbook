@@ -1,12 +1,15 @@
 project:
   type: website
   output-dir: docs
+execute:
+  echo: false
 
 website:
   title: "UF Neurology Handbook"
   search: true
   repo-url: https://github.com/ufneurology/handbook
   repo-actions: [edit, source, issue]
+  favicon: favicon.png
 
   navbar:
     left:
@@ -15,85 +18,132 @@ website:
 
       - text: Neurological Examination
         menu:
-          - mental_status_exam.qmd
-          - cranial_nerves.qmd
-          - motor.qmd
-          - sensory.qmd
-          - reflexes.qmd
-          - movement.qmd
-          - gait_and_speech.qmd
+          - text: Mental Status Exam
+            href: qmd/exam/mental_status_exam.qmd
+          - text: Cranial Nerves
+            href: qmd/exam/cranial_nerves.qmd
+          - text: Motor
+            href: qmd/exam/motor.qmd
+          - text: Sensory
+            href: qmd/exam/sensory.qmd
+          - text: Reflexes
+            href: qmd/exam/reflexes.qmd
+          - text: Gait and Speech
+            href: qmd/exam/gait_and_speech.qmd
 
       - text: Vascular
         menu:
-          - stroke_alert.qmd
-          - stroke_admission_orders.qmd
-          - tia_risk_stratification.qmd
-          - va_stroke_alert.qmd
-          - intracerebral_hemorrhage.qmd
-          - blood_pressure_pharmacology.qmd
-          - anticoagulation_reversal.qmd
-          - nihss_and_tools.qmd
-          - modified_rankin_scale.qmd
+          - text: Stroke Alert
+            href: qmd/vascular/stroke_alert.qmd
+          - text: Stroke Admission Orders
+            href: qmd/vascular/stroke_admission_orders.qmd
+          - text: TIA Risk Stratification
+            href: qmd/vascular/tia_risk_stratification.qmd
+          - text: VA Stroke Alert
+            href: qmd/vascular/va_stroke_alert.qmd
+          - text: Intracerebral Hemorrhage
+            href: qmd/vascular/intracerebral_hemorrhage.qmd
+          - text: Blood Pressure Pharmacology
+            href: qmd/vascular/blood_pressure_pharmacology.qmd
+          - text: Anticoagulation Reversal
+            href: qmd/vascular/anticoagulation_reversal.qmd
+          - text: NIHSS and Tools
+            href: qmd/vascular/nihss_and_tools.qmd
+          - text: Modified Rankin Scale
+            href: qmd/vascular/modified_rankin_scale.qmd
 
       - text: Neurocritical Care
         menu:
-          - subarachnoid_hemorrhage.qmd
-          - icp_and_herniation_management.qmd
-          - tbi.qmd
-          - management_of_psh.qmd
-          - common_critical_care_pharmacology.qmd
-          - intracranial_vascular_malformation.qmd
-          - common_agents_affecting_neurologic_exam.qmd
-          - cardiac_arrest.qmd
-          - post_anoxic_status_epilepticus.qmd
-          - brain_death.qmd
-          - mechanical_ventilation.qmd
-          - cervical_spine_clearance.qmd
+          - text: Subarachnoid Hemorrhage
+            href: qmd/neurocritical_care/subarachnoid_hemorrhage.qmd
+          - text: ICP and Herniation Management
+            href: qmd/neurocritical_care/icp_and_herniation_management.qmd
+          - text: Traumatic Brain Injury
+            href: qmd/neurocritical_care/tbi.qmd
+          - text: Management of PSH
+            href: qmd/neurocritical_care/management_of_psh.qmd
+          - text: Common Critical Care Pharmacology
+            href: qmd/neurocritical_care/common_critical_care_pharmacology.qmd
+          - text: Intracranial Vascular Malformation
+            href: qmd/neurocritical_care/intracranial_vascular_malformation.qmd
+          - text: Common Agents Affecting Neurologic Exam
+            href: qmd/neurocritical_care/common_agents_affecting_neurologic_exam.qmd
+          - text: Post Cardiac Arrest Management
+            href: qmd/neurocritical_care/cardiac_arrest.qmd
+          - text: Post-Anoxic Status Epilepticus
+            href: qmd/neurocritical_care/post_anoxic_status_epilepticus.qmd
+          - text: Brain Death
+            href: qmd/neurocritical_care/brain_death.qmd
+          - text: Mechanical Ventilation
+            href: qmd/neurocritical_care/mechanical_ventilation.qmd
+          - text: C-Collar Clearance
+            href: qmd/neurocritical_care/cervical_spine_clearance.qmd
 
       - text: Epilepsy
         menu:
-          - seizure_consult.qmd
-          - status_epilepticus.qmd
-          - antiseizure_medication.qmd
+          - text: Seizure Consult
+            href: qmd/epilepsy/seizure_consult.qmd
+          - text: Status Epilepticus
+            href: qmd/epilepsy/status_epilepticus.qmd
+          - text: Antiseizure Medications
+            href: qmd/epilepsy/antiseizure_medication.qmd
 
       - text: Neuromuscular
         menu:
-          - myasthenia_gravis_exacerbation.qmd
-          - guillain_barre_syndrome_aidp.qmd
+          - text: Myasthenia Gravis Exacerbation
+            href: qmd/neuromuscular/myasthenia_gravis_exacerbation.qmd
+          - text: Guillain-Barré Syndrome / AIDP
+            href: qmd/neuromuscular/guillain_barre_syndrome_aidp.qmd
 
       - text: Neuroimmunology
         menu:
-          - multiple_sclerosis.qmd
-          - optic_neuritis.qmd
-          - transverse_myelitis.qmd
-          - autoimmune_encephalopathy.qmd
-          - neuroinfectious_disease.qmd
+          - text: Multiple Sclerosis
+            href: qmd/neuroimmunology/multiple_sclerosis.qmd
+          - text: Optic Neuritis
+            href: qmd/neuroimmunology/optic_neuritis.qmd
+          - text: Transverse Myelitis
+            href: qmd/neuroimmunology/transverse_myelitis.qmd
+          - text: Autoimmune Encephalopathy
+            href: qmd/neuroimmunology/autoimmune_encephalopathy.qmd
+          - text: Neuroinfectious Disease
+            href: qmd/neuroimmunology/neuroinfectious_disease.qmd
 
       - text: Neurotology
         menu:
-          - dizziness_evaluation.qmd
+          - text: Dizziness Evaluation
+            href: qmd/neurotology/dizziness_evaluation.qmd
 
       - text: Headache
         menu:
-          - acute_headache.qmd
-          - dhe_protocol.qmd
-          - headache_in_pregnancy.qmd
-          - idiopathic_intracranial_hypertension.qmd
+          - text: Acute Headache Management
+            href: qmd/headache/acute_headache.qmd
+          - text: DHE Protocol
+            href: qmd/headache/dhe_protocol.qmd
+          - text: Headache in Pregnancy
+            href: qmd/headache/headache_in_pregnancy.qmd
+          - text: Idiopathic Intracranial Hypertension
+            href: qmd/headache/idiopathic_intracranial_hypertension.qmd
 
       - text: Emergencies
         menu:
-          - neuro_ophthalmologic_emergencies.qmd
-          - parkinsons_disease_emergencies.qmd
-          - other_movement_disorders_emergencies.qmd
-          - neuro_oncology_emergencies.qmd
+          - text: Delirium
+            href: qmd/emergencies/delirium_management.qmd
+          - text: Neuro-Ophthalmologic Emergencies
+            href: qmd/emergencies/neuro_ophthalmologic_emergencies.qmd
+          - text: Parkinson Disease Emergencies
+            href: qmd/emergencies/parkinsons_disease_emergencies.qmd
+          - text: Other Movement Disorder Emergencies
+            href: qmd/emergencies/other_movement_disorders_emergencies.qmd
+          - text: Neuro-Oncology Emergencies
+            href: qmd/emergencies/neuro_oncology_emergencies.qmd
 
       - text: Procedures
         menu:
-          - lumbar_puncture.qmd
+          - text: Lumbar Puncture
+            href: qmd/procedures/lumbar_puncture.qmd
 
       - href: about.qmd
         text: About
-
 format:
   html:
     theme: cosmo
