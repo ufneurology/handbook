@@ -30,21 +30,21 @@ Invitations for section editors have been sent. The current editorial team is li
 | Section                        | Editor          |
 |--------------------------------|-----------------|
 | **Editor in Chief**            | Dr. Wilson      |
-| Neurological Examination       | TBD             |
-| Vascular                       | TBD             |
+| Neurological Examination       | Dr. Montalvo    |
+| Vascular                       | Dr. Khanna      |
 | Neurocritical Care             | Dr. Maciel      |
-| Epilepsy                       | TBD             |
-| Neuromuscular                  | TBD             |
-| Neuroimmunology                | TBD             |
-| Neurotology                    | TBD             |
-| Headache                       | TBD             |
+| Epilepsy                       | Dr. Bruzzone    |
+| Neuromuscular                  | Dr. Ruffing     |
+| Neuroimmunology                | Dr. Rempe       |
+| Sports Neurology & Neurotology | Dr. Jaffee      |
+| Headache                       | Dr. Yehya       |
 | Emergencies                    | Dr. da Silva    |
-| Procedures (Lumbar Puncture)   | TBD             |
+| Procedures                     | Dr. Rawls       |
 | **New Sections**               |                 |
 | Movement Disorders             | Dr. Almeida     |
-| Sleep                          | TBD             |
-| Neuro-ophthalmology            | TBD             |
-| Behavioral Neurology           | TBD             |
+| Sleep                          | Dr. Presti      |
+| Neuro-ophthalmology            | Dr. Buchowicz   |
+| Behavioral Neurology           | Dr. Patel       |
 
 ## How to Contribute
 
