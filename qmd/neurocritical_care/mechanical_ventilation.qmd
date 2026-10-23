@@ -64,8 +64,3 @@ Vent delivers set pressure and volume depends on compliance. Commonly used as ve
 
 **Refractory Hypoxia**: Consider prone positioning, ECMO, inhaled nitric oxide, etc.
 
-------------------------------------------------------------------------
-
-**File is ready.** I organized the dense handwritten content into clean, readable Quarto sections with tables and bullet points matching your handbook style. The original diagrams are summarized descriptively (you can add images later if you have scans).
-
-**Next?** Let me know what to work on (e.g., `cervical_spine_clearance.qmd`, full Neuro Exam consolidation, or teaching visuals for ventilation).
