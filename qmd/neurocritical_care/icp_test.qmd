@@ -1,0 +1,283 @@
+---
+title: "ICP and Herniation Management"
+category: "Neurocritical Care"
+format: html
+editor: visual
+---
+
+```{=html}
+<style>
+.icp-wrap { overflow-x: auto; margin: 0.6rem 0 1rem; }
+.icp-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 0.88rem;
+  line-height: 1.3;
+}
+.icp-table th {
+  background: #1f2937;
+  color: #f9fafb;
+  text-align: left;
+  font-weight: 600;
+  padding: 0.4rem 0.6rem;
+  position: sticky;
+  top: 0;
+  font-size: 0.82rem;
+}
+.icp-table td {
+  padding: 0.35rem 0.6rem;
+  vertical-align: top;
+  border-bottom: 1px solid #e5e7eb;
+}
+.icp-table tr:last-child td { border-bottom: none; }
+.icp-table .name { font-weight: 650; white-space: nowrap; }
+.badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 650;
+  letter-spacing: 0.01em;
+  padding: 0.1rem 0.4rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.cat-sign td { background: #f8fafc; }
+.cat-sign .badge { background: #475569; color: #fff; }
+.cat-syndrome td { background: #eff6ff; }
+.cat-syndrome .badge { background: #1d4ed8; color: #fff; }
+.cat-tier0 td { background: #f0fdf4; }
+.cat-tier0 .badge { background: #15803d; color: #fff; }
+.cat-tier1 td { background: #fff7ed; }
+.cat-tier1 .badge { background: #c2410c; color: #fff; }
+.cat-tier2 td { background: #fefce8; }
+.cat-tier2 .badge { background: #a16207; color: #fff; }
+.cat-tier3 td { background: #fef2f2; }
+.cat-tier3 .badge { background: #b91c1c; color: #fff; }
+.cat-harm td { background: #fff1f2; }
+.cat-harm .badge { background: #be123c; color: #fff; }
+.cat-mannitol td { background: #f5f3ff; }
+.cat-mannitol .badge { background: #6d28d9; color: #fff; }
+.cat-hts td { background: #ecfeff; }
+.cat-hts .badge { background: #0e7490; color: #fff; }
+.icp-note {
+  font-size: 0.8rem;
+  color: #4b5563;
+  border-left: 3px solid #d1d5db;
+  padding-left: 0.6rem;
+  margin: 0.3rem 0 0.5rem;
+}
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 0.5rem 0;
+}
+@media (max-width: 700px) {
+  .two-col { grid-template-columns: 1fr; }
+}
+</style>
+```
+# Why does ICP increase?
+
+-   Intracranial Pressure is dictated by the **Kellie-Monroe Doctrine**: <br> *The cranium is non-expandable, so the pressure inside the cranium is directly related to the amount of it's contents* **Parenchyma\<-\>Blood\<-\>CSF**<br>
+-   If the equilibrium is disrupted by hemorrhage, edema or a tumor, pressure inside the cranium will increase<br>
+-   If left untreated, parenchyma will eventually herniate
+
+![](/images/neurocritical_care/kellie-monroe.png)
+
+# When to suspect elevated ICP?
+
+Clinical exam can be non-specific, you have to be aware of patients **at risk** of having increased ICP such as: Severe TBI, CVST, large vessel occlusions, intraparenchymal hemorrhages, liver failure patients awaiting transplant<br>
+
+-   **Sensitive** but non-specific signs: Agitation, low GCS, N/V, hiccups, yawning<br>
+-   **Specific** but not sensitive signs: Cushing Triad (elevated BP, bradycardia, respiratory depression)<br>
+-   **Helpful** complementary bedside measurements: NPI \< 4, Optic Nerve Sheath Diameter \> 0.55<br>\
+
+# Herniation Syndromes
+
+![](/images/neurocritical_care/herniation_syndromes.png){fig-align="center"}
+
++----------------------+-----------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Syndrome             | Exam Findings                                                                                                               | Cause of Exam Finding                                                                                                                                                                           |
++======================+=============================================================================================================================+=================================================================================================================================================================================================+
+| Subfalcine           | Contralateral/bilateral leg weakness, urinary retention/incontinence                                                        | Cingulate gyrus displaced under the anterior falx cerebri (compressing the anterior cerebral artery)                                                                                            |
++----------------------+-----------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Transtentorial       | Abnormal flexor to extensor posturing → impaired upgaze → respiratory/cardiac arrest                                        | Progressive downward displacement and compression of the midbrain, then pons, through the tentorial notch                                                                                       |
++----------------------+-----------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Uncal                | Ipsilateral pupillary dilation → CN III palsy → contralateral hemiparesis → ipsilateral hemiparesis (false-localizing sign) | Compression of CN III against the tentorial edge → compression of the ipsilateral cerebral peduncle/corticospinal tract → compression of the contralateral cerebral peduncle (Kernohan's notch) |
++----------------------+-----------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cerebellar Tonsillar | Downbeat nystagmus → Cushing's triad (hypertension, bradycardia, irregular respiration) → respiratory arrest                | Cerebellar tonsils herniate through the foramen magnum → compression of PICA, vertebral arteries, and anterior spinal artery → infarction of the medulla, cerebellum, and upper cervical cord   |
++----------------------+-----------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## If any concern for herniation, sustained elevation of ICP:
+
+-   Call to Neurocritical care fellow
+-   Ensure appropriate vascular access, consider need for additional PIV and/or stat central line
+-   Consider neuroprotective intubation
+-   Order CBC, CMP, Ammonia, Serum Osmoles
+-   STAT CT Head without contrast
+
+## CT Imaging Findings
+
+::: panel-tabset
+### Sulcal Effacement
+
+![](/images/neurocritical_care/sulcal_effect.jpg)
+
+### Basal Cistern Effacement
+
+![](/images/neurocritical_care/basal_effacement.png)
+
+### Midline Shift
+
+![](/images/neurocritical_care/midline_shift.png){width="489"}
+:::
+
+# Tiered Approach to ICP Management
+
+## How to use the Tier approach
+
+-   Tiered approach derives from **expert consensus**, use judiciously.
+
+-   The higher the tier, the **greater potential for harm**
+
+-   When advancing a tier, **continue all interventions of the previous tier**.
+
+-   It's OK to mix approaches from different tiers depending on clinical situation, remember this is only a consensus between specialists
+
+::: callout-warning
+## Before Escalating Care
+
+· Re-examine the patient
+
+· Consider CT head
+
+· Check extracranial causes of elevated ICP (sodium, ammonia, BUN, glucose)
+:::
+
+::: panel-tabset
+## Tier 0
+
+-   Assess ABCs
+-   HOB 30--45°
+-   Head midline
+-   SpO₂ \> 94%
+-   ETCO₂ monitoring
+-   Temp \< 37.8 °C
+-   Arterial line
+-   Q1h neurochecks + pupillometry
+-   q6h Na and serum osmoles
+-   Minimize noxious stimuli
+-   Iso- or hyperosmotic fluids only (no D5W, ½ NS)
+-   Avoid/correct hyponatremia
+
+## Tier 1
+
+-   ↑ Sedation
+-   ↑ Analgesia
+-   PaCO₂ 35--38 mmHg / ETCO₂ 32--35 mmHg
+-   EEG monitoring
+-   Hypertonic bolus:
+    -   **Mannitol** 0.25--1 g/kg IV
+    -   **23.4% NaCl** 30 mL IV push over 2--5 min (central line only)
+    -   **3% NaCl** 250 mL over 30 min
+-   Consider EVD
+
+## Tier 2
+
+**Temporizing hypocapnia:**
+
+-   PaCO₂ 32--35 mmHg / ETCO₂ 28--32 mmHg
+-   Consider trial of paralytics in adequately sedated patients
+-   If ICP controlled, consider short-term continuous infusion
+
+## Tier 3
+
+-   Pentobarbital coma
+-   Therapeutic hypothermia **35--36 °C**
+:::
+
+::: callout-important
+## What's Known to Cause Harm
+
+-   Mannitol as continuous drip
+
+-   Scheduled hypertonic saline
+
+-   Furosemide
+
+-   Steroids (except bacterial meningitis and CNS neoplasm)
+
+-   Temperature \< 35 °C
+
+-   CPP \> 90 mmHg
+:::
+
+# Hyperosmolar Therapy
+
+::: icp-wrap
++-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+--------------------------------------------+
+| Therapy           | Dosing                                                                                                                                                                  | Pearls                                                        | Adverse Reactions                          |
++===================+=========================================================================================================================================================================+===============================================================+============================================+
+| Mannitol          | 20% 1 g/kg **bolus**; max 150 g                                                                                                                                         | • Relative contraindication in renal failure\                 | • Rebound ICP elevation\                   |
+|                   |                                                                                                                                                                         | • Duration of effect: 90 min -- 6 h\                          | • Acute kidney injury\                     |
+|                   |                                                                                                                                                                         | • Only use if Serum osm \< 320\                               | • Hypovolemia / hypotension\               |
+|                   |                                                                                                                                                                         | • Once given replace every ml of urinary output               | • Electrolyte imbalances                   |
++-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+--------------------------------------------+
+| Hypertonic Saline | **Bolus**\                                                                                                                                                              | • Duration of effect: 90 min -- 4 h\                          | • Pulmonary edema\                         |
+|                   | 3%: 100mL over 30 min\                                                                                                                                                  | • Na goal 145--155, avoid prolonged Na \> 160\                | • Heart failure\                           |
+|                   | 23.%: 30ml over **5 minutes through CVL**\                                                                                                                              | • Rebound edema on discontinuation --- observe in ICU \~24 h\ | • Acute kidney injury\                     |
+|                   | \                                                                                                                                                                       | • Na rise should not exceed 8--10 mmol/L in 24 h              | • Coagulopathy\                            |
+|                   | **Infusion**\                                                                                                                                                           |                                                               | • Hypernatremia\                           |
+|                   | • 3% **starting rate is 0.5--4 mL/kg/hr**, 0.5 mL/kg/hr for mild symptoms; up to 4 mL/kg/hr briefly for coma/seizures (titrated to raise serum sodium by 1--2 per hour) |                                                               | • Metabolic acidosis\                      |
+|                   |                                                                                                                                                                         |                                                               | • Thrombophlebitis\                        |
+|                   |                                                                                                                                                                         |                                                               | • Osmotic demyelination (rapid correction) |
++-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+--------------------------------------------+
+:::
+
+```         
+# Increased ICP Management
+
+## How to use the Tier approach
+-   The higher the tier, the greater potential for harm
+-   When advancing a tier, **continue all interventions of the previous tier**
+
+## Before Escalating Care
+- Re-examine the patient
+- Consider CT head
+- Check extracranial causes of elevated ICP (sodium, ammonia, BUN, glucose)
+
+Tier 0
+- Assess ABCs
+- HOB 30–45°
+- Head midline
+- SpO₂ > 94%
+- ETCO₂ monitoring
+- Temp < 37.8 °C
+- Arterial line
+- Q1h neurochecks + pupillometry; contact Neurology if NPi < 4
+- q6h labs with Na and serum osmoles
+- Minimize noxious stimuli
+- Avoid hypotonic fluids
+- Avoid/correct hyponatremia
+
+Tier 1
+- Optimize sedation to **RASS –5**
+- ↑ Analgesia, start fentanyl gtt
+- PaCO₂ 35–38 mmHg / ETCO₂ 32–35 mmHg
+- EEG monitoring indicated
+- Hypertonic bolus:
+  - Mannitol 0.25–1 g/kg IV — **avoid if serum osmoles > 320**
+  - 23.4% NaCl 30 mL IV push over 2–5 min (central line only) — **avoid if Na > 160**
+  - 3% NaCl 250 mL over 30 min — **avoid if Na > 160**
+- Consult Neurosurgery for EVD
+
+Tier 2
+- Temporizing hypocapnia: PaCO₂ 32–35 mmHg / ETCO₂ 28–32 mmHg
+- Consider trial of paralytics in adequately sedated patients
+- If ICP controlled, consider short-term continuous infusion
+
+Tier 3
+- Pentobarbital coma
+- Therapeutic hypothermia 35–36 °C
+```

@@ -3757,5 +3757,117 @@
     "title": "Subarachnoid hemorrhage",
     "section": "2.3 Grade radiologically",
     "text": "2.3 Grade radiologically\n\n2.3.1 Modified Fisher Scale\n\nGrade 1Grade 2Grade 3Grade 4\n\n\nThin focal or diffuse SAH · No IVH\n\nThin = &lt; 1 mm\n\nSymptomatic vasospasm risk: ≈ 24%\n\n\n\n\nGrade 1 – Thin SAH, no IVH\n\n\n\n\nThin focal or diffuse SAH · With IVH\n\nThin SAH + any IVH\n\nSymptomatic vasospasm risk: ≈ 33%\n\n\n\n\nGrade 2 – Thin SAH + IVH\n\n\n\n\nThick focal or diffuse SAH · No IVH\n\nThick = ≥ 1 mm (or completely filling ≥ 1 cistern/fissure)\n\nSymptomatic vasospasm risk: ≈ 33%\n\n\n\n\nGrade 3 – Thick SAH, no IVH\n\n\n\n\nThick focal or diffuse SAH · With IVH\n\nThick SAH + any IVH\n\nSymptomatic vasospasm risk: ≈ 40% (highest)\n\n\n\n\nGrade 4 – Thick SAH + IVH"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/psh_test.html",
+    "href": "qmd/neurocritical_care/psh_test.html",
+    "title": "Paroxysmal sympathetic hyperactivity assessment measure",
+    "section": "",
+    "text": "PSH is a disorder in the regulation of autonomic function that occurs with acute brain injury, most notably severe TBI.\nIt is the overall severity of brain injury (not location) that increases risk of PSH development.\nMechanisms remain elusive, but the excitatory/inhibitory model (loss of central disinhibition of sympathetic and motor pathways) leading to loss of control of excitatory spinal circuits is well accepted.\nAssociated conditions: brain trauma, anoxic-brain injury, intracranial hemorrhage, autoimmune encephalitis, ischemic stroke, hydrocephalus, and cerebral fat embolism."
+  },
+  {
+    "objectID": "qmd/neurocritical_care/psh_test.html#psh-am-calculator",
+    "href": "qmd/neurocritical_care/psh_test.html#psh-am-calculator",
+    "title": "Paroxysmal sympathetic hyperactivity assessment measure",
+    "section": "3.1 PSH-AM Calculator",
+    "text": "3.1 PSH-AM Calculator\n\nviewof hr = Inputs.number({label: \"Heart rate (beats/min)\", value: 88, min: 30, max: 250, step: 1})\nviewof rr = Inputs.number({label: \"Respiratory rate (breaths/min)\", value: 16, min: 4, max: 60, step: 1})\nviewof sbp = Inputs.number({label: \"Systolic blood pressure (mmHg)\", value: 120, min: 60, max: 260, step: 1})\nviewof temp = Inputs.number({label: \"Temperature (°C)\", value: 36.8, min: 32, max: 43, step: 0.1})\nviewof sweat = Inputs.select([\"None\", \"Mild — moist skin\", \"Moderate — beads or drops of sweat\", \"Severe — profuse sweating\"], {label: \"Sweating\", value: \"None\"})\nviewof posture = Inputs.select([\"None\", \"Mild — increased tone, no treatment needed\", \"Moderate — increased tone requiring treatment\", \"Severe — tone refractory to treatment\"], {label: \"Posturing during episodes\", value: \"None\"})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nviewof dlt = Inputs.checkbox([\n  \"Clinical features occur simultaneously\",\n  \"Episodes are paroxysmal in nature\",\n  \"Sympathetic over-reactivity to normally non-painful stimuli\",\n  \"Features persist ≥ 3 consecutive days\",\n  \"Features persist ≥ 2 weeks post-brain injury\",\n  \"Features persist despite treatment of alternative differential diagnoses\",\n  \"Medication administered to decrease sympathetic features\",\n  \"≥ 2 episodes daily\",\n  \"Absence of parasympathetic features during episodes\",\n  \"Absence of other presumed cause of features\",\n  \"Antecedent acquired brain injury\"\n], {label: \"Diagnosis Likelihood Tool — tick each feature that is present\"})\n\n\n\n\n\n\n\nfunction band(x, cuts) {\n  if (x &lt; cuts[0]) return 0;\n  if (x &lt; cuts[1]) return 1;\n  if (x &lt; cuts[2]) return 2;\n  return 3;\n}\n\nhr_score = band(hr, [100, 120, 140])\nrr_score = band(rr, [18, 24, 30])\nsbp_score = band(sbp, [140, 160, 180])\ntemp_score = band(temp, [37, 38, 39])\nsweat_score = [\"None\", \"Mild — moist skin\", \"Moderate — beads or drops of sweat\", \"Severe — profuse sweating\"].indexOf(sweat)\nposture_score = [\"None\", \"Mild — increased tone, no treatment needed\", \"Moderate — increased tone requiring treatment\", \"Severe — tone refractory to treatment\"].indexOf(posture)\n\ncfs = hr_score + rr_score + sbp_score + temp_score + sweat_score + posture_score\ncfs_severity = cfs === 0 ? \"None\" : cfs &lt;= 6 ? \"Mild\" : cfs &lt;= 12 ? \"Moderate\" : \"Severe\"\ndlt_score = dlt.length\ntotal = cfs + dlt_score\nlikelihood = total &lt; 8 ? \"Unlikely\" : total &lt;= 16 ? \"Possible\" : \"Probable\"\ntone = total &lt; 8 ? \"#1b7f4e\" : total &lt;= 16 ? \"#9a6b00\" : \"#9b2335\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhtml`&lt;div style=\"border:1px solid #d7dce3;border-radius:12px;padding:1.1rem 1.25rem;margin-top:0.5rem;background:#fbfcfd\"&gt;\n  &lt;div style=\"display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;align-items:baseline\"&gt;\n    &lt;div&gt;\n      &lt;div style=\"font-size:0.78rem;letter-spacing:0.04em;text-transform:uppercase;color:#667\"&gt;PSH diagnostic likelihood&lt;/div&gt;\n      &lt;div style=\"font-size:1.8rem;font-weight:700;color:${tone}\"&gt;${likelihood}&lt;/div&gt;\n    &lt;/div&gt;\n    &lt;div style=\"text-align:right\"&gt;\n      &lt;div style=\"font-size:0.78rem;letter-spacing:0.04em;text-transform:uppercase;color:#667\"&gt;Combined total&lt;/div&gt;\n      &lt;div style=\"font-size:1.8rem;font-weight:700\"&gt;${total} &lt;span style=\"font-size:1rem;font-weight:500;color:#667\"&gt;/ 29&lt;/span&gt;&lt;/div&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n  &lt;table style=\"width:100%;margin-top:0.8rem;border-collapse:collapse;font-size:0.95rem\"&gt;\n    &lt;tbody&gt;\n      &lt;tr&gt;&lt;td&gt;Heart rate&lt;/td&gt;&lt;td style=\"text-align:right\"&gt;${hr} → ${hr_score}&lt;/td&gt;&lt;/tr&gt;\n      &lt;tr&gt;&lt;td&gt;Respiratory rate&lt;/td&gt;&lt;td style=\"text-align:right\"&gt;${rr} → ${rr_score}&lt;/td&gt;&lt;/tr&gt;\n      &lt;tr&gt;&lt;td&gt;Systolic blood pressure&lt;/td&gt;&lt;td style=\"text-align:right\"&gt;${sbp} → ${sbp_score}&lt;/td&gt;&lt;/tr&gt;\n      &lt;tr&gt;&lt;td&gt;Temperature&lt;/td&gt;&lt;td style=\"text-align:right\"&gt;${temp.toFixed(1)} → ${temp_score}&lt;/td&gt;&lt;/tr&gt;\n      &lt;tr&gt;&lt;td&gt;Sweating&lt;/td&gt;&lt;td style=\"text-align:right\"&gt;${sweat_score}&lt;/td&gt;&lt;/tr&gt;\n      &lt;tr&gt;&lt;td&gt;Posturing&lt;/td&gt;&lt;td style=\"text-align:right\"&gt;${posture_score}&lt;/td&gt;&lt;/tr&gt;\n      &lt;tr style=\"border-top:1px solid #d7dce3\"&gt;&lt;td&gt;&lt;strong&gt;CFS subtotal&lt;/strong&gt;&lt;/td&gt;&lt;td style=\"text-align:right\"&gt;&lt;strong&gt;${cfs} / 18 · ${cfs_severity}&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;\n      &lt;tr&gt;&lt;td&gt;&lt;strong&gt;DLT subtotal&lt;/strong&gt;&lt;/td&gt;&lt;td style=\"text-align:right\"&gt;&lt;strong&gt;${dlt_score} / 11&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;\n    &lt;/tbody&gt;\n  &lt;/table&gt;\n  &lt;p style=\"margin:0.8rem 0 0;color:#556;font-size:0.85rem\"&gt;Unlikely &lt; 8 · Possible 8–16 · Probable ≥ 17. CFS severity: None 0, mild 1–6, moderate 7–12, severe ≥ 13.&lt;/p&gt;\n&lt;/div&gt;`"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html",
+    "href": "qmd/neurocritical_care/icp_test.html",
+    "title": "ICP and Herniation Management",
+    "section": "",
+    "text": "Intracranial Pressure is dictated by the Kellie-Monroe Doctrine:  The cranium is non-expandable, so the pressure inside the cranium is directly related to the amount of it’s contents Parenchyma&lt;-&gt;Blood&lt;-&gt;CSF\nIf the equilibrium is disrupted by hemorrhage, edema or a tumor, pressure inside the cranium will increase\nIf left untreated, parenchyma will eventually herniate"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#normal-icp-and-physiology",
+    "href": "qmd/neurocritical_care/icp_test.html#normal-icp-and-physiology",
+    "title": "ICP and Herniation Management",
+    "section": "",
+    "text": "Normal ICP: 5–15 mmHg\nRegulation of ICP is mainly dictated by the Kellie–Monroe Doctrine.\n\n\n\n\n\n\nKellie–Monroe Doctrine\n\n\n\nThe cranial vault is a fixed volume. Contents are tissue, blood, and CSF.\nA increase in any component requires the reciprocal decrease in the others.\nThis lead to potential herniation of the tissue"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#clinical-signs-of-elevated-icp",
+    "href": "qmd/neurocritical_care/icp_test.html#clinical-signs-of-elevated-icp",
+    "title": "ICP and Herniation Management",
+    "section": "0.2 Clinical Signs of Elevated ICP",
+    "text": "0.2 Clinical Signs of Elevated ICP\n\n0.2.1 Non-focal signs\nAgitation, Headache, ↓ LOC, Nausea/vomiting, Hiccups, Yawning\n\n\n0.2.2 Diagnostic performance of key signs\n\n\n\n\n\n\n\n\nSign\nNotes\n\n\n\n\nGCS &lt; 8\nHighly sensitive\n\n\nPupillary dilation\nHighly specific\n\n\nCushing triad\nMost specific; rare (~1/3 of tonsillar herniation cases)\n\n\nNPIs\nShould not be used as a standalone tool, but has a high negative predictive value when NPIs &gt; 4"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#ct-imaging-findings",
+    "href": "qmd/neurocritical_care/icp_test.html#ct-imaging-findings",
+    "title": "ICP and Herniation Management",
+    "section": "3.2 CT Imaging Findings",
+    "text": "3.2 CT Imaging Findings\n\nSulcal EffacementBasal Cistern EffacementMidline Shift"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#if-concern-for-worsening-or-impending-herniation",
+    "href": "qmd/neurocritical_care/icp_test.html#if-concern-for-worsening-or-impending-herniation",
+    "title": "ICP and Herniation Management",
+    "section": "",
+    "text": "Clinical suspicion of sustained (&gt;5 min) elevation or ICP &gt; 22 mmHg\nNeurocritical care fellow: 352-745-1912\nEnsure appropriate vascular access (additional PIV and/or stat central line)\nTransfer to ICU if on floor / IMC"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#before-escalating-care",
+    "href": "qmd/neurocritical_care/icp_test.html#before-escalating-care",
+    "title": "ICP and Herniation Management",
+    "section": "4.2 Before Escalating Care",
+    "text": "4.2 Before Escalating Care\n· Re-examine the patient\n· Consider CT head\n· Check extracranial causes of elevated ICP (sodium, ammonia, BUN, glucose)\n\n\n\n\n\n\n\n\nTier\nActions\n\n\n\n\nTier 0\nStandard\n• Assess ABCs\n· HOB 30–45°\n· Head midline\n· SpO₂ &gt; 94%\n· ETCO₂ monitoring\n· Temp &lt; 37.8 °C\n· Arterial line\n· Q1h neurochecks + pupillometry\n· q6h Na and serum osmoles\n· Minimize noxious stimuli\n· Iso- or hyperosmotic fluids only (no D5W, ½ NS)\n· Avoid/correct hyponatremia\n\n\nTier 1\n· ↑ Sedation\n· ↑ Analgesia\n· PaCO₂ 35–38 mmHg /ETCO₂ 32–35 mmHg\n· EEG monitoring\n· Hypertonic bolus:\n\nMannitol 0.25–1 g/kg IV\n23.4% NaCl 30 mL IV push over 2–5 min (central line only).\n3%: 250 mL over 30 min\n· Consider EVD\n\n\nTier 2\nTemporizing hypocapnia:\n· PaCO₂ 32–35 mmHg / ETCO₂ 28–32 mmHg\n\n· Consider trial of paralytics in adequately sedated patients\nIf ICP controlled, consider short-term continuous infusion\n\n\nTier 3\n· Pentobarbital coma\n· Therapeutic hypothermia 35–36 °C\n\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nInterventions Known to Cause Harm\n\nMannitol as continuous drip\nScheduled hypertonic saline\nFurosemide\nSteroids (except bacterial meningitis and CNS neoplasm)\nTemperature &lt; 35 °C\nCPP &gt; 90 mmHg"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#tier-0-standard-care",
+    "href": "qmd/neurocritical_care/icp_test.html#tier-0-standard-care",
+    "title": "ICP and Herniation Management",
+    "section": "3.2 Tier 0 — Standard Care",
+    "text": "3.2 Tier 0 — Standard Care\n\nHead of bed 30–45°\nHead midline\nSecure airway using neuroprotective intubation\nSpO₂ &gt; 94%\nInvasive blood pressure monitoring (arterial line)\nEnd-tidal CO₂ monitoring\nTemperature &lt; 37.8 °C\nQ1h neurochecks with pupillometry\nq6h Na and serum osmoles\nMinimize noxious stimuli\nIso- or hyperosmotic fluids only (no D5W, ½ NS)\nAvoid and correct hyponatremia"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#tier-1",
+    "href": "qmd/neurocritical_care/icp_test.html#tier-1",
+    "title": "ICP and Herniation Management",
+    "section": "3.3 Tier 1",
+    "text": "3.3 Tier 1\n\nIncrease sedation\nIncrease analgesia\nBolus of hypertonic solutions:\n\nMannitol: 0.25–1 g/kg IV bolus (peripheral or central). Monitor for hypotension and renal failure. Do not give if serum Osm &gt; 320\n23.4% NaCl: 30 mL IV push over 2–5 minutes (peripheral or central). Monitor for pulmonary edema, heart failure, and renal failure. Do not give if Na &gt; 155\n\nPaCO₂ 35–38 mmHg\nETCO₂ 32–35 mmHg\nConsider EVD placement (careful in liver failure due to coagulopathy)\nEEG monitoring\nq6h serum osmoles and Na surveillance"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#tier-2",
+    "href": "qmd/neurocritical_care/icp_test.html#tier-2",
+    "title": "ICP and Herniation Management",
+    "section": "3.4 Tier 2",
+    "text": "3.4 Tier 2\n\nTemporizing hypocapnia:\n\nPaCO₂ 32–35 mmHg\nETCO₂ 28–32 mmHg\n\nConsider trial of paralytics in adequately sedated patients\n\nIf ICP controlled, consider short-term continuous infusion"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#tier-3",
+    "href": "qmd/neurocritical_care/icp_test.html#tier-3",
+    "title": "ICP and Herniation Management",
+    "section": "3.5 Tier 3",
+    "text": "3.5 Tier 3\n\nPentobarbital coma\nTherapeutic hypothermia 35–36 °C"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#interventions-known-to-cause-harm",
+    "href": "qmd/neurocritical_care/icp_test.html#interventions-known-to-cause-harm",
+    "title": "ICP and Herniation Management",
+    "section": "3.6 Interventions Known to Cause Harm",
+    "text": "3.6 Interventions Known to Cause Harm\n\n\n\n\n\n\nWarning\n\n\n\nAvoid these:\n\nMannitol as a continuous drip\nScheduled hypertonic saline\nFurosemide\nSteroids (except select cases — see below)\nTemperature &lt; 35 °C\nCPP &gt; 90 mmHg"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#how-to-use-the-tier-approach",
+    "href": "qmd/neurocritical_care/icp_test.html#how-to-use-the-tier-approach",
+    "title": "ICP and Herniation Management",
+    "section": "4.1 How to use the Tier approach",
+    "text": "4.1 How to use the Tier approach\n\nTiered approach derives from expert consensus, use judiciously.\nThe higher the tier, the greater potential for harm\nWhen advancing a tier, continue all interventions of the previous tier.\nIt’s OK to mix approaches from different tiers depending on clinical situation, remember this is only a consensus between specialists\n\n\n\n\n\n\n\nBefore Escalating Care\n\n\n\n· Re-examine the patient\n· Consider CT head\n· Check extracranial causes of elevated ICP (sodium, ammonia, BUN, glucose)\n\n\n\nTier 0Tier 1Tier 2Tier 3\n\n\n\nAssess ABCs\nHOB 30–45°\nHead midline\nSpO₂ &gt; 94%\nETCO₂ monitoring\nTemp &lt; 37.8 °C\nArterial line\nQ1h neurochecks + pupillometry\nq6h Na and serum osmoles\nMinimize noxious stimuli\nIso- or hyperosmotic fluids only (no D5W, ½ NS)\nAvoid/correct hyponatremia\n\n\n\n\n↑ Sedation\n↑ Analgesia\nPaCO₂ 35–38 mmHg / ETCO₂ 32–35 mmHg\nEEG monitoring\nHypertonic bolus:\n\nMannitol 0.25–1 g/kg IV\n23.4% NaCl 30 mL IV push over 2–5 min (central line only)\n3% NaCl 250 mL over 30 min\n\nConsider EVD\n\n\n\nTemporizing hypocapnia:\n\nPaCO₂ 32–35 mmHg / ETCO₂ 28–32 mmHg\nConsider trial of paralytics in adequately sedated patients\nIf ICP controlled, consider short-term continuous infusion\n\n\n\n\nPentobarbital coma\nTherapeutic hypothermia 35–36 °C\n\n\n\n\n\n\n\n\n\n\nWhat’s Known to Cause Harm\n\n\n\n\nMannitol as continuous drip\nScheduled hypertonic saline\nFurosemide\nSteroids (except bacterial meningitis and CNS neoplasm)\nTemperature &lt; 35 °C\nCPP &gt; 90 mmHg"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#normal-icp",
+    "href": "qmd/neurocritical_care/icp_test.html#normal-icp",
+    "title": "ICP and Herniation Management",
+    "section": "",
+    "text": "Normal ICP: 5–15 mmHg\nICP is broadly dictated by the Kellie–Monroe Doctrine.\n\n\n\n\n\n\n\nKellie–Monroe Doctrine\n\n\n\nThe cranial vault is a fixed volume. Contents are tissue, blood, and CSF.\nA increase in any component requires the reciprocal decrease in the others.\nThis lead to potential herniation of the tissue\n\n\n\n\nAgitation, Headache, ↓ LOC, Nausea/vomiting, Hiccups, Yawning\n\n\n\n\n\n\n\n\n\n\n\nSign\nNotes\n\n\n\n\nGCS &lt; 8\nHighly sensitive\n\n\nPupillary dilation\nHighly specific\n\n\nCushing triad\nMost specific; rare (~1/3 of tonsillar herniation cases)\n\n\nNPIs\nShould not be used as a standalone tool, but has a high negative predictive value when NPIs &gt; 4"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/icp_test.html#if-any-concern-for-herniation-sustained-elevation-of-icp",
+    "href": "qmd/neurocritical_care/icp_test.html#if-any-concern-for-herniation-sustained-elevation-of-icp",
+    "title": "ICP and Herniation Management",
+    "section": "3.1 If any concern for herniation, sustained elevation of ICP:",
+    "text": "3.1 If any concern for herniation, sustained elevation of ICP:\n\nCall to Neurocritical care fellow\nEnsure appropriate vascular access, consider need for additional PIV and/or stat central line\nConsider neuroprotective intubation\nOrder CBC, CMP, Ammonia, Serum Osmoles\nSTAT CT Head without contrast"
   }
 ]

@@ -23,7 +23,7 @@ title: "Paroxysmal sympathetic hyperactivity assessment measure"
 
 ## PSH-AM Calculator
 
-``` {ojs}
+```{ojs}
 //| panel: input
 viewof hr = Inputs.number({label: "Heart rate (beats/min)", value: 88, min: 30, max: 250, step: 1})
 viewof rr = Inputs.number({label: "Respiratory rate (breaths/min)", value: 16, min: 4, max: 60, step: 1})
@@ -33,7 +33,7 @@ viewof sweat = Inputs.select(["None", "Mild — moist skin", "Moderate — beads
 viewof posture = Inputs.select(["None", "Mild — increased tone, no treatment needed", "Moderate — increased tone requiring treatment", "Severe — tone refractory to treatment"], {label: "Posturing during episodes", value: "None"})
 ```
 
-``` {ojs}
+```{ojs}
 //| panel: input
 viewof dlt = Inputs.checkbox([
   "Clinical features occur simultaneously",
@@ -281,9 +281,9 @@ html`<div style="border:1px solid #d7dce3;border-radius:12px;padding:1.1rem 1.25
 </table>
 </div>
 ```
-
 # Dot phrase
-```
+
+```         
 # Paroxysmal Sympathetic Hyperactivity
 ## Assessment
 Onset of severe brain injury:
@@ -333,10 +333,3 @@ AVOID RECURRENT USE OF BENZODIAZEPINES
 - Midazolam (Versed): IV 1-2mg; monitor for sedation and hypotension
 - Lorazepam (Ativan): IV 0.5–2mg; monitor for sedation and hypotension
 ```
-
-
-
-
-
-
-
