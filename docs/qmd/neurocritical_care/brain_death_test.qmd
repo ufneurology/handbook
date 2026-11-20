@@ -1,0 +1,123 @@
+---
+title: "Brain Death / BD/DNC – Resident Guide"
+category: "Neurocritical Care"
+format: html
+---
+
+# Core Principle
+
+- Approach every patient with the **presumption that the patient is alive and has brain function**.
+- The worst error is a false-positive (declaring BD/DNC when the patient does not meet criteria).
+- BD/DNC = permanent loss of all brain function including the brainstem → coma + brainstem areflexia + apnea. The brainstem houses the reticular activating system; if it is not functioning, the patient is in permanent coma.
+
+::: callout-warning
+## Before you start
+Etiology of the acquired brain injury must be known, catastrophic, and permanent with no possibility of recovery. All confounders must be excluded. It is reasonable to wait 24 hours after completion of all neuroprotective measures (TTM, BP stabilization, clearance of toxins, correction of metabolic derangements) before proceeding.
+:::
+
+# Prerequisites – Must Be Stable
+
+- Known mechanism that can lead to BD/DNC (TBI, ICH, SAH, HIBI, etc.). Exclude mimics.
+- Physiologic parameters must be normal — this is basic medicine and one of the biggest confounders:
+  - Core temperature ≥36 °C
+  - SBP ≥100–110 mmHg, MAP ≥75–80 mmHg
+- Exclude drugs/toxins/metabolic: tox screen if indicated, EtOH ≤80 mg/dL, drug levels or ≥5 half-lives, no residual paralysis (TOF), correct severe electrolyte/acid-base issues. Miotic pupils (<2 mm) → think toxin.
+
+# Clinical Examination (Brainstem Focus)
+
+Test for absence of all brainstem reflexes. Any brain- or brainstem-mediated response rules out BD/DNC. Spinal reflexes are allowed.
+
+- **Unresponsiveness**: No response to visual, auditory, or tactile stimuli. Apply pressure to supraorbital notch and to all four extremities (proximal and distal). Watch carefully for any facial movement or limb response.
+- **Pupils (CN II/III)**: Midsize to dilated with no light response. Miotic pupils (<2 mm) are a red flag for possible drug intoxication.
+- **Corneal (V1 afferent → CN VII efferent)**: Saline flush at the external border of the iris. If no response, escalate to gentle pressure with a cotton swab on a 4×4. Look for any eyelid movement.
+- **Oculocephalic (doll’s eyes; CN VIII → III/VI)**: Confirm no C-spine precautions, secure the ETT, rotate the head briskly side to side. Eyes must stay mid-position (no movement).
+- **Oculovestibular / cold calorics (if OCR cannot be done or is absent)**: Otoscopy first to confirm intact tympanic membrane. HOB 30°. 50 mL ice-cold water through a 20–22 Fr catheter over ~60 seconds. Wait 5 minutes and observe for any nystagmus or eye movement before doing the other side. No nystagmus = consistent with BD/DNC.
+- **Gag (CN IX/X)**: Stimulate bilateral posterior pharyngeal wall with a rigid suction catheter or tongue depressor.
+- **Cough (CN IX/X)**: Stimulate the carina with a suction catheter through the ETT.
+
+**Spinal reflexes that do NOT rule out BD/DNC**: triple flexion, undulating toes, abdominal reflex, cremasteric reflex, Lazarus sign.
+
+# Apnea Testing
+
+At least one apnea test is required. Two examinations reduce the chance of error (no mandated interval in adults, but 24 hours is common practice).
+
+- **Before starting**: SBP >110, MAP >80, pH 7.35–7.45, PaCO₂ 35–45 (or chronic baseline), preoxygenate 100% O₂ ≥10 min aiming for PaO₂ >200.
+- **How to test**: Disconnect from the ventilator and give 100% O₂ via (1) catheter at 5–6 L/min placed in the ETT above the carina, (2) CPAP on the ventilator with alarms off, or (3) bag-valve mask with PEEP valve.
+- At exactly 8 minutes draw an ABG, then subsequent ABGs until pH ≤7.30 **and** PaCO₂ ≥60 (or ≥20 above the patient’s known baseline).
+- **Time of death** = the time the ABG crosses both thresholds.
+- **Abort** if: SBP <100 (or you cannot support it), MAP <75, SpO₂ <85, or arrhythmia with hemodynamic instability.
+
+AAN Statement 24b / 25f: In chronic hypercapnia, the pre-test PaCO₂ must be at the patient’s known chronic baseline (if unknown, use estimated baseline + ancillary testing).
+
+# Ancillary Testing
+
+Not routinely needed. Use only when the clinical exam or apnea test cannot be completed or interpreted (AAN Statement 27). Preferred studies: 4-vessel catheter angiography or radionuclide perfusion scintigraphy. Do not use EEG, CTA, or MRA as ancillary tests for BD/DNC.
+
+::: callout-important
+## Key AAN points from your notes
+- One examination is sufficient; two examinations reduce error.
+- Statement 24b / 25f: chronic hypercapnia baseline must be used for apnea testing.
+- Statement 27: indications for ancillary testing.
+:::
+
+# Resident Checklist (from your notes)
+
+```{ojs}
+//| panel: input
+viewof items = Inputs.checkbox([
+  "Etiology known, catastrophic, and permanent (no chance of recovery)",
+  "Waited ≥24 h after neuroprotective measures (TTM, BP control, toxin/metabolic clearance)",
+  "Physiologic parameters stable (temp ≥36 °C, SBP ≥100–110, MAP ≥75–80)",
+  "Confounders excluded (toxins, drugs, metabolic, paralysis); miotic pupils ruled out as toxin",
+  "No response to supraorbital notch + all 4 extremities (proximal & distal); no facial movement",
+  "Pupils midsize–dilated, no light reflex",
+  "Corneal absent (saline flush ± cotton swab pressure)",
+  "OCR absent (or OVR/cold calorics performed and absent)",
+  "Gag and cough absent",
+  "Apnea test: pH ≤7.30 and PaCO₂ ≥60 (or ≥20 above baseline); no abort criteria",
+  "Spinal reflexes only (if any movements present)"
+], {label: "Resident checklist"})
+```
+
+```{ojs}
+done = items.length === 11
+status = done ? "Criteria consistent with BD/DNC" : "Not yet complete"
+tone = done ? "#15803d" : "#b91c1c"
+```
+
+```{ojs}
+html`<div style="border:1px solid #d7dce3;border-radius:12px;padding:1rem 1.15rem;margin-top:0.5rem;background:#fbfcfd">
+  <div style="font-size:0.75rem;letter-spacing:0.04em;text-transform:uppercase;color:#667">Checklist status</div>
+  <div style="font-size:1.35rem;font-weight:700;color:${tone};margin:0.25rem 0">${status}</div>
+  <div style="font-size:0.85rem;color:#556">${items.length} / 11 items checked</div>
+</div>`
+```
+
+# Dot Phrase
+
+```
+# Brain Death Evaluation
+Presumption: patient is alive until criteria met.
+Etiology (permanent, no recovery): 
+Waited 24 h after neuroprotective measures: Y/N
+Temp ≥36 °C, SBP ≥100–110, MAP ≥75–80: Y/N
+Confounders excluded (toxins/drugs/metabolic/paralysis): Y/N
+
+Exam:
+- No response to supraorbital notch + 4 extremities (prox/distal), no facial movement: 
+- Pupils midsize–dilated, no light reflex (miotic ruled out): 
+- Corneal absent (saline ± cotton swab): 
+- OCR absent (or cold calorics performed, no nystagmus): 
+- Gag and cough absent: 
+- Spinal reflexes only (if present): 
+
+Apnea test:
+Pre-test pH/PaCO₂: 
+Method: 
+Final ABG time / pH / PaCO₂: 
+Criteria met (pH ≤7.30 and PaCO₂ ≥60 or ≥20 above baseline): 
+Time of death: 
+
+Ancillary (only if needed per Statement 27): 
+Determination: meets BD/DNC criteria: Y/N
+```
