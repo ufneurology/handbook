@@ -3,19 +3,41 @@ title: "Subarachnoid hemorrhage"
 category: "Neurocritical Care"
 ---
 
-# Differential diagnosis
+Aneurysmal subarachonid hemorrhage (aSAH) is the most common type of SAH, also representing the third most common acute vascular event behind acute ischemic stroke and intraparenchymal hemorrhage.
 
-| Imaging pattern                | Differential                                                                                                                             |
-|--------------------|----------------------------------------------------|
-| Thunderclap headache           | SAH, pituitary apoplexy, arterial dissection, DVST, hypertensive emergency, RCVS, intracranial hypotension, primary thunderclap headache |
-| Sulcal subarachnoid hemorrhage | RCVS, DVST, vasculitis, mycotic aneurysm, trauma, amyloid angiopathy, meningeal neoplasm, dural AV fistula, meningitis                   |
+# Signs/Symptoms of aSAH
+
+**Thunderclap headache**
+
+*Definition per ICHD-3:* Abrupt onset, reaching maximum intensity in \<1 minute and lasting for ≥5 minutes\
+*Differential diagnosis:* SAH, pituitary apoplexy, arterial dissection, DVST, hypertensive emergency, RCVS, intracranial hypotension, primary thunderclap headache
+
+**Loss of Consciousness**
+
+Can happen in about 50% of aSAH cases, brief or prolonged and is associated with worse clinical grade
+
+**Meningismus**
+
+Neck pain or stiffness, photophobia, and back pain. Neck signs are often absent in the first hours
+
+**Third Nerve palsy with pupillary involvement**
+
+Points to a posterior communicating artery aneurysm
+
+**Other focal deficits**
+
+From intracerebral extension, mass effect, or emboli from the aneurysm
+
+**Seizures**
+
+When occuring **at ictus of headache** can be associated markers of severe early brain injury such as Fisher 3--4, IVH, ICH and hydrocephalus. If **during next 24h** with re-reputure. Incidence of eletrographical seizures **during ICU can reach 30%.**
 
 # Immediate management
 
 ## Confirm the diagnosis
 
--   Non-contrast CT head; Negative Predictive value is 100% in the first 6 hours from headache onset"
--   LP if CT findings are normal and suspicion remains high *Xanthochromia may only be seen 6 hours ago from onset of headache (ictus)*
+-   Non-contrast CT head; Negative Predictive value close to 100% **within the** **first 6 hours from headache ictus**
+-   LP if CT findings are normal and suspicion remains high. **Xanthochromia is usually seen 6 hours after headache ictus**
 
 ## Grade Clinically
 
@@ -77,15 +99,43 @@ Consider adding one grade for severe vasospasm on angiogram or severe systemic d
 ![Grade 4 -- Thick SAH + IVH](/images/neurocritical_care/sah_4.png)
 :::
 
+# Differential for SAH beyond aSAH
+
++-------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Imaging pattern                                       | Differential                                                                                                           |
++=======================================================+========================================================================================================================+
+| [**Sulcal**]{.underline}                              | RCVS, DVST, vasculitis, mycotic aneurysm, trauma, amyloid angiopathy, meningeal neoplasm, dural AV fistula, meningitis |
+|                                                       |                                                                                                                        |
+| ![](/images/neurocritical_care/sulcal.png)            |                                                                                                                        |
++-------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+
+| [**Perimesencephalic**]{.underline}                   | primitive venous drainage variants, aSAH from posterior circulation (basilar tip, SCA, AICA, PICA), dural AV fistula   |
+|                                                       |                                                                                                                        |
+| ![](/images/neurocritical_care/perimesencephalic.png) |                                                                                                                        |
++-------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------+
+
 # Events and complications after aneurysmal SAH
 
-| Early                                                    | Late                                            | Chronic                                                         |
-|------------------------|---------------------|---------------------------|
-| Rebleeding                                               | Cerebral vasospasm                              | Chronic hydrocephalus that may require placement of a shunt     |
-| Acute hydrocephalus                                      | Delayed cerebral ischemia                       | Behavior, personality, memory changes                           |
-| Seizures                                                 | Pituitary dysfunction                           | Need for further retreatment for recurrent or residual aneurysm |
-| Cardiopulmonary issues and stress induced cardiomyopathy | Infection related to surgery or ventriculostomy |                                                                 |
-| Sodium and electrolyte abnormalities                     |                                                 |                                                                 |
++----------------------------------------------------------+-------------------------------------------------+
+| Early                                                    | Late                                            |
++==========================================================+=================================================+
+| Rebleeding                                               | Cerebral vasospasm                              |
++----------------------------------------------------------+-------------------------------------------------+
+| Acute hydrocephalus                                      | Delayed cerebral ischemia                       |
++----------------------------------------------------------+-------------------------------------------------+
+| Seizures                                                 | Pituitary dysfunction                           |
++----------------------------------------------------------+-------------------------------------------------+
+| Cardiopulmonary issues and stress induced cardiomyopathy | Infection related to surgery or ventriculostomy |
++----------------------------------------------------------+-------------------------------------------------+
+| Sodium and electrolyte abnormalities                     |                                                 |
++----------------------------------------------------------+-------------------------------------------------+
+
+# Chronic complications of aSAH
+
+-   Long term VP Shunt
+
+-   Psychiatric (memory deficits, MDD, GAD, personality changes)
+
+-   Retreatment, periodic DSAs for stbaility
 
 # Consult Note - Assessment and Plan
 
@@ -108,6 +158,7 @@ Hunt&Hess:       | Modified Fisher:
 - NC q1h
 - Acetaminophen 1g q6h if no liver disease 
 - Oxycodone 5-10mg q6h hours PRN 
+- Consider pterygopalatine fossa (PPF, suprazygomatic SPG) block
 - Consider Occipital Nerve Block
 - Avoid NSAIDs
 - Avoid Valsalva maneuver: use antiemetics, antitussives and stool softeners

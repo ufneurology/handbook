@@ -2951,7 +2951,7 @@
     "href": "qmd/neurocritical_care/mechanical_ventilation.html#additional-concepts",
     "title": "Mechanical Ventilation",
     "section": "4 Additional Concepts",
-    "text": "4 Additional Concepts\nARDS (Acute Respiratory Distress Syndrome): Low tidal volume ventilation (6 mL/kg IBW), higher PEEP.\nPermissive Hypercapnia: Allow pCO2 to rise (up to 7.25–7.5 pH) if needed to protect lungs.\nSpontaneous Breathing Trial (SBT): Usually on CPAP of 5 or PS 5–8 with low rate.\nWeaning: PS weaning or daily SBTs. Consider trach if prolonged intubation.\nRefractory Hypoxia: Consider prone positioning, ECMO, inhaled nitric oxide, etc.\n\nFile is ready. I organized the dense handwritten content into clean, readable Quarto sections with tables and bullet points matching your handbook style. The original diagrams are summarized descriptively (you can add images later if you have scans).\nNext? Let me know what to work on (e.g., cervical_spine_clearance.qmd, full Neuro Exam consolidation, or teaching visuals for ventilation)."
+    "text": "4 Additional Concepts\nARDS (Acute Respiratory Distress Syndrome): Low tidal volume ventilation (6 mL/kg IBW), higher PEEP.\nPermissive Hypercapnia: Allow pCO2 to rise (up to 7.25–7.5 pH) if needed to protect lungs.\nSpontaneous Breathing Trial (SBT): Usually on CPAP of 5 or PS 5–8 with low rate.\nWeaning: PS weaning or daily SBTs. Consider trach if prolonged intubation.\nRefractory Hypoxia: Consider prone positioning, ECMO, inhaled nitric oxide, etc."
   },
   {
     "objectID": "qmd/neurocritical_care/post_anoxic_status_epilepticus.html",
@@ -3735,14 +3735,14 @@
     "href": "qmd/neurocritical_care/sah_test.html",
     "title": "Subarachnoid hemorrhage",
     "section": "",
-    "text": "Imaging pattern\nDifferential\n\n\n\n\nThunderclap headache\nSAH, pituitary apoplexy, arterial dissection, DVST, hypertensive emergency, RCVS, intracranial hypotension, primary thunderclap headache\n\n\nSulcal subarachnoid hemorrhage\nRCVS, DVST, vasculitis, mycotic aneurysm, trauma, amyloid angiopathy, meningeal neoplasm, dural AV fistula, meningitis"
+    "text": "Aneurysmal subarachonid hemorrhage (aSAH) is the most common type of SAH, also representing the third most common acute vascular event behind acute ischemic stroke and intraparenchymal hemorrhage."
   },
   {
     "objectID": "qmd/neurocritical_care/sah_test.html#confirm-the-diagnosis",
     "href": "qmd/neurocritical_care/sah_test.html#confirm-the-diagnosis",
     "title": "Subarachnoid hemorrhage",
     "section": "2.1 Confirm the diagnosis",
-    "text": "2.1 Confirm the diagnosis\n\nNon-contrast CT head; Negative Predictive value is 100% in the first 6 hours from headache onset”\nLP if CT findings are normal and suspicion remains high Xanthochromia may only be seen 6 hours ago from onset of headache (ictus)"
+    "text": "2.1 Confirm the diagnosis\n\nNon-contrast CT head; Negative Predictive value close to 100% within the first 6 hours from headache ictus\nLP if CT findings are normal and suspicion remains high. Xanthochromia is usually seen 6 hours after headache ictus"
   },
   {
     "objectID": "qmd/neurocritical_care/sah_test.html#grade-clinically",
@@ -3869,5 +3869,47 @@
     "title": "ICP and Herniation Management",
     "section": "3.1 If any concern for herniation, sustained elevation of ICP:",
     "text": "3.1 If any concern for herniation, sustained elevation of ICP:\n\nCall to Neurocritical care fellow\nEnsure appropriate vascular access, consider need for additional PIV and/or stat central line\nConsider neuroprotective intubation\nOrder CBC, CMP, Ammonia, Serum Osmoles\nSTAT CT Head without contrast"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/sah_test.html#thunderclap-headache",
+    "href": "qmd/neurocritical_care/sah_test.html#thunderclap-headache",
+    "title": "Subarachnoid hemorrhage",
+    "section": "1.1 Thunderclap headache",
+    "text": "1.1 Thunderclap headache\nDefinition per ICHD-3: Abrupt onset, reaching maximum intensity in &lt;1 minute and lasting for ≥5 minutes\nDifferential diagnosis: SAH, pituitary apoplexy, arterial dissection, DVST, hypertensive emergency, RCVS, intracranial hypotension, primary thunderclap headache"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/sah_test.html#loss-of-consciousness",
+    "href": "qmd/neurocritical_care/sah_test.html#loss-of-consciousness",
+    "title": "Subarachnoid hemorrhage",
+    "section": "1.2 Loss of Consciousness",
+    "text": "1.2 Loss of Consciousness\nCan happen in about 50% of aSAH cases, brief or prolonged and is associated with worse clinical grade"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/sah_test.html#meningismus",
+    "href": "qmd/neurocritical_care/sah_test.html#meningismus",
+    "title": "Subarachnoid hemorrhage",
+    "section": "1.3 Meningismus",
+    "text": "1.3 Meningismus\nNeck pain or stiffness, photophobia, and back pain. Neck signs are often absent in the first hours"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/sah_test.html#third-nerve-palsy-with-pupillary-involvement",
+    "href": "qmd/neurocritical_care/sah_test.html#third-nerve-palsy-with-pupillary-involvement",
+    "title": "Subarachnoid hemorrhage",
+    "section": "1.4 Third Nerve palsy with pupillary involvement",
+    "text": "1.4 Third Nerve palsy with pupillary involvement\nPoints to a posterior communicating artery aneurysm"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/sah_test.html#other-focal-deficits",
+    "href": "qmd/neurocritical_care/sah_test.html#other-focal-deficits",
+    "title": "Subarachnoid hemorrhage",
+    "section": "1.5 Other focal deficits",
+    "text": "1.5 Other focal deficits\nFrom intracerebral extension, mass effect, or emboli from the aneurysm"
+  },
+  {
+    "objectID": "qmd/neurocritical_care/sah_test.html#seizures",
+    "href": "qmd/neurocritical_care/sah_test.html#seizures",
+    "title": "Subarachnoid hemorrhage",
+    "section": "1.6 Seizures",
+    "text": "1.6 Seizures\nWhen occuring at ictus of headache can be associated markers of severe early brain injury such as Fisher 3–4, IVH, ICH and hydrocephalus. If during next 24h with re-reputure. Incidence of eletrographical seizures during ICU can reach 30%."
   }
 ]

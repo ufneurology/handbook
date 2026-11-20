@@ -175,13 +175,14 @@ Clinical exam can be non-specific, you have to be aware of patients **at risk** 
 
 -   ↑ Sedation
 -   ↑ Analgesia
+-   Consider EEG to guide depth of sedation
 -   PaCO₂ 35--38 mmHg / ETCO₂ 32--35 mmHg
 -   EEG monitoring
 -   Hypertonic bolus:
     -   **Mannitol** 0.25--1 g/kg IV
     -   **23.4% NaCl** 30 mL IV push over 2--5 min (central line only)
     -   **3% NaCl** 250 mL over 30 min
--   Consider EVD
+-   Consult NSGY for invasive ICP monitoring, EVD and possible craniectomy if focal insult
 
 ## Tier 2
 
@@ -193,7 +194,6 @@ Clinical exam can be non-specific, you have to be aware of patients **at risk** 
 
 ## Tier 3
 
--   Pentobarbital coma
 -   Therapeutic hypothermia **35--36 °C**
 :::
 
